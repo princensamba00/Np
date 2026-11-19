@@ -1,0 +1,556 @@
+INVENTAIRE EXHAUSTIF ET CHECKLIST DE CONTRÔLE — DOCUMENT 1
+=========================================================
+Portée confirmée par l’utilisateur : les 25 pages disponibles ; les pages suivantes seront fournies ultérieurement.
+Le contrôle d’intégralité porte donc sur 100 % du contenu effectivement présent dans le PDF source.
+
+Pages source                         : 25
+Caractères de texte extraits         : 84287
+Images de couverture                 : 3
+Entrées de table des matières        : 54
+Entrées liste des figures            : 21
+Entrées liste des tableaux           : 37
+Entrées tableaux d’annexes           : 64
+Blocs sémantiques du corps           : 137
+Types de blocs                       : {'h1': 3, 'h2': 22, 'body': 75, 'h3': 14, 'bullet': 11, 'caption': 6, 'table': 6}
+
+--- Par page source ---
+  [ ] p.01 | blocs PDF :  4 | Couverture : titre en 5 lignes, date, logos USAID / EpiC / ICHESS.
+  [ ] p.02 | blocs PDF : 12 | Préface : 7 paragraphes + signature en 2 lignes.
+  [ ] p.03 | blocs PDF : 12 | Remerciements : 6 paragraphes + signature en 2 lignes.
+  [ ] p.04 | blocs PDF :  6 | Table des matières, première page : 43 entrées.
+  [ ] p.05 | blocs PDF :  4 | Table des matières, deuxième page : 11 entrées d’annexes.
+  [ ] p.06 | blocs PDF :  6 | Liste des figures (21) et début liste des tableaux (1–20).
+  [ ] p.07 | blocs PDF :  5 | Liste des tableaux (21–37) ; « Erreur ! Signet non défini. » ; tableaux A1–A26 ; numéros accolés.
+  [ ] p.08 | blocs PDF :  4 | Tableaux d’annexes A27–A64 ; numéros accolés et retours à la ligne.
+  [ ] p.09 | blocs PDF :  7 | Abréviations et acronymes, 42 lignes (Sigle / Signification).
+  [ ] p.10 | blocs PDF :  4 | Abréviations et acronymes, 30 lignes, en-tête répété.
+  [ ] p.11 | blocs PDF : 10 | Résumé exécutif, 1 titre + 4 sous-titres + 6 paragraphes.
+  [ ] p.12 | blocs PDF : 12 | Résumé exécutif, 4 sous-titres + 5 paragraphes.
+  [ ] p.13 | blocs PDF :  6 | Recommandations stratégiques, 1 sous-titre + paragraphes.
+  [ ] p.14 | blocs PDF :  6 | I. Introduction + 1.1. Contexte et justification.
+  [ ] p.15 | blocs PDF : 26 | 1.2. Objectifs ; 1.2.1 ; 1.2.2 (5 puces) ; 1.2.3 ; Tableau 1.
+  [ ] p.16 | blocs PDF : 10 | 1.2.4 (6 puces) ; 1.3 ; 1.3.1 ; 1.3.2.
+  [ ] p.17 | blocs PDF : 20 | II. Approche ; 2.1 ; 2.2 ; 2.2.1 ; Tableau 2 ; 2.2.2.
+  [ ] p.18 | blocs PDF : 14 | 2.3 ; 2.3.1 ; 2.3.2 ; 2.4 ; 2.4.1.
+  [ ] p.19 | blocs PDF : 11 | 2.4.2 ; 2.5 ; 2.6 ; 2.6.1.
+  [ ] p.20 | blocs PDF : 37 | Tableau 3 (29 × 5) ; « Définitions et conventions de lecture ».
+  [ ] p.21 | blocs PDF :  6 | Définitions ; 2.6.2. Algorithme de classification.
+  [ ] p.22 | blocs PDF : 18 | Tableau 4 (9 × 3) ; suite de 2.6.2.
+  [ ] p.23 | blocs PDF : 20 | Tableau 5 (13 × 5) ; suite.
+  [ ] p.24 | blocs PDF : 18 | Tableau 6 (7 × 2) ; 2.7 ; 2.8.
+  [ ] p.25 | blocs PDF :  7 | 2.9. Considérations éthiques ; 2.10. Limites méthodologiques.
+
+--- Couverture et pages liminaires : tous les éléments ---
+  [ ] Titre couverture : Rapport du diagnostic opérationnel / rapide de la préparation des / établissements de santé pour les / services de santé maternelle, néonatale / et infantile, paludisme et nutrition
+  [ ] Date couverture : Kinshasa, Octobre 2026
+  [ ] Logos couverture : USAID, EpiC, ICHESS (3 images)
+  [ ] Préface : 7 paragraphes
+        01. La République Démocratique du Congo (RDC) évolue dans un contexte sanitaire marqué par des besoins importants, des vulnérabilités structurelles persistantes et la survenue récurrente d’épidémies et d’autres urgences de santé publique. Dans ce contexte, la capacité des établissements de soins de santé à assurer de manière continue, sûre et efficace les services essentiels constitue un déterminant majeur de la performance et de la résilience du système de santé.
+        02. C’est dans cette perspective qu’a été réalisé le présent Diagnostic opérationnel rapide des établissements de soins de santé, avec un accent particulier sur les services de santé maternelle, néonatale et infantile, de lutte contre le paludisme et de nutrition. L’exercice a permis d’apprécier leur niveau réel de préparation opérationnelle, au-delà de la seule disponibilité des infrastructures et des équipements.
+        03. Le diagnostic a notamment examiné la capacité des établissements à réunir les conditions essentielles à la prestation effective des soins : ressources humaines compétentes, médicaments et intrants essentiels, équipements fonctionnels, eau, hygiène et assainissement, systèmes d’information, organisation des services et mécanismes de référence et contre-référence. Il a ainsi permis d’identifier ce qui fonctionnait, les principaux goulots d’étranglement et leurs causes, ainsi que les actions prioritaires nécessaires pour les lever.
+        04. Les résultats présentés dans ce rapport constituent une contribution importante à la compréhension des contraintes opérationnelles affectant la prestation des services et fournissent des éléments utiles pour orienter la planification et la priorisation des interventions. Ils devraient contribuer à renforcer durablement la capacité des établissements de soins de santé à offrir des services essentiels de manière sûre, fiable et continue, et à mieux faire face aux urgences sanitaires.
+        05. Je tiens à exprimer ma profonde gratitude aux autorités sanitaires, aux responsables des établissements de soins de santé, aux professionnels de santé, aux équipes techniques ainsi qu’à l’ensemble des partenaires qui ont contribué à la réalisation de ce diagnostic.
+        06. J’adresse une reconnaissance particulière au Dr Ngashi Ngongo, au Dr Gullit Lufiauluisu et à l’ensemble de l’équipe d’ICHESS pour avoir conduit ce travail avec rigueur, professionnalisme et engagement. Ce diagnostic réalisé par le cabinet ICHESS présente une analyse structurée des principaux constats et formule des recommandations visant à orienter les actions d’amélioration et de renforcement des systèmes et des services de santé.
+        07. J’encourage toutes les parties prenantes à s’approprier les résultats et recommandations de ce rapport et à les traduire en actions concrètes, priorisées et mesurables, afin d’améliorer durablement la disponibilité, la qualité et la continuité des services de santé maternelle, néonatale et infantile, de lutte contre le paludisme et de nutrition au bénéfice des populations.
+        Signature : Narcisse Naia Embeke, MD, MPH
+        Signature : Directeur Technique, Projet EpiC RDC
+  [ ] Remerciements : 6 paragraphes
+        01. La réalisation de cette évaluation a reposé sur la mobilisation de nombreuses institutions, équipes et personnes ayant contribué à sa conception, sa mise en œuvre, à l’analyse des données et à la production du présent rapport. ICHESS leur exprime sa profonde gratitude pour leur confiance, leur disponibilité et leur engagement.
+        02. Nos premiers remerciements s’adressent à FHI 360, pour la confiance accordée à ICHESS et son accompagnement technique et institutionnel. Une reconnaissance particulière est adressée à Joyce Kakesa, Narcisse Embeke, Teddy Matadi, Elie Alimasi, Peter Diakumpuna et Milan Milambu pour leurs orientations et contributions aux différentes étapes de l’évaluation.
+        03. Nous remercions les Divisions Provinciales de la Santé (DPS) et les Équipes Cadres des Zones de Santé (ECZ) pour leur collaboration et la facilitation des activités de terrain. Notre gratitude va également aux responsables et personnels des établissements de soins de santé (ESS) ainsi qu’aux enquêteurs et enquêtrices, dont la disponibilité et la rigueur ont contribué à la qualité des données recueillies.
+        04. Une reconnaissance particulière est adressée aux superviseurs provinciaux : Gullit Lufiauluisu (Lualaba), Prince Lumbu (Haut-Katanga), Cédric Kabala (Haut-Lomami), Lucien Banze (Tanganyika), Mireille Meta (Kasaï-Oriental), Toto Ezombe (Lomami), Olivier Kingulu (Kasaï-Central) et Clovis Ludiala (Sankuru), pour la coordination des équipes et l’assurance qualité des opérations.
+        05. ICHESS remercie particulièrement Ngashi Ngongo, Investigateur Principal, pour la direction scientifique et méthodologique de l’étude, et Gullit Lufiauluisu, Co-investigateur et Coordonnateur terrain, pour la coordination opérationnelle. Nos remerciements vont également à Glody Kanga, Statisticien, pour le traitement et l’analyse des données, et à Prince Nsamba, Informaticien, pour la gestion des outils numériques et des données.
+        06. Enfin, nous remercions Jean Lubuanga et Emmanuel Nsamba, ainsi que l’équipe administrative et financière d’ICHESS, pour leur appui logistique et administratif. La complémentarité de toutes ces expertises a permis de produire des analyses robustes et utiles à la décision pour améliorer la préparation opérationnelle des ESS.
+        Signature : Ngashi Ngongo, PhD, MD, MPH
+        Signature : Directeur Exécutif, ICHESS
+
+--- Table des matières source : 54 entrées, numéros conservés ---
+  [ ] TOC 01 | Préface | p. 2
+  [ ] TOC 02 | Remerciements | p. 3
+  [ ] TOC 03 | Liste des figures et tableaux | p. 6
+  [ ] TOC 04 | Résumé exécutif | p. 11
+  [ ] TOC 05 | I. Introduction | p. 14
+  [ ] TOC 06 | 1.1. Contexte et justification | p. 14
+  [ ] TOC 07 | 1.2. Objectifs et résultats attendus | p. 15
+  [ ] TOC 08 | 1.3. Bénéficiaires et utilisations des résultats | p. 16
+  [ ] TOC 09 | II. Approche méthodologique | p. 17
+  [ ] TOC 10 | 2.1. Conception générale de l'étude | p. 17
+  [ ] TOC 11 | 2.2. Population, échantillonnage et unités d'analyse | p. 17
+  [ ] TOC 12 | 2.3. Instruments de collecte | p. 18
+  [ ] TOC 13 | 2.4. Organisation de la collecte | p. 18
+  [ ] TOC 14 | 2.5. Assurance qualité des données | p. 19
+  [ ] TOC 15 | 2.6. Cadre analytique : fonctions traceuses et classification tricolore | p. 19
+  [ ] TOC 16 | 2.7. Analyse qualitative | p. 24
+  [ ] TOC 17 | 2.8. Chaîne de traitement des données et reproductibilité | p. 24
+  [ ] TOC 18 | 2.9. Considérations éthiques | p. 25
+  [ ] TOC 19 | 2.10. Limites méthodologiques | p. 25
+  [ ] TOC 20 | III. Résultats | p. 26
+  [ ] TOC 21 | 3.1. Description de l’échantillon et couverture | p. 26
+  [ ] TOC 22 | 3.2. Niveau de préparation fonctionnelle des établissements | p. 27
+  [ ] TOC 23 | 3.3. Préparation aux urgences | p. 37
+  [ ] TOC 24 | 3.4. Intégration opérationnelle des services | p. 42
+  [ ] TOC 25 | 3.5. Utilisation des données de routine et de surveillance | p. 49
+  [ ] TOC 26 | 3.6. Facteurs associés aux contraintes observées | p. 50
+  [ ] TOC 27 | 3.7. Priorités d'investissement | p. 74
+  [ ] TOC 28 | IV. Discussion | p. 83
+  [ ] TOC 29 | 4.1. Ce que mesure le diagnostic et comment interpréter les résultats | p. 83
+  [ ] TOC 30 | 4.2. Des vulnérabilités déjà documentées et confirmées | p. 83
+  [ ] TOC 31 | 4.3. Les goulots dominants à la lumière de la littérature | p. 85
+  [ ] TOC 32 | 4.4. Le paradoxe du rétablissement matériel isolé | p. 86
+  [ ] TOC 33 | 4.5. De l’offre déclarée à la capacité réelle : les limites du suivi de routine | p. 86
+  [ ] TOC 34 | 4.6. Un gradient de capacité insuffisant : l’HGR ne garantit pas toujours la prise en charge des cas référés | p. 87
+  [ ] TOC 35 | 4.7. Vulnérabilités provinciales et contraction des appuis extérieurs | p. 87
+  [ ] TOC 36 | 4.8. Cohérence avec les orientations nationales vers la CSU | p. 88
+  [ ] TOC 37 | 4.9. Forces et limites de l'analyse | p. 88
+  [ ] TOC 38 | 4.10. Implications pour l'action et pour la recherche | p. 88
+  [ ] TOC 39 | V. Conclusion et recommandations | p. 89
+  [ ] TOC 40 | 5.1. Conclusion | p. 89
+  [ ] TOC 41 | 5.2. Recommandations | p. 89
+  [ ] TOC 42 | Bibliographie | p. 96
+  [ ] TOC 43 | Annexes | p. 100
+  [ ] TOC 44 | Annexe 1 : Haut-Katanga | p. 100
+  [ ] TOC 45 | Annexe 2 : Haut-Lomami | p. 105
+  [ ] TOC 46 | Annexe 3 : Kasaï-Central | p. 109
+  [ ] TOC 47 | Annexe 4 : Kasaï-Oriental | p. 114
+  [ ] TOC 48 | Annexe 5 : Lomami | p. 119
+  [ ] TOC 49 | Annexe 6 : Lualaba | p. 124
+  [ ] TOC 50 | Annexe 7 : Sankuru | p. 129
+  [ ] TOC 51 | Annexe 8 : Tanganyika | p. 133
+  [ ] TOC 52 | Annexe 9 : Éléments en cause dans les fonctions d’urgence rouges, par niveau | p. 138
+  [ ] TOC 53 | Annexe 10 : Compléments sur le cumul des blocages, les fragilités et les simulations | p. 146
+  [ ] TOC 54 | Annexe 11 : Analyse de sensibilité : observations rattachées à plusieurs dimensions | p. 150
+
+--- Liste des figures : 21 entrées ---
+  [ ] FIG 01 | Figure 1: Établissements évalués par province et par niveau de soins | p. 27
+  [ ] FIG 02 | Figure 2: Classification des 28 fonctions traceuses, ensemble des établissements | p. 29
+  [ ] FIG 03 | Figure 3: Préparation opérationnelle des 17 fonctions communes aux trois niveaux de soins | p. 34
+  [ ] FIG 04 | Figure 4: Part de fonctions rouges par fonction et par province | p. 35
+  [ ] FIG 05 | Figure 5: Préparation opérationnelle par domaine technique et par niveau de soins | p. 36
+  [ ] FIG 06 | Figure 6: État opérationnel des fonctions vitales dont le service est déclaré offert, par niveau de soins | p. 37
+  [ ] FIG 07 | Figure 7: Préparation aux urgences : ensemble, par niveau de soins et par province | p. 38
+  [ ] FIG 08 | Figure 8: Couples de prestations documentés, par niveau de soins | p. 43
+  [ ] FIG 09 | Figure 9: Jours de présence des prestataires déclarés sur trois mois, par service et par niveau | p. 44
+  [ ] FIG 10 | Figure 10: État de la fonction d’aval lorsque la fonction d’amont est classée verte ou jaune | p. 48
+  [ ] FIG 11 | Figure 11: Chaîne surveillance-réponse et chaîne des données : composantes et points de rupture | p. 49
+  [ ] FIG 12 | Figure 12: Dimensions bloquantes des fonctions rouges et fragilités des fonctions jaunes | p. 51
+  [ ] FIG 13 | Figure 13: Nombre de dimensions bloquantes par fonction rouge, selon le niveau de soins | p. 52
+  [ ] FIG 14 | Figure 14: Les douze configurations de blocage les plus fréquentes parmi les fonctions rouges | p. 53
+  [ ] FIG 15 | Figure 15: Fonctions jaunes à une seule fragilité du vert | p. 54
+  [ ] FIG 16 | Figure 16: Fonctions rouges libérées par le rétablissement d’un seul élément critique | p. 58
+  [ ] FIG 17 | Figure 17: Part de fonctions vitales rouges dans les CS selon la présence déclarée d’une catégorie de personnel | p. 61
+  [ ] FIG 18 | Figure 18: Composantes de la référence, de l’eau et de l’hygiène, de l’électricité et de la communication | p. 63
+  [ ] FIG 19 | Figure 19: Profil des dimensions bloquantes par province | p. 68
+  [ ] FIG 20 | Figure 20: Paquets cumulatifs de leviers : fonctions rouges libérées à mesure que les dimensions sont résolues | p. 77
+  [ ] FIG 21 | Figure 21: Gain simulé de chaque levier, par province (part des fonctions rouges libérées) | p. 81
+
+--- Liste des tableaux : 37 entrées, artefact conservé ---
+  [ ] TAB 01 | Tableau 1: Périmètre du diagnostic | 15
+  [ ] TAB 02 | Tableau 2: Base de sondage et échantillon réalisé, par niveau géographique | 17
+  [ ] TAB 03 | Tableau 3: Les 28 fonctions traceuses (71 spécifications selon le niveau) | 20
+  [ ] TAB 04 | Tableau 4: Les huit règles de décision de l'algorithme de classification Vert / Jaune / Rouge | 22
+  [ ] TAB 05 | Tableau 5: Rôle des douze dimensions dans les 71 spécifications | 23
+  [ ] TAB 06 | Tableau 6: Modalités d’application des règles de classification | 24
+  [ ] TAB 07 | Tableau 7: Classification des 28 fonctions traceuses, par ordre de criticité | 29
+  [ ] TAB 08 | Tableau 8: Élément critique le plus souvent en déficit, par fonction | 31
+  [ ] TAB 09 | Tableau 9: Blocages dominants des fonctions d’urgence, par niveau de soins | 39
+  [ ] TAB 10 | Tableau 10: Principaux éléments critiques d’urgence manquants ou en rupture | 40
+  [ ] TAB 11 | Tableau 11: Menaces immédiates et contraintes déclarées d'accès à la référence | 41
+  [ ] TAB 12 | Tableau 12: Correspondance documentaire avec les fonctions signal SONU (référentiel classique) | 42
+  [ ] TAB 13 | Tableau 13: Références au cours des trois derniers mois, par motif | 45
+  [ ] TAB 14 | Tableau 14: Contraintes déclarées au départ lorsque la référence est décidée (centres de santé) | 46
+  [ ] TAB 15 | Tableau 15: Difficultés déclarées à la réception des patients référés (CSR et HGR) | 47
+  [ ] TAB 16 | Tableau 16: État des fonctions vitales d'aval à la destination de référence enquêtée | 47
+  [ ] TAB 17 | Tableau 17: Points de rupture du circuit de surveillance, par niveau et par province | 50
+  [ ] TAB 18 | Tableau 18: Les dimensions de blocage : ce qu'elles bloquent, ce qu'elles fragilisent et ce que leur résolution libère | 52
+  [ ] TAB 19 | Tableau 19: Disponibilité des intrants critiques, tous niveaux | 56
+  [ ] TAB 20 | Tableau 20: Disponibilité des équipements critiques, tous niveaux | 57
+  [ ] TAB 21 | Tableau 21: Effectifs déclarés par catégorie et par niveau (roster du personnel) | 59
+  [ ] TAB 22 | Tableau 22: Formations déclarées au cours des deux dernières années, par thème et par niveau | 60
+  [ ] TAB 23 | Tableau 23: Conditions transversales au niveau des établissements | 62
+  [ ] TAB 24 | Tableau 24: Composantes du mécanisme de référence en cause dans les fonctions rouges de la référence urgente, par niveau | 64
+  [ ] TAB 25 | Tableau 25: Perturbations déclarées au cours des trois derniers mois, par province (% d’établissements) | 65
+  [ ] TAB 26 | Tableau 26: Conjoncturel ou structurel : perturbation déclarée et blocage observé | 66
+  [ ] TAB 27 | Tableau 27: Causes déclarées des interruptions et blocages observés de la fonction correspondante | 67
+  [ ] TAB 28 | Tableau 28: Constance intra-zone de la dimension bloquante dominante | 69
+  [ ] TAB 29 | Tableau 29: Synthèse des goulots opérationnels, de leurs conséquences et des risques sanitaires associés | Erreur ! Signet non défini.
+  [ ] TAB 30 | Tableau 30: Matrice consolidée d'analyse et de correction des goulots d'étranglement, par contrainte transversale | 71
+  [ ] TAB 31 | Tableau 31: Intrants et équipements prioritaires les plus souvent manquants pour les fonctions vitales (tous niveaux) | 75
+  [ ] TAB 32 | Tableau 32: Gains simulés des paires de leviers et complémentarité | 78
+  [ ] TAB 33 | Tableau 33: Lecture programmatique des priorités d’investissement | 79
+  [ ] TAB 34 | Tableau 34: Profil provincial des blocages et des leviers (ordre alphabétique) | 80
+  [ ] TAB 35 | Tableau 35: Les quinze zones de santé où un seul levier débloque le plus de fonctions rouges, et la meilleure combinaison de deux leviers | 82
+  [ ] TAB 36 | Tableau 36: Rapprochement de quelques indicateurs avec les enquêtes antérieures | 84
+  [ ] TAB 37 | Tableau 37: Plan d'action priorisé : responsables, indicateurs, valeurs de départ et cibles indicatives | 94
+
+--- Tableaux d’annexes : 64 entrées ---
+  [ ] ANX 01 | Tableau A1: Classification des 28 fonctions traceuses, Haut-Katanga | p. 101
+  [ ] ANX 02 | Tableau A2: Dimensions bloquantes des fonctions rouges, par fonction (n), Haut-Katanga | p. 102
+  [ ] ANX 03 | Tableau A3: Dimensions bloquantes et fragilités, Haut-Katanga | p. 103
+  [ ] ANX 04 | Tableau A4: Conditions transversales et profil d'urgence, Haut-Katanga | p. 103
+  [ ] ANX 05 | Tableau A5: Leviers simples et paire optimale, Haut-Katanga | p. 103
+  [ ] ANX 06 | Tableau A6: Lecture par zone de santé, Haut-Katanga | p. 104
+  [ ] ANX 07 | Tableau A7: Établissements où un seul levier libère le plus de fonctions rouges, Haut-Katanga | p. 105
+  [ ] ANX 08 | Tableau A8: Classification des 28 fonctions traceuses, Haut-Lomami | p. 106
+  [ ] ANX 09 | Tableau A9: Dimensions bloquantes des fonctions rouges, par fonction (n), Haut-Lomami | p. 107
+  [ ] ANX 10 | Tableau A10: Dimensions bloquantes et fragilités, Haut-Lomami | p. 108
+  [ ] ANX 11 | Tableau A11: Conditions transversales et profil d'urgence, Haut-Lomami | p. 108
+  [ ] ANX 12 | Tableau A12: Leviers simples et paire optimale, Haut-Lomami | p. 108
+  [ ] ANX 13 | Tableau A13: Lecture par zone de santé, Haut-Lomami | p. 109
+  [ ] ANX 14 | Tableau A14: Établissements où un seul levier libère le plus de fonctions rouges, Haut-Lomami | p. 109
+  [ ] ANX 15 | Tableau A15: Classification des 28 fonctions traceuses, Kasaï-Central | p. 111
+  [ ] ANX 16 | Tableau A16: Dimensions bloquantes des fonctions rouges, par fonction (n), Kasaï-Central | p. 112
+  [ ] ANX 17 | Tableau A17: Dimensions bloquantes et fragilités, Kasaï-Central | p. 113
+  [ ] ANX 18 | Tableau A18: Conditions transversales et profil d'urgence, Kasaï-Central | p. 113
+  [ ] ANX 19 | Tableau A19: Leviers simples et paire optimale, Kasaï-Central | p. 113
+  [ ] ANX 20 | Tableau A20: Lecture par zone de santé, Kasaï-Central | p. 114
+  [ ] ANX 21 | Tableau A21: Établissements où un seul levier libère le plus de fonctions rouges, Kasaï-Central | p. 114
+  [ ] ANX 22 | Tableau A22: Classification des 28 fonctions traceuses, Kasaï-Oriental | p. 116
+  [ ] ANX 23 | Tableau A23: Dimensions bloquantes des fonctions rouges, par fonction (n), Kasaï-Oriental | p. 117
+  [ ] ANX 24 | Tableau A24: Dimensions bloquantes et fragilités, Kasaï-Oriental | p. 118
+  [ ] ANX 25 | Tableau A25: Conditions transversales et profil d'urgence, Kasaï-Oriental | p. 118
+  [ ] ANX 26 | Tableau A26: Leviers simples et paire optimale, Kasaï-Oriental | p. 118
+  [ ] ANX 27 | Tableau A27: Lecture par zone de santé, Kasaï-Oriental | p. 119
+  [ ] ANX 28 | Tableau A28: Établissements où un seul levier libère le plus de fonctions rouges, Kasaï-Oriental | p. 119
+  [ ] ANX 29 | Tableau A29: Classification des 28 fonctions traceuses, Lomami | p. 120
+  [ ] ANX 30 | Tableau A30: Dimensions bloquantes des fonctions rouges, par fonction (n), Lomami | p. 121
+  [ ] ANX 31 | Tableau A31: Dimensions bloquantes et fragilités, Lomami | p. 122
+  [ ] ANX 32 | Tableau A32: Conditions transversales et profil d'urgence, Lomami | p. 122
+  [ ] ANX 33 | Tableau A33: Leviers simples et paire optimale, Lomami | p. 123
+  [ ] ANX 34 | Tableau A34: Lecture par zone de santé, Lomami | p. 123
+  [ ] ANX 35 | Tableau A35: Établissements où un seul levier libère le plus de fonctions rouges, Lomami | p. 123
+  [ ] ANX 36 | Tableau A36: Classification des 28 fonctions traceuses, Lualaba | p. 125
+  [ ] ANX 37 | Tableau A37: Dimensions bloquantes des fonctions rouges, par fonction (n), Lualaba | p. 126
+  [ ] ANX 38 | Tableau A38: Dimensions bloquantes et fragilités, Lualaba | p. 127
+  [ ] ANX 39 | Tableau A39: Conditions transversales et profil d'urgence, Lualaba | p. 127
+  [ ] ANX 40 | Tableau A40: Leviers simples et paire optimale, Lualaba | p. 128
+  [ ] ANX 41 | Tableau A41: Lecture par zone de santé, Lualaba | p. 128
+  [ ] ANX 42 | Tableau A42: Établissements où un seul levier libère le plus de fonctions rouges, Lualaba | p. 128
+  [ ] ANX 43 | Tableau A43: Classification des 28 fonctions traceuses, Sankuru | p. 130
+  [ ] ANX 44 | Tableau A44: Dimensions bloquantes des fonctions rouges, par fonction (n), Sankuru | p. 131
+  [ ] ANX 45 | Tableau A45: Dimensions bloquantes et fragilités, Sankuru | p. 132
+  [ ] ANX 46 | Tableau A46: Conditions transversales et profil d'urgence, Sankuru | p. 132
+  [ ] ANX 47 | Tableau A47: Leviers simples et paire optimale, Sankuru | p. 132
+  [ ] ANX 48 | Tableau A48: Lecture par zone de santé, Sankuru | p. 133
+  [ ] ANX 49 | Tableau A49: Établissements où un seul levier libère le plus de fonctions rouges, Sankuru | p. 133
+  [ ] ANX 50 | Tableau A50: Classification des 28 fonctions traceuses, Tanganyika | p. 135
+  [ ] ANX 51 | Tableau A51: Dimensions bloquantes des fonctions rouges, par fonction (n), Tanganyika | p. 136
+  [ ] ANX 52 | Tableau A52: Dimensions bloquantes et fragilités, Tanganyika | p. 137
+  [ ] ANX 53 | Tableau A53: Conditions transversales et profil d'urgence, Tanganyika | p. 137
+  [ ] ANX 54 | Tableau A54: Leviers simples et paire optimale, Tanganyika | p. 137
+  [ ] ANX 55 | Tableau A55: Lecture par zone de santé, Tanganyika | p. 138
+  [ ] ANX 56 | Tableau A56: Établissements où un seul levier libère le plus de fonctions rouges, Tanganyika | p. 138
+  [ ] ANX 57 | Tableau A57: Éléments et composantes en cause dans les fonctions d’urgence rouges, par fonction et par niveau | p. 138
+  [ ] ANX 58 | Tableau A58: Nombre de dimensions bloquantes par fonction rouge, par niveau | p. 146
+  [ ] ANX 59 | Tableau A59: Fonctions jaunes à fragilité unique, par fonction | p. 147
+  [ ] ANX 60 | Tableau A60: Rétablissement conjoint de tous les éléments critiques en déficit, par niveau | p. 148
+  [ ] ANX 61 | Tableau A61: Fonctions rouges libérées par le rétablissement d’un seul élément critique, par niveau | p. 148
+  [ ] ANX 62 | Tableau A62: Fonctions rouges libérées à chaque étape du paquet cumulatif | p. 149
+  [ ] ANX 63 | Tableau A63: Observations lues dans plusieurs dimensions de la grille | p. 150
+  [ ] ANX 64 | Tableau A64: Effet du rattachement unique sur les principaux indicateurs | p. 151
+
+--- Tableaux complets : toutes les cellules ---
+  [ ] abbrev_1 : 42 lignes × 2 colonnes
+        L00 | Sigle | Signification
+        L01 | AL | Artéméther-Luméfantrine
+        L02 | AMIU | Aspiration Manuelle Intra-Utérine
+        L03 | ARV | Antirétroviraux
+        L04 | AS-AQ | Artésunate-Amodiaquine
+        L05 | ASC | Agent de Santé Communautaire
+        L06 | ATPE | Aliment Thérapeutique Prêt à l'Emploi
+        L07 | CAC | Cellule d'Animation communautaire
+        L08 | CAPI | Computer-Assisted Personal Interviewing (entretien assisté par tablette)
+        L09 | CARAMAL | Community Access to Rectal Artesunate for Malaria
+        L10 | CHISU | Country Health Information Systems and Data Use
+        L11 | CODESA | Comité de développement de l'aire de santé
+        L12 | CPN | Consultation prénatale
+        L13 | CPNr | Consultation prénatale recentrée / de routine
+        L14 | CPoN | Consultation postnatale
+        L15 | CS | Centre de santé
+        L16 | CSR | Centre de santé de référence
+        L17 | CSU | Couverture sanitaire universelle
+        L18 | DHIS2 | District Health Information Software, version 2
+        L19 | DOS | Department of State (Département d’État des États-Unis)
+        L20 | DPS | Division provinciale de la santé
+        L21 | DQR/DQE | Data Quality Review / Data Quality Evaluation (Revue / Évaluation de la qualité des données).
+        L22 | ECZ | Équipe cadre de la zone de santé
+        L23 | EDS | Enquête démographique et de santé
+        L24 | EpiC | Meeting Targets and Maintaining Epidemic Control (projet EpiC)
+        L25 | EPSS | Évaluation des prestations des services de soins de santé
+        L26 | ESP / ESPK | École de santé publique de Kinshasa
+        L27 | ESS | Établissement de soins de santé
+        L28 | F75 / F100 | Laits thérapeutiques de la prise en charge de la malnutrition aiguë sévère
+        L29 | FHI 360 | Family Health International 360
+        L30 | FSS | Fonds de solidarité de santé
+        L31 | HGR | Hôpital général de référence
+        L32 | HHFA | Harmonized Health Facility Assessment (évaluation harmonisée des établissements de soins de santé)
+        L33 | HPP | Hémorragie du post-partum
+        L34 | ICHESS | International Center for Health Systems Strengthening
+        L35 | IHP | Integrated Health Program (programme de santé intégré de l'USAID)
+        L36 | INS | Institut national de la statistique
+        L37 | IT / ITA | Infirmier titulaire / infirmier titulaire adjoint
+        L38 | MA | Malnutrition aiguë
+        L39 | MAPI | Manifestations adverses post-immunisation
+        L40 | MSPHPS | Ministère de la Santé publique, Hygiène et Prévoyance sociale
+        L41 | MUAC | Mid-Upper Arm Circumference (périmètre brachial)
+  [ ] abbrev_2 : 30 lignes × 2 colonnes
+        L00 | Sigle | Signification
+        L01 | OMS | Organisation mondiale de la santé
+        L02 | PCIMA | Prise en charge intégrée de la malnutrition aiguë
+        L03 | PCIMNE | Prise en charge intégrée des maladies du nouveau-né et de l'enfant
+        L04 | PEV | Programme élargi de vaccination
+        L05 | PIB | Produit intérieur brut
+        L06 | PMI | President's Malaria Initiative (Initiative présidentielle américaine contre le paludisme)
+        L07 | PNDS-PS | Plan national de développement sanitaire et de prévoyance sociale
+        L08 | PNLP | Programme national de lutte contre le paludisme
+        L09 | PNLS | Programme national de lutte contre le VIH/sida et les IST
+        L10 | PNSR | Programme national de santé de la reproduction
+        L11 | PRONANUT | Programme national de nutrition
+        L12 | PSN SACO | Plan stratégique national de santé communautaire
+        L13 | PTF | Partenaires techniques et financiers
+        L14 | PTME | Prévention de la transmission mère-enfant (du VIH)
+        L15 | RDC | République démocratique du Congo
+        L16 | RECO | Relais communautaire
+        L17 | RH | Ressources humaines
+        L18 | SARA | Service Availability and Readiness Assessment
+        L19 | SMNEA | Santé de la mère, du nouveau-né, de l'enfant et de l'adolescent
+        L20 | SMS | Short Message Service (message texte)
+        L21 | SNIS | Système national d'information sanitaire
+        L22 | SONU | Soins obstétricaux et néonatals d'urgence
+        L23 | SPA | Service Provision Assessment
+        L24 | UNICEF | Fonds des Nations unies pour l'enfance
+        L25 | USAID | Agence des États-Unis pour le développement international
+        L26 | VIH | Virus de l'immunodéficience humaine
+        L27 | WASH | Water, Sanitation and Hygiene (eau, hygiène et assainissement)
+        L28 | WASH-FIT | Water and Sanitation for Health Facility Improvement Tool
+        L29 | ZS | Zone de santé
+  [ ] table_1 : 6 lignes × 3 colonnes
+        L00 | Le diagnostic est | Il n'est pas | Conséquence pour la lecture
+        L01 | Une mesure des conditions opérationnelles minimales de 28 fonctions traceuses | Un audit de la qualité des soins | Rouge signifie « conditions non réunies », non « soins de mauvaise qualité »
+        L02 | Une lecture par fonction, dimension par dimension, avec un motif explicite | Une évaluation de la performance du personnel | Les ressources humaines sont une dimension parmi douze ; aucune personne n'est évaluée
+        L03 | Un outil de hiérarchisation par province et par contrainte | Un classement des établissements | Aucun score d'établissement ; codes anonymes dans le rapport principal
+        L04 | Une base pour l'analyse participative avec les équipes cadres | Une liste de contrôle d'accréditation | Les seuils (jours de rupture, jours de présence) sont des règles de lecture, non des normes
+        L05 | Une description des 160 établissements ciblés | Une estimation de population | Aucune extrapolation ; aucun intervalle de confiance
+  [ ] table_2 : 7 lignes × 3 colonnes
+        L00 | Niveau | Cadre éligible | Échantillon enquêté
+        L01 | Provinces | 8 | 8
+        L02 | Zones de santé | 73 | 40
+        L03 | Établissements | 1 015 | 160
+        L04 | dont centres de santé (CS) | – | 101
+        L05 | dont centres de santé de référence (CSR) | – | 22
+        L06 | dont hôpitaux généraux de référence (HGR) | – | 37
+  [ ] table_3 : 29 lignes × 5 colonnes
+        L00 | Fonction | Libellé complet | Domaine | Criticité | Niveaux attendus
+        L01 | CPN de routine | Consultation prénatale de routine (CPNr) | SMNEA | Essentielle | CS · CSR
+        L02 | CPN + PTME | CPN intégrée à la PTME | SMNEA | Essentielle | CS · CSR
+        L03 | Grossesse à risque | Détection, stabilisation initiale et référence des grossesses à risque | SMNEA | Vitale | CS · CSR
+        L04 | Accouchement normal | Assistance qualifiée à l'accouchement normal et surveillance du travail | SMNEA | Essentielle | CS · CSR · HGR
+        L05 | Hémorragie post-partum | Prévention et prise en charge initiale de l'hémorragie du post-partum (HPP) | SMNEA | Vitale | CS · CSR · HGR
+        L06 | Pré-éclampsie | Prise en charge initiale de la pré-éclampsie/éclampsie | SMNEA | Vitale | CS · CSR · HGR
+        L07 | Sepsis obstétrical | Traitement initial d'une infection obstétricale | SMNEA | Vitale | CS · CSR · HGR
+        L08 | Accouchement assisté | Accouchement vaginal assisté | SMNEA | Vitale | CSR · HGR
+        L09 | Césarienne d'urgence | Césarienne d'urgence | SMNEA | Vitale | CSR · HGR
+        L10 | Transfusion | Transfusion sanguine d'urgence | SMNEA | Vitale | CSR · HGR
+        L11 | Réanimation néonatale | Réanimation néonatale immédiate | SMNEA | Vitale | CS · CSR · HGR
+        L12 | Soins du nouveau-né | Soins essentiels immédiats du nouveau-né | SMNEA | Essentielle | CS · CSR · HGR
+        L13 | CPoN mère | Consultation postnatale de la mère | SMNEA | Essentielle | CS · CSR · HGR
+        L14 | CPoN nouveau-né | Consultation postnatale du nouveau-né | SMNEA | Essentielle | CS · CSR · HGR
+        L15 | Réception urgences | Réception, triage et stabilisation des urgences référées | SMNEA | Vitale | HGR
+        L16 | Diagnostic paludisme | Diagnostic du paludisme | Paludisme | Essentielle | CS · CSR · HGR
+        L17 | Paludisme simple | Traitement du paludisme simple | Paludisme | Essentielle | CS · CSR · HGR
+        L18 | Paludisme grave | Stabilisation et traitement du paludisme grave | Paludisme | Vitale | CS · CSR · HGR
+        L19 | Dépistage nutrition | Dépistage nutritionnel | Nutrition | Essentielle | CS · CSR · HGR
+        L20 | MA non compliquée | Prise en charge de la malnutrition aiguë non compliquée | Nutrition | Essentielle | CS
+        L21 | MA compliquée | Identification, stabilisation initiale, référence et suivi des cas | Nutrition | Vitale | CS · CSR · HGR
+        L22 | Vaccination de routine | Vaccination de routine | Vaccination | Essentielle | CS · CSR
+        L23 | Chaîne du froid | Maintien et surveillance de la chaîne du froid | Vaccination | Vitale | CS · CSR
+        L24 | MAPI | Prise en charge initiale et notification des MAPI | Vaccination | Vitale | CS · CSR
+        L25 | Surveillance épidémiologique | Détection et notification des maladies à potentiel épidémique | Transversal | Vitale | CS · CSR · HGR
+        L26 | Référence urgente | Référence et contre-référence urgente | Transversal | Vitale | CS · CSR · HGR
+        L27 | Intégration services | Intégration des services au point de contact | Transversal | Systémique | CS · CSR · HGR
+        L28 | Données sanitaires | Enregistrement, transmission et utilisation des données sanitaires | Transversal | Systémique | CS · CSR · HGR
+  [ ] table_4 : 9 lignes × 3 colonnes
+        L00 | N° | Condition | Résultat
+        L01 | 1 | Contrainte bloquante présente | Rouge
+        L02 | 2 | Statut des intrants = Rouge (rupture > 7 jours ou indisponibilité le jour de l'enquête) | Rouge
+        L03 | 3 | Statut des intrants = Jaune et aucune contrainte bloquante | Jaune
+        L04 | 4 | Conditions minimales réunies, aucune contrainte bloquante, intrants Vert ou non applicables | Vert
+        L05 | 5 | Conditions minimales non réunies, aucune contrainte bloquante | Jaune
+        L06 | 6 | Statut des intrants = non applicable | Sans effet : les autres règles déterminent la classification
+        L07 | 7 | Recours à un contournement alors que la classification provisoire est Vert | Jaune (plafonnement)
+        L08 | 8 | Absence de cas au cours des trois derniers mois | Sans effet : la classification repose exclusivement sur les conditions actuelles
+  [ ] table_5 : 13 lignes × 5 colonnes
+        L00 | Dimension | Catégorie de goulot | Bloquante | Restrictive | Contextuelle
+        L01 | Organisation du service | Systèmes / Organisation | 68 | 3 | 0
+        L02 | Capacité d'accueil | Équipement / Infrastructure | 8 | 34 | 21
+        L03 | Ressources humaines | Ressources humaines | 57 | 14 | 0
+        L04 | Intrants et produits | Produit | 47 | 15 | 3
+        L05 | Équipements | Équipement / Infrastructure | 56 | 15 | 0
+        L06 | Eau, hygiène et assainissement | Équipement / Infrastructure | 0 | 54 | 9
+        L07 | Électricité | Équipement / Infrastructure | 8 | 40 | 23
+        L08 | Communication | Systèmes / Référence | 18 | 7 | 46
+        L09 | Référence | Systèmes / Référence | 20 | 33 | 13
+        L10 | Données sanitaires | Systèmes / Organisation | 3 | 16 | 52
+        L11 | Surveillance épidémiologique | Systèmes / Organisation | 5 | 5 | 61
+        L12 | Intégration des services | Systèmes / Organisation | 5 | 18 | 46
+  [ ] table_6 : 7 lignes × 2 colonnes
+        L00 | Règle | Mise en œuvre
+        L01 | Aucun cas | Une fonction sans cas dans les trois mois est évaluée sur les conditions actuelles (personnel, intrants, équipements), jamais mise au rouge pour absence de cas.
+        L02 | Stabilité des produits | Intrant critique disponible le jour de la visite et rupture cumulée ≤ 2 jours sur trois mois : vert ; 3 à 7 jours : jaune ; > 7 jours ou indisponible : rouge. Un groupe de substitution est satisfait par un membre vert ; un élément de soutien plafonne au jaune sans bloquer.
+        L03 | Contournement | Un contournement documenté (référence, communication) est pris en compte par la dimension concernée ; il rend une fonction jaune, pas verte, et n'efface pas un blocage d'intrant ou d'équipement.
+        L04 | Contrainte bloquante | Rôles fixés par le référentiel pour chaque fonction et chaque niveau (voir le tableau des fonctions traceuses).
+        L05 | Disponibilité du renvoi | Destination identifiée, contact préalable habituel, transport disponible et fonctionnel ; bloquante pour les urgences obstétricales, la malnutrition compliquée, le paludisme grave, les MAPI et la référence urgente.
+        L06 | Durées | Présence et jours de service valides de 0 à 92 jours ; 90 jours et plus valent couverture complète. Absence de toute source d'électricité ou de tout dispositif de lavage des mains : composante classée rouge par construction, l’eau, l’hygiène et l’assainissement restant restrictifs pour la fonction.
+
+--- Corps du rapport : 141 blocs sémantiques ---
+  [ ] B001 | src p.11 | h11      | Résumé exécutif
+  [ ] B002 | src p.11 | h22      | Contexte et objectif
+  [ ] B003 | src p.11 | body     | En RDC, la grossesse, l’accouchement et les premières années de vie restent exposés à des risques parmi les plus élevés au monde : 746 décès maternels pour 100 000 naissances vivantes et 93 décès d’enfants de moins de cinq ans pour 1 000 naissances vivantes, selon l’EDS-RDC III. Une part importante de ces décès survient lorsque l’établissement ne dispose pas, au moment critique, du personnel, des médicaments ou des équipements nécessaires. Pour mieux orienter ses appuis, le programme EpiC RDC, mis en œuvre par FHI 360, a fait réaliser un diagnostic rapide de la préparation opérationnelle de 160 établissements de soins de santé (101 centres de santé, 22 centres de santé de référence et 37 hôpitaux généraux de référence), répartis dans 40 zones de santé de huit provinces : Haut-Katanga, Haut-Lomami, Lualaba, Kasaï-Central, Kasaï-Oriental, Lomami, Sankuru et Tanganyika.
+  [ ] B004 | src p.11 | body     | Jusqu’à 28 services essentiels de santé maternelle, néonatale et infantile, de paludisme, de nutrition et de vaccination, appelés fonctions traceuses, ont été vérifiés sur place. Chaque fonction, et non l’établissement, a été classée en vert (assurée), jaune (assurée mais fragile) ou rouge (non assurée dans des conditions adéquates). L’absence d’un seul élément indispensable suffit à classer une fonction en rouge, ce qui signale un maillon critique manquant plutôt qu’un service inexistant. Les causes ont ensuite été analysées avec les équipes cadres des zones et les divisions provinciales de la santé.
+  [ ] B005 | src p.11 | h22      | Les défaillances opérationnelles les plus prioritaires
+  [ ] B006 | src p.11 | body     | Le constat central est que l’offre de soins existe souvent sans être prête au moment où une vie en dépend. Sur l’ensemble des évaluations, 68,4 % des fonctions sont rouges et 1,4 % seulement sont pleinement assurées. Les urgences sont les plus touchées, avec 81 % de fonctions rouges, et 159 établissements sur 160 ont au moins une fonction vitale rouge. Six fonctions vitales sont rouges dans plus de huit établissements sur dix, dans les huit provinces : les grossesses à risque (91,9 %), la prise en charge de la malnutrition aiguë compliquée (90,6 %), les manifestations adverses post-immunisation (90,2 %), la réanimation néonatale (87,5 %), la pré-éclampsie (82,5 %) et le paludisme grave (81,9 %). Les urgences obstétricales restent elles aussi très exposées : la césarienne d’urgence est rouge dans 76,3 % des cas, l’hémorragie du post-partum dans 70,6 % et le sepsis obstétrical dans 69,4 %.
+  [ ] B007 | src p.11 | body     | Le niveau de référence n’offre pas la sécurité attendue. Pour les fonctions communes aux trois niveaux de soins, la part de rouge passe d’environ 70 % au centre de santé à 50 % à l’hôpital général de référence (HGR) : à l’hôpital, une fonction sur deux reste rouge. À l’HGR, l’accouchement normal est rouge dans 92 % des cas, la césarienne d’urgence dans 81,1 % et la réanimation néonatale dans 64,9 %. La référence est elle-même défaillante dans 70,6 % des établissements. Sur place, le transport d’urgence est absent ou non fonctionnel dans 65,6 % d’entre eux, et 77,2 % des centres de santé interrogés citent le manque de ressources financières des ménages parmi les obstacles. À l’arrivée, 89,8 % des structures d’accueil interrogées (53 sur 59) signalent des arrivées tardives, et la césarienne reste rouge dans 81,7 % des destinations identifiées : référer plus vite ne garantit donc pas la prise en charge.
+  [ ] B008 | src p.11 | body     | Deux autres écarts appellent une attention particulière. En nutrition, le système dépiste des enfants qu’il ne peut pas traiter : là où le dépistage fonctionne, la prise en charge reste impossible sur place dans 78 à 94 % des cas, faute de personnel dédié (aucun nutritionniste déclaré dans 94,1 % des centres de santé) et d’aliment thérapeutique prêt à l’emploi (absent dans 86,1 % d’entre eux). Par ailleurs, l’offre déclarée surestime la capacité réelle : 97 des 98 centres de santé qui déclarent pratiquer la réanimation néonatale n’en réunissent pas les conditions. La notification des maladies à potentiel épidémique reste en revanche un point fort, avec 90 % des alertes transmises en moins de 24 heures.
+  [ ] B009 | src p.11 | h22      | Les défaillances de préparation présentant le plus grand risque
+  [ ] B010 | src p.11 | body     | Le risque le plus immédiat tient à quelques éléments dont l’absence suffit à compromettre une prise en charge vitale. Dans 115 établissements, au moins l’un des quatre éléments suivants manque : le sulfate de magnésium (98 établissements), le ballon et masque de réanimation néonatale (56), l’ocytocine (23) ou l’artésunate injectable (14). S’y ajoutent l’absence du kit d’accouchement (127 établissements) et, pour la réanimation du nouveau-né, de la source de chaleur (110) et de l’appareil d’aspiration (77 centres de santé sur 101). Ce risque s’aggrave lorsque le circuit de référence est lui aussi rouge, ce qui concerne 112 des 159 établissements exposés à au moins une menace vitale : référer vers une structure qui n’est pas prête déplace alors le risque sans le réduire.
+  [ ] B011 | src p.12 | h22      | Les principaux goulots d’étranglement transversaux
+  [ ] B012 | src p.12 | body     | Les défaillances tiennent moins à un service particulier qu’à quelques goulots communs à toute la chaîne de soins. Les intrants et les équipements bloquent chacun un peu plus de la moitié des fonctions rouges (52,6 % et 53,1 %), devant la référence (40,2 %) et l’organisation des services (22,6 %). Près de deux fonctions rouges sur trois cumulent au moins deux de ces goulots. Les ressources humaines et l’eau, l’hygiène et l’assainissement bloquent peu ou pas, mais chacun fragilise environ 44 % des fonctions jaunes et les empêche d’atteindre le vert : 53,5 % des centres de santé n’ont aucune sage-femme et les points d’eau ne fonctionnent pas dans les services de 57 % des établissements.
+  [ ] B013 | src p.12 | body     | Les échanges avec les zones et les provinces éclairent les causes de fond : des commandes peu fondées sur la consommation réelle, une maintenance sans budget, un transport d’urgence à la charge des familles et une nutrition sans responsable désigné au centre de santé. Ces fragilités sont anciennes, les enquêtes nationales antérieures relevant déjà les mêmes maillons faibles ; la réduction des financements extérieurs en 2025 a pu les accentuer.
+  [ ] B014 | src p.12 | body     | Cette accumulation a une conséquence directe pour l’investissement. Selon la simulation, aucun levier corrigé isolément ne ferait sortir du rouge plus de 13,1 % des fonctions (valeur atteinte par les intrants), et même le rétablissement de tous les intrants et équipements manquants laisserait rouges plus de la moitié des fonctions concernées (54,4 %). Une action conjointe sur les intrants, les équipements et la référence en lèverait en revanche 62,0 % ; l’eau, l’hygiène et l’assainissement n’ajoutent alors aucune sortie du rouge, mais conditionnent le passage au vert des fonctions libérées. Ces valeurs sont des ordres de grandeur pour prioriser, et non une prévision d’impact.
+  [ ] B015 | src p.12 | h22      | Où investir en priorité
+  [ ] B016 | src p.12 | body     | Les déficits touchent les huit provinces, avec des profils qui appellent des réponses différenciées. Le Sankuru (86,6 % de fonctions rouges et 99 % pour les urgences) et le Haut-Lomami (79,2 %, avec une rupture de médicaments déclarée dans tous les établissements) cumulent des blocages diffus, que seuls des paquets complets peuvent lever. Au Tanganyika, la référence constitue le premier levier. Enfin, 15 zones de santé offrent des possibilités de gains rapides : la correction d’un seul levier, le plus souvent les intrants, y lèverait 17 à 40 % des fonctions rouges.
+  [ ] B017 | src p.12 | h22      | Les cinq priorités d’investissement immédiates (0–3 mois)
+  [ ] B018 | src p.12 | body     | Elles peuvent être engagées avec les circuits et les acteurs existants. La première consiste à doter des quatre éléments vitaux les 115 établissements concernés, et du kit d’accouchement les 127 qui n’en disposent pas, avec un stock de sécurité de trois mois (EpiC RDC et partenaires, avec les DPS). La deuxième consiste à compléter les kits de réanimation néonatale, avec la source de chaleur, l’appareil d’aspiration et le ballon et masque (EpiC RDC, ECZ). La troisième vise à organiser dans chaque zone un circuit de référence et de contre-référence avec répertoire des transports, appel préalable, fiche unique et retour d’information (ECZ et établissements). La quatrième vise à garantir que tout enfant malnutri dépisté soit traité sur place ou référé, avec un agent désigné, une balance et de l’aliment thérapeutique (établissements et ECZ, avec les partenaires de la nutrition). La cinquième consiste à fonder les commandes sur la consommation réelle et à vérifier chaque trimestre, sur place, la capacité à assurer les fonctions vitales, en commençant par les HGR (DPS et ECZ).
+  [ ] B019 | src p.12 | h22      | Les cinq priorités de renforcement du système à moyen terme (3–12 mois)
+  [ ] B020 | src p.12 | body     | À moyen terme, l’enjeu est de restaurer des fonctions de soins complètes plutôt que de combler des manques isolés. La première priorité est de financer des paquets intégrés (intrants, équipements, référence et eau) dans des réseaux formés d’un HGR et des centres de santé qui lui réfèrent leurs patients, en commençant par le Sankuru et le Haut-Lomami. La deuxième est de cofinancer, dans les zones enclavées, un transport d’urgence préfinancé par des conventions forfaitaires avec des transporteurs, à condition que la structure d’accueil soit prête. La troisième est de rétablir l’eau dans les services de soins et de sécuriser l’énergie de secours, notamment pour la chaîne du froid, avec des contrats de maintenance. La quatrième est d’ancrer la nutrition dans le système, par un point focal au centre de santé et l’intégration de l’ATPE, du F75 et du F100 dans le circuit national d’approvisionnement. La cinquième est d’étendre la gratuité de la maternité au transport d’urgence et au kit d’accouchement. Les trois dernières relèvent du niveau central et peuvent demander jusqu’à 24 mois ; le projet peut les accompagner par l’appui technique et le plaidoyer.
+  [ ] B021 | src p.13 | h22      | Recommandations stratégiques pour le dialogue avec le Département d’État des États-Unis (DOS)
+  [ ] B022 | src p.13 | body     | Cinq messages peuvent structurer ce dialogue. Le premier est de financer des fonctions de soins complètes, organisées en réseau hôpital–centres de santé, plutôt que des intrants ou des activités séparés. Le deuxième est de concentrer d’abord les ressources là où elles lèvent le plus de blocages, en arbitrant explicitement, avec les DPS et les ECZ, entre concentration des moyens et équité territoriale. Le troisième est de mesurer les résultats par la capacité réelle vérifiée sur place, et non par l’offre déclarée ou les quantités distribuées ; la part de fonctions d’urgence rouges dans les établissements appuyés, aujourd’hui de 81 %, peut servir de valeur de départ. Le quatrième est de préparer la pérennité dès le départ, en plaidant pour que la maintenance, l’énergie, l’eau, la nutrition et le transport d’urgence entrent dans les budgets publics récurrents et dans la gratuité. Le cinquième est de coordonner les partenaires autour d’un plan unique par zone de santé, précisant qui finance et qui agit.
+  [ ] B023 | src p.13 | body     | Ces constats portent sur la préparation opérationnelle des établissements évalués ; ils ne mesurent ni la qualité des soins reçus, ni l’utilisation des services, ni les résultats sanitaires. Les études complémentaires proposées, sur la couverture effective et sur le niveau communautaire, permettront de vérifier si les capacités restaurées se traduisent par de meilleurs soins pour les familles.
+  [ ] B024 | src p.14 | h11      | I. Introduction
+  [ ] B025 | src p.14 | h22      | 1.1. Contexte et justification
+  [ ] B026 | src p.14 | body     | La République démocratique du Congo (RDC) demeure l’un des pays d’Afrique subsaharienne où la maternité et la survie de l’enfant comportent des risques particulièrement élevés. Selon l’EDS- RDC III, le ratio de mortalité maternelle atteint 746 décès pour 100 000 naissances vivantes, tandis que les mortalités néonatale, infantile et infanto-juvénile s’établissent respectivement à 24, 56 et 93 pour 1 000 naissances vivantes [1]. Au-delà de ces indicateurs, cette mortalité traduit des insuffisances persistantes du système de santé, notamment dans la disponibilité, au moment critique, d’un personnel qualifié, d’intrants essentiels et d’un plateau technique fonctionnel.
+  [ ] B027 | src p.14 | body     | Cette vulnérabilité s’inscrit dans un contexte de forte fécondité, avec 5,5 enfants par femme et près d’une adolescente sur cinq déjà engagée dans la maternité entre 15 et 19 ans. La situation nutritionnelle reste également préoccupante : près d’un enfant de moins de cinq ans sur deux présente un retard de croissance, 7 % souffrent de malnutrition aiguë et près d’une femme enceinte sur deux est anémiée. Par ailleurs, moins d’un ménage sur cinq dispose d’un dispositif de lavage des mains avec eau et savon, et environ un tiers seulement d’installations sanitaires adéquates [1]. Ces déficits en eau, hygiène et assainissement accroissent la morbidité et, par conséquent, la pression sur des services de santé déjà fragiles.
+  [ ] B028 | src p.14 | body     | Les ressources disponibles restent insuffisantes au regard de ces besoins. La part du budget national consacrée à la santé est passée de 6,7 % en 2016 à 14,1 % en 2024, se rapprochant de l’engagement d’Abuja de 15 %. Toutefois, les dépenses publiques de santé restent autour de 4 % du PIB, pour une dépense publique d’environ 22–23 USD par habitant et par an, très inférieure aux 86 USD estimés nécessaires pour assurer un paquet de services essentiels [2]. Ce sous-financement structurel reporte une part importante du coût des soins sur les ménages et limite la capacité du système à garantir durablement des services essentiels de qualité.
+  [ ] B029 | src p.14 | body     | À ces contraintes structurelles s’ajoute une forte pression épidémique. Depuis mai 2026, le pays fait face à une importante épidémie d’Ebola, avec 8 224 cas confirmés et 3 982 décès au 29 septembre 2026, touchant plusieurs provinces de l’Est et du Nord-Est [3]. Elle survient dans un contexte déjà marqué par plus de 83 000 cas suspects de choléra et près de 2 400 décès, plus de 11 500 cas suspects de Mpox et plus de 44 000 cas suspects de rougeole, alors que plusieurs millions de personnes demeurent déplacées dans l’Est du pays [4]. Ces urgences se superposent aux besoins courants de santé maternelle, néonatale et infantile, de nutrition et de lutte contre le paludisme, mobilisant les mêmes ressources humaines, infrastructures et intrants et fragilisant davantage la continuité des services essentiels.
+  [ ] B030 | src p.14 | body     | La RDC dispose certes de données importantes pour orienter son système de santé. Toutefois, les grandes enquêtes nationales, notamment l’EDS et les évaluations harmonisées des établissements de santé [5], fournissent des informations essentielles mais périodiques, principalement conçues pour le suivi sectoriel. Elles permettent plus difficilement d’identifier, établissement par établissement et en temps utile, les contraintes opérationnelles nécessitant une action immédiate. Le présent diagnostic vise précisément à combler cet écart entre l’information stratégique nationale et la décision opérationnelle locale.
+  [ ] B031 | src p.14 | body     | C’est dans cette perspective que le programme EpiC RDC, mis en œuvre par FHI 360, appuie le renforcement intégré des services de santé maternelle, néonatale et infantile, de lutte contre le paludisme et de nutrition. Pour mieux cibler ses interventions, le programme a besoin d’une appréciation rapide et fiable de la préparation opérationnelle des établissements de santé dans ses huit provinces d’intervention : Haut-Katanga, Haut-Lomami, Lualaba, Kasaï-Central, Kasaï- Oriental, Lomami, Sankuru et Tanganyika.
+  [ ] B032 | src p.14 | body     | Coordonné techniquement par ICHESS, ce diagnostic complète les dispositifs nationaux existants en apportant une lecture actualisée et directement exploitable des capacités des établissements
+  [ ] B033 | src p.15 | body     | appuyés. Il vise à identifier les contraintes les plus critiques, hiérarchiser les besoins et traduire les constats en décisions programmatiques concrètes. En permettant à EpiC RDC de concentrer ses ressources là où les déficits compromettent le plus la continuité et la qualité des services, il constitue un outil d’aide à la décision pour optimiser la mise en œuvre du projet, renforcer la résilience des services essentiels et contribuer aux progrès vers la couverture sanitaire universelle (CSU).
+  [ ] B034 | src p.15 | h22      | 1.2. Objectifs et résultats attendus
+  [ ] B035 | src p.15 | h33      | 1.2.1. Objectif général
+  [ ] B036 | src p.15 | body     | Établir une évaluation hiérarchisée et directement exploitable de l'état de préparation opérationnelle des établissements de soins de santé pour la prestation des services essentiels de santé maternelle, néonatale et infantile, de paludisme, de nutrition et de vaccination, afin d'identifier les goulots d'étranglement prioritaires et d'orienter les interventions d'EpiC RDC ainsi que celles des autorités sanitaires.
+  [ ] B037 | src p.15 | h33      | 1.2.2. Objectifs spécifiques
+  [ ] B038 | src p.15 | bullet   |  Évaluer la préparation fonctionnelle des établissements enquêtés au regard des ressources humaines, des intrants, des équipements, des infrastructures et des mécanismes de référence et de contre-référence ;
+  [ ] B039 | src p.15 | bullet   |  Apprécier l'intégration opérationnelle des services, notamment le dépistage, la référence des patients, la continuité des soins et l'application effective des protocoles et normes de prise en charge ;
+  [ ] B040 | src p.15 | bullet   |  Évaluer l’utilisation des données de routine pour le pilotage des services, l'amélioration de la qualité des soins et la préparation aux situations d'urgence ;
+  [ ] B041 | src p.15 | bullet   |  Identifier les facteurs structurels, organisationnels, institutionnels et contextuels qui expliquent les principales contraintes observées ;
+  [ ] B042 | src p.15 | bullet   |  Hiérarchiser les besoins et les priorités d'investissement en fonction de la criticité des goulots d’étranglement identifiés et de l’effet potentiel des leviers d’intervention ;
+  [ ] B043 | src p.15 | h33      | 1.2.3. Périmètre du diagnostic
+  [ ] B044 | src p.15 | caption  | Tableau 1: Périmètre du diagnostic
+  [ ] B045 | src p.15 | table    | TABLE table_1 — Tableau 1: Périmètre du diagnostic
+  [ ] B046 | src p.16 | h33      | 1.2.4. Résultats attendus
+  [ ] B047 | src p.16 | bullet   |  Le niveau de préparation fonctionnelle des établissements enquêtés est documenté, notamment pour les ressources humaines, les intrants, les équipements, les infrastructures et les mécanismes de référence et de contre-référence ;
+  [ ] B048 | src p.16 | bullet   |  Le degré d'intégration opérationnelle des services est établi, à travers le dépistage, la référence des patients, la continuité des soins et l'application des protocoles ;
+  [ ] B049 | src p.16 | bullet   |  Le niveau d'utilisation des données de routine est documenté, pour le pilotage des services, l'amélioration de la qualité et la préparation aux urgences ;
+  [ ] B050 | src p.16 | bullet   |  Les principaux déterminants des contraintes observées (structurels, organisationnels, institutionnels ou contextuels) sont identifiés et hiérarchisés par fonction traceuse, domaine, type d'établissement et niveau du système de santé ;
+  [ ] B051 | src p.16 | bullet   |  Les priorités d'investissement sont établies à partir des leviers simulés ; des recommandations opérationnelles, priorisées et réalistes sont formulées, reliées aux mécanismes de redevabilité et à la planification, pour orienter les interventions d'EpiC RDC à court et moyen terme ;
+  [ ] B052 | src p.16 | bullet   |  Des produits d'appui accompagnent le rapport : fiches synthétiques par zone de santé (ZS) et bases de données anonymisées et documentées, transmises au commanditaire.
+  [ ] B053 | src p.16 | h22      | 1.3. Bénéficiaires et utilisations des résultats
+  [ ] B054 | src p.16 | h33      | 1.3.1. Bénéficiaires
+  [ ] B055 | src p.16 | body     | Les résultats de ce diagnostic s'adressent en premier lieu à EpiC RDC et à ses partenaires d'exécution, pour orienter le ciblage et le contenu de leurs appuis aux établissements des huit provinces couvertes. Ils intéressent également les équipes cadres des zones de santé (ECZ) et les divisions provinciales de la santé (DPS), qui disposeront d'une lecture actualisée des contraintes propres à leur ressort, ainsi que le ministère de la Santé publique, Hygiène et Prévoyance sociale (MSPHPS) dans la mesure où le diagnostic vient documenter, au niveau opérationnel, la mise en œuvre du Plan national de développement sanitaire et de prévoyance sociale (PNDS-PS) 2024- 2033.
+  [ ] B056 | src p.16 | h33      | 1.3.2. Utilisation des résultats
+  [ ] B057 | src p.16 | body     | Les résultats sont destinés à un usage programmatique immédiat : prioriser les appuis d'EpiC RDC entre établissements et ZS, alimenter le dialogue avec les DPS et les ECZ sur les contraintes qui relèvent de leur responsabilité, et nourrir les mécanismes existants de redevabilité et de planification stratégique. Ils ne se substituent pas aux enquêtes nationales de référence et ne permettent ni classement de performance des établissements, ni extrapolation à l'ensemble du pays.
+  [ ] B058 | src p.17 | h11      | II. Approche méthodologique
+  [ ] B059 | src p.17 | h22      | 2.1. Conception générale de l'étude
+  [ ] B060 | src p.17 | body     | Le diagnostic repose sur une conception transversale, descriptive et diagnostique, qui combine deux composantes séquencées : une enquête quantitative par questionnaire électronique dans 160 établissements, puis des entretiens semi-structurés aux niveaux de l'établissement, de la zone de santé et de la province. Les deux composantes ont des rôles distincts : le questionnaire administré dans les établissements identifie les contraintes opérationnelles qui empêchent chaque fonction d’être assurée, tandis que les entretiens avec les responsables des établissements, les équipes cadres des zones de santé et les divisions provinciales de la santé en expliquent les causes systémiques et les niveaux de responsabilité. Chaque entretien part ainsi des goulots déjà identifiés dans la structure ou la zone : mesurer d’abord ce qui ne fonctionne pas, puis comprendre pourquoi.
+  [ ] B061 | src p.17 | body     | L'objet mesuré n'est ni la performance, ni la qualité clinique des soins, ni l'utilisation effective des services, mais la préparation opérationnelle : la capacité effective d'un établissement à délivrer une fonction essentielle dans les conditions constatées au moment de l'enquête.
+  [ ] B062 | src p.17 | h22      | 2.2. Population, échantillonnage et unités d'analyse
+  [ ] B063 | src p.17 | h33      | 2.2.1. Base de sondage et plan d'échantillonnage
+  [ ] B064 | src p.17 | body     | L'échantillon a été constitué en trois étapes à partir d'une base consolidée d'établissements issue du DHIS2/SNIS : application de critères d'éligibilité au niveau des établissements et des ZS, puis sélection stratifiée combinée à un tirage à probabilité proportionnelle à la taille. Le tableau suivant résume la base de sondage et l'échantillon réalisé.
+  [ ] B065 | src p.17 | caption  | Tableau 2: Base de sondage et échantillon réalisé, par niveau géographique
+  [ ] B066 | src p.17 | table    | TABLE table_2 — Tableau 2: Base de sondage et échantillon réalisé, par niveau géographique
+  [ ] B067 | src p.17 | body     | Trois profils, mutuellement exclusifs, ont guidé la sélection des établissements : les structures de référence, les établissements à fort volume d'activité identifiés par un score composite, et les établissements signalés sur critère de mortalité. Ces profils décrivent la manière dont l'échantillon a été constitué. Les catégories CS, CSR et HGR du tableau correspondent, quant à elles, au questionnaire administré et servent de base à l'analyse. Ce choix raisonné, adapté à un diagnostic rapide, fixe la portée des résultats : ils décrivent les 160 établissements enquêtés, sont analysés sans pondération et ne constituent pas des estimations représentatives de l'ensemble des établissements des zones ou des provinces concernées.
+  [ ] B068 | src p.17 | h33      | 2.2.2. Unités d'analyse
+  [ ] B069 | src p.17 | body     | L'unité principale d'analyse est le couple fonction traceuse–établissement : le diagnostic classe des fonctions, jamais des établissements. Le fichier analytique est organisé en format long, chaque enregistrement correspondant à une fonction évaluée dans un établissement donné. Les autres niveaux de lecture (domaine, établissement, zone de santé, province) sont obtenus par agrégation,
+  [ ] B070 | src p.18 | body     | chacun avec un dénominateur explicite : fonctions évaluables, fonctions évaluées ou établissements concernés, ces dénominateurs n'étant pas interchangeables.
+  [ ] B071 | src p.18 | body     | Aucun score composite ni classement d'établissement n'est produit : les résultats sont restitués sous forme de profils Vert/Jaune/Rouge.
+  [ ] B072 | src p.18 | h22      | 2.3. Instruments de collecte
+  [ ] B073 | src p.18 | h33      | 2.3.1. Composante quantitative
+  [ ] B074 | src p.18 | body     | La collecte quantitative repose sur trois questionnaires électroniques harmonisés, adaptés respectivement aux centres de santé (CS), aux centres de santé de référence (CSR) et aux HGR. Les modules communs utilisent les mêmes sections, variables et modalités de réponse, permettant ainsi de fusionner les trois bases de données à partir d’une table de correspondance prédéfinie.
+  [ ] B075 | src p.18 | body     | Les questionnaires couvrent neuf blocs communs, notamment l’identification et la couverture, la capacité d'accueil, les ressources humaines, l’eau, l’hygiène et l’assainissement (WASH), l’électricité et la communication, le SNIS et la surveillance, la référence et contre-référence, ainsi que l’intégration et la coordination des services. Des modules spécifiques sont ajoutés selon le niveau de soins : CPN/PTME et vaccination au niveau des CS ; césarienne, transfusion et unité nutritionnelle thérapeutique intensive aux niveaux HGR/CSR.
+  [ ] B076 | src p.18 | body     | Le répondant principal est l'infirmier titulaire (IT), son adjoint ou le médecin directeur, appuyé par les responsables des services concernés. Les données sont recueillies en face-à-face sur tablette à l’aide de Survey Solutions, avec saisie hors ligne et synchronisation sécurisée avec le serveur central au début et à la fin de chaque journée de collecte.
+  [ ] B077 | src p.18 | h33      | 2.3.2. Composante qualitative
+  [ ] B078 | src p.18 | body     | La collecte qualitative repose sur trois guides d'entretien individuel semi-structuré, correspondant aux trois niveaux du système de santé étudiés : les IT/ITA de centres de santé, appuyés par leurs équipes, les équipes-cadres des zones de santé (ECZ), et les cadres des divisions provinciales de la santé (DPS). Les trois guides suivent une architecture harmonisée comprenant les objectifs à l’usage de l’enquêteur, l’identification du répondant et des modules thématiques structurés en quatre étapes : (i) une question principale, ouverte et standardisée, posée à l’identique par tous les enquêteurs afin d’assurer la comparabilité des réponses ; (ii) des questions de relance pour approfondir les dimensions non spontanément abordées ; (iii) l’identification du niveau de responsabilité associé à chaque contrainte (établissement, zone de santé, province ou niveau central) ; et (iv) l’exploration des solutions proposées par le répondant, sans suggestion de l’enquêteur.
+  [ ] B079 | src p.18 | body     | Cette architecture permet de relier systématiquement chaque goulot d’étranglement à ses causes, au niveau auquel il peut être résolu et aux solutions envisageables, fournissant ainsi une base directement exploitable pour la formulation de recommandations opérationnelles.
+  [ ] B080 | src p.18 | body     | Participants. La composante qualitative couvre les trois niveaux étudiés : un entretien dans chacun des établissements enquêtés, un entretien avec chacune des 40 ECZ et un entretien avec chacune des huit DPS. Cette couverture permet de trianguler les constats des établissements avec les analyses zonales et provinciales des goulots d’étranglement, de leurs déterminants, des réponses déjà engagées et des actions prioritaires relevant de chaque niveau du système.
+  [ ] B081 | src p.18 | h22      | 2.4. Organisation de la collecte
+  [ ] B082 | src p.18 | h33      | 2.4.1. Phasage du déploiement
+  [ ] B083 | src p.18 | body     | Le déploiement, confié par FHI 360 à ICHESS, s’est déroulé en trois phases. Le pré-déploiement (huit semaines) a couvert la mise en place de la gouvernance, le paramétrage des questionnaires dans Survey Solutions (contrôles de cohérence, sauts logiques et règles de validation), leur pré-
+  [ ] B084 | src p.19 | body     | test dans la zone de santé urbano-rurale de Mont-Ngafula 2 à Kinshasa, ainsi que la formation des superviseurs.
+  [ ] B085 | src p.19 | body     | Le déploiement (deux semaines) a compris la formation des enquêteurs, suivie de la collecte séquentielle des données quantitatives puis qualitatives, conduite simultanément dans les huit provinces sous supervision quotidienne. Le post-déploiement (une semaine) a porté sur la validation des données, leur restitution préliminaire aux ECZ et DPS, sans communication des résultats définitifs, puis la clôture du processus.
+  [ ] B086 | src p.19 | body     | La conduite simultanée de la collecte dans les huit provinces a permis de réduire les biais liés aux variations temporelles du contexte et de renforcer la comparabilité des observations.
+  [ ] B087 | src p.19 | h33      | 2.4.2. Dispositif humain et circuit d’assurance qualité
+  [ ] B088 | src p.19 | body     | Le dispositif a mobilisé huit superviseurs, un par province, et quarante enquêteurs, un par zone de santé (ZS), sous la coordination centrale d’ICHESS. Chaque soumission suivait un circuit standardisé d’assurance qualité en cinq étapes : collecte, contrôle, correction, validation et synchronisation. Le superviseur examinait chaque soumission en temps réel, la validait ou la rejetait avec un commentaire ciblé ; toute soumission rejetée était automatiquement retournée à l’enquêteur pour correction avant nouvelle validation et synchronisation avec le serveur central.
+  [ ] B089 | src p.19 | h22      | 2.5. Assurance qualité des données
+  [ ] B090 | src p.19 | body     | L’assurance qualité était organisée à trois niveaux complémentaires. À la saisie, des contrôles automatisés limitent les durées à 0–92 jours, vérifient la cohérence entre réponses liées, bloquent les erreurs critiques et permettent un suivi quotidien de la complétude des données par section et par équipe. Sur le terrain, une grille standardisée de supervision vérifie le consentement, la neutralité de l’enquêteur, l’application correcte des filtres et, surtout, la vérification physique des éléments observables, plutôt que leur seule déclaration par les répondants.
+  [ ] B091 | src p.19 | body     | Au niveau analytique, le dispositif de contrôle qualité prévoyait une contre-visite indépendante dans 8 à 10 % des établissements, ciblant les sections nécessitant une forte vérification factuelle, ainsi que la mesure de la concordance entre évaluateurs par le coefficient kappa pondéré, globalement et par domaine ; un kappa inférieur à 0,60 dans un domaine devait déclencher une revue ciblée des divergences et le recyclage des équipes concernées.
+  [ ] B092 | src p.19 | h22      | 2.6. Cadre analytique : fonctions traceuses et classification tricolore
+  [ ] B093 | src p.19 | h33      | 2.6.1. Fonctions traceuses
+  [ ] B094 | src p.19 | body     | L'analyse repose sur 28 fonctions traceuses, directement dérivées des questionnaires et regroupées en quatre domaines techniques et un domaine transversal : santé de la mère, du nouveau-né, de l'enfant et de l'adolescent (15 fonctions), paludisme (3), nutrition (3), vaccination (3) et fonctions transversales (4 : surveillance épidémiologique, référence urgente, intégration des services, données sanitaires). Les fonctions attendues varient selon le niveau de soins : 24 au CS, 26 au CSR et 21 à l’HGR, soit 71 combinaisons fonction × niveau. Parmi elles, 17 fonctions sont communes aux trois niveaux et constituent la base des comparaisons entre niveaux. Chaque fonction est évaluée sous six angles standardisés (offre effective du service, disponibilité de personnel qualifié, intrants traceurs, équipements critiques, continuité du service et prérequis transversaux), qui mobilisent les douze dimensions définies ci-après. La classification tricolore porte sur les fonctions et non sur les établissements : un même établissement peut avoir des fonctions vertes, jaunes et rouges.
+  [ ] B095 | src p.19 | body     | Deux fenêtres temporelles complémentaires mais non interchangeables structurent l'évaluation. Le jour de l'enquête mesure la préparation opérationnelle immédiate : toute indisponibilité critique constatée ce jour entraîne un classement Rouge, indépendamment de la situation antérieure. Les trois mois révolus (92 jours) permettent d’apprécier la stabilité de cette capacité à travers la durée des ruptures, la continuité de fonctionnement et la présence effective du personnel qualifié. La
+  [ ] B096 | src p.20 | body     | survenue de cas au cours de cette période est recueillie uniquement à des fins contextuelles et n'entre pas dans la classification.
+  [ ] B097 | src p.20 | caption  | Tableau 3: Les 28 fonctions traceuses (71 spécifications selon le niveau)
+  [ ] B098 | src p.20 | table    | TABLE table_3 — Tableau 3: Les 28 fonctions traceuses (71 spécifications selon le niveau)
+  [ ] B099 | src p.20 | body     | Les 28 fonctions traceuses sont également classées selon leur niveau de criticité : 15 fonctions vitales, dont la défaillance peut compromettre immédiatement la survie du patient ; 11 fonctions essentielles, nécessaires à la continuité et à la qualité des services ; et 2 fonctions systémiques, qui soutiennent le fonctionnement, la coordination et le pilotage global de l’offre de soins.
+  [ ] B100 | src p.20 | h22      | Définitions et conventions de lecture
+  [ ] B101 | src p.20 | body     | Fonction traceuse. Soin ou service essentiel dont la réalisation requiert la disponibilité simultanée de plusieurs conditions. Elle sert de traceur de la capacité opérationnelle de l’établissement à délivrer un paquet de soins. Lorsqu’une fonction est attendue à plusieurs niveaux
+  [ ] B102 | src p.21 | body     | de soins, elle fait l’objet d’une spécification propre à chaque niveau, définissant les exigences correspondantes.
+  [ ] B103 | src p.21 | body     | Domaine. Regroupement des fonctions traceuses en cinq champs : santé de la mère, du nouveau-né, de l’enfant et de l’adolescent (SMNEA), paludisme, nutrition, vaccination et fonctions transversales du système.
+  [ ] B104 | src p.21 | body     | Criticité. Une fonction est vitale lorsque sa défaillance peut mettre immédiatement une vie en danger, comme la réanimation néonatale ou la prise en charge de la pré-éclampsie ; essentielle lorsqu’elle conditionne la continuité et la qualité du service ; et systémique lorsqu’elle soutient le fonctionnement global de l’établissement. Les 13 fonctions d’urgence constituent un sous-ensemble des fonctions vitales, hors surveillance épidémiologique et chaîne du froid.
+  [ ] B105 | src p.21 | body     | Dimension. Registre dans lequel une contrainte susceptible d’affecter une fonction est recherchée. Douze dimensions sont considérées : organisation du service, capacité d’accueil, ressources humaines, intrants et produits, équipements, eau-hygiène-assainissement (WASH), électricité, communication, référence, données sanitaires, surveillance épidémiologique et intégration des services. Selon la fonction, une dimension peut être bloquante (sa défaillance entraîne un classement Rouge), restrictive (elle plafonne la fonction au Jaune) ou contextuelle (documentée sans incidence sur la classification).
+  [ ] B106 | src p.21 | body     | Classification. Une fonction est classée Verte lorsqu’elle est pleinement opérationnelle, Jaune lorsqu’elle peut être assurée mais demeure fragile ou instable, et Rouge lorsqu’au moins une contrainte bloquante empêche sa réalisation dans les conditions requises. La couleur qualifie la fonction évaluée et non l’établissement dans son ensemble.
+  [ ] B107 | src p.21 | body     | Dénominateurs. Les proportions de fonctions Vertes, Jaunes et Rouges sont calculées sur K, nombre d’évaluations de la fonction considérée, et totalisent 100 %. Par prudence, une dimension qui n’a pas pu être documentée le jour de la visite est lue dans sa modalité la plus défavorable, comme un élément non disponible. Cette règle concerne 29 des 3 773 évaluations (0,8 %) et permet de classer l’ensemble des évaluations, qui constituent la base des résultats.
+  [ ] B108 | src p.21 | body     | Levier. Simulation consistant à rejouer l’algorithme en supposant corrigée une dimension donnée, toutes choses égales par ailleurs, afin d’estimer le nombre de fonctions Rouges qui passeraient au Jaune ou au Vert. Le résultat indique un potentiel théorique d’amélioration, et non l’effet attendu d’une intervention réelle. Les gains associés à différents leviers ne sont pas additifs ; seules les combinaisons ou paquets explicitement simulés permettent d’estimer un gain conjoint.
+  [ ] B109 | src p.21 | body     | Portée. L’échantillonnage étant raisonné, les résultats décrivent exclusivement les 160 établissements évalués. Ils ne permettent ni extrapolation statistique aux huit provinces, ni calcul d’intervalles de confiance, ni classement des établissements ou des provinces. Les résultats du Kasaï-Oriental et du Tanganyika, fondés sur huit établissements chacun, doivent être interprétés comme des repères descriptifs.
+  [ ] B110 | src p.21 | h33      | 2.6.2. Algorithme de classification Vert / Jaune / Rouge
+  [ ] B111 | src p.21 | body     | La classification de chaque fonction repose sur un algorithme unique, déterministe et standardisé, appliqué de manière identique à l’ensemble des instruments. Elle ne relève donc d’aucune appréciation subjective de l’enquêteur, du superviseur ou de l’analyste.
+  [ ] B112 | src p.21 | body     | L’algorithme utilise quatre variables canoniques : (i) conditions présentes, qui indique si toutes les conditions minimales requises pour assurer la fonction sont réunies ; (ii) contrainte bloquante, qui signale la présence d’au moins une défaillance rendant la fonction non réalisable. Par exemple, l’absence de sulfate de magnésium pour la prise en charge de la pré-éclampsie ou d’un ballon auto-gonflable fonctionnel pour la réanimation néonatale ; (iii) statut intrants, correspondant au statut le plus défavorable parmi les intrants traceurs requis ; et (iv) contournement, qui identifie le recours à un mécanisme informel ou instable pour maintenir le
+  [ ] B113 | src p.22 | body     | service, tel que l’emprunt de produits, un transport improvisé ou l’utilisation d’un téléphone personnel comme seul moyen de communication du service.
+  [ ] B114 | src p.22 | body     | À partir de ces quatre variables, huit règles de décision hiérarchisées, appliquées dans un ordre fixe, déterminent automatiquement la classification finale de chaque fonction :
+  [ ] B115 | src p.22 | caption  | Tableau 4: Les huit règles de décision de l'algorithme de classification Vert / Jaune / Rouge
+  [ ] B116 | src p.22 | table    | TABLE table_4 — Tableau 4: Les huit règles de décision de l'algorithme de classification Vert / Jaune / Rouge
+  [ ] B117 | src p.22 | body     | Pour chaque fonction classée Jaune ou Rouge, un goulot d’étranglement principal unique est attribué selon un ordre de priorité fixe entre les dimensions : l’organisation du service est examinée en premier, les intrants avant les équipements, et la catégorie résiduelle « Autres » n’est retenue qu’en dernier recours. Cette règle standardisée garantit la reproductibilité de l’attribution : deux analystes appliquant l’algorithme au même enregistrement aboutissent au même goulot principal.
+  [ ] B118 | src p.22 | body     | Chaque goulot est ensuite qualifié selon son niveau d’imputation présumé : établissement ou système. Cette distinction permet d’identifier les contraintes pouvant être corrigées directement par l’établissement et celles nécessitant une intervention à un niveau supérieur, notamment sur la chaîne d’approvisionnement, les ressources humaines, les infrastructures ou les politiques et mécanismes de gestion du système de santé.
+  [ ] B119 | src p.23 | caption  | Tableau 5: Rôle des douze dimensions dans les 71 spécifications
+  [ ] B120 | src p.23 | table    | TABLE table_5 — Tableau 5: Rôle des douze dimensions dans les 71 spécifications
+  [ ] B121 | src p.23 | body     | L’organisation du service est la dimension la plus fréquemment bloquante (68 spécifications sur 71), suivie des ressources humaines (57) et des équipements (56). À l’inverse, l’électricité (8) et la capacité d’accueil (8) sont rarement bloquantes, mais agissent souvent comme facteurs restrictifs, plafonnant la fonction au Jaune dans respectivement 40 et 34 spécifications. L’eau, l’hygiène et l’assainissement ne sont bloquants pour aucune spécification : restrictifs dans 54 d’entre elles, ils empêchent une fonction d’être verte sans la rendre rouge. La surveillance épidémiologique (61), les données sanitaires (52) et l’intégration des services (46) ont principalement un rôle contextuel : elles éclairent l’interprétation des résultats mais influencent peu directement la classification. Ces rôles étant définis a priori dans l’algorithme, ils déterminent en partie la contribution relative de chaque dimension à la proportion de fonctions classées Rouge. Les totaux par ligne sont inférieurs à 71 lorsque la dimension est sans objet pour certaines spécifications.
+  [ ] B122 | src p.24 | caption  | Tableau 6: Modalités d’application des règles de classification
+  [ ] B123 | src p.24 | table    | TABLE table_6 — Tableau 6: Modalités d’application des règles de classification
+  [ ] B124 | src p.24 | body     | Ces règles sont appliquées sans marge d’appréciation. Deux influencent particulièrement l’interprétation des résultats : le recours à un contournement plafonne la fonction au Jaune, sans toutefois neutraliser une défaillance bloquante d’intrant ou d’équipement ; et la défaillance du circuit de référence est bloquante pour toute fonction à enjeu vital immédiat, ce qui explique son poids important dans la classification finale.
+  [ ] B125 | src p.24 | h22      | 2.7. Analyse qualitative
+  [ ] B126 | src p.24 | body     | Les entretiens font l’objet d’une analyse thématique structurée, fondée sur un cadre de codage initial dérivé de la taxonomie des goulots d’étranglement identifiés par l’analyse quantitative, puis enrichi par les thèmes émergents des données qualitatives.
+  [ ] B127 | src p.24 | body     | L’analyse suit un processus explicite de triangulation : les constats objectivés dans les établissements sont d’abord regroupés en tendances ; les entretiens avec les ECZ et les cadres des DPS permettent ensuite d’en préciser les causes, les déterminants systémiques et les niveaux de responsabilité ; les contraintes sont enfin hiérarchisées selon leur caractère bloquant et reliées à des recommandations opérationnelles et actionnables.
+  [ ] B128 | src p.24 | body     | Cette approche assure la traçabilité des recommandations, chacune étant fondée sur un constat quantitatif objectivé, éclairé par son explication qualitative, plutôt que formulée a priori.
+  [ ] B129 | src p.24 | h22      | 2.8. Chaîne de traitement des données et reproductibilité
+  [ ] B130 | src p.24 | body     | Le traitement suit six étapes scriptées (import, nettoyage, empilement des trois bases, dérivation des variables, classification, tabulation), chacune produisant un fichier daté et un journal d'exécution, sans intervention manuelle. Les scripts sont versionnés et paramétrés par un fichier de configuration unique, ce qui permet de reproduire chaque tableau à l'identique.
+  [ ] B131 | src p.25 | h22      | 2.9. Considérations éthiques
+  [ ] B132 | src p.25 | body     | L’évaluation n’a recueilli aucune donnée individuelle sur les patients. Les registres ont été consultés uniquement pour vérifier l’existence et la continuité des activités, sans extraction d’informations nominatives. Un consentement éclairé a été systématiquement obtenu avant chaque entretien, oralement ou électroniquement selon le volet, avec rappel du droit de refuser de participer ou de se retirer à tout moment.
+  [ ] B133 | src p.25 | body     | Les noms et coordonnées des répondants sont exclus de la base analytique et conservés séparément sous accès restreint. Les établissements sont identifiés par des codes anonymisés dans l’ensemble des analyses et produits diffusés. Les résultats sont exclusivement destinés à l’amélioration des services et ne peuvent être utilisés pour évaluer ou sanctionner individuellement les agents, ni pour établir un classement des établissements ou du personnel.
+  [ ] B134 | src p.25 | h22      | 2.10. Limites méthodologiques
+  [ ] B135 | src p.25 | body     | Trois limites principales ont guidé l’interprétation des résultats. Premièrement, l’échantillonnage raisonné ne permet aucune extrapolation statistique au-delà des 160 établissements évalués : les résultats décrivent l’échantillon étudié et ne sont représentatifs ni de l’ensemble des établissements des huit provinces ni de la RDC.
+  [ ] B136 | src p.25 | body     | Deuxièmement, l’évaluation mesure la préparation opérationnelle, et non la qualité clinique des soins ou l’utilisation effective des services. Ces dimensions ont été délibérément exclues afin de maintenir un diagnostic ciblé, réalisable dans un délai court et directement orienté vers l’identification des contraintes opérationnelles.
+  [ ] B137 | src p.25 | body     | Troisièmement, la classification tricolore, bien que fondée sur un algorithme déterministe, standardisé et documenté, dépend de la qualité et de la rigueur des vérifications effectuées sur le terrain. Ce risque est atténué par les contrôles intégrés aux outils, la supervision quotidienne, les contre-visites (back-checks) et la mesure de la concordance inter-évaluateurs, qui constituent des composantes centrales du dispositif d’assurance qualité.
+
+--- Éléments techniques à vérifier ---
+  [ ] Justification de tous les paragraphes de texte courant
+  [ ] Césure automatique désactivée (document + paragraphes)
+  [ ] Espaces insécables dans les sigles et noms composés
+  [ ] Aucune coupure artificielle de nom propre / organisme / acronyme
+  [ ] En-têtes de tableaux répétés à chaque page
+  [ ] Aucune ligne, colonne, valeur ou note de tableau supprimée
+  [ ] Aucun titre inventé ; hiérarchie H1/H2/H3 respectée
+  [ ] Table des matières Word automatique et navigable
+  [ ] Numéros de page du rendu final
+  [ ] Contrôle visuel de toutes les pages rendues
+  [ ] Absence de contenu rédactionnel de Md_ref.pdf
+  [ ] Absence de page presque vide, de titre orphelin, de débordement
+  [ ] Identité visuelle conforme à Md_ref.pdf

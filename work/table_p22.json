@@ -1,0 +1,47 @@
+[
+ [
+  "N°",
+  "Condition",
+  "Résultat"
+ ],
+ [
+  "1",
+  "Contrainte bloquante présente",
+  "Rouge"
+ ],
+ [
+  "2",
+  "Statut des intrants = Rouge (rupture > 7 jours ou indisponibilité le jour de l'enquête)",
+  "Rouge"
+ ],
+ [
+  "3",
+  "Statut des intrants = Jaune et aucune contrainte bloquante",
+  "Jaune"
+ ],
+ [
+  "4",
+  "Conditions minimales réunies, aucune contrainte bloquante, intrants Vert ou non applicables",
+  "Vert"
+ ],
+ [
+  "5",
+  "Conditions minimales non réunies, aucune contrainte bloquante",
+  "Jaune"
+ ],
+ [
+  "6",
+  "Statut des intrants = non applicable",
+  "Sans effet : les autres règles déterminent la classification"
+ ],
+ [
+  "7",
+  "Recours à un contournement alors que la classification provisoire est Vert",
+  "Jaune (plafonnement)"
+ ],
+ [
+  "8",
+  "Absence de cas au cours des trois derniers mois",
+  "Sans effet : la classification repose exclusivement sur les conditions actuelles"
+ ]
+]

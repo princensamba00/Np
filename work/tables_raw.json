@@ -1,0 +1,667 @@
+{
+ "9": [
+  [
+   "Sigle",
+   "Signification"
+  ],
+  [
+   "AL",
+   "Artéméther-Luméfantrine"
+  ],
+  [
+   "AMIU",
+   "Aspiration Manuelle Intra-Utérine"
+  ],
+  [
+   "ARV",
+   "Antirétroviraux"
+  ],
+  [
+   "AS-AQ",
+   "Artésunate-Amodiaquine"
+  ],
+  [
+   "ASC",
+   "Agent de Santé Communautaire"
+  ],
+  [
+   "ATPE",
+   "Aliment Thérapeutique Prêt à l'Emploi"
+  ],
+  [
+   "CAC",
+   "Cellule d'Animation communautaire"
+  ],
+  [
+   "CAPI",
+   "Computer-Assisted Personal Interviewing (entretien assisté par tablette)"
+  ],
+  [
+   "CARAMAL",
+   "Community Access to Rectal Artesunate for Malaria"
+  ],
+  [
+   "CHISU",
+   "Country Health Information Systems and Data Use"
+  ],
+  [
+   "CODESA",
+   "Comité de développement de l'aire de santé"
+  ],
+  [
+   "CPN",
+   "Consultation prénatale"
+  ],
+  [
+   "CPNr",
+   "Consultation prénatale recentrée / de routine"
+  ],
+  [
+   "CPoN",
+   "Consultation postnatale"
+  ],
+  [
+   "CS",
+   "Centre de santé"
+  ],
+  [
+   "CSR",
+   "Centre de santé de référence"
+  ],
+  [
+   "CSU",
+   "Couverture sanitaire universelle"
+  ],
+  [
+   "DHIS2",
+   "District Health Information Software, version 2"
+  ],
+  [
+   "DOS",
+   "Department of State (Département d’État des États-Unis)"
+  ],
+  [
+   "DPS",
+   "Division provinciale de la santé"
+  ],
+  [
+   "DQR/DQE",
+   "Data Quality Review / Data Quality Evaluation (Revue / Évaluation de la qualité des données)."
+  ],
+  [
+   "ECZ",
+   "Équipe cadre de la zone de santé"
+  ],
+  [
+   "EDS",
+   "Enquête démographique et de santé"
+  ],
+  [
+   "EpiC",
+   "Meeting Targets and Maintaining Epidemic Control (projet EpiC)"
+  ],
+  [
+   "EPSS",
+   "Évaluation des prestations des services de soins de santé"
+  ],
+  [
+   "ESP / ESPK",
+   "École de santé publique de Kinshasa"
+  ],
+  [
+   "ESS",
+   "Établissement de soins de santé"
+  ],
+  [
+   "F75 / F100",
+   "Laits thérapeutiques de la prise en charge de la malnutrition aiguë sévère"
+  ],
+  [
+   "FHI 360",
+   "Family Health International 360"
+  ],
+  [
+   "FSS",
+   "Fonds de solidarité de santé"
+  ],
+  [
+   "HGR",
+   "Hôpital général de référence"
+  ],
+  [
+   "HHFA",
+   "Harmonized Health Facility Assessment (évaluation harmonisée des établissements de soins de santé)"
+  ],
+  [
+   "HPP",
+   "Hémorragie du post-partum"
+  ],
+  [
+   "ICHESS",
+   "International Center for Health Systems Strengthening"
+  ],
+  [
+   "IHP",
+   "Integrated Health Program (programme de santé intégré de l'USAID)"
+  ],
+  [
+   "INS",
+   "Institut national de la statistique"
+  ],
+  [
+   "IT / ITA",
+   "Infirmier titulaire / infirmier titulaire adjoint"
+  ],
+  [
+   "MA",
+   "Malnutrition aiguë"
+  ],
+  [
+   "MAPI",
+   "Manifestations adverses post-immunisation"
+  ],
+  [
+   "MSPHPS",
+   "Ministère de la Santé publique, Hygiène et Prévoyance sociale"
+  ],
+  [
+   "MUAC",
+   "Mid-Upper Arm Circumference (périmètre brachial)"
+  ]
+ ],
+ "10": [
+  [
+   "Sigle",
+   "Signification"
+  ],
+  [
+   "OMS",
+   "Organisation mondiale de la santé"
+  ],
+  [
+   "PCIMA",
+   "Prise en charge intégrée de la malnutrition aiguë"
+  ],
+  [
+   "PCIMNE",
+   "Prise en charge intégrée des maladies du nouveau-né et de l'enfant"
+  ],
+  [
+   "PEV",
+   "Programme élargi de vaccination"
+  ],
+  [
+   "PIB",
+   "Produit intérieur brut"
+  ],
+  [
+   "PMI",
+   "President's Malaria Initiative (Initiative présidentielle américaine contre le paludisme)"
+  ],
+  [
+   "PNDS-PS",
+   "Plan national de développement sanitaire et de prévoyance sociale"
+  ],
+  [
+   "PNLP",
+   "Programme national de lutte contre le paludisme"
+  ],
+  [
+   "PNLS",
+   "Programme national de lutte contre le VIH/sida et les IST"
+  ],
+  [
+   "PNSR",
+   "Programme national de santé de la reproduction"
+  ],
+  [
+   "PRONANUT",
+   "Programme national de nutrition"
+  ],
+  [
+   "PSN SACO",
+   "Plan stratégique national de santé communautaire"
+  ],
+  [
+   "PTF",
+   "Partenaires techniques et financiers"
+  ],
+  [
+   "PTME",
+   "Prévention de la transmission mère-enfant (du VIH)"
+  ],
+  [
+   "RDC",
+   "République démocratique du Congo"
+  ],
+  [
+   "RECO",
+   "Relais communautaire"
+  ],
+  [
+   "RH",
+   "Ressources humaines"
+  ],
+  [
+   "SARA",
+   "Service Availability and Readiness Assessment"
+  ],
+  [
+   "SMNEA",
+   "Santé de la mère, du nouveau-né, de l'enfant et de l'adolescent"
+  ],
+  [
+   "SMS",
+   "Short Message Service (message texte)"
+  ],
+  [
+   "SNIS",
+   "Système national d'information sanitaire"
+  ],
+  [
+   "SONU",
+   "Soins obstétricaux et néonatals d'urgence"
+  ],
+  [
+   "SPA",
+   "Service Provision Assessment"
+  ],
+  [
+   "UNICEF",
+   "Fonds des Nations unies pour l'enfance"
+  ],
+  [
+   "USAID",
+   "Agence des États-Unis pour le développement international"
+  ],
+  [
+   "VIH",
+   "Virus de l'immunodéficience humaine"
+  ],
+  [
+   "WASH",
+   "Water, Sanitation and Hygiene (eau, hygiène et assainissement)"
+  ],
+  [
+   "WASH-FIT",
+   "Water and Sanitation for Health Facility Improvement Tool"
+  ],
+  [
+   "ZS",
+   "Zone de santé"
+  ]
+ ],
+ "15": [
+  [
+   "Le diagnostic est",
+   "Il n'est pas",
+   "Conséquence pour la lecture"
+  ],
+  [
+   "Une mesure des conditions opérationnelles minimales de 28 fonctions traceuses",
+   "Un audit de la qualité des soins",
+   "Rouge signifie « conditions non réunies », non « soins de mauvaise qualité »"
+  ],
+  [
+   "Une lecture par fonction, dimension par dimension, avec un motif explicite",
+   "Une évaluation de la performance du personnel",
+   "Les ressources humaines sont une dimension parmi douze ; aucune personne n'est évaluée"
+  ],
+  [
+   "Un outil de hiérarchisation par province et par contrainte",
+   "Un classement des établissements",
+   "Aucun score d'établissement ; codes anonymes dans le rapport principal"
+  ],
+  [
+   "Une base pour l'analyse participative avec les équipes cadres",
+   "Une liste de contrôle d'accréditation",
+   "Les seuils (jours de rupture, jours de présence) sont des règles de lecture, non des normes"
+  ],
+  [
+   "Une description des 160 établissements ciblés",
+   "Une estimation de population",
+   "Aucune extrapolation ; aucun intervalle de confiance"
+  ]
+ ],
+ "17": [
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  []
+ ],
+ "20": [
+  [
+   "Fonction",
+   "Libellé complet",
+   "Domaine",
+   "Criticité",
+   "Niveaux attendus"
+  ],
+  [
+   "CPN de routine",
+   "Consultation prénatale de routine (CPNr)",
+   "SMNEA",
+   "Essentielle",
+   "CS · CSR"
+  ],
+  [
+   "CPN + PTME",
+   "CPN intégrée à la PTME",
+   "SMNEA",
+   "Essentielle",
+   "CS · CSR"
+  ],
+  [
+   "Grossesse à risque",
+   "Détection, stabilisation initiale et référence des grossesses à risque",
+   "SMNEA",
+   "Vitale",
+   "CS · CSR"
+  ],
+  [
+   "Accouchement normal",
+   "Assistance qualifiée à l'accouchement normal et surveillance du travail",
+   "SMNEA",
+   "Essentielle",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Hémorragie post-partum",
+   "Prévention et prise en charge initiale de l'hémorragie du post-partum (HPP)",
+   "SMNEA",
+   "Vitale",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Pré-éclampsie",
+   "Prise en charge initiale de la pré-éclampsie/éclampsie",
+   "SMNEA",
+   "Vitale",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Sepsis obstétrical",
+   "Traitement initial d'une infection obstétricale",
+   "SMNEA",
+   "Vitale",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Accouchement assisté",
+   "Accouchement vaginal assisté",
+   "SMNEA",
+   "Vitale",
+   "CSR · HGR"
+  ],
+  [
+   "Césarienne d'urgence",
+   "Césarienne d'urgence",
+   "SMNEA",
+   "Vitale",
+   "CSR · HGR"
+  ],
+  [
+   "Transfusion",
+   "Transfusion sanguine d'urgence",
+   "SMNEA",
+   "Vitale",
+   "CSR · HGR"
+  ],
+  [
+   "Réanimation néonatale",
+   "Réanimation néonatale immédiate",
+   "SMNEA",
+   "Vitale",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Soins du nouveau-né",
+   "Soins essentiels immédiats du nouveau-né",
+   "SMNEA",
+   "Essentielle",
+   "CS · CSR · HGR"
+  ],
+  [
+   "CPoN mère",
+   "Consultation postnatale de la mère",
+   "SMNEA",
+   "Essentielle",
+   "CS · CSR · HGR"
+  ],
+  [
+   "CPoN nouveau-né",
+   "Consultation postnatale du nouveau-né",
+   "SMNEA",
+   "Essentielle",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Réception urgences",
+   "Réception, triage et stabilisation des urgences référées",
+   "SMNEA",
+   "Vitale",
+   "HGR"
+  ],
+  [
+   "Diagnostic paludisme",
+   "Diagnostic du paludisme",
+   "Paludisme",
+   "Essentielle",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Paludisme simple",
+   "Traitement du paludisme simple",
+   "Paludisme",
+   "Essentielle",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Paludisme grave",
+   "Stabilisation et traitement du paludisme grave",
+   "Paludisme",
+   "Vitale",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Dépistage nutrition",
+   "Dépistage nutritionnel",
+   "Nutrition",
+   "Essentielle",
+   "CS · CSR · HGR"
+  ],
+  [
+   "MA non compliquée",
+   "Prise en charge de la malnutrition aiguë non compliquée",
+   "Nutrition",
+   "Essentielle",
+   "CS"
+  ],
+  [
+   "MA compliquée",
+   "Identification, stabilisation initiale, référence et suivi des cas",
+   "Nutrition",
+   "Vitale",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Vaccination de routine",
+   "Vaccination de routine",
+   "Vaccination",
+   "Essentielle",
+   "CS · CSR"
+  ],
+  [
+   "Chaîne du froid",
+   "Maintien et surveillance de la chaîne du froid",
+   "Vaccination",
+   "Vitale",
+   "CS · CSR"
+  ],
+  [
+   "MAPI",
+   "Prise en charge initiale et notification des MAPI",
+   "Vaccination",
+   "Vitale",
+   "CS · CSR"
+  ],
+  [
+   "Surveillance épidémiologique",
+   "Détection et notification des maladies à potentiel épidémique",
+   "Transversal",
+   "Vitale",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Référence urgente",
+   "Référence et contre-référence urgente",
+   "Transversal",
+   "Vitale",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Intégration services",
+   "Intégration des services au point de contact",
+   "Transversal",
+   "Systémique",
+   "CS · CSR · HGR"
+  ],
+  [
+   "Données sanitaires",
+   "Enregistrement, transmission et utilisation des données sanitaires",
+   "Transversal",
+   "Systémique",
+   "CS · CSR · HGR"
+  ]
+ ],
+ "22": [
+  [],
+  []
+ ],
+ "23": [
+  [
+   "Dimension",
+   "Catégorie de goulot",
+   "Bloquante",
+   "Restrictive",
+   "Contextuelle"
+  ],
+  [
+   "Organisation du service",
+   "Systèmes / Organisation",
+   "68",
+   "3",
+   "0"
+  ],
+  [
+   "Capacité d'accueil",
+   "Équipement / Infrastructure",
+   "8",
+   "34",
+   "21"
+  ],
+  [
+   "Ressources humaines",
+   "Ressources humaines",
+   "57",
+   "14",
+   "0"
+  ],
+  [
+   "Intrants et produits",
+   "Produit",
+   "47",
+   "15",
+   "3"
+  ],
+  [
+   "Équipements",
+   "Équipement / Infrastructure",
+   "56",
+   "15",
+   "0"
+  ],
+  [
+   "Eau, hygiène et assainissement",
+   "Équipement / Infrastructure",
+   "0",
+   "54",
+   "9"
+  ],
+  [
+   "Électricité",
+   "Équipement / Infrastructure",
+   "8",
+   "40",
+   "23"
+  ],
+  [
+   "Communication",
+   "Systèmes / Référence",
+   "18",
+   "7",
+   "46"
+  ],
+  [
+   "Référence",
+   "Systèmes / Référence",
+   "20",
+   "33",
+   "13"
+  ],
+  [
+   "Données sanitaires",
+   "Systèmes / Organisation",
+   "3",
+   "16",
+   "52"
+  ],
+  [
+   "Surveillance épidémiologique",
+   "Systèmes / Organisation",
+   "5",
+   "5",
+   "61"
+  ],
+  [
+   "Intégration des services",
+   "Systèmes / Organisation",
+   "5",
+   "18",
+   "46"
+  ]
+ ],
+ "24": [
+  [
+   "Règle",
+   "Mise en œuvre"
+  ],
+  [
+   "Aucun cas",
+   "Une fonction sans cas dans les trois mois est évaluée sur les conditions actuelles (personnel, intrants, équipements), jamais mise au rouge pour absence de cas."
+  ],
+  [
+   "Stabilité des produits",
+   "Intrant critique disponible le jour de la visite et rupture cumulée ≤ 2 jours sur trois mois : vert ; 3 à 7 jours : jaune ; > 7 jours ou indisponible : rouge. Un groupe de substitution est satisfait par un membre vert ; un élément de soutien plafonne au jaune sans bloquer."
+  ],
+  [
+   "Contournement",
+   "Un contournement documenté (référence, communication) est pris en compte par la dimension concernée ; il rend une fonction jaune, pas verte, et n'efface pas un blocage d'intrant ou d'équipement."
+  ],
+  [
+   "Contrainte bloquante",
+   "Rôles fixés par le référentiel pour chaque fonction et chaque niveau (voir le tableau des fonctions traceuses)."
+  ],
+  [
+   "Disponibilité du renvoi",
+   "Destination identifiée, contact préalable habituel, transport disponible et fonctionnel ; bloquante pour les urgences obstétricales, la malnutrition compliquée, le paludisme grave, les MAPI et la référence urgente."
+  ],
+  [
+   "Durées",
+   "Présence et jours de service valides de 0 à 92 jours ; 90 jours et plus valent couverture complète. Absence de toute source d'électricité ou de tout dispositif de lavage des mains : composante classée rouge par construction, l’eau, l’hygiène et l’assainissement restant restrictifs pour la fonction."
+  ]
+ ]
+}

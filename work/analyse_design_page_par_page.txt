@@ -1,0 +1,217 @@
+ANALYSE PAGE PAR PAGE DU MODÈLE DE DESIGN — Md_ref.pdf
+Interprétation de la consigne utilisateur :
+- Pages 1 à 10 : source exclusive de la mise en page, des marges, de la hiérarchie et des tailles de police.
+- Pages 11 à 21 : source d’inspiration pour les couleurs, le style graphique et les accents décoratifs,
+  sans reprise d’un seul mot de leur texte et sans modifier la hiérarchie typographique retenue.
+- Le modèle est exclusivement une référence visuelle ; tout le contenu rédactionnel vient du DOCUMENT 1.
+
+=== PAGE 01 ===
+Dimensions : 595.28 × 841.89 pt
+Polices dominantes : GlacialIndifference-Regu (3016 car.), GlacialIndifference-Bold (58 car.)
+Tailles dominantes : 9.9 pt (2967 car.), 9.4 pt (36 car.), 7.2 pt (32 car.), 10.6 pt (29 car.), 12.2 pt (7 car.)
+Couleurs de texte : #000000 (2967 car.), #131D44 (58 car.), #6B707D (49 car.)
+Fonds : 
+Filets : #D8D8D8 (1), #121C44 (1)
+Épaisseurs : 0.7 pt (1), 0.9 pt (1)
+Lecture : Préface recomposée : en-tête courant espacé, filet gris, titre navy, paragraphes justifiés, signature centrée en gras navy et sous-titre gris.
+
+=== PAGE 02 ===
+Dimensions : 595.28 × 841.89 pt
+Polices dominantes : GlacialIndifference-Regu (2270 car.), GlacialIndifference-Bold (62 car.)
+Tailles dominantes : 9.9 pt (2219 car.), 7.2 pt (44 car.), 10.6 pt (27 car.), 9.4 pt (26 car.), 12.2 pt (13 car.)
+Couleurs de texte : #000000 (2219 car.), #131D44 (62 car.), #6B707D (51 car.)
+Fonds : 
+Filets : #D8D8D8 (1), #121C44 (1)
+Épaisseurs : 0.7 pt (1), 0.9 pt (1)
+Lecture : Remerciements : même grille, même hiérarchie, signature centrée.
+
+=== PAGE 03 ===
+Dimensions : 595.28 × 841.89 pt
+Polices dominantes : GlacialIndifference-Regu (801 car.), GlacialIndifference-Bold (206 car.)
+Tailles dominantes : 9.4 pt (770 car.), 10.4 pt (64 car.), 10.6 pt (53 car.), 7.2 pt (50 car.), 9.1 pt (38 car.)
+Couleurs de texte : #000000 (834 car.), #131D44 (142 car.), #6B707D (31 car.)
+Fonds : 
+Filets : #CDD5F7 (81), #D8D8D8 (3)
+Épaisseurs : 0.9 pt (81), 0.7 pt (3)
+Lecture : Table des matières, première partie : titres gras, points de conduite bleu pâle, numéros navy alignés à droite, hiérarchie romaine / décimale.
+
+=== PAGE 04 ===
+Dimensions : 595.28 × 841.89 pt
+Polices dominantes : GlacialIndifference-Regu (1126 car.), GlacialIndifference-Bold (154 car.)
+Tailles dominantes : 9.4 pt (1095 car.), 9.1 pt (59 car.), 7.2 pt (50 car.), 10.6 pt (44 car.), 10.4 pt (20 car.)
+Couleurs de texte : #000000 (1115 car.), #131D44 (134 car.), #6B707D (31 car.)
+Fonds : 
+Filets : #CDD5F7 (108), #D8D8D8 (4)
+Épaisseurs : 0.9 pt (108), 0.7 pt (4)
+Lecture : Table des matières, deuxième partie : suites des chapitres, bibliographie et annexes.
+
+=== PAGE 05 ===
+Dimensions : 595.28 × 841.89 pt
+Polices dominantes : GlacialIndifference-Regu (2461 car.), GlacialIndifference-Bold (146 car.)
+Tailles dominantes : 9.4 pt (2412 car.), 7.2 pt (68 car.), 12.2 pt (64 car.), 9.1 pt (60 car.), 8.2 pt (3 car.)
+Couleurs de texte : #000000 (2412 car.), #131D44 (146 car.), #6B707D (49 car.)
+Fonds : 
+Filets : #CDD5F7 (96), #121C44 (6), #D8D8D8 (3)
+Épaisseurs : 0.9 pt (102), 0.7 pt (3)
+Lecture : Liste des figures et tableaux : deux sous-titres navy, filet navy sous chacun, points de conduite bleu pâle.
+
+=== PAGE 06 ===
+Dimensions : 595.28 × 841.89 pt
+Polices dominantes : GlacialIndifference-Regu (2728 car.), GlacialIndifference-Bold (132 car.)
+Tailles dominantes : 9.4 pt (2679 car.), 9.1 pt (90 car.), 7.2 pt (68 car.), 12.2 pt (20 car.), 8.2 pt (3 car.)
+Couleurs de texte : #000000 (2679 car.), #131D44 (132 car.), #6B707D (49 car.)
+Fonds : 
+Filets : #CDD5F7 (125), #121C44 (5), #D8D8D8 (4)
+Épaisseurs : 0.9 pt (130), 0.7 pt (4)
+Lecture : Suite de la liste des tableaux et ouverture des tableaux d'annexes.
+
+=== PAGE 07 ===
+Dimensions : 595.28 × 841.89 pt
+Polices dominantes : GlacialIndifference-Regu (2727 car.), GlacialIndifference-Bold (139 car.)
+Tailles dominantes : 9.4 pt (2678 car.), 9.1 pt (117 car.), 7.2 pt (68 car.), 8.2 pt (3 car.)
+Couleurs de texte : #000000 (2678 car.), #131D44 (139 car.), #6B707D (49 car.)
+Fonds : 
+Filets : #CDD5F7 (148), #D8D8D8 (4), #121C44 (1)
+Épaisseurs : 0.9 pt (149), 0.7 pt (4)
+Lecture : Suite des tableaux d'annexes ; conserve l'artefact « Erreur ! Signet non défini. » et les numéros de page accolés.
+
+=== PAGE 08 ===
+Dimensions : 595.28 × 841.89 pt
+Polices dominantes : GlacialIndifference-Regu (1636 car.), GlacialIndifference-Bold (88 car.)
+Tailles dominantes : 9.4 pt (1587 car.), 7.2 pt (68 car.), 9.1 pt (66 car.), 8.2 pt (3 car.)
+Couleurs de texte : #000000 (1587 car.), #131D44 (88 car.), #6B707D (49 car.)
+Fonds : 
+Filets : #CDD5F7 (99), #D8D8D8 (4)
+Épaisseurs : 0.9 pt (99), 0.7 pt (4)
+Lecture : Fin des tableaux d'annexes (A64, p.151).
+
+=== PAGE 09 ===
+Dimensions : 595.28 × 841.89 pt
+Polices dominantes : GlacialIndifference-Regu (1490 car.), GlacialIndifference-Bold (214 car.)
+Tailles dominantes : 8.4 pt (1594 car.), 7.2 pt (64 car.), 12.2 pt (25 car.), 7.9 pt (18 car.), 8.2 pt (3 car.)
+Couleurs de texte : #000000 (1445 car.), #131D44 (196 car.), #6B707D (45 car.), #FFFFFF (18 car.)
+Fonds : #FFFAF7 (54), #121C44 (3)
+Filets : #D8D8D8 (117), #121C44 (3)
+Épaisseurs : 0.4 pt (117), 0 pt (57), 0.7 pt (3)
+Lecture : Abréviations et acronymes : barre d'en-tête navy, lignes alternées crème, colonnes sans filets verticaux.
+
+=== PAGE 10 ===
+Dimensions : 595.28 × 841.89 pt
+Polices dominantes : GlacialIndifference-Regu (1470 car.), GlacialIndifference-Bold (192 car.), GlacialIndifference-Regular (84 car.)
+Tailles dominantes : 8.4 pt (1661 car.), 7.2 pt (64 car.), 7.9 pt (18 car.), 8.2 pt (3 car.)
+Couleurs de texte : #000000 (1509 car.), #131D44 (174 car.), #6B707D (45 car.), #FFFFFF (18 car.)
+Fonds : #FFFAF7 (52), #121C44 (3)
+Filets : #D8D8D8 (110), #121C44 (3)
+Épaisseurs : 0.4 pt (110), 0 pt (55), 0.7 pt (3)
+Lecture : Deuxième page des abréviations : répétition de l'en-tête de tableau, numérotation de page espacée.
+
+=== PAGE 11 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (126 car.)
+Tailles dominantes : 11.5 pt (112 car.), 50.0 pt (14 car.)
+Couleurs de texte : #131D44 (112 car.), #000000 (14 car.)
+Fonds : #FFFFFF (2), #000000 (2), #121C44 (1)
+Filets : #121C44 (1)
+Épaisseurs : 0 pt (5), 0.8 pt (1)
+Lecture : Gabarit générique : bande navy supérieure, grand titre centré, filet bas, coordonnées espacées. Aucun texte à reprendre.
+
+=== PAGE 12 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (972 car.), GlacialIndifference-Bold (59 car.)
+Tailles dominantes : 12.4 pt (963 car.), 12.3 pt (33 car.), 27.5 pt (14 car.), 26.5 pt (12 car.), 45.0 pt (9 car.)
+Couleurs de texte : #000000 (1031 car.)
+Fonds : #FFDE58 (3), #121C44 (3), #000000 (3), #FFFFFF (2)
+Filets : 
+Épaisseurs : 0 pt (11)
+Lecture : Page de résultats générique : donuts navy/jaune, grands chiffres, texte de remplissage. Couleurs et formes à titre d'inspiration uniquement.
+
+=== PAGE 13 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (977 car.), GlacialIndifference-Bold (47 car.)
+Tailles dominantes : 12.4 pt (968 car.), 12.3 pt (33 car.), 27.5 pt (14 car.), 45.0 pt (9 car.)
+Couleurs de texte : #000000 (1024 car.)
+Fonds : #FFFFFF (2)
+Filets : 
+Épaisseurs : 0 pt (2)
+Lecture : Cartes arrondies à contour noir, barres de progression navy/pervenche, typographie display.
+
+=== PAGE 14 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (377 car.), GlacialIndifference-Bold (120 car.)
+Tailles dominantes : 12.4 pt (353 car.), 9.0 pt (62 car.), 19.9 pt (41 car.), 45.0 pt (24 car.), 16.3 pt (17 car.)
+Couleurs de texte : #000000 (497 car.)
+Fonds : #FFDE58 (11), #8CA1FF (11), #000000 (3), #FFFFFF (2), #121C44 (1)
+Filets : #000000 (5)
+Épaisseurs : 0 pt (30), 0.3 pt (5)
+Lecture : Diagramme en aires navy/bleu, axes gris, étiquettes en gras.
+
+=== PAGE 15 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (677 car.), GlacialIndifference-Bold (26 car.)
+Tailles dominantes : 12.4 pt (660 car.), 16.9 pt (26 car.), 56.3 pt (17 car.)
+Couleurs de texte : #000000 (703 car.)
+Fonds : #FFFFFF (4), #000000 (4), #121C44 (2)
+Filets : #000000 (2), #FFFFFF (2)
+Épaisseurs : 0 pt (10), 6.0 pt (4)
+Lecture : Variante de mise en page avec cartes et pictogrammes.
+
+=== PAGE 16 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (678 car.), GlacialIndifference-Bold (18 car.)
+Tailles dominantes : 12.4 pt (660 car.), 56.3 pt (18 car.), 16.9 pt (18 car.)
+Couleurs de texte : #000000 (696 car.)
+Fonds : #FFFFFF (4), #000000 (2)
+Filets : #000000 (2)
+Épaisseurs : 0 pt (6), 6.0 pt (2)
+Lecture : Variante de tableau de bord, même palette.
+
+=== PAGE 17 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (661 car.), GlacialIndifference-Bold (116 car.)
+Tailles dominantes : 12.4 pt (645 car.), 11.3 pt (63 car.), 17.5 pt (27 car.), 16.9 pt (18 car.), 45.0 pt (16 car.)
+Couleurs de texte : #000000 (777 car.)
+Fonds : #000000 (6), #FFFFFF (5), #121C44 (3), #CDD5F7 (2), #5066B6 (1)
+Filets : #000000 (10), #121C44 (1), #FFFFFF (1), #5066B6 (1)
+Épaisseurs : 0 pt (17), 0.5 pt (8), 1.4 pt (3), 6.0 pt (2)
+Lecture : Cartes arrondies, barres de progression et graphique en aires : style graphique secondaire.
+
+=== PAGE 18 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (730 car.), GlacialIndifference-Bold (111 car.)
+Tailles dominantes : 12.4 pt (710 car.), 9.2 pt (84 car.), 16.3 pt (27 car.), 45.0 pt (20 car.)
+Couleurs de texte : #000000 (841 car.)
+Fonds : #FFDE58 (6), #FF3131 (6), #00BE62 (5), #FFFFFF (4), #0E0F15 (3)
+Filets : #000000 (10)
+Épaisseurs : 0 pt (27), 0.4 pt (8), 3.0 pt (2)
+Lecture : Grille de cartes et de pourcentages.
+
+=== PAGE 19 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (672 car.), GlacialIndifference-Bold (39 car.)
+Tailles dominantes : 12.4 pt (660 car.), 16.9 pt (39 car.), 56.3 pt (12 car.)
+Couleurs de texte : #000000 (711 car.)
+Fonds : #FFFFFF (4), #000000 (2)
+Filets : #000000 (2)
+Épaisseurs : 0 pt (6), 6.0 pt (2)
+Lecture : Graphiques circulaires et indicateurs.
+
+=== PAGE 20 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (367 car.), GlacialIndifference-Bold (48 car.)
+Tailles dominantes : 12.4 pt (355 car.), 14.8 pt (48 car.), 45.0 pt (12 car.)
+Couleurs de texte : #000000 (415 car.)
+Fonds : #FFFFFF (3), #000000 (2), #CDD5F7 (1), #5066B6 (1), #8CA1FF (1)
+Filets : #000000 (1)
+Épaisseurs : 0 pt (9), 3.0 pt (1)
+Lecture : Page de synthèse colorée, bandeaux et pictogrammes.
+
+=== PAGE 21 ===
+Dimensions : 595.50 × 842.25 pt
+Polices dominantes : GlacialIndifference-Regu (1078 car.), GlacialIndifference-Bold (45 car.)
+Tailles dominantes : 12.4 pt (1065 car.), 16.3 pt (45 car.), 45.0 pt (13 car.)
+Couleurs de texte : #000000 (1123 car.)
+Fonds : #FFFFFF (2)
+Filets : 
+Épaisseurs : 0 pt (2)
+Lecture : Page de clôture du gabarit, bande navy et filet bas.
+

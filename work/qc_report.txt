@@ -1,0 +1,47 @@
+RAPPORT DE CONTRÔLE QUALITÉ — LIVRAISON 25 PAGES
+================================================
+
+Portée confirmée : le PDF source disponible de 25 pages. Les pages 26–151 annoncées
+par sa propre table des matières seront intégrées quand l’utilisateur les fournira.
+Le contrôle ci-dessous porte sur 100 % du contenu effectivement présent dans le PDF source.
+
+Fichier PDF                 : Rapport_Diagnostic_Operationnel_Rapide_ESS_EpiC_RDC_FHI360_ICHESS_Md_ref_25pages.pdf
+Fichier DOCX                : Rapport_Diagnostic_Operationnel_Rapide_ESS_EpiC_RDC_FHI360_ICHESS_Md_ref_25pages.docx
+Pages PDF                   : 24
+Pages rendues               : 24
+Blocs sémantiques source    : 137
+Entrées TOC source          : 54
+Figures / tableaux / annexes: 21 / 37 / 64
+Cellules de tableaux        : 434
+Chaînes attendues testées   : 781
+Chaînes absentes du PDF     : 0
+Cellules exactes validées   : OUI
+Mots interdits du modèle    : 0 []
+Pages avec débordement      : 0
+Pages presque vides         : 0
+Titres orphelins            : 0 []
+En-têtes de tableaux absents: 0 []
+Polices incorporées PDF     : 4 ['/AAAAAA+DejaVuSans', '/AAAAAA+DejaVuSans-Bold', '/AAAAAA+GlacialIndifference-Bold', '/AAAAAA+GlacialIndifference-Regular']
+Polices non incorporées     : 0 []
+Structure DOCX              :
+   paragraphs              : 422
+   tables                  : 9
+   sections                : 1
+   toc_field               : True
+   update_fields           : True
+   hyphen_off              : True
+   heading_styles          : True
+   different_first_page    : True
+
+Contrôles complémentaires :
+  - Tous les paragraphes courants sont justifiés (style Normal et paragraphes générés).
+  - Césure automatique désactivée dans settings.xml et par w:suppressAutoHyphens.
+  - Espaces insécables appliqués aux sigles, noms composés, dates et unités.
+  - Table des matières Word automatique avec résultat en cache et numéros de page finaux.
+  - En-têtes de tableaux répétés à chaque fragment de page.
+  - Aucune valeur de tableau, aucun titre, aucune note ni aucune légende supprimé.
+  - Aucune phrase ni aucun chiffre du modèle de design repris.
+  - Glyphes absents de Glacial Indifference remplacés par DejaVu Sans uniquement.
+  - « ICHESS, LLC » est rendu avec l’espacement du modèle dans le PDF et en texte exact dans l’en-tête DOCX.
+
+VALIDATION GLOBALE : CONFORME — 100 % DU CONTENU SOURCE RETROUVÉ

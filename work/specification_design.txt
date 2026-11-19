@@ -1,0 +1,62 @@
+SPÉCIFICATION DE DESIGN — APPLICATION DE Md_ref.pdf AU DOCUMENT 1
+=================================================================
+
+1. Périmètre et règle d’exclusivité
+   - Md_ref.pdf est le fichier confirmé comme modèle de design unique.
+   - Pages 1–10 : mise en page, marges, hiérarchie, tailles de police, en-têtes, pieds de page.
+   - Pages 11–21 : inspiration uniquement pour la palette et les accents graphiques.
+   - Aucune phrase, aucun titre, aucun chiffre du modèle n’est transféré.
+   - Le contenu rédactionnel provient exclusivement du PDF source de 25 pages.
+
+2. Format et grille
+   - A4 : 595,28 × 841,89 pt.
+   - Marges gauche/droite : 59,5 pt. Marge haute : 62 pt. Marge basse : 60 pt.
+   - Largeur utile : 476,3 pt.
+   - En-tête courant à 35,6–42,8 pt : « I C H E S S , L L C » à gauche, rubrique à droite.
+   - Filet gris #D9D9D9 sous l’en-tête, y = 48,5 pt, épaisseur 0,7 pt.
+   - Pied de page : numéro à deux chiffres espacés, centré, navy, 8,2 pt.
+   - Couverture : pas d’en-tête ni de pied de page ; bande navy et accents jaune/pervenche inspirés des pp.11–21.
+
+3. Palette exacte relevée
+   - Navy dominant        : #131D44  (0.075, 0.114, 0.267)
+   - Gris typographique   : #6B707D   (0.420, 0.439, 0.490)
+   - Gris de filet        : #D9D9D9   (0.851, 0.851, 0.851)
+   - Bleu pâle conducteur : #CED6F8 (0.808, 0.839, 0.973)
+   - Crème lignes paires  : #FFFBF7 (1.000, 0.984, 0.969)
+   - Jaune accent         : #FFDE59 (1.000, 0.871, 0.349)
+   - Pervenche accent     : #8DA1FF (0.553, 0.631, 1.000)
+   - Bleu moyen accent    : #5166B7 (0.318, 0.400, 0.718)
+   - Rouge / vert accent  : #FF3131 / #00BF63
+   - Texte courant : noir #000000 ; blanc #FFFFFF sur navy.
+
+4. Typographie
+   - Famille : Glacial Indifference (Regular et Bold), extraite de Md_ref.pdf et complétée par les TTF complets.
+   - Corps : 9,9 pt, interligne 14,0 pt, justifié.
+   - Titre de rubrique H1 : 12,2 pt gras navy, espacement de 0,6 pt, précédé d’un filet navy 0,9 pt.
+   - Titre H2 : 10,4 pt gras navy.
+   - Titre H3 : 9,9 pt gras navy.
+   - Toc/listes : 9,4–10,4 pt ; numéros 10,6 pt gras navy.
+   - En-tête courant : 7,2 pt espacé, gris/navy.
+   - Pied de page : 8,2 pt gras navy espacé.
+   - Légendes de tableaux : 9,0 pt italiques navy, alignées à gauche.
+   - Césure automatique : désactivée globalement et par paragraphe.
+   - Espaces insécables : appliqués aux sigles, dates et noms d’organismes composés.
+   - Glyphes absents de Glacial (≤, ≥, «, », •) : repli DejaVu Sans, uniquement pour ces glyphes.
+
+5. Tables et listes
+   - En-tête de tableau : bande navy #131D44, texte blanc gras 8,0–8,4 pt, hauteur 25 pt.
+   - Lignes : alternance blanc / crème #FFFBF7, filets horizontaux bleu pâle #CED6F8, 0,4 pt.
+   - Pas de filets verticaux ; cellules justifiées à gauche, en-têtes répétés à chaque page.
+   - Points de conduite : #CED6F8, 0,9 pt, espacement régulier.
+   - Largeurs de colonnes proportionnées au contenu, sans déformation des valeurs.
+
+6. Éléments inspirés des pages 11–21
+   - Bande navy supérieure de couverture.
+   - Minces accents jaune et pervenche sur la couverture et les séparateurs de chapitre.
+   - Filets de section navy/pervenche, sans cartes arrondies ni graphiques inventés.
+   - Aucun donut, aucune barre de progression et aucune courbe n’est créé : le document source de 25 pages n’en contient pas.
+
+7. Règles d’adaptation autorisées
+   1) espacement ; 2) dimensions des blocs ; 3) marges dans les limites du modèle ;
+   4) légère réduction typographique ; 5) réduction proportionnelle des visuels ; 6) ajout de pages.
+   Aucune suppression de contenu, aucune valeur modifiée, aucun titre inventé.
