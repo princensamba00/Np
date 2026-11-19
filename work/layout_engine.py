@@ -35,6 +35,24 @@ LIST_SIZE = 9.2
 LIST_LH = 10.2
 LIST_AFTER = 0.5
 
+# TOC automatique couvrant les deux segments : densité légèrement accrue
+# (adaptation d'espacement puis de corps, sans aucune suppression de titre)
+# afin de conserver la numérotation continue 01–24 puis 25.
+TOC_SIZE = 8.0
+TOC_LH = 8.3
+TOC_AFTER = 0.1
+
+# Suite (pages imprimées 26–55) : figures natives, encadrés, bandeaux KPI
+FIG_MAX_H = 430.0
+BOX_SIZE = 9.6
+BOX_LH = 13.6
+BOX_AFTER = 3.0
+BOX_PAD = 9.0
+KPI_H = 66.0
+NOTE_SIZE = 9.0
+SUITE_TABLE_SIZE = 7.6
+SUITE_DENSE_SIZE = 7.0
+
 @dataclass
 class Item:
     kind: str
@@ -45,6 +63,7 @@ class Item:
     heading_id: str | None = None
     bookmark_level: int | None = None
     section_label: str | None = None
+    segment: str = 'part1'      # 'part1' ou 'suite'
 
 @dataclass
 class Page:
@@ -52,6 +71,7 @@ class Page:
     items: list
     section_label: str
     is_cover: bool = False
+    print_no: int = 0           # numéro affiché dans le pied de page
 
 # ---------------------------------------------------------------------------
 # Item constructors
@@ -92,6 +112,56 @@ def TABLE(name, caption, rows, font_size=TABLE_SIZE, new_page=False):
 
 def COVER():
     return Item('cover', {}, new_page=True)
+
+# ----- Blocs propres au segment 26–55 -------------------------------------
+def FIG(path, w, h, caption):
+    """Image bitmap native, redimensionnée proportionnellement (jamais déformée)."""
+    scale = min(CONTENT_W / float(w), FIG_MAX_H / float(h))
+    return Item('figure', {'path': path, 'w': w, 'h': h,
+                           'disp_w': w*scale, 'disp_h': h*scale,
+                           'caption': caption}, segment='suite')
+
+def NOTE(text):
+    return Item('note', {'text': text}, segment='suite')
+
+def BOX(title, paragraphs):
+    return Item('box', {'title': title, 'paragraphs': paragraphs}, segment='suite')
+
+def KPI(cells):
+    return Item('kpi', {'cells': cells}, segment='suite')
+
+def _word_width(word, size):
+    # DejaVu est le substitut le plus large : on mesure avec les deux pour
+    # garantir qu'aucun mot ne sera coupé caractère par caractère.
+    return max(pdfmetrics.stringWidth(word, 'Glacial', size),
+               pdfmetrics.stringWidth(word, 'DejaVu', size))
+
+def suite_table_font(rows, cw):
+    """Corps maximal évitant toute césure artificielle d'un mot en cellule."""
+    base = SUITE_DENSE_SIZE if len(cw) >= 9 else SUITE_TABLE_SIZE
+    size = base
+    while size >= 6.4:
+        bad = False
+        for row in rows:
+            for j, cell in enumerate(row):
+                if j >= len(cw): break
+                avail = cw[j] - 8
+                for word in re.split(r'\s+', str(cell)):
+                    if word and _word_width(word, size) > avail:
+                        bad = True; break
+                if bad: break
+            if bad: break
+        if not bad: return size
+        size = round(size - 0.2, 2)
+    return 6.4
+
+def SUITE_TABLE(name, rows, fills, src_widths):
+    total = sum(src_widths) or 1.0
+    cw = [w*CONTENT_W/total for w in src_widths]
+    fs = suite_table_font(rows, cw)
+    return Item('table', {'name': name, 'caption': '', 'rows': rows,
+                          'fills': fills, 'col_widths': cw, 'font_size': fs,
+                          'source_fills': True}, segment='suite')
 
 # ---------------------------------------------------------------------------
 # Measurement helpers
@@ -136,8 +206,19 @@ def row_height(row, col_widths, font_size):
         max_lines = max(max_lines, n)
     return max(16.5, max_lines * (font_size*1.28) + 5.0)
 
+def header_row_height(row, col_widths, font_size):
+    """Hauteur réelle de l'en-tête : aucune ligne de texte ne doit être coupée."""
+    max_lines = 1
+    for i, cell in enumerate(row):
+        if i >= len(col_widths): break
+        segs = fu.runs_to_segments(text_runs(str(cell), bold=True), font_size, BLACK)
+        _, n = fu.wrap_segments(segs, col_widths[i]-9, size=font_size)
+        max_lines = max(max_lines, n)
+    return max(22.0, max_lines * (font_size*1.28) + 6.0)
+
 def table_row_heights(rows, col_widths, font_size):
-    return [22.0] + [row_height(r, col_widths, font_size) for r in rows[1:]]
+    return [header_row_height(rows[0], col_widths, font_size)] + \
+           [row_height(r, col_widths, font_size) for r in rows[1:]]
 
 def measure_table(item):
     rows = item.data['rows']; cw = item.data['col_widths']; fs = item.data['font_size']
@@ -149,18 +230,27 @@ def toc_level(text):
     if text.startswith('Annexe '): return 2
     return 1
 
-def list_entry_height(entry):
+def list_metrics(compact):
+    return (TOC_SIZE, TOC_LH, TOC_AFTER) if compact else (LIST_SIZE, LIST_LH, LIST_AFTER)
+
+def list_entry_height(entry, compact=False):
+    size, lh, after = list_metrics(compact)
     text = entry['text']; marker = str(entry.get('page',''))
     indent = 14 if entry.get('indent',0) else 0
     avail = CONTENT_W - indent - 48
-    segs = fu.runs_to_segments(text_runs(text), LIST_SIZE, BLACK)
-    _, n = fu.wrap_segments(segs, avail, size=LIST_SIZE)
-    h = n * LIST_LH + LIST_AFTER
-    if len(marker) > 6: h += LIST_LH  # long artefact on its own line
+    segs = fu.runs_to_segments(text_runs(text), size, BLACK)
+    _, n = fu.wrap_segments(segs, avail, size=size)
+    h = n * lh + after
+    if len(marker) > 6: h += lh  # long artefact on its own line
     return h
 
 def measure_list_block(item):
-    return sum(list_entry_height(e) for e in item.data['entries'])
+    compact = item.kind == 'auto_toc'
+    return sum(list_entry_height(e, compact) for e in item.data['entries'])
+
+def caption_height(text):
+    """Hauteur réelle d'une légende/note italique 9 pt, même sur 2 lignes."""
+    return measure_rich(text_runs(text, italic=True), 9.0, CONTENT_W, False) + 5.0
 
 def measure(item):
     k = item.kind
@@ -174,10 +264,22 @@ def measure(item):
         return measure_rich(item.data['runs'], BODY_SIZE, CONTENT_W, item.data.get('justify',True)) + BODY_AFTER
     if k == 'bullet':
         return measure_rich(item.data['runs'], BODY_SIZE, CONTENT_W-18, False) + BULLET_AFTER
-    if k == 'caption': return 13.0 + 5.0
+    if k == 'caption': return caption_height(item.data['text'])
     if k == 'signature': return 34.0
     if k == 'list_block' or k == 'auto_toc': return measure_list_block(item)
     if k == 'table': return measure_table(item)
+    if k == 'figure':
+        cap = item.data.get('caption')
+        return item.data['disp_h'] + (caption_height(cap) if cap else 0.0) + 4.0
+    if k == 'note':
+        return measure_rich(text_runs(item.data['text'], italic=True),
+                            NOTE_SIZE, CONTENT_W, False) + 5.0
+    if k == 'box':
+        h = 2*BOX_PAD + 19.0
+        for runs in item.data['paragraphs']:
+            h += measure_rich(runs, BOX_SIZE, CONTENT_W-2*BOX_PAD-10, True) + BOX_AFTER
+        return h
+    if k == 'kpi': return KPI_H + 4.0
     return 10.0
 
 # ---------------------------------------------------------------------------
@@ -196,11 +298,15 @@ def split_table(item, avail):
     if take == 0: return None, item
     frag = copy.deepcopy(item)
     frag.data['rows'] = [rows[0]] + rows[1:1+take]
+    if item.data.get('fills'):
+        frag.data['fills'] = [item.data['fills'][0]] + item.data['fills'][1:1+take]
     frag.height = h + 4
     rem = None
     if 1+take < len(rows):
         rem = copy.deepcopy(item)
         rem.data['rows'] = [rows[0]] + rows[1+take:]
+        if item.data.get('fills'):
+            rem.data['fills'] = [item.data['fills'][0]] + item.data['fills'][1+take:]
         rem.data['caption'] = ''  # caption only on first page
         rem.new_page = False
         rem.height = measure_table(rem)
@@ -230,7 +336,7 @@ def split_item(item, avail):
 # ---------------------------------------------------------------------------
 # Pagination
 # ---------------------------------------------------------------------------
-def paginate(items):
+def paginate(items, suite_start_number=25):
     pages, cur, used = [], [], 0.0
     section = 'PRÉFACE'
     page_no = 1
@@ -303,6 +409,12 @@ def paginate(items):
             continue
         cur.append(item); used = rh
     finish()
+    # Numérotation demandée : la première page du segment « suite » porte 25,
+    # puis 26, 27… ; les pages de la première partie gardent 01, 02, 03…
+    boundary = next((i for i, p in enumerate(pages)
+                     if any(it.segment == 'suite' for it in p.items)), len(pages))
+    for i, p in enumerate(pages):
+        p.print_no = (i + 1) if i < boundary else suite_start_number + (i - boundary)
     return pages
 
 def collect_heading_pages(pages):
@@ -310,7 +422,7 @@ def collect_heading_pages(pages):
     for p in pages:
         for it in p.items:
             if it.kind == 'heading' and it.heading_id:
-                out.setdefault(it.heading_id, p.page_no)
+                out.setdefault(it.heading_id, p.print_no or p.page_no)
     return out
 
 def update_auto_toc(pages, heading_pages):
@@ -401,7 +513,9 @@ def build_items(content):
         elif t == 'table':
             name = b['table']; rows = content['tables'][name]
             fs = DENSE_TABLE_SIZE if name in ('table_3','table_5','table_4','table_6') else TABLE_SIZE
-            ti = TABLE(name, b['caption'], rows, fs)
+            # La légende est déjà émise comme bloc CAP() juste avant ;
+            # éviter sa duplication dans le DOCX.
+            ti = TABLE(name, '', rows, fs)
             if name == 'table_6':
                 # keep the rule labels intact on one line
                 ti.data['col_widths'] = [112.0, CONTENT_W-112.0]
@@ -429,3 +543,50 @@ def build_pages(content):
     # rebuild once so the auto-TOC page numbers are the ones from the final layout
     # (the layout itself is stable because only the numeric strings changed width).
     return pages, hp
+
+
+# ---------------------------------------------------------------------------
+# Segment source 26–55 : reconstruction fidèle de tous les blocs
+# ---------------------------------------------------------------------------
+def build_suite_items(suite):
+    items, catalog = [], []
+    assets_tables = suite.get('assets', {}).get('tables', {})
+    heading_no = 0
+    first = True
+    for b in suite['blocks']:
+        t = b['type']
+        if t == 'heading':
+            heading_no += 1
+            key = f"suite:{b['page']}:{heading_no}"
+            it = H(b['text'], b['level'], key=key, new_page=first)
+            first = False
+            items.append(it)
+            catalog.append({'text': b['text'], 'level': b['level'], 'key': key,
+                            'page': '0', 'indent': max(0, b['level']-1),
+                            'bold': b['level'] == 1})
+        elif t == 'body':
+            it = P(b['runs']); it.segment = 'suite'; items.append(it)
+        elif t == 'note':
+            items.append(NOTE(b['text']))
+        elif t == 'caption':
+            it = CAP(b['text']); it.segment = 'suite'; items.append(it)
+        elif t == 'figure':
+            items.append(FIG(b['path'], b['w'], b['h'], b['caption']))
+        elif t == 'table':
+            if b.get('caption'):
+                it = CAP(b['caption']); it.segment = 'suite'; items.append(it)
+            tabs = assets_tables.get(str(b['page']), [])
+            src_w = (tabs[b['asset_index']]['col_widths']
+                     if b['asset_index'] < len(tabs)
+                     else [1.0]*len(b['rows'][0]))
+            items.append(SUITE_TABLE(f"suite_t{b['page']}_{b['asset_index']}",
+                                     b['rows'], b['fills'], src_w))
+            if b.get('note'):
+                items.append(NOTE(b['note']))
+        elif t == 'box':
+            items.append(BOX(b['title'], b['paragraphs']))
+        elif t == 'kpi':
+            items.append(KPI(b['cells']))
+        else:
+            raise ValueError('bloc suite inconnu : '+t)
+    return items, catalog

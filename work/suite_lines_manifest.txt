@@ -1,0 +1,1983 @@
+
+===== PAGE 01 / imprimée 26 =====
+   62.1 x  56.7 18.00 B- #000000 III.
+   62.1 x  99.3 18.00 B- #000000 Résultats
+   92.5 x  56.7 11.52 -- #000000 Cette section présente les résultats du diagnostic rapide opérationnel organisés selon les objectifs
+  106.6 x  56.7 11.52 -- #000000 spécifiques de l’étude. Pour en faciliter la lecture, ils sont organisés selon les thèmes suivants :
+  120.6 x  56.7 11.52 -- #000000 description de l’échantillon, niveau de préparation fonctionnelle des établissements, intégration
+  134.6 x  56.7 11.52 -- #000000 opérationnelle des services, utilisation des données de routine, facteurs associés aux contraintes
+  148.7 x  56.7 11.52 -- #000000 observées et priorités d’investissement. Les recommandations font l’objet d’une section distincte
+  162.7 x  56.7 11.52 -- #000000 à la fin du rapport.
+  182.9 x  56.7 12.96 B- #000000 3.1. Description de l’échantillon et couverture
+  204.6 x  56.7 11.52 -- #000000 L’étude a porté sur 160 établissements répartis dans 40 zones de santé et huit provinces : 101
+  218.6 x  56.7 11.52 -- #000000 centres de santé, 22 centres de santé de référence et 37 hôpitaux généraux de référence. Le Haut-
+  232.7 x  56.7 11.52 -- #000000 Katanga regroupe le plus grand nombre d’établissements (52), soit près d’un tiers de l’échantillon.
+  246.7 x  56.7 11.52 -- #000000 Viennent ensuite le Kasaï-Central et le Lualaba, avec 24 établissements chacun, puis la Lomami
+  260.8 x  56.7 11.52 -- #000000 et le Sankuru, avec 16 chacun. Le Haut-Lomami en compte 12, tandis que le Kasaï-Oriental et le
+  274.8 x  56.7 11.52 -- #000000 Tanganyika en comptent chacun huit. Les centres de santé constituent la catégorie la plus
+  288.9 x  56.7 11.52 -- #000000 représentée dans toutes les provinces. L’échantillon ayant été constitué de manière raisonnée, les
+  302.9 x  56.7 11.52 -- #000000 proportions présentées décrivent les établissements visités et ne constituent pas des taux
+  317.0 x  56.7 11.52 -- #000000 provinciaux. La convergence des constats avec les enquêtes nationales suggère toutefois que les
+  331.0 x  56.7 11.52 -- #000000 goulots identifiés dépassent largement l’échantillon.
+
+===== PAGE 02 / imprimée 27 =====
+  418.2 x 166.6  9.00 -I #0e2841 Figure 1: Établissements évalués par province et par niveau de soins
+  439.1 x  62.8  9.00 -I #000000 HK : Haut-Katanga ; HL : Haut-Lomami ; KC : Kasaï-Central ; KO : Kasaï-Oriental ; LL : Lualaba ; LM : Lomami ; SK : Sankuru ;
+  450.1 x 129.1  9.00 -I #000000 TG : Tanganyika. Ces abréviations sont utilisées dans les figures provinciales du rapport.
+  467.2 x  56.7 12.96 B- #000000 3.2. Niveau de préparation fonctionnelle des établissements
+  489.3 x  62.4 14.04 B- #4c94d8 À retenir
+  506.5 x  62.4 11.04 -- #000000 La préparation opérationnelle reste très insuffisante : 68,4 % des évaluations sont classées
+  520.0 x  62.4 11.04 -- #000000 rouges, 30,2 % jaunes et 1,4 % vertes. Parmi les fonctions vitales, 13 sur 15 dépassent 70 % de
+  533.3 x  62.4 11.04 -- #000000 rouge.
+  546.7 x  62.4 11.04 -- #000000 Les écarts entre niveaux de soins restent insuffisants : parmi les 17 fonctions communes, la part
+  560.2 x  62.4 11.04 -- #000000 moyenne de rouge est d’environ 70 % au CS, 55 % au CSR et 50 % à l’HGR. Même à l’hôpital,
+  573.6 x  62.4 11.04 -- #000000 l’accouchement normal reste rouge dans 92 % des cas.
+  587.1 x  62.4 11.04 -- #000000 La nutrition est particulièrement touchée, quel que soit le niveau : la malnutrition aiguë
+  600.5 x  62.4 11.04 -- #000000 compliquée est classée rouge dans 84 à 93 % des cas.
+  614.0 x  62.4 11.04 -- #000000 La déclaration d’un service ne garantit pas qu’il puisse être assuré : parmi les 98 CS qui
+  625.6 x  62.4 12.96 -- #000000 déclarent offrir la réanimation néonatale, 97 ne disposent pas des conditions nécessaires.
+  640.9 x  62.4 11.04 -- #000000 Des goulots d’étranglement multiples et interdépendants : les intrants et les équipements
+  654.3 x  62.4 11.04 -- #000000 bloquent chacun plus de la moitié des fonctions rouges, suivis de la référence et de l’organisation
+  667.6 x  62.4 11.04 -- #000000 des services ; les ressources humaines et l’eau, l’hygiène et l’assainissement fragilisent surtout les
+  681.1 x  62.4 11.04 -- #000000 fonctions jaunes. Près de deux fonctions rouges sur trois cumulent au moins deux contraintes, ce
+  692.7 x  62.4 12.96 -- #000000 qui appelle des interventions intégrées.
+  727.5 x  88.6 21.96 B- #ffffff 160
+  727.5 x 176.9 21.96 B- #ffffff 3 773
+  727.5 x 268.0 21.96 B- #ffffff 68,4 %
+  727.5 x 364.4 21.96 B- #ffffff 30,2 %
+  727.5 x 466.3 21.96 B- #ffffff 1,4 %
+  750.9 x 268.6 10.56 -- #dce6f0 Fonctions rouges
+  750.9 x 365.4 10.56 -- #dce6f0 Fonctions jaunes
+  750.9 x 462.3 10.56 -- #dce6f0 Fonctions vertes
+  752.5 x  71.9  8.52 -- #dce6f0 Établissements · 40
+  752.5 x 163.5  8.52 -- #dce6f0 Évaluations fonction ×
+  761.4 x  72.6 10.56 -- #dce6f0 zones · 8 provinces
+  761.4 x 177.3 10.56 -- #dce6f0 établissement
+
+===== PAGE 03 / imprimée 28 =====
+   62.0 x  56.7 11.52 -- #000000 Le diagnostic rapide opérationnel a donné lieu à 3 773 évaluations fonction-établissement. Celles-
+   76.1 x  56.7 11.52 -- #000000 ci révèlent une préparation opérationnelle globalement insuffisante : 68,4 % des fonctions sont
+   90.1 x  56.7 11.52 -- #000000 classées rouges, indiquant qu’elles ne peuvent être assurées dans des conditions adéquates,
+  104.2 x  56.7 11.52 -- #000000 tandis que 30,2 % sont jaunes, donc assurées de manière fragile. Seules 1,4 % sont vertes,
+  118.2 x  56.7 11.52 -- #000000 témoignant d’une capacité pleinement opérationnelle. Ainsi, moins de deux fonctions évaluées
+  132.2 x  56.7 11.52 -- #000000 sur cent répondent pleinement aux exigences de préparation.
+  149.3 x  56.7 12.00 B- #000000 3.2.1. Vue d'ensemble des 28 fonctions
+  174.2 x  56.7 11.52 -- #000000 Parmi les évaluations calculables, les fonctions traceuses présentent des niveaux de préparation
+  188.3 x  56.7 11.52 -- #000000 très contrastés, avec une prédominance des classifications rouges pour la plupart des prestations.
+  202.3 x  56.7 11.52 -- #000000 Les insuffisances sont particulièrement marquées pour la nutrition et les soins maternels et
+  216.4 x  56.7 11.52 -- #000000 néonatals : 98 % des évaluations de la prise en charge de la malnutrition aiguë non compliquée et
+  230.4 x  56.7 11.52 -- #000000 92 % de celles de l’accouchement normal sont classées rouges. Les grossesses à risque (92 %), la
+  244.4 x  56.7 11.52 -- #000000 malnutrition aiguë compliquée (91 %), les MAPI (90 %) et la réanimation néonatale (88 %) affichent
+  258.5 x  56.7 11.52 -- #000000 également des niveaux élevés de non-préparation, et la pré-éclampsie comme le paludisme grave
+  272.6 x  56.7 11.52 -- #000000 dépassent 80 % d’évaluations rouges. Les urgences obstétricales restent très exposées : 76 % pour
+  286.6 x  56.7 11.52 -- #000000 la césarienne d’urgence, 71 % pour l’hémorragie du post-partum et 69 % pour le sepsis obstétrical.
+  300.6 x  56.7 11.52 -- #000000 À l’inverse, les proportions rouges sont plus faibles pour le diagnostic du paludisme (12 %), la
+  314.7 x  56.7 11.52 -- #000000 surveillance épidémiologique (27 %), l’intégration des services (28 %), le paludisme simple et la
+  328.7 x  56.7 11.52 -- #000000 gestion des données sanitaires (33 % chacun). Toutefois, ces fonctions sont principalement
+  342.8 x  56.7 11.52 -- #000000 classées jaunes, ce qui traduit une capacité jugée réalisable mais encore instable ; les évaluations
+  356.8 x  56.7 11.52 -- #000000 vertes restent peu fréquentes dans l’ensemble. Le nombre d’évaluations calculables variant selon
+  370.8 x  56.7 11.52 -- #000000 la fonction, les résultats doivent être interprétés en tenant compte des effectifs indiqués dans le
+  384.9 x  56.7 11.52 -- #000000 graphique.
+
+===== PAGE 04 / imprimée 29 =====
+  529.5 x 140.8  9.00 -I #0e2841 Figure 2: Classification des 28 fonctions traceuses, ensemble des établissements
+  550.4 x  56.7 12.00 B- #000000 3.2.2. Résultats selon le niveau de criticité
+  575.3 x  56.7 11.52 -- #000000 Parmi les fonctions essentielles, les proportions rouges s’étendent de 12,5 % pour le diagnostic du
+  589.4 x  56.7 11.52 -- #000000 paludisme à 98,0 % pour la prise en charge de la malnutrition aiguë non compliquée. Les
+  603.4 x  56.7 11.52 -- #000000 classements rouges sont également très fréquents pour l’accouchement normal (92,5 %), les
+  617.5 x  56.7 11.52 -- #000000 soins postnatals à la mère (83,1 %), les consultations prénatales de routine (82,9 %), la vaccination
+  631.5 x  56.7 11.52 -- #000000 de routine (81,3 %) et les soins du nouveau-né (76,9 %). À l’inverse, les classements jaunes
+  645.6 x  56.7 11.52 -- #000000 prédominent pour le diagnostic du paludisme (83,8 %) et le paludisme simple (63,8 %). Les
+  659.6 x  56.7 11.52 -- #000000 fonctions systémiques présentent elles aussi une majorité de classements jaunes : 59,4 % pour
+  673.6 x  56.7 11.52 -- #000000 les données sanitaires et 68,8 % pour l’intégration des services, contre respectivement 33,1 % et
+  687.7 x  56.7 11.52 -- #000000 28,1 % de classements rouges.
+  721.7 x  56.7 11.04 -I #0e2841 Tableau 7: Classification des 28 fonctions traceuses, par ordre de criticité
+
+===== PAGE 05 / imprimée 30 =====
+   63.2 x  61.5 11.04 B- #ffffff N°
+   65.6 x  84.4 10.56 B- #ffffff Fonction
+   65.6 x 181.5 10.56 B- #ffffff Criticité
+   65.6 x 240.1 10.56 B- #ffffff K
+   67.2 x 267.7  8.52 B- #ffffff %
+   67.2 x 299.2  8.52 B- #ffffff %
+   67.2 x 332.0  8.52 B- #ffffff %
+   67.2 x 365.1  8.52 B- #ffffff Premier blocage
+   67.2 x 463.2  8.52 B- #ffffff Part
+   67.2 x 500.4  8.52 B- #ffffff Provinces
+   76.1 x 267.7 10.56 B- #ffffff Vert
+   76.1 x 299.2 10.56 B- #ffffff Jaune
+   76.1 x 332.0 10.56 B- #ffffff Rouge
+   76.1 x 365.1 10.56 B- #ffffff dominant
+   76.1 x 500.4 10.56 B- #ffffff où rouge
+   77.6 x 463.2  8.52 B- #ffffff des
+   86.4 x 463.2 10.56 B- #ffffff rouges
+  109.3 x  61.5 10.56 -- #1f2a37 1
+  109.3 x  84.4 10.56 -- #1f2a37 Grossesse à risque
+  109.3 x 181.5 10.56 -- #1f2a37 Vitale
+  109.3 x 242.8 10.56 -- #1f2a37 123
+  109.3 x 276.9 10.56 -- #1f2a37 0,0
+  109.3 x 309.7 10.56 -- #1f2a37 8,1
+  109.3 x 337.5 10.56 -- #1f2a37 91,9
+  109.3 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  109.3 x 472.8 10.56 -- #1f2a37 88,5
+  109.3 x 529.2 10.56 -- #1f2a37 8
+  130.7 x  61.5 10.56 -- #1f2a37 2
+  130.7 x  84.4 10.56 -- #1f2a37 MA compliquée
+  130.7 x 181.5 10.56 -- #1f2a37 Vitale
+  130.7 x 242.8 10.56 -- #1f2a37 160
+  130.7 x 276.9 10.56 -- #1f2a37 0,6
+  130.7 x 309.7 10.56 -- #1f2a37 8,8
+  130.7 x 337.5 10.56 -- #1f2a37 90,6
+  130.7 x 406.3 10.56 -- #1f2a37 Ressources
+  130.7 x 472.8 10.56 -- #1f2a37 53,1
+  130.7 x 529.2 10.56 -- #1f2a37 8
+  143.4 x 412.3 10.56 -- #1f2a37 humaines
+  164.8 x  61.5 10.56 -- #1f2a37 3
+  164.8 x  84.4 10.56 -- #1f2a37 MAPI
+  164.8 x 181.5 10.56 -- #1f2a37 Vitale
+  164.8 x 242.8 10.56 -- #1f2a37 123
+  164.8 x 276.9 10.56 -- #1f2a37 0,0
+  164.8 x 309.7 10.56 -- #1f2a37 9,8
+  164.8 x 337.5 10.56 -- #1f2a37 90,2
+  164.8 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  164.8 x 472.8 10.56 -- #1f2a37 89,2
+  164.8 x 529.2 10.56 -- #1f2a37 8
+  186.1 x  61.5 10.56 -- #1f2a37 4
+  186.1 x 181.5 10.56 -- #1f2a37 Vitale
+  186.1 x 242.8 10.56 -- #1f2a37 160
+  186.1 x 276.9 10.56 -- #1f2a37 0,6
+  186.1 x 304.4 10.56 -- #1f2a37 11,9
+  186.1 x 337.5 10.56 -- #1f2a37 87,5
+  186.1 x 398.0 10.56 -- #1f2a37 Équipements
+  186.1 x 472.8 10.56 -- #1f2a37 95,7
+  186.1 x 529.2 10.56 -- #1f2a37 8
+  186.3 x  84.4 10.56 -- #1f2a37 Réanimation
+  199.0 x  84.4 10.56 -- #1f2a37 néonat.
+  220.2 x  61.5 10.56 -- #1f2a37 5
+  220.2 x  84.4 10.56 -- #1f2a37 Pré-éclampsie
+  220.2 x 181.5 10.56 -- #1f2a37 Vitale
+  220.2 x 242.8 10.56 -- #1f2a37 160
+  220.2 x 276.9 10.56 -- #1f2a37 0,6
+  220.2 x 304.4 10.56 -- #1f2a37 16,9
+  220.2 x 337.5 10.56 -- #1f2a37 82,5
+  220.2 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  220.2 x 472.8 10.56 -- #1f2a37 83,3
+  220.2 x 529.2 10.56 -- #1f2a37 8
+  241.6 x  61.5 10.56 -- #1f2a37 6
+  241.6 x  84.4 10.56 -- #1f2a37 Paludisme grave
+  241.6 x 181.5 10.56 -- #1f2a37 Vitale
+  241.6 x 242.8 10.56 -- #1f2a37 160
+  241.6 x 276.9 10.56 -- #1f2a37 0,0
+  241.6 x 304.4 10.56 -- #1f2a37 18,1
+  241.6 x 337.5 10.56 -- #1f2a37 81,9
+  241.6 x 398.0 10.56 -- #1f2a37 Équipements
+  241.6 x 472.8 10.56 -- #1f2a37 68,7
+  241.6 x 529.2 10.56 -- #1f2a37 8
+  262.8 x  61.5 10.56 -- #1f2a37 7
+  262.8 x  84.4 10.56 -- #1f2a37 Chaîne du froid
+  262.8 x 181.5 10.56 -- #1f2a37 Vitale
+  262.8 x 242.8 10.56 -- #1f2a37 123
+  262.8 x 276.9 10.56 -- #1f2a37 0,0
+  262.8 x 304.4 10.56 -- #1f2a37 22,0
+  262.8 x 337.5 10.56 -- #1f2a37 78,0
+  262.8 x 411.7 10.56 -- #1f2a37 Électricité
+  262.8 x 472.8 10.56 -- #1f2a37 77,1
+  262.8 x 529.2 10.56 -- #1f2a37 8
+  284.2 x  61.5 10.56 -- #1f2a37 8
+  284.2 x 181.5 10.56 -- #1f2a37 Vitale
+  284.2 x 248.1 10.56 -- #1f2a37 59
+  284.2 x 276.9 10.56 -- #1f2a37 0,0
+  284.2 x 304.4 10.56 -- #1f2a37 23,7
+  284.2 x 337.5 10.56 -- #1f2a37 76,3
+  284.2 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  284.2 x 472.8 10.56 -- #1f2a37 71,1
+  284.2 x 529.2 10.56 -- #1f2a37 7
+  284.3 x  84.4 10.56 -- #1f2a37 Césarienne
+  297.0 x  84.4 10.56 -- #1f2a37 d'urgence
+  318.4 x  61.5 10.56 -- #1f2a37 9
+  318.4 x  84.4 10.56 -- #1f2a37 Transfusion
+  318.4 x 181.5 10.56 -- #1f2a37 Vitale
+  318.4 x 248.1 10.56 -- #1f2a37 59
+  318.4 x 276.9 10.56 -- #1f2a37 3,4
+  318.4 x 304.4 10.56 -- #1f2a37 20,3
+  318.4 x 337.5 10.56 -- #1f2a37 76,3
+  318.4 x 398.0 10.56 -- #1f2a37 Équipements
+  318.4 x 472.8 10.56 -- #1f2a37 80,0
+  318.4 x 529.2 10.56 -- #1f2a37 8
+  339.6 x  61.5 10.56 -- #1f2a37 10
+  339.6 x  84.4 10.56 -- #1f2a37 Référence urgente
+  339.6 x 181.5 10.56 -- #1f2a37 Vitale
+  339.6 x 242.8 10.56 -- #1f2a37 160
+  339.6 x 276.9 10.56 -- #1f2a37 0,0
+  339.6 x 304.4 10.56 -- #1f2a37 25,0
+  339.6 x 337.5 10.56 -- #1f2a37 75,0
+  339.6 x 472.8 10.56 -- #1f2a37 94,2
+  339.6 x 529.2 10.56 -- #1f2a37 8
+  339.8 x 385.9 10.56 -- #1f2a37 Organisation du
+  352.5 x 424.3 10.56 -- #1f2a37 service
+  373.8 x  61.5 10.56 -- #1f2a37 11
+  373.8 x  84.4 10.56 -- #1f2a37 Réception urgences
+  373.8 x 181.5 10.56 -- #1f2a37 Vitale
+  373.8 x 248.1 10.56 -- #1f2a37 37
+  373.8 x 276.9 10.56 -- #1f2a37 0,0
+  373.8 x 304.4 10.56 -- #1f2a37 27,0
+  373.8 x 337.5 10.56 -- #1f2a37 73,0
+  373.8 x 472.8 10.56 -- #1f2a37 88,9
+  373.8 x 529.2 10.56 -- #1f2a37 8
+  374.0 x 385.9 10.56 -- #1f2a37 Organisation du
+  386.7 x 424.3 10.56 -- #1f2a37 service
+  407.9 x  61.5 10.56 -- #1f2a37 12
+  407.9 x 181.5 10.56 -- #1f2a37 Vitale
+  407.9 x 248.1 10.56 -- #1f2a37 59
+  407.9 x 276.9 10.56 -- #1f2a37 0,0
+  407.9 x 304.4 10.56 -- #1f2a37 27,1
+  407.9 x 337.5 10.56 -- #1f2a37 72,9
+  407.9 x 398.0 10.56 -- #1f2a37 Équipements
+  407.9 x 472.8 10.56 -- #1f2a37 95,3
+  407.9 x 529.2 10.56 -- #1f2a37 7
+  408.0 x  84.4 10.56 -- #1f2a37 Accouchement
+  420.8 x  84.4 10.56 -- #1f2a37 assisté
+  442.1 x  61.5 10.56 -- #1f2a37 13
+  442.1 x  84.4 10.56 -- #1f2a37 Hémorragie post-
+  442.1 x 181.5 10.56 -- #1f2a37 Vitale
+  442.1 x 242.8 10.56 -- #1f2a37 160
+  442.1 x 276.9 10.56 -- #1f2a37 0,0
+  442.1 x 304.4 10.56 -- #1f2a37 29,4
+  442.1 x 337.5 10.56 -- #1f2a37 70,6
+  442.1 x 410.6 10.56 -- #1f2a37 Référence
+  442.1 x 472.8 10.56 -- #1f2a37 67,3
+  442.1 x 529.2 10.56 -- #1f2a37 8
+  454.9 x  84.4 10.56 -- #1f2a37 partum
+  476.2 x  61.5 10.56 -- #1f2a37 14
+  476.2 x  84.4 10.56 -- #1f2a37 Sepsis obstétrical
+  476.2 x 181.5 10.56 -- #1f2a37 Vitale
+  476.2 x 242.8 10.56 -- #1f2a37 160
+  476.2 x 276.9 10.56 -- #1f2a37 1,9
+  476.2 x 304.4 10.56 -- #1f2a37 28,8
+  476.2 x 337.5 10.56 -- #1f2a37 69,4
+  476.2 x 410.6 10.56 -- #1f2a37 Référence
+  476.2 x 472.8 10.56 -- #1f2a37 68,5
+  476.2 x 529.2 10.56 -- #1f2a37 8
+  497.6 x  61.5 10.56 -- #1f2a37 15
+  497.6 x 181.5 10.56 -- #1f2a37 Vitale
+  497.6 x 242.8 10.56 -- #1f2a37 160
+  497.6 x 276.9 10.56 -- #1f2a37 5,0
+  497.6 x 304.4 10.56 -- #1f2a37 68,1
+  497.6 x 337.5 10.56 -- #1f2a37 26,9
+  497.6 x 386.3 10.56 -- #1f2a37 Communication
+  497.6 x 472.8 10.56 -- #1f2a37 67,4
+  497.6 x 529.2 10.56 -- #1f2a37 7
+  497.7 x  84.4 10.56 -- #1f2a37 Surveillance
+  510.4 x  84.4 10.56 -- #1f2a37 épidémio
+  531.7 x  61.5 10.56 -- #1f2a37 16
+  531.7 x  84.4 10.56 -- #1f2a37 MA non compliquée Essentielle
+  531.7 x 242.8 10.56 -- #1f2a37 101
+  531.7 x 276.9 10.56 -- #1f2a37 0,0
+  531.7 x 309.7 10.56 -- #1f2a37 2,0
+  531.7 x 337.5 10.56 -- #1f2a37 98,0
+  531.7 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  531.7 x 472.8 10.56 -- #1f2a37 90,9
+  531.7 x 529.2 10.56 -- #1f2a37 8
+  553.0 x  61.5 10.56 -- #1f2a37 17
+  553.0 x 181.5 10.56 -- #1f2a37 Essentielle
+  553.0 x 242.8 10.56 -- #1f2a37 160
+  553.0 x 276.9 10.56 -- #1f2a37 0,6
+  553.0 x 309.7 10.56 -- #1f2a37 6,9
+  553.0 x 337.5 10.56 -- #1f2a37 92,5
+  553.0 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  553.0 x 472.8 10.56 -- #1f2a37 93,2
+  553.0 x 529.2 10.56 -- #1f2a37 8
+  553.1 x  84.4 10.56 -- #1f2a37 Accouchement
+  565.9 x  84.4 10.56 -- #1f2a37 normal
+  587.1 x  61.5 10.56 -- #1f2a37 18
+  587.1 x  84.4 10.56 -- #1f2a37 CPoN mère
+  587.1 x 181.5 10.56 -- #1f2a37 Essentielle
+  587.1 x 242.8 10.56 -- #1f2a37 160
+  587.1 x 276.9 10.56 -- #1f2a37 0,0
+  587.1 x 304.4 10.56 -- #1f2a37 16,9
+  587.1 x 337.5 10.56 -- #1f2a37 83,1
+  587.1 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  587.1 x 472.8 10.56 -- #1f2a37 78,9
+  587.1 x 529.2 10.56 -- #1f2a37 8
+  608.5 x  61.5 10.56 -- #1f2a37 19
+  608.5 x  84.4 10.56 -- #1f2a37 CPN de routine
+  608.5 x 181.5 10.56 -- #1f2a37 Essentielle
+  608.5 x 242.8 10.56 -- #1f2a37 123
+  608.5 x 276.9 10.56 -- #1f2a37 0,8
+  608.5 x 304.4 10.56 -- #1f2a37 16,3
+  608.5 x 337.5 10.56 -- #1f2a37 82,9
+  608.5 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  608.5 x 472.8 10.56 -- #1f2a37 91,2
+  608.5 x 529.2 10.56 -- #1f2a37 8
+  629.9 x  61.5 10.56 -- #1f2a37 20
+  629.9 x  84.4 10.56 -- #1f2a37 Vaccination de
+  629.9 x 181.5 10.56 -- #1f2a37 Essentielle
+  629.9 x 242.8 10.56 -- #1f2a37 123
+  629.9 x 276.9 10.56 -- #1f2a37 0,0
+  629.9 x 304.4 10.56 -- #1f2a37 18,7
+  629.9 x 337.5 10.56 -- #1f2a37 81,3
+  629.9 x 411.7 10.56 -- #1f2a37 Électricité
+  629.9 x 472.8 10.56 -- #1f2a37 74,0
+  629.9 x 529.2 10.56 -- #1f2a37 8
+  642.6 x  84.4 10.56 -- #1f2a37 routine
+  663.9 x  61.5 10.56 -- #1f2a37 21
+  663.9 x 181.5 10.56 -- #1f2a37 Essentielle
+  663.9 x 242.8 10.56 -- #1f2a37 160
+  663.9 x 276.9 10.56 -- #1f2a37 0,6
+  663.9 x 304.4 10.56 -- #1f2a37 22,5
+  663.9 x 337.5 10.56 -- #1f2a37 76,9
+  663.9 x 398.0 10.56 -- #1f2a37 Équipements
+  663.9 x 472.8 10.56 -- #1f2a37 92,7
+  663.9 x 529.2 10.56 -- #1f2a37 8
+  664.1 x  84.4 10.56 -- #1f2a37 Soins du nouveau-
+  676.8 x  84.4 10.56 -- #1f2a37 né
+  698.0 x  61.5 10.56 -- #1f2a37 22
+  698.0 x  84.4 10.56 -- #1f2a37 CPN + PTME
+  698.0 x 181.5 10.56 -- #1f2a37 Essentielle
+  698.0 x 242.8 10.56 -- #1f2a37 123
+  698.0 x 276.9 10.56 -- #1f2a37 0,8
+  698.0 x 304.4 10.56 -- #1f2a37 30,1
+  698.0 x 337.5 10.56 -- #1f2a37 69,1
+  698.0 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  698.0 x 472.8 10.56 -- #1f2a37 97,6
+  698.0 x 529.2 10.56 -- #1f2a37 8
+  719.4 x  61.5 10.56 -- #1f2a37 23
+  719.4 x  84.4 10.56 -- #1f2a37 CPoN nouveau-né
+  719.4 x 181.5 10.56 -- #1f2a37 Essentielle
+  719.4 x 242.8 10.56 -- #1f2a37 160
+  719.4 x 276.9 10.56 -- #1f2a37 0,0
+  719.4 x 304.4 10.56 -- #1f2a37 31,2
+  719.4 x 337.5 10.56 -- #1f2a37 68,8
+  719.4 x 410.6 10.56 -- #1f2a37 Référence
+  719.4 x 472.8 10.56 -- #1f2a37 80,9
+  719.4 x 529.2 10.56 -- #1f2a37 8
+  740.7 x  61.5 10.56 -- #1f2a37 24
+  740.7 x  84.4 10.56 -- #1f2a37 Dépistage nutrition
+  740.7 x 181.5 10.56 -- #1f2a37 Essentielle
+  740.7 x 242.8 10.56 -- #1f2a37 160
+  740.7 x 276.9 10.56 -- #1f2a37 3,8
+  740.7 x 304.4 10.56 -- #1f2a37 38,1
+  740.7 x 337.5 10.56 -- #1f2a37 58,1
+  740.7 x 472.8 10.56 -- #1f2a37 82,8
+  740.7 x 529.2 10.56 -- #1f2a37 8
+  740.9 x 406.3 10.56 -- #1f2a37 Ressources
+  753.6 x 412.3 10.56 -- #1f2a37 humaines
+
+===== PAGE 06 / imprimée 31 =====
+   63.2 x  61.5 11.04 B- #ffffff N°
+   65.6 x  84.4 10.56 B- #ffffff Fonction
+   65.6 x 181.5 10.56 B- #ffffff Criticité
+   65.6 x 240.1 10.56 B- #ffffff K
+   67.2 x 267.7  8.52 B- #ffffff %
+   67.2 x 299.2  8.52 B- #ffffff %
+   67.2 x 332.0  8.52 B- #ffffff %
+   67.2 x 365.1  8.52 B- #ffffff Premier blocage
+   67.2 x 463.2  8.52 B- #ffffff Part
+   67.2 x 500.4  8.52 B- #ffffff Provinces
+   76.1 x 267.7 10.56 B- #ffffff Vert
+   76.1 x 299.2 10.56 B- #ffffff Jaune
+   76.1 x 332.0 10.56 B- #ffffff Rouge
+   76.1 x 365.1 10.56 B- #ffffff dominant
+   76.1 x 500.4 10.56 B- #ffffff où rouge
+   77.6 x 463.2  8.52 B- #ffffff des
+   86.4 x 463.2 10.56 B- #ffffff rouges
+  109.3 x  61.5 10.56 -- #1f2a37 25
+  109.3 x  84.4 10.56 -- #1f2a37 Paludisme simple
+  109.3 x 181.5 10.56 -- #1f2a37 Essentielle
+  109.3 x 242.8 10.56 -- #1f2a37 160
+  109.3 x 276.9 10.56 -- #1f2a37 3,1
+  109.3 x 304.4 10.56 -- #1f2a37 63,8
+  109.3 x 337.5 10.56 -- #1f2a37 33,1
+  109.3 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  109.3 x 472.8 10.56 -- #1f2a37 94,3
+  109.3 x 529.2 10.56 -- #1f2a37 7
+  130.7 x  61.5 10.56 -- #1f2a37 26
+  130.7 x  84.4 10.56 -- #1f2a37 Diagnostic
+  130.7 x 181.5 10.56 -- #1f2a37 Essentielle
+  130.7 x 242.8 10.56 -- #1f2a37 160
+  130.7 x 276.9 10.56 -- #1f2a37 3,8
+  130.7 x 304.4 10.56 -- #1f2a37 83,8
+  130.7 x 337.5 10.56 -- #1f2a37 12,5
+  130.7 x 371.2 10.56 -- #1f2a37 Intrants et produits
+  130.7 x 472.8 10.56 -- #1f2a37 90,0
+  130.7 x 529.2 10.56 -- #1f2a37 6
+  143.4 x  84.4 10.56 -- #1f2a37 paludisme
+  164.8 x  61.5 10.56 -- #1f2a37 27
+  164.8 x  84.4 10.56 -- #1f2a37 Données sanitaires
+  164.8 x 181.5 10.56 -- #1f2a37 Systémique
+  164.8 x 242.8 10.56 -- #1f2a37 160
+  164.8 x 276.9 10.56 -- #1f2a37 7,5
+  164.8 x 304.4 10.56 -- #1f2a37 59,4
+  164.8 x 337.5 10.56 -- #1f2a37 33,1
+  164.8 x 467.5 10.56 -- #1f2a37 100,0
+  164.8 x 529.2 10.56 -- #1f2a37 6
+  164.9 x 385.9 10.56 -- #1f2a37 Organisation du
+  177.6 x 424.3 10.56 -- #1f2a37 service
+  199.0 x  61.5 10.56 -- #1f2a37 28
+  199.0 x  84.4 10.56 -- #1f2a37 Intégration services
+  199.0 x 181.5 10.56 -- #1f2a37 Systémique
+  199.0 x 242.8 10.56 -- #1f2a37 160
+  199.0 x 276.9 10.56 -- #1f2a37 3,1
+  199.0 x 304.4 10.56 -- #1f2a37 68,8
+  199.0 x 337.5 10.56 -- #1f2a37 28,1
+  199.0 x 389.3 10.56 -- #1f2a37 Intégration des
+  199.0 x 467.5 10.56 -- #1f2a37 100,0
+  199.0 x 529.2 10.56 -- #1f2a37 5
+  211.7 x 420.1 10.56 -- #1f2a37 services
+  231.0 x  56.7 11.52 -- #000000 Lecture du tableau. La colonne « % Rouge » donne la part des évaluations de la fonction classées
+  245.0 x  56.7 11.52 -- #000000 rouges. La colonne « Part des rouges » se lit uniquement parmi ces évaluations rouges : elle indique
+  259.1 x  56.7 11.52 -- #000000 la proportion de celles qui sont concernées par le premier blocage dominant indiqué.
+  276.2 x  56.7 11.52 -- #000000 Les blocages dominants diffèrent selon les fonctions. Le manque d’intrants et de produits ressort
+  290.2 x  56.7 11.52 -- #000000 notamment pour la prise en charge des grossesses à risque, des MAPI et de la pré-éclampsie, la
+  304.2 x  56.7 11.52 -- #000000 césarienne d’urgence, les consultations prénatales, l’accouchement normal et le paludisme
+  318.3 x  56.7 11.52 -- #000000 simple. Les équipements constituent le principal obstacle à la réanimation néonatale, à la prise en
+  332.3 x  56.7 11.52 -- #000000 charge du paludisme grave, à l’accouchement assisté et à la transfusion ; la référence domine pour
+  346.4 x  56.7 11.52 -- #000000 l’hémorragie du post-partum, le sepsis obstétrical et les soins postnatals du nouveau-né.
+  360.4 x  56.7 11.52 -- #000000 L’organisation du service est le blocage dominant pour la référence urgente et la réception des
+  374.4 x  56.7 11.52 -- #000000 urgences, représentant respectivement 94,2 % et 88,9 % des classements rouges correspondants
+  388.5 x  56.7 11.52 -- #000000 ; dans les deux cas, c’est l’absence d’un moyen de transport fonctionnel qui est en cause.
+  405.5 x  56.7 11.52 -- #000000 Enfin, les classements rouges sont observés dans les huit provinces pour la plupart des fonctions.
+  419.6 x  56.7 11.52 -- #000000 Ils sont présents dans sept provinces pour la surveillance épidémiologique, le paludisme simple,
+  433.6 x  56.7 11.52 -- #000000 la césarienne d’urgence et l’accouchement assisté, six pour le diagnostic du paludisme et les
+  447.7 x  56.7 11.52 -- #000000 données sanitaires, et cinq pour l’intégration des services. Les effectifs évalués variant selon la
+  461.7 x  56.7 11.52 -- #000000 fonction, les résultats doivent être interprétés en tenant compte des dénominateurs indiqués dans
+  475.7 x  56.7 11.52 -- #000000 le tableau.
+  492.8 x  56.7 11.52 -- #000000 Pour rendre ces blocages directement actionnables, le tableau suivant précise, pour chaque
+  506.8 x  56.7 11.52 -- #000000 fonction, l’élément le plus souvent en déficit à l’intérieur du premier blocage dominant, parmi les
+  520.9 x  56.7 11.52 -- #000000 fonctions rouges. Quelques éléments expliquent à eux seuls une grande part des classements
+  534.9 x  56.7 11.52 -- #000000 rouges : le moyen de transport pour la référence urgente (105 des 120 fonctions rouges),
+  548.9 x  56.7 11.52 -- #000000 l’hémorragie du post-partum (71 sur 113) et le sepsis obstétrical (71 sur 111) ; le kit anti-choc pour
+  563.0 x  56.7 11.52 -- #000000 les MAPI (99 sur 111) ; le kit d’accouchement pour l’accouchement normal (127 sur 148) ; la source
+  577.0 x  56.7 11.52 -- #000000 de chaleur pour la réanimation néonatale (110 sur 140) ; le sulfate de magnésium pour la pré-
+  591.1 x  56.7 11.52 -- #000000 éclampsie (98 sur 132) et les bandelettes urinaires pour la grossesse à risque (89 sur 113).
+  608.1 x  56.7 11.04 -I #0e2841 Tableau 8: Élément critique le plus souvent en déficit, par fonction
+  635.1 x  61.5 10.56 B- #ffffff N°
+  635.1 x  84.0 10.56 B- #ffffff Fonction
+  636.7 x 176.4  8.52 B- #ffffff Fonctions
+  636.7 x 221.4  8.52 B- #ffffff Premier blocage
+  636.7 x 304.0  8.52 B- #ffffff Rouges bloquées
+  636.7 x 376.5  8.52 B- #ffffff Élément le plus souvent en
+  636.7 x 488.5  8.52 B- #ffffff Fonctions
+  645.5 x 176.4 10.56 B- #ffffff rouges
+  645.5 x 221.4 10.56 B- #ffffff dominant
+  645.5 x 376.5 10.56 B- #ffffff déficit
+  647.0 x 304.0  8.52 B- #ffffff par cette
+  647.0 x 488.5  8.52 B- #ffffff rouges où
+  655.9 x 304.0 10.56 B- #ffffff dimension : n (%)
+  657.4 x 488.5  8.52 B- #ffffff l’élément
+  667.8 x 488.5  8.52 B- #ffffff est en déficit
+  676.7 x 488.5 10.56 B- #ffffff : n (%)
+  697.4 x  69.7 10.56 -- #1f2a37 1 Grossesse à risque
+  697.4 x 196.5 10.56 -- #1f2a37 113 Intrants et
+  697.4 x 314.4 10.56 -- #1f2a37 100 (88,5 %) Bandelettes urinaires
+  697.5 x 499.6 10.56 -- #1f2a37 89 (78,8
+  710.3 x 221.4 10.56 -- #1f2a37 produits
+  710.3 x 376.5 10.56 -- #1f2a37 (protéinurie)
+  710.3 x 523.8 10.56 -- #1f2a37 %)
+  731.6 x  69.7 10.56 -- #1f2a37 2 MA compliquée
+  731.6 x 196.5 10.56 -- #1f2a37 145 Ressources
+  731.6 x 319.6 10.56 -- #1f2a37 77 (53,1 %) Prestataire formé
+  731.6 x 499.6 10.56 -- #1f2a37 77 (53,1
+  744.3 x 221.4 10.56 -- #1f2a37 humaines
+  744.3 x 523.8 10.56 -- #1f2a37 %)
+  744.5 x 376.5 10.56 -- #1f2a37 présent pour la
+  757.2 x 376.5 10.56 -- #1f2a37 fonction
+
+===== PAGE 07 / imprimée 32 =====
+   65.6 x  61.5 10.56 B- #ffffff N°
+   65.6 x  84.0 10.56 B- #ffffff Fonction
+   67.2 x 176.4  8.52 B- #ffffff Fonctions
+   67.2 x 221.4  8.52 B- #ffffff Premier blocage
+   67.2 x 304.0  8.52 B- #ffffff Rouges bloquées
+   67.2 x 376.5  8.52 B- #ffffff Élément le plus souvent en
+   67.2 x 488.5  8.52 B- #ffffff Fonctions
+   76.1 x 176.4 10.56 B- #ffffff rouges
+   76.1 x 221.4 10.56 B- #ffffff dominant
+   76.1 x 376.5 10.56 B- #ffffff déficit
+   77.6 x 304.0  8.52 B- #ffffff par cette
+   77.6 x 488.5  8.52 B- #ffffff rouges où
+   86.4 x 304.0 10.56 B- #ffffff dimension : n (%)
+   87.9 x 488.5  8.52 B- #ffffff l’élément
+   98.4 x 488.5  8.52 B- #ffffff est en déficit
+  107.2 x 488.5 10.56 B- #ffffff : n (%)
+  127.9 x  69.7 10.56 -- #1f2a37 3 MAPI
+  127.9 x 196.5 10.56 -- #1f2a37 111 Intrants et
+  127.9 x 319.6 10.56 -- #1f2a37 99 (89,2 %) Kit anti-choc ou chariot
+  128.1 x 499.6 10.56 -- #1f2a37 99 (89,2
+  140.8 x 221.4 10.56 -- #1f2a37 produits
+  140.8 x 376.5 10.56 -- #1f2a37 d’urgence (adrénaline)
+  140.8 x 523.8 10.56 -- #1f2a37 %)
+  162.1 x  69.7 10.56 -- #1f2a37 4 Réanimation
+  162.1 x 196.5 10.56 -- #1f2a37 140 Équipements
+  162.1 x 314.4 10.56 -- #1f2a37 134 (95,7 %) Source de chaleur (salle
+  162.3 x 494.3 10.56 -- #1f2a37 110 (78,6
+  175.0 x  84.0 10.56 -- #1f2a37 néonat.
+  175.0 x 376.5 10.56 -- #1f2a37 et nouveau-né)
+  175.0 x 523.8 10.56 -- #1f2a37 %)
+  196.2 x  69.7 10.56 -- #1f2a37 5 Pré-éclampsie
+  196.2 x 196.5 10.56 -- #1f2a37 132 Intrants et
+  196.2 x 314.4 10.56 -- #1f2a37 110 (83,3 %) Sulfate de magnésium
+  196.3 x 499.6 10.56 -- #1f2a37 98 (74,2
+  209.1 x 221.4 10.56 -- #1f2a37 produits
+  209.1 x 523.8 10.56 -- #1f2a37 %)
+  230.4 x  69.7 10.56 -- #1f2a37 6 Paludisme grave
+  230.4 x 196.5 10.56 -- #1f2a37 131 Équipements
+  230.4 x 319.6 10.56 -- #1f2a37 90 (68,7 %) Glucomètre +
+  230.5 x 499.6 10.56 -- #1f2a37 63 (48,1
+  243.3 x 376.5 10.56 -- #1f2a37 bandelettes
+  243.3 x 523.8 10.56 -- #1f2a37 %)
+  264.5 x  69.7 10.56 -- #1f2a37 7 Chaîne du froid
+  264.5 x 201.8 10.56 -- #1f2a37 96 Électricité
+  264.5 x 319.6 10.56 -- #1f2a37 74 (77,1 %) Source de secours
+  264.6 x 499.6 10.56 -- #1f2a37 68 (70,8
+  277.4 x 376.5 10.56 -- #1f2a37 fonctionnelle
+  277.4 x 523.8 10.56 -- #1f2a37 %)
+  298.7 x  69.7 10.56 -- #1f2a37 8 Césarienne
+  298.7 x 201.8 10.56 -- #1f2a37 45 Intrants et
+  298.7 x 319.6 10.56 -- #1f2a37 32 (71,1 %) Antiseptique
+  298.8 x 499.6 10.56 -- #1f2a37 22 (48,9
+  311.6 x  84.0 10.56 -- #1f2a37 d'urgence
+  311.6 x 221.4 10.56 -- #1f2a37 produits
+  311.6 x 376.5 10.56 -- #1f2a37 (iodophore ou
+  311.6 x 523.8 10.56 -- #1f2a37 %)
+  324.3 x 376.5 10.56 -- #1f2a37 chlorhexidine)
+  345.6 x  69.7 10.56 -- #1f2a37 9 Transfusion
+  345.6 x 201.8 10.56 -- #1f2a37 45 Équipements
+  345.6 x 319.6 10.56 -- #1f2a37 36 (80,0 %) Réfrigérateur à sang ou
+  345.8 x 499.6 10.56 -- #1f2a37 36 (80,0
+  358.5 x 376.5 10.56 -- #1f2a37 banque de sang
+  358.5 x 523.8 10.56 -- #1f2a37 %)
+  379.7 x  64.3 10.56 -- #1f2a37 10 Référence urgente
+  379.7 x 196.5 10.56 -- #1f2a37 120 Organisation du
+  379.7 x 314.4 10.56 -- #1f2a37 113 (94,2 %) Moyen de transport
+  379.8 x 494.3 10.56 -- #1f2a37 105 (87,5
+  392.6 x 221.4 10.56 -- #1f2a37 service
+  392.6 x 523.8 10.56 -- #1f2a37 %)
+  392.7 x 376.5 10.56 -- #1f2a37 disponible et
+  405.4 x 376.5 10.56 -- #1f2a37 fonctionnel
+  426.8 x  64.3 10.56 -- #1f2a37 11 Réception
+  426.8 x 201.8 10.56 -- #1f2a37 27 Organisation du
+  426.8 x 319.6 10.56 -- #1f2a37 24 (88,9 %) Moyen de transport
+  426.9 x 499.6 10.56 -- #1f2a37 21 (77,8
+  439.6 x  84.0 10.56 -- #1f2a37 urgences
+  439.6 x 221.4 10.56 -- #1f2a37 service
+  439.6 x 376.5 10.56 -- #1f2a37 disponible et
+  439.6 x 523.8 10.56 -- #1f2a37 %)
+  452.3 x 376.5 10.56 -- #1f2a37 fonctionnel
+  473.7 x  64.3 10.56 -- #1f2a37 12 Accouchement
+  473.7 x 201.8 10.56 -- #1f2a37 43 Équipements
+  473.7 x 319.6 10.56 -- #1f2a37 41 (95,3 %) Ventouse ou forceps
+  473.8 x 499.6 10.56 -- #1f2a37 30 (69,8
+  486.5 x  84.0 10.56 -- #1f2a37 assisté
+  486.5 x 523.8 10.56 -- #1f2a37 %)
+  486.7 x 376.5 10.56 -- #1f2a37 obstétricaux (aucun des
+  499.4 x 376.5 10.56 -- #1f2a37 deux fonctionnel)
+  520.6 x  64.3 10.56 -- #1f2a37 13 Hémorragie post-
+  520.6 x 196.5 10.56 -- #1f2a37 113 Référence
+  520.6 x 319.6 10.56 -- #1f2a37 76 (67,3 %) Moyen de transport
+  520.8 x 499.6 10.56 -- #1f2a37 71 (62,8
+  533.5 x  84.0 10.56 -- #1f2a37 partum
+  533.5 x 523.8 10.56 -- #1f2a37 %)
+  533.6 x 376.5 10.56 -- #1f2a37 disponible et
+  546.3 x 376.5 10.56 -- #1f2a37 fonctionnel
+  567.7 x  64.3 10.56 -- #1f2a37 14 Sepsis obstétrical
+  567.7 x 196.5 10.56 -- #1f2a37 111 Référence
+  567.7 x 319.6 10.56 -- #1f2a37 76 (68,5 %) Moyen de transport
+  567.7 x 499.6 10.56 -- #1f2a37 71 (64,0
+  580.4 x 523.8 10.56 -- #1f2a37 %)
+  580.5 x 376.5 10.56 -- #1f2a37 disponible et
+  593.2 x 376.5 10.56 -- #1f2a37 fonctionnel
+  614.6 x  64.3 10.56 -- #1f2a37 15 Surveillance
+  614.6 x 201.8 10.56 -- #1f2a37 43 Communication
+  614.6 x 319.6 10.56 -- #1f2a37 29 (67,4 %) Continuité de la
+  614.7 x 499.6 10.56 -- #1f2a37 23 (53,5
+  627.5 x  84.0 10.56 -- #1f2a37 épidémiologique
+  627.5 x 376.5 10.56 -- #1f2a37 communication sur
+  627.5 x 523.8 10.56 -- #1f2a37 %)
+  640.2 x 376.5 10.56 -- #1f2a37 trois mois
+  661.5 x  64.3 10.56 -- #1f2a37 16 MA non
+  661.5 x 201.8 10.56 -- #1f2a37 99 Intrants et
+  661.5 x 319.6 10.56 -- #1f2a37 90 (90,9 %) ATPE
+  661.7 x 499.6 10.56 -- #1f2a37 87 (87,9
+  674.4 x  84.0 10.56 -- #1f2a37 compliquée
+  674.4 x 221.4 10.56 -- #1f2a37 produits
+  674.4 x 523.8 10.56 -- #1f2a37 %)
+  695.7 x  64.3 10.56 -- #1f2a37 17 Accouchement
+  695.7 x 196.5 10.56 -- #1f2a37 148 Intrants et
+  695.7 x 314.4 10.56 -- #1f2a37 138 (93,2 %) Kit d’accouchement à
+  695.7 x 494.3 10.56 -- #1f2a37 127 (85,8
+  708.5 x  84.0 10.56 -- #1f2a37 normal
+  708.5 x 221.4 10.56 -- #1f2a37 produits
+  708.5 x 376.5 10.56 -- #1f2a37 usage unique
+  708.5 x 523.8 10.56 -- #1f2a37 %)
+  729.8 x  64.3 10.56 -- #1f2a37 18 CPoN mère
+  729.8 x 196.5 10.56 -- #1f2a37 133 Intrants et
+  729.8 x 314.4 10.56 -- #1f2a37 105 (78,9 %) Bandelettes urinaires
+  729.9 x 499.6 10.56 -- #1f2a37 75 (56,4
+  742.7 x 221.4 10.56 -- #1f2a37 produits
+  742.7 x 376.5 10.56 -- #1f2a37 (protéinurie/glycosurie)
+  742.7 x 523.8 10.56 -- #1f2a37 %)
+
+===== PAGE 08 / imprimée 33 =====
+   65.6 x  61.5 10.56 B- #ffffff N°
+   65.6 x  84.0 10.56 B- #ffffff Fonction
+   67.2 x 176.4  8.52 B- #ffffff Fonctions
+   67.2 x 221.4  8.52 B- #ffffff Premier blocage
+   67.2 x 304.0  8.52 B- #ffffff Rouges bloquées
+   67.2 x 376.5  8.52 B- #ffffff Élément le plus souvent en
+   67.2 x 488.5  8.52 B- #ffffff Fonctions
+   76.1 x 176.4 10.56 B- #ffffff rouges
+   76.1 x 221.4 10.56 B- #ffffff dominant
+   76.1 x 376.5 10.56 B- #ffffff déficit
+   77.6 x 304.0  8.52 B- #ffffff par cette
+   77.6 x 488.5  8.52 B- #ffffff rouges où
+   86.4 x 304.0 10.56 B- #ffffff dimension : n (%)
+   87.9 x 488.5  8.52 B- #ffffff l’élément
+   98.4 x 488.5  8.52 B- #ffffff est en déficit
+  107.2 x 488.5 10.56 B- #ffffff : n (%)
+  127.9 x  64.3 10.56 -- #1f2a37 19 CPN de routine
+  127.9 x 196.5 10.56 -- #1f2a37 102 Intrants et
+  127.9 x 319.6 10.56 -- #1f2a37 93 (91,2 %) Bandelettes urinaires
+  128.1 x 499.6 10.56 -- #1f2a37 89 (87,3
+  140.8 x 221.4 10.56 -- #1f2a37 produits
+  140.8 x 376.5 10.56 -- #1f2a37 (protéinurie)
+  140.8 x 523.8 10.56 -- #1f2a37 %)
+  162.1 x  64.3 10.56 -- #1f2a37 20 Vaccination de
+  162.1 x 196.5 10.56 -- #1f2a37 100 Électricité
+  162.1 x 319.6 10.56 -- #1f2a37 74 (74,0 %) Source de secours
+  162.3 x 499.6 10.56 -- #1f2a37 68 (68,0
+  175.0 x  84.0 10.56 -- #1f2a37 routine
+  175.0 x 376.5 10.56 -- #1f2a37 fonctionnelle
+  175.0 x 523.8 10.56 -- #1f2a37 %)
+  196.2 x  64.3 10.56 -- #1f2a37 21 Soins du nouveau-
+  196.2 x 196.5 10.56 -- #1f2a37 123 Équipements
+  196.2 x 314.4 10.56 -- #1f2a37 114 (92,7 %) Source de chaleur (salle
+  196.3 x 494.3 10.56 -- #1f2a37 110 (89,4
+  209.1 x  84.0 10.56 -- #1f2a37 né
+  209.1 x 376.5 10.56 -- #1f2a37 et nouveau-né)
+  209.1 x 523.8 10.56 -- #1f2a37 %)
+  230.4 x  64.3 10.56 -- #1f2a37 22 CPN + PTME
+  230.4 x 201.8 10.56 -- #1f2a37 85 Intrants et
+  230.4 x 319.6 10.56 -- #1f2a37 83 (97,6 %) Tests rapides VIH
+  230.5 x 499.6 10.56 -- #1f2a37 62 (72,9
+  243.3 x 221.4 10.56 -- #1f2a37 produits
+  243.3 x 523.8 10.56 -- #1f2a37 %)
+  264.5 x  64.3 10.56 -- #1f2a37 23 CPoN nouveau-né
+  264.5 x 196.5 10.56 -- #1f2a37 110 Référence
+  264.5 x 319.6 10.56 -- #1f2a37 89 (80,9 %) Moyen de transport
+  264.6 x 499.6 10.56 -- #1f2a37 84 (76,4
+  277.4 x 523.8 10.56 -- #1f2a37 %)
+  277.5 x 376.5 10.56 -- #1f2a37 disponible et
+  290.2 x 376.5 10.56 -- #1f2a37 fonctionnel
+  311.6 x  64.3 10.56 -- #1f2a37 24 Dépistage nutrition
+  311.6 x 201.8 10.56 -- #1f2a37 93 Ressources
+  311.6 x 319.6 10.56 -- #1f2a37 77 (82,8 %) Prestataire formé
+  311.6 x 499.6 10.56 -- #1f2a37 77 (82,8
+  324.3 x 221.4 10.56 -- #1f2a37 humaines
+  324.3 x 523.8 10.56 -- #1f2a37 %)
+  324.4 x 376.5 10.56 -- #1f2a37 présent pour la
+  337.1 x 376.5 10.56 -- #1f2a37 fonction
+  358.5 x  64.3 10.56 -- #1f2a37 25 Paludisme simple
+  358.5 x 201.8 10.56 -- #1f2a37 53 Intrants et
+  358.5 x 319.6 10.56 -- #1f2a37 50 (94,3 %) CTA (AS-AQ ou AL)
+  358.6 x 499.6 10.56 -- #1f2a37 50 (94,3
+  371.3 x 221.4 10.56 -- #1f2a37 produits
+  371.3 x 523.8 10.56 -- #1f2a37 %)
+  392.6 x  64.3 10.56 -- #1f2a37 26 Diagnostic
+  392.6 x 201.8 10.56 -- #1f2a37 20 Intrants et
+  392.6 x 319.6 10.56 -- #1f2a37 18 (90,0 %) Test de diagnostic
+  392.7 x 499.6 10.56 -- #1f2a37 13 (65,0
+  405.4 x  84.0 10.56 -- #1f2a37 paludisme
+  405.4 x 221.4 10.56 -- #1f2a37 produits
+  405.4 x 523.8 10.56 -- #1f2a37 %)
+  405.5 x 376.5 10.56 -- #1f2a37 rapide (TDR) du
+  418.2 x 376.5 10.56 -- #1f2a37 paludisme
+  439.6 x  64.3 10.56 -- #1f2a37 27 Données sanitaires
+  439.6 x 201.8 10.56 -- #1f2a37 53 Organisation du
+  439.6 x 314.4 10.56 -- #1f2a37 53 (100,0 %) Accès fonctionnel au
+  439.6 x 499.6 10.56 -- #1f2a37 37 (69,8
+  452.3 x 221.4 10.56 -- #1f2a37 service
+  452.3 x 376.5 10.56 -- #1f2a37 SNIS (DHIS2)
+  452.3 x 523.8 10.56 -- #1f2a37 %)
+  473.7 x  64.3 10.56 -- #1f2a37 28 Intégration
+  473.7 x 201.8 10.56 -- #1f2a37 45 Intégration des
+  473.7 x 314.4 10.56 -- #1f2a37 45 (100,0 %) Services intégrés offerts
+  473.8 x 494.3 10.56 -- #1f2a37 45 (100,0
+  486.5 x  84.0 10.56 -- #1f2a37 services
+  486.5 x 221.4 10.56 -- #1f2a37 services
+  486.5 x 376.5 10.56 -- #1f2a37 actuellement
+  486.5 x 523.8 10.56 -- #1f2a37 %)
+  505.8 x  56.7  9.00 -I #000000 Base : fonctions rouges de chaque fonction, tous niveaux où elle est attendue. L’élément est recherché parmi les fonctions
+  516.9 x  56.7  9.00 -I #000000 rouges bloquées par le premier blocage dominant ; pour les dimensions sans élément matériel (référence, communication,
+  527.8 x  56.7  9.00 -I #000000 électricité, organisation du service, ressources humaines), la composante la plus souvent défaillante est indiquée. Un groupe
+  538.8 x  56.7  9.00 -I #000000 d’éléments substituables compte pour un seul élément, en déficit lorsque tous ses membres manquent.
+  552.8 x  56.7 12.00 B- #000000 3.2.3. Préparation opérationnelle par niveau
+  577.7 x  56.7 11.52 -- #000000 L’analyse des 17 fonctions évaluées aux trois niveaux de soins montre une diminution progressive
+  591.8 x  56.7 11.52 -- #000000 de la proportion moyenne de classements rouges : environ 70 % au niveau 1, 55 % au niveau 1+ et
+  605.8 x  56.7 11.52 -- #000000 50 % au niveau 2. Ce gradient reste toutefois insuffisant : à l’HGR, une fonction sur deux demeure
+  619.9 x  56.7 11.52 -- #000000 classée rouge. Il n’est pas non plus uniforme d’une fonction à l’autre. Le niveau 1+ et le niveau 2
+  633.9 x  56.7 11.52 -- #000000 présentent chacun la proportion rouge la plus faible pour huit des dix-sept fonctions ; seul le
+  648.0 x  56.7 11.52 -- #000000 diagnostic du paludisme est moins souvent rouge au niveau 1.
+
+===== PAGE 09 / imprimée 34 =====
+  385.9 x 122.9  9.00 -I #0e2841 Figure 3: Préparation opérationnelle des 17 fonctions communes aux trois niveaux de soins
+  406.8 x  56.7 11.52 -- #000000 Certaines fonctions suivent la progression attendue avec l’élévation du niveau de soins. C’est
+  420.9 x  56.7 11.52 -- #000000 notamment le cas des soins postnatals du nouveau-né, dont la proportion de classements rouges
+  434.9 x  56.7 11.52 -- #000000 passe de 82 % au niveau 1 à 35 % au niveau 2, et de la prise en charge du paludisme grave, qui
+  449.0 x  56.7 11.52 -- #000000 passe de 95 % à 46 %. À l’inverse, l’accouchement normal reste classé rouge dans 93 % des
+  463.0 x  56.7 11.52 -- #000000 évaluations au niveau 1 et 92 % au niveau 2, contre 91 % au niveau 1+.
+  480.1 x  56.7 11.52 -- #000000 La prise en charge de la malnutrition aiguë compliquée reste élevée à tous les niveaux (de 84 % à
+  494.1 x  56.7 11.52 -- #000000 93 % de classements rouges). Les fonctions propres aux niveaux supérieurs présentent également
+  508.1 x  56.7 11.52 -- #000000 des difficultés : la césarienne d’urgence est classée rouge dans 81 % des cas à l’HGR, tandis que
+  522.2 x  56.7 11.52 -- #000000 la transfusion semble davantage contrainte au niveau 1+ qu’au niveau 2 (86 % contre 70 % de
+  536.2 x  56.7 11.52 -- #000000 classements rouges).
+  553.3 x  56.7 11.52 -- #000000 Pour les fonctions les moins contraintes, telles que le diagnostic du paludisme, la surveillance
+  567.3 x  56.7 11.52 -- #000000 épidémiologique, l’intégration des services et les données sanitaires, les classements jaunes
+  581.3 x  56.7 11.52 -- #000000 prédominent aux trois niveaux. La situation traduit donc surtout des capacités jugées réalisables,
+  595.4 x  56.7 11.52 -- #000000 mais encore instables, et souligne la nécessité de renforcer leur fonctionnement à l’ensemble des
+  609.4 x  56.7 11.52 -- #000000 niveaux de soins.
+  626.5 x  56.7 12.00 B- #000000 3.2.4. Préparation opérationnelle par province
+  651.4 x  56.7 11.52 -- #000000 La lecture par province met en évidence des contraintes largement répandues, sans pour autant
+  665.5 x  56.7 11.52 -- #000000 permettre d’établir un classement entre les provinces, dont les effectifs enquêtés varient. Au
+  679.5 x  56.7 11.52 -- #000000 Sankuru et au Haut-Lomami, les proportions de fonctions cliniques classées rouges sont très
+  693.6 x  56.7 11.52 -- #000000 élevées dans la plupart des domaines ; certaines fonctions systémiques sont également fortement
+  707.6 x  56.7 11.52 -- #000000 touchées, notamment la réception des urgences au Sankuru. Le Kasaï-Oriental et le Tanganyika
+  721.6 x  56.7 11.52 -- #000000 affichent souvent des proportions plus faibles, mais leurs résultats doivent être interprétés avec
+  735.7 x  56.7 11.52 -- #000000 prudence, car huit établissements seulement ont été enquêtés dans chacune de ces provinces.
+  752.7 x  56.7 11.52 -- #000000 La lecture par fonction souligne l’ampleur de certaines difficultés dans l’ensemble des provinces.
+  766.8 x  56.7 11.52 -- #000000 Pour l’accouchement normal, la proportion de classements rouges atteint 100 % dans trois
+
+===== PAGE 10 / imprimée 35 =====
+   62.0 x  56.7 11.52 -- #000000 provinces (le Haut-Katanga, le Haut-Lomami et le Sankuru) et au moins 75 % dans les autres, à
+   76.1 x  56.7 11.52 -- #000000 l’exception du Tanganyika (50 %). Pour la prise en charge de la malnutrition aiguë non compliquée,
+   90.1 x  56.7 11.52 -- #000000 elle atteint 100 % dans cinq provinces disposant de données suffisantes ; la valeur indiquée entre
+  104.2 x  56.7 11.52 -- #000000 parenthèses au Kasaï-Oriental est également de 100 %, mais repose sur moins de cinq
+  118.2 x  56.7 11.52 -- #000000 établissements. Elle s’élève à 92 % au Lualaba et à 80 % au Tanganyika. Ces résultats témoignent
+  132.2 x  56.7 11.52 -- #000000 de contraintes étendues pour ces deux fonctions.
+  149.3 x  56.7 11.52 -- #000000 À l’inverse, les proportions rouges sont généralement plus faibles pour le diagnostic du paludisme,
+  163.3 x  56.7 11.52 -- #000000 la surveillance épidémiologique et l’intégration des services, le plus souvent inférieures à 40 %.
+  177.4 x  56.7 11.52 -- #000000 Les données sanitaires présentent également des niveaux rouges relativement bas dans plusieurs
+  191.4 x  56.7 11.52 -- #000000 provinces, bien que des valeurs plus élevées soient observées au Haut-Lomami et dans la Lomami.
+  205.4 x  56.7 11.52 -- #000000 Enfin, les valeurs entre parenthèses, fondées sur moins de cinq établissements, doivent être
+  219.5 x  56.7 11.52 -- #000000 interprétées avec une prudence particulière.
+  695.9 x 179.6  9.00 -I #0e2841 Figure 4: Part de fonctions rouges par fonction et par province
+  716.9 x  56.7 12.00 B- #000000 3.2.5. Préparation opérationnelle par domaine et niveau de soins
+  741.8 x  56.7 11.52 -- #000000 À l’échelle de l’ensemble des établissements, les classements rouges prédominent en vaccination
+  755.8 x  56.7 11.52 -- #000000 (83 %), en nutrition (80 %) et en SMNEA (79 %). Le profil est différent pour le paludisme et le
+  769.9 x  56.7 11.52 -- #000000 domaine transversal : les classements jaunes y sont majoritaires (55 % chacun), tandis que les
+
+===== PAGE 11 / imprimée 36 =====
+   62.0 x  56.7 11.52 -- #000000 classements rouges concernent 42 % des évaluations en paludisme et 41 % dans le domaine
+   76.1 x  56.7 11.52 -- #000000 transversal. Ces résultats suggèrent que, dans ces deux domaines, les fonctions sont plus souvent
+   90.1 x  56.7 11.52 -- #000000 réalisables, mais restent instables.
+  107.2 x  56.7 11.52 -- #000000 Les tendances varient également selon le niveau de soins. La proportion de classements rouges
+  121.2 x  56.7 11.52 -- #000000 diminue en nutrition, passant de 86 % au niveau 1 à 75 % au niveau 1+ puis à 59 % au niveau 2. Elle
+  135.2 x  56.7 11.52 -- #000000 baisse aussi en vaccination, de 87 % au niveau 1 à 65 % au niveau 1+ ; le graphique ne présente
+  149.3 x  56.7 11.52 -- #000000 pas de valeur pour ce domaine au niveau 2. Dans le domaine transversal, les classements rouges
+  163.3 x  56.7 11.52 -- #000000 passent de 44 % au niveau 1 à 30 % au niveau 1+, avant de remonter à 38 % au niveau 2. En SMNEA,
+  177.4 x  56.7 11.52 -- #000000 ils diminuent de 88 % au niveau 1 à 67 % au niveau 1+ et 64 % au niveau 2. Le paludisme reste
+  191.4 x  56.7 11.52 -- #000000 majoritairement jaune aux trois niveaux, avec des proportions rouges de 46 %, 44 % et 33 %,
+  205.4 x  56.7 11.52 -- #000000 respectivement.
+  532.6 x 140.1  9.00 -I #0e2841 Figure 5: Préparation opérationnelle par domaine technique et par niveau de soins
+  553.5 x  56.7 11.52 -- #000000 La part de fonctions rouges par établissement se concentre dans le haut de l'échelle : la médiane
+  567.5 x  56.7 11.52 -- #000000 se situe à 75,0 % (79,2 % au CS, 67,3 % au CSR et 57,1 % à l’HGR) et 56 établissements sur 160
+  581.6 x  56.7 11.52 -- #000000 (35,0 %) atteignent 80 % ou plus.
+  598.6 x  56.7 12.00 B- #000000 3.2.6. Service déclaré et capacité opérationnelle observée pendant la visite
+  623.6 x  56.7 11.52 -- #000000 Parmi les établissements déclarant offrir les services évalués, les constats effectués lors de la
+  637.6 x  56.7 11.52 -- #000000 visite révèlent une forte proportion de fonctions classées rouges. La réanimation néonatale
+  651.7 x  56.7 11.52 -- #000000 immédiate au niveau 1 en est un exemple marquant : 97 des 98 centres de santé ayant déclaré
+  665.7 x  56.7 11.52 -- #000000 offrir ce service sont classés rouges (99 %). À ce niveau, les principaux blocages de cette fonction
+  679.8 x  56.7 11.52 -- #000000 concernent les équipements (94 des 99 fonctions rouges), surtout la source de chaleur et l’appareil
+  693.8 x  56.7 11.52 -- #000000 d’aspiration, ainsi que la référence (76).
+  710.8 x  56.7 11.52 -- #000000 Pour plusieurs fonctions, les résultats sont moins défavorables aux niveaux 1+ et 2, mais les
+  724.9 x  56.7 11.52 -- #000000 classements rouges restent importants et les classements verts demeurent peu fréquents. La
+  738.9 x  56.7 11.52 -- #000000 déclaration de l’offre indique que le service est proposé, sans garantir que les conditions
+  753.0 x  56.7 11.52 -- #000000 nécessaires à sa réalisation soient réunies. Cet écart ne traduit pas nécessairement une
+
+===== PAGE 12 / imprimée 37 =====
+   62.0 x  56.7 11.52 -- #000000 déclaration inexacte : il souligne la différence entre l’offre déclarée et la capacité opérationnelle
+   76.1 x  56.7 11.52 -- #000000 constatée.
+   93.1 x  56.7 11.52 -- #000000 La prise en charge de la malnutrition aiguë constitue un cas distinct. Parmi les 99 centres de santé
+  107.2 x  56.7 11.52 -- #000000 concernés, 55 déclarent ne pas offrir ce service ; ils sont classés rouges en raison de son absence,
+  121.2 x  56.7 11.52 -- #000000 et non de l’insuffisance des conditions de prise en charge. Cette distinction souligne l’importance
+  135.2 x  56.7 11.52 -- #000000 de vérifier sur place à la fois l’existence du service et les moyens permettant de l’assurer.
+  464.3 x 104.3  9.00 -I #0e2841 Figure 6: État opérationnel des fonctions vitales dont le service est déclaré offert, par niveau de soins
+  485.3 x  56.7 12.96 B- #000000 3.3. Préparation aux urgences
+  511.9 x  62.3 14.04 B- #1f4e79 À retenir
+  530.9 x  62.3 11.52 -- #000000 Les fonctions d’urgence sont très largement classées rouges : 81 % dans l’ensemble, avec
+  545.0 x  62.3 11.52 -- #000000 des proportions de 90 % au CS, 72 % au CSR et 65 % à l’HGR.
+  560.9 x  62.3 11.52 B- #000000 Dans 115 établissements, l’absence d’au moins un élément critique compromet la prise en
+  575.0 x  62.3 11.52 -- #000000 charge d’une urgence vitale : sulfate de magnésium (98 établissements), ballon et masque
+  589.0 x  62.3 11.52 -- #000000 néonatals (56), ocytocine (23) ou artésunate injectable (14).
+  605.1 x  62.3 11.52 -- #000000 La référence ne suffit souvent pas à compenser ces défaillances : parmi les 159
+  619.2 x  62.3 11.52 -- #000000 établissements exposés à au moins une menace immédiate, 112 présentent aussi une condition
+  633.2 x  62.3 11.52 -- #000000 de référence classée rouge.
+  649.3 x  62.3 11.52 -- #000000 L’exposition est généralisée au Sankuru (16 établissements sur 16) et presque aussi élevée
+  663.3 x  62.3 11.52 -- #000000 dans la Lomami (15 sur 16).
+  690.1 x  56.7 12.00 B- #000000 3.3.1. Préparation aux urgences par niveau et par province
+  715.0 x  56.7 11.52 -- #000000 Les fonctions d’urgence sont plus souvent classées rouges que l’ensemble des fonctions
+  729.1 x  56.7 11.52 -- #000000 traceuses : 81 % contre 68 %. De plus, 115 établissements sur 160 (72 %) présentent au moins une
+  743.1 x  56.7 11.52 -- #000000 fonction d’urgence classée rouge en raison de l’absence d’un élément critique, notamment le
+  757.2 x  56.7 11.52 -- #000000 sulfate de magnésium, un utérotonique, l’artésunate injectable ou le matériel de ventilation
+  771.2 x  56.7 11.52 -- #000000 néonatale (ballon et masque).
+
+===== PAGE 13 / imprimée 38 =====
+   62.0 x  56.7 11.52 -- #000000 La préparation reste particulièrement faible au niveau 1, où 90 % des fonctions d’urgence sont
+   76.1 x  56.7 11.52 -- #000000 rouges et 84 des 101 centres de santé (83 %) comptent au moins une fonction rouge liée à
+   90.1 x  56.7 11.52 -- #000000 l’absence d’un élément critique. Les proportions sont également préoccupantes au niveau 1+ : 72
+  104.2 x  56.7 11.52 -- #000000 % de fonctions rouges et 13 établissements sur 22 (59 %) exposés. Au niveau 2, malgré des
+  118.2 x  56.7 11.52 -- #000000 proportions plus faibles, 65 % des fonctions demeurent rouges et 18 hôpitaux sur 37 (49 %)
+  132.2 x  56.7 11.52 -- #000000 présentent au moins une fonction d’urgence rouge pour cette raison. Les HGR restent donc eux
+  146.3 x  56.7 11.52 -- #000000 aussi confrontés à des lacunes importantes dans la préparation aux urgences vitales.
+  163.3 x  56.7 11.52 -- #000000 Les résultats varient également selon la province. La proportion de fonctions d’urgence classées
+  177.4 x  56.7 11.52 -- #000000 rouges va de 58 % au Kasaï-Oriental à 99 % au Sankuru. Dans cette dernière province, les 16
+  191.4 x  56.7 11.52 -- #000000 établissements évalués sont tous concernés par au moins une fonction rouge liée à l’absence d’un
+  205.4 x  56.7 11.52 -- #000000 élément critique ; au Lomami, 15 établissements sur 16 (94 %) le sont également. Au Kasaï-
+  219.5 x  56.7 11.52 -- #000000 Oriental, 5 établissements sur 8 (62 %) sont concernés, contre 4 sur 8 (50 %) au Tanganyika. Ces
+  233.5 x  56.7 11.52 -- #000000 résultats provinciaux décrivent les établissements évalués et doivent être interprétés avec
+  247.6 x  56.7 12.00 -- #000000 prudence, en particulier pour les provinces où l’effectif est limité.
+  509.4 x 139.9  9.00 -I #0e2841 Figure 7: Préparation aux urgences : ensemble, par niveau de soins et par province
+  530.4 x  56.7 12.00 B- #000000 3.3.2. Blocages des fonctions d’urgence par niveau
+  555.3 x  56.7 11.52 -- #000000 Les résultats montrent que la nature du blocage dominant varie selon la fonction et le niveau de
+  569.3 x  56.7 11.52 -- #000000 soins, sans que cette variation entraîne nécessairement une baisse importante des classements
+  583.4 x  56.7 11.52 -- #000000 rouges. Certains obstacles persistent à plusieurs niveaux : les équipements dominent pour la
+  597.4 x  56.7 11.52 -- #000000 réanimation néonatale (98,0 % de rouge au niveau 1, 77,3 % au niveau 1+ et 64,9 % au niveau 2),
+  611.5 x  56.7 11.52 -- #000000 en premier lieu la source de chaleur, tandis que les intrants, d’abord le sulfate de magnésium,
+  625.5 x  56.7 11.52 -- #000000 restent le principal blocage pour la pré-éclampsie (93,1 %, 68,2 % et 62,2 %). Pour la référence
+  639.6 x  56.7 11.52 -- #000000 urgente, le blocage dominant est l’organisation du service aux trois niveaux, et il tient presque
+  653.6 x  56.7 11.52 -- #000000 toujours à l’absence d’un moyen de transport fonctionnel. La part de rouge est de 79,2 % au niveau
+  667.6 x  56.7 11.52 -- #000000 1, 63,6 % au niveau 1+ et 70,3 % au niveau 2, ce qui souligne le caractère transversal de cette
+  681.7 x  56.7 11.52 -- #000000 contrainte.
+  698.7 x  56.7 11.52 -- #000000 Pour d’autres fonctions, le blocage dominant change avec le niveau de soins. Pour l’hémorragie du
+  712.8 x  56.7 11.52 -- #000000 post-partum et le sepsis obstétrical, il s’agit de la référence au niveau 1, le transport faisant défaut
+  726.8 x  56.7 11.52 -- #000000 dans la plupart des cas, puis des intrants aux niveaux 1+ et 2, notamment les seringues et aiguilles
+  740.8 x  56.7 11.52 -- #000000 pour l’hémorragie et l’ampicilline pour le sepsis ; la part de rouge y est nettement plus faible qu’au
+  754.9 x  56.7 11.52 -- #000000 centre de santé (de 41 % à 46 %, contre 84 % à 85 %). La prise en charge de la malnutrition aiguë
+  768.9 x  56.7 11.52 -- #000000 compliquée passe également d’un blocage lié à la référence au niveau 1 à un blocage lié aux
+
+===== PAGE 14 / imprimée 39 =====
+   62.0 x  56.7 11.52 -- #000000 intrants (F100 et F75) aux niveaux supérieurs, alors que la proportion de rouge demeure élevée à
+   76.1 x  56.7 11.52 -- #000000 tous les niveaux (83,8 % à 93,1 %). Pour le paludisme grave, la référence domine aux niveaux 1 et
+   90.1 x  56.7 11.52 -- #000000 1+, puis les équipements à l’HGR, où la part de rouge tombe à 45,9 %. Enfin, pour la césarienne
+  104.2 x  56.7 11.52 -- #000000 d’urgence, le blocage passe des équipements au niveau 1+ aux intrants au niveau 2, tandis que la
+  118.2 x  56.7 11.52 -- #000000 proportion de rouge augmente de 68,2 % à 81,1 %.
+  135.2 x  56.7 11.52 -- #000000 Ces profils indiquent que les contraintes opérationnelles ne sont ni identiques ni uniformément
+  149.3 x  56.7 11.52 -- #000000 réparties entre les niveaux de soins. La persistance de blocages liés aux équipements ou à
+  163.3 x  56.7 11.52 -- #000000 l’organisation, ainsi que les changements observés pour la référence et les intrants, appellent des
+  177.4 x  56.7 11.52 -- #000000 réponses adaptées à chaque fonction et à chaque niveau. La dernière colonne du tableau indique,
+  191.4 x  56.7 11.52 -- #000000 pour chaque ligne, l’élément le plus souvent en cause ; le détail des éléments par fonction et par
+  205.4 x  56.7 11.52 -- #000000 niveau figure en annexe.
+  222.6 x  56.7  9.00 -I #0e2841 Tableau 9: Blocages dominants des fonctions d’urgence, par niveau de soins
+  261.2 x  61.5 10.56 B- #ffffff Fonction d'urgence
+  261.2 x 156.5 10.56 B- #ffffff Niveau
+  261.2 x 219.1 10.56 B- #ffffff K
+  262.7 x 247.0  8.52 B- #ffffff %
+  262.7 x 279.1  8.52 B- #ffffff %
+  262.7 x 311.0  8.52 B- #ffffff %
+  262.7 x 343.0  8.52 B- #ffffff Premier blocage
+  262.7 x 430.9  8.52 B- #ffffff Élément le plus souvent en
+  271.5 x 247.0 10.56 B- #ffffff Vert
+  271.5 x 279.1 10.56 B- #ffffff Jaune
+  271.5 x 311.0 10.56 B- #ffffff Rouge
+  271.5 x 343.0 10.56 B- #ffffff dominant
+  273.0 x 430.9  8.52 B- #ffffff cause (fonctions rouges
+  281.9 x 430.9 10.56 B- #ffffff concernées)
+  299.0 x  61.5 10.56 -- #1f2a37 Grossesse à risque
+  299.0 x 156.5 10.56 -- #1f2a37 Niveau 1 (CS)
+  299.0 x 228.2 10.56 -- #1f2a37 101
+  299.0 x 261.9 10.56 -- #1f2a37 0,0
+  299.0 x 294.0 10.56 -- #1f2a37 5,0
+  299.0 x 322.5 10.56 -- #1f2a37 95,0
+  299.0 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  299.0 x 430.9 10.56 -- #1f2a37 Bandelettes urinaires (77/96)
+  315.4 x  61.5 10.56 -- #1f2a37 Grossesse à risque
+  315.4 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  315.4 x 231.4 10.56 -- #1f2a37 22
+  315.4 x 261.9 10.56 -- #1f2a37 0,0
+  315.4 x 290.6 10.56 -- #1f2a37 22,7
+  315.4 x 322.5 10.56 -- #1f2a37 77,3
+  315.4 x 343.0 10.56 -- #1f2a37 Référence
+  315.4 x 430.9 10.56 -- #1f2a37 Moyen de transport (13/17)
+  331.8 x  61.5 10.56 -- #1f2a37 Hémorragie post-partum
+  331.8 x 156.5 10.56 -- #1f2a37 Niveau 1 (CS)
+  331.8 x 228.2 10.56 -- #1f2a37 101
+  331.8 x 261.9 10.56 -- #1f2a37 0,0
+  331.8 x 290.6 10.56 -- #1f2a37 14,9
+  331.8 x 322.5 10.56 -- #1f2a37 85,1
+  331.8 x 343.0 10.56 -- #1f2a37 Référence
+  331.8 x 430.9 10.56 -- #1f2a37 Moyen de transport (71/86)
+  348.3 x  61.5 10.56 -- #1f2a37 Hémorragie post-partum
+  348.3 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  348.3 x 231.4 10.56 -- #1f2a37 22
+  348.3 x 261.9 10.56 -- #1f2a37 0,0
+  348.3 x 290.6 10.56 -- #1f2a37 54,5
+  348.3 x 322.5 10.56 -- #1f2a37 45,5
+  348.3 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  348.3 x 430.9 10.56 -- #1f2a37 Seringues et aiguilles (4/10)
+  364.7 x  61.5 10.56 -- #1f2a37 Hémorragie post-partum
+  364.7 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  364.7 x 231.4 10.56 -- #1f2a37 37
+  364.7 x 261.9 10.56 -- #1f2a37 0,0
+  364.7 x 290.6 10.56 -- #1f2a37 54,1
+  364.7 x 322.5 10.56 -- #1f2a37 45,9
+  364.7 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  364.7 x 430.9 10.56 -- #1f2a37 Seringues et aiguilles (11/17)
+  381.2 x  61.5 10.56 -- #1f2a37 Pré-éclampsie
+  381.2 x 156.5 10.56 -- #1f2a37 Niveau 1 (CS)
+  381.2 x 228.2 10.56 -- #1f2a37 101
+  381.2 x 261.9 10.56 -- #1f2a37 1,0
+  381.2 x 294.0 10.56 -- #1f2a37 5,9
+  381.2 x 322.5 10.56 -- #1f2a37 93,1
+  381.2 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  381.2 x 430.9 10.56 -- #1f2a37 Sulfate de magnésium (77/94)
+  397.6 x  61.5 10.56 -- #1f2a37 Pré-éclampsie
+  397.6 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  397.6 x 231.4 10.56 -- #1f2a37 22
+  397.6 x 261.9 10.56 -- #1f2a37 0,0
+  397.6 x 290.6 10.56 -- #1f2a37 31,8
+  397.6 x 322.5 10.56 -- #1f2a37 68,2
+  397.6 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  397.6 x 430.9 10.56 -- #1f2a37 Sulfate de magnésium (11/15)
+  413.9 x  61.5 10.56 -- #1f2a37 Pré-éclampsie
+  413.9 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  413.9 x 231.4 10.56 -- #1f2a37 37
+  413.9 x 261.9 10.56 -- #1f2a37 0,0
+  413.9 x 290.6 10.56 -- #1f2a37 37,8
+  413.9 x 322.5 10.56 -- #1f2a37 62,2
+  413.9 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  413.9 x 430.9 10.56 -- #1f2a37 Seringues et aiguilles (11/23)
+  430.4 x  61.5 10.56 -- #1f2a37 Sepsis obstétrical
+  430.4 x 156.5 10.56 -- #1f2a37 Niveau 1 (CS)
+  430.4 x 228.2 10.56 -- #1f2a37 101
+  430.4 x 261.9 10.56 -- #1f2a37 2,0
+  430.4 x 290.6 10.56 -- #1f2a37 13,9
+  430.4 x 322.5 10.56 -- #1f2a37 84,2
+  430.4 x 343.0 10.56 -- #1f2a37 Référence
+  430.4 x 430.9 10.56 -- #1f2a37 Moyen de transport (71/85)
+  446.8 x  61.5 10.56 -- #1f2a37 Sepsis obstétrical
+  446.8 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  446.8 x 231.4 10.56 -- #1f2a37 22
+  446.8 x 261.9 10.56 -- #1f2a37 0,0
+  446.8 x 290.6 10.56 -- #1f2a37 59,1
+  446.8 x 322.5 10.56 -- #1f2a37 40,9
+  446.8 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  446.8 x 430.9 10.56 -- #1f2a37 Ampicilline (5/9)
+  463.3 x  61.5 10.56 -- #1f2a37 Sepsis obstétrical
+  463.3 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  463.3 x 231.4 10.56 -- #1f2a37 37
+  463.3 x 261.9 10.56 -- #1f2a37 2,7
+  463.3 x 290.6 10.56 -- #1f2a37 51,4
+  463.3 x 322.5 10.56 -- #1f2a37 45,9
+  463.3 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  463.3 x 430.9 10.56 -- #1f2a37 Ampicilline (11/17)
+  479.7 x  61.5 10.56 -- #1f2a37 Accouchement assisté
+  479.7 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  479.7 x 231.4 10.56 -- #1f2a37 22
+  479.7 x 261.9 10.56 -- #1f2a37 0,0
+  479.7 x 290.6 10.56 -- #1f2a37 18,2
+  479.7 x 322.5 10.56 -- #1f2a37 81,8
+  479.7 x 343.0 10.56 -- #1f2a37 Équipements
+  479.7 x 430.9 10.56 -- #1f2a37 Ventouse ou forceps (13/18)
+  496.1 x  61.5 10.56 -- #1f2a37 Accouchement assisté
+  496.1 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  496.1 x 231.4 10.56 -- #1f2a37 37
+  496.1 x 261.9 10.56 -- #1f2a37 0,0
+  496.1 x 290.6 10.56 -- #1f2a37 32,4
+  496.1 x 322.5 10.56 -- #1f2a37 67,6
+  496.1 x 343.0 10.56 -- #1f2a37 Équipements
+  496.1 x 430.9 10.56 -- #1f2a37 Ventouse ou forceps (17/25)
+  512.6 x  61.5 10.56 -- #1f2a37 Césarienne d'urgence
+  512.6 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  512.6 x 231.4 10.56 -- #1f2a37 22
+  512.6 x 261.9 10.56 -- #1f2a37 0,0
+  512.6 x 290.6 10.56 -- #1f2a37 31,8
+  512.6 x 322.5 10.56 -- #1f2a37 68,2
+  512.6 x 343.0 10.56 -- #1f2a37 Équipements
+  512.6 x 430.9 10.56 -- #1f2a37 Matériel d'anesthésie (8/15)
+  529.0 x  61.5 10.56 -- #1f2a37 Césarienne d'urgence
+  529.0 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  529.0 x 231.4 10.56 -- #1f2a37 37
+  529.0 x 261.9 10.56 -- #1f2a37 0,0
+  529.0 x 290.6 10.56 -- #1f2a37 18,9
+  529.0 x 322.5 10.56 -- #1f2a37 81,1
+  529.0 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  529.0 x 430.9 10.56 -- #1f2a37 Antiseptique (17/30)
+  545.5 x  61.5 10.56 -- #1f2a37 Transfusion
+  545.5 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  545.5 x 231.4 10.56 -- #1f2a37 22
+  545.5 x 261.9 10.56 -- #1f2a37 0,0
+  545.5 x 290.6 10.56 -- #1f2a37 13,6
+  545.5 x 322.5 10.56 -- #1f2a37 86,4
+  545.5 x 343.0 10.56 -- #1f2a37 Équipements
+  545.5 x 430.9 10.56 -- #1f2a37 Réfrigérateur à sang (17/19)
+  561.9 x  61.5 10.56 -- #1f2a37 Transfusion
+  561.9 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  561.9 x 231.4 10.56 -- #1f2a37 37
+  561.9 x 261.9 10.56 -- #1f2a37 5,4
+  561.9 x 290.6 10.56 -- #1f2a37 24,3
+  561.9 x 322.5 10.56 -- #1f2a37 70,3
+  561.9 x 343.0 10.56 -- #1f2a37 Équipements
+  561.9 x 430.9 10.56 -- #1f2a37 Réfrigérateur à sang (19/26)
+  578.4 x  61.5 10.56 -- #1f2a37 Réanimation néonat.
+  578.4 x 156.5 10.56 -- #1f2a37 Niveau 1 (CS)
+  578.4 x 228.2 10.56 -- #1f2a37 101
+  578.4 x 261.9 10.56 -- #1f2a37 0,0
+  578.4 x 294.0 10.56 -- #1f2a37 2,0
+  578.4 x 322.5 10.56 -- #1f2a37 98,0
+  578.4 x 343.0 10.56 -- #1f2a37 Équipements
+  578.4 x 430.9 10.56 -- #1f2a37 Source de chaleur (77/99)
+  594.8 x  61.5 10.56 -- #1f2a37 Réanimation néonat.
+  594.8 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  594.8 x 231.4 10.56 -- #1f2a37 22
+  594.8 x 261.9 10.56 -- #1f2a37 0,0
+  594.8 x 290.6 10.56 -- #1f2a37 22,7
+  594.8 x 322.5 10.56 -- #1f2a37 77,3
+  594.8 x 343.0 10.56 -- #1f2a37 Équipements
+  594.8 x 430.9 10.56 -- #1f2a37 Source de chaleur (14/17)
+  611.3 x  61.5 10.56 -- #1f2a37 Réanimation néonat.
+  611.3 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  611.3 x 231.4 10.56 -- #1f2a37 37
+  611.3 x 261.9 10.56 -- #1f2a37 2,7
+  611.3 x 290.6 10.56 -- #1f2a37 32,4
+  611.3 x 322.5 10.56 -- #1f2a37 64,9
+  611.3 x 343.0 10.56 -- #1f2a37 Équipements
+  611.3 x 430.9 10.56 -- #1f2a37 Source de chaleur (19/24)
+  627.7 x  61.5 10.56 -- #1f2a37 Réception urgences
+  627.7 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  627.7 x 231.4 10.56 -- #1f2a37 37
+  627.7 x 261.9 10.56 -- #1f2a37 0,0
+  627.7 x 290.6 10.56 -- #1f2a37 27,0
+  627.7 x 322.5 10.56 -- #1f2a37 73,0
+  627.7 x 343.0 10.56 -- #1f2a37 Organisation du service
+  627.7 x 430.9 10.56 -- #1f2a37 Moyen de transport (21/27)
+  644.1 x  61.5 10.56 -- #1f2a37 Paludisme grave
+  644.1 x 156.5 10.56 -- #1f2a37 Niveau 1 (CS)
+  644.1 x 228.2 10.56 -- #1f2a37 101
+  644.1 x 261.9 10.56 -- #1f2a37 0,0
+  644.1 x 294.0 10.56 -- #1f2a37 5,0
+  644.1 x 322.5 10.56 -- #1f2a37 95,0
+  644.1 x 343.0 10.56 -- #1f2a37 Référence
+  644.1 x 430.9 10.56 -- #1f2a37 Moyen de transport (71/96)
+  660.6 x  61.5 10.56 -- #1f2a37 Paludisme grave
+  660.6 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  660.6 x 231.4 10.56 -- #1f2a37 22
+  660.6 x 261.9 10.56 -- #1f2a37 0,0
+  660.6 x 290.6 10.56 -- #1f2a37 18,2
+  660.6 x 322.5 10.56 -- #1f2a37 81,8
+  660.6 x 343.0 10.56 -- #1f2a37 Référence
+  660.6 x 430.9 10.56 -- #1f2a37 Moyen de transport (13/18)
+  677.0 x  61.5 10.56 -- #1f2a37 Paludisme grave
+  677.0 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  677.0 x 231.4 10.56 -- #1f2a37 37
+  677.0 x 261.9 10.56 -- #1f2a37 0,0
+  677.0 x 290.6 10.56 -- #1f2a37 54,1
+  677.0 x 322.5 10.56 -- #1f2a37 45,9
+  677.0 x 343.0 10.56 -- #1f2a37 Équipements
+  677.0 x 430.9 10.56 -- #1f2a37 Échelle de coma (10/17)
+  693.5 x  61.5 10.56 -- #1f2a37 MA compliquée
+  693.5 x 156.5 10.56 -- #1f2a37 Niveau 1 (CS)
+  693.5 x 228.2 10.56 -- #1f2a37 101
+  693.5 x 261.9 10.56 -- #1f2a37 0,0
+  693.5 x 294.0 10.56 -- #1f2a37 6,9
+  693.5 x 322.5 10.56 -- #1f2a37 93,1
+  693.5 x 343.0 10.56 -- #1f2a37 Référence
+  693.5 x 430.9 10.56 -- #1f2a37 Moyen de transport (71/94)
+  709.9 x  61.5 10.56 -- #1f2a37 MA compliquée
+  709.9 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  709.9 x 231.4 10.56 -- #1f2a37 22
+  709.9 x 261.9 10.56 -- #1f2a37 0,0
+  709.9 x 294.0 10.56 -- #1f2a37 9,1
+  709.9 x 322.5 10.56 -- #1f2a37 90,9
+  709.9 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  709.9 x 430.9 10.56 -- #1f2a37 F100 (20/20)
+  726.3 x  61.5 10.56 -- #1f2a37 MA compliquée
+  726.3 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  726.3 x 231.4 10.56 -- #1f2a37 37
+  726.3 x 261.9 10.56 -- #1f2a37 2,7
+  726.3 x 290.6 10.56 -- #1f2a37 13,5
+  726.3 x 322.5 10.56 -- #1f2a37 83,8
+  726.3 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  726.3 x 430.9 10.56 -- #1f2a37 F75 (29/31)
+  742.8 x  61.5 10.56 -- #1f2a37 MAPI
+  742.8 x 156.5 10.56 -- #1f2a37 Niveau 1 (CS)
+  742.8 x 228.2 10.56 -- #1f2a37 101
+  742.8 x 261.9 10.56 -- #1f2a37 0,0
+  742.8 x 294.0 10.56 -- #1f2a37 7,9
+  742.8 x 322.5 10.56 -- #1f2a37 92,1
+  742.8 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  742.8 x 430.9 10.56 -- #1f2a37 Kit anti-choc (adrénaline) (85/93)
+  759.2 x  61.5 10.56 -- #1f2a37 MAPI
+  759.2 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  759.2 x 231.4 10.56 -- #1f2a37 22
+  759.2 x 261.9 10.56 -- #1f2a37 0,0
+  759.2 x 290.6 10.56 -- #1f2a37 18,2
+  759.2 x 322.5 10.56 -- #1f2a37 81,8
+  759.2 x 343.0 10.56 -- #1f2a37 Intrants et produits
+  759.2 x 430.9 10.56 -- #1f2a37 Kit anti-choc (adrénaline) (14/18)
+
+===== PAGE 15 / imprimée 40 =====
+   65.6 x  61.5 10.56 B- #ffffff Fonction d'urgence
+   65.6 x 156.5 10.56 B- #ffffff Niveau
+   65.6 x 219.1 10.56 B- #ffffff K
+   67.2 x 247.0  8.52 B- #ffffff %
+   67.2 x 279.1  8.52 B- #ffffff %
+   67.2 x 311.0  8.52 B- #ffffff %
+   67.2 x 343.0  8.52 B- #ffffff Premier blocage
+   67.2 x 430.9  8.52 B- #ffffff Élément le plus souvent en
+   76.1 x 247.0 10.56 B- #ffffff Vert
+   76.1 x 279.1 10.56 B- #ffffff Jaune
+   76.1 x 311.0 10.56 B- #ffffff Rouge
+   76.1 x 343.0 10.56 B- #ffffff dominant
+   77.6 x 430.9  8.52 B- #ffffff cause (fonctions rouges
+   86.4 x 430.9 10.56 B- #ffffff concernées)
+  103.6 x  61.5 10.56 -- #1f2a37 Référence urgente
+  103.6 x 156.5 10.56 -- #1f2a37 Niveau 1 (CS)
+  103.6 x 228.2 10.56 -- #1f2a37 101
+  103.6 x 261.9 10.56 -- #1f2a37 0,0
+  103.6 x 290.6 10.56 -- #1f2a37 20,8
+  103.6 x 322.5 10.56 -- #1f2a37 79,2
+  103.6 x 343.0 10.56 -- #1f2a37 Organisation du service
+  103.6 x 430.9 10.56 -- #1f2a37 Moyen de transport (71/80)
+  119.9 x  61.5 10.56 -- #1f2a37 Référence urgente
+  119.9 x 156.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  119.9 x 231.4 10.56 -- #1f2a37 22
+  119.9 x 261.9 10.56 -- #1f2a37 0,0
+  119.9 x 290.6 10.56 -- #1f2a37 36,4
+  119.9 x 322.5 10.56 -- #1f2a37 63,6
+  119.9 x 343.0 10.56 -- #1f2a37 Organisation du service
+  119.9 x 430.9 10.56 -- #1f2a37 Moyen de transport (13/14)
+  136.3 x  61.5 10.56 -- #1f2a37 Référence urgente
+  136.3 x 156.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  136.3 x 231.4 10.56 -- #1f2a37 37
+  136.3 x 261.9 10.56 -- #1f2a37 0,0
+  136.3 x 290.6 10.56 -- #1f2a37 29,7
+  136.3 x 322.5 10.56 -- #1f2a37 70,3
+  136.3 x 343.0 10.56 -- #1f2a37 Organisation du service
+  136.3 x 430.9 10.56 -- #1f2a37 Moyen de transport (21/26)
+  154.5 x  56.7  9.00 -I #000000 Élément le plus souvent en cause : élément ou composante le plus souvent défaillant parmi les fonctions rouges bloquées par
+  165.6 x  56.7  9.00 -I #000000 le premier blocage dominant ; entre parenthèses, nombre de fonctions rouges concernées sur le total des fonctions rouges de
+  176.6 x  56.7  9.00 -I #000000 la ligne.
+  190.5 x  56.7 12.00 B- #000000 3.3.3. Absence d’éléments critiques et préparation aux urgences
+  215.4 x  56.7 11.52 -- #000000 Dans le paquet d’urgence, 80,8 % des évaluations de fonctions sont classées rouges. Par ailleurs,
+  229.4 x  56.7 11.52 -- #000000 115 établissements sur 160 (71,9 %) présentent au moins une fonction d’urgence classée rouge en
+  243.5 x  56.7 11.52 -- #000000 raison de l’absence ou de la rupture d’un élément critique.
+  260.6 x  56.7 11.52 -- #000000 Le sulfate de magnésium est l’élément le plus fréquemment manquant : son absence est relevée
+  274.6 x  56.7 11.52 -- #000000 dans 98 établissements répartis dans les huit provinces. Viennent ensuite le ballon auto-gonflable
+  288.6 x  56.7 11.52 -- #000000 avec masque néonatal, absent dans 56 établissements des huit provinces, l’ocytocine, dans 23
+  302.7 x  56.7 11.52 -- #000000 établissements de cinq provinces, et l’artésunate injectable, dans 14 établissements de sept
+  316.7 x  56.7 11.52 -- #000000 provinces. Ces manques compromettent respectivement la prise en charge de la pré-éclampsie,
+  330.8 x  56.7 11.52 -- #000000 la réanimation néonatale, la prévention ou le traitement de l’hémorragie du post-partum et la prise
+  344.8 x  56.7 11.52 -- #000000 en charge du paludisme grave.
+  361.8 x  56.7 11.04 -I #0e2841 Tableau 10: Principaux éléments critiques d’urgence manquants ou en rupture
+  390.7 x 223.2  9.96 B- #ffffff Occurrences
+  390.7 x 286.3  9.96 B- #ffffff Établissements Provinces Fonctions vitales concernées
+  390.9 x  61.5  9.96 B- #ffffff Élément critique d'urgence absent
+  403.0 x  61.5  9.96 B- #ffffff ou en rupture
+  423.7 x  61.5  9.96 -- #1f2a37 Sulfate de magnésium
+  423.7 x 267.2  9.96 -- #1f2a37 98
+  423.7 x 339.2  9.96 -- #1f2a37 98
+  423.7 x 393.8  9.96 -- #1f2a37 8
+  423.7 x 477.0  9.96 -- #1f2a37 Pré-éclampsie
+  444.4 x 267.2  9.96 -- #1f2a37 56
+  444.4 x 339.2  9.96 -- #1f2a37 56
+  444.4 x 393.8  9.96 -- #1f2a37 8
+  444.4 x 448.9  9.96 -- #1f2a37 Réanimation néonat.
+  444.5 x  61.5  9.96 -- #1f2a37 Ballon auto-gonflable + masque taille
+  456.6 x  61.5  9.96 -- #1f2a37 néonatale (Ambu)
+  477.3 x  61.5  9.96 -- #1f2a37 Ocytocine
+  477.3 x 267.2  9.96 -- #1f2a37 23
+  477.3 x 339.2  9.96 -- #1f2a37 23
+  477.3 x 393.8  9.96 -- #1f2a37 5
+  477.3 x 432.9  9.96 -- #1f2a37 Hémorragie post-partum
+  498.0 x  61.5  9.96 -- #1f2a37 Artésunate, injectable
+  498.0 x 267.2  9.96 -- #1f2a37 14
+  498.0 x 339.2  9.96 -- #1f2a37 14
+  498.0 x 393.8  9.96 -- #1f2a37 7
+  498.0 x 467.6  9.96 -- #1f2a37 Paludisme grave
+  516.8 x  56.7 11.52 -- #000000 Les données désignent ainsi deux types de besoins : la disponibilité continue de médicaments
+  530.8 x  56.7 11.52 -- #000000 essentiels et l’accès au matériel de réanimation néonatale. Les nombres d’établissements
+  544.9 x  56.7 11.52 -- #000000 associés à chaque élément ne doivent pas être additionnés, car un même établissement peut être
+  558.9 x  56.7 11.52 -- #000000 concerné par plusieurs ruptures. Ces résultats plaident pour des dotations ciblées selon les
+  572.9 x  56.7 11.52 -- #000000 besoins provinciaux et un suivi régulier des stocks et des équipements.
+  590.0 x  56.7 12.00 B- #000000 3.3.4. Menace vitale et limites du système de référence
+  615.0 x  56.7 11.52 -- #000000 En considérant toute fonction vitale classée rouge comme une menace immédiate, 159 des 160
+  629.0 x  56.7 11.52 -- #000000 établissements évalués (99,4 %) sont concernés. Cette situation touche les 101 centres de santé
+  643.0 x  56.7 11.52 -- #000000 et les 22 centres de santé de référence ; elle concerne également 36 des 37 hôpitaux généraux de
+  657.1 x  56.7 11.52 -- #000000 référence (97,3 %). La menace est souvent associée à une référence défaillante : parmi les
+  671.1 x  56.7 11.52 -- #000000 établissements concernés, 112 (70,4 %) ont aussi un circuit de référence classé rouge, et la
+  685.2 x  56.7 11.52 -- #000000 fonction « référence urgente » est elle-même rouge dans 119 d’entre eux. Cette double contrainte
+  699.1 x  56.7 11.52 -- #000000 est observée à chaque niveau : le circuit de référence est rouge dans 76 CS, 13 CSR et 23 HGR
+  713.1 x  56.7 11.52 -- #000000 exposés.
+
+===== PAGE 16 / imprimée 41 =====
+   62.1 x  56.7  9.00 -I #0e2841 Tableau 11: Menaces immédiates et contraintes déclarées d'accès à la référence
+  100.7 x  61.5 10.56 B- #ffffff Niveau
+  100.7 x 135.9 10.56 B- #ffffff Établissements Avec au moins une
+  102.2 x 282.5  8.52 B- #ffffff Destination à
+  102.2 x 344.8  8.52 B- #ffffff Délai
+  102.2 x 407.1  8.52 B- #ffffff Circuit de
+  102.2 x 475.4  8.52 B- #ffffff Fonction «
+  111.0 x 282.5 10.56 B- #ffffff plus de 30 km
+  112.6 x 198.1  8.52 B- #ffffff menace immédiate :
+  112.6 x 344.8  8.52 B- #ffffff décision–
+  112.6 x 407.1  8.52 B- #ffffff référence rouge
+  112.6 x 475.4  8.52 B- #ffffff référence
+  121.5 x 198.1 10.56 B- #ffffff n (%)
+  121.5 x 344.8 10.56 B- #ffffff départ > 1 h
+  121.5 x 475.4 10.56 B- #ffffff urgente » rouge
+  123.0 x 407.1  8.52 B- #ffffff (condition
+  131.8 x 407.1 10.56 B- #ffffff transversale)
+  148.8 x  61.5 10.56 -- #1f2a37 Niveau 1 (CS)
+  148.8 x 179.2 10.56 -- #1f2a37 101
+  148.8 x 237.3 10.56 -- #1f2a37 101 (100,0 %)
+  148.8 x 329.2 10.56 -- #1f2a37 29
+  148.8 x 391.4 10.56 -- #1f2a37 18
+  148.8 x 459.8 10.56 -- #1f2a37 76
+  148.8 x 527.9 10.56 -- #1f2a37 80
+  165.3 x  61.5 10.56 -- #1f2a37 Niveau 1+ (CSR)
+  165.3 x 182.4 10.56 -- #1f2a37 22
+  165.3 x 240.6 10.56 -- #1f2a37 22 (100,0 %)
+  165.3 x 332.6 10.56 -- #1f2a37 8
+  165.3 x 394.8 10.56 -- #1f2a37 6
+  165.3 x 459.8 10.56 -- #1f2a37 13
+  165.3 x 527.9 10.56 -- #1f2a37 14
+  181.7 x  61.5 10.56 -- #1f2a37 Niveau 2 (HGR)
+  181.7 x 182.4 10.56 -- #1f2a37 37
+  181.7 x 243.9 10.56 -- #1f2a37 36 (97,3 %)
+  181.7 x 329.2 10.56 -- #1f2a37 25
+  181.7 x 391.4 10.56 -- #1f2a37 16
+  181.7 x 459.8 10.56 -- #1f2a37 23
+  181.7 x 527.9 10.56 -- #1f2a37 25
+  198.1 x  61.5 10.56 -- #1f2a37 Ensemble
+  198.1 x 179.2 10.56 -- #1f2a37 160
+  198.1 x 240.6 10.56 -- #1f2a37 159 (99,4 %)
+  198.1 x 329.2 10.56 -- #1f2a37 62
+  198.1 x 391.4 10.56 -- #1f2a37 40
+  198.1 x 456.6 10.56 -- #1f2a37 112
+  198.1 x 524.6 10.56 -- #1f2a37 119
+  216.3 x  56.7  9.00 -I #000000 Menace immédiate : au moins une fonction vitale classée rouge. Le circuit de référence est une condition transversale évaluée
+  227.4 x  56.7  9.00 -I #000000 au niveau de l’établissement ; la fonction « référence urgente » est une fonction traceuse évaluée selon ses propres conditions.
+  241.2 x  56.7 11.52 -- #000000 La référence risque en outre d’être retardée ou difficile à organiser : pour 62 établissements, la
+  255.3 x  56.7 11.52 -- #000000 structure de destination se trouve à plus de 30 km ; dans 40 établissements, le délai entre la
+  269.3 x  56.7 11.52 -- #000000 décision et le départ dépasse une heure. Ainsi, face à une menace vitale, la référence ne constitue
+  283.4 x  56.7 11.52 -- #000000 pas toujours une solution rapidement mobilisable, en particulier lorsque la fonction de référence
+  297.4 x  56.7 11.52 -- #000000 est elle-même classée rouge.
+  314.5 x  56.7 12.00 B- #000000 3.3.5. Correspondance entre les fonctions traceuses et les fonctions signal SONU
+  339.4 x  56.7 11.52 -- #000000 Au regard du référentiel classique de l’OMS, qui compte sept fonctions signal pour les soins
+  353.4 x  56.7 11.52 -- #000000 obstétricaux et néonatals d’urgence (SONU) de base et neuf pour les SONU complets, le diagnostic
+  367.5 x  56.7 11.52 -- #000000 couvre directement cinq des sept fonctions signal de base : l’administration d’antibiotiques
+  381.5 x  56.7 11.52 -- #000000 parentéraux, d’ocytociques et d’anticonvulsivants, la réanimation néonatale ainsi que
+  395.6 x  56.7 11.52 -- #000000 l’accouchement vaginal assisté. Cette dernière fonction est évaluée aux niveaux 1+ et 2, mais n’est
+  409.6 x  56.7 11.52 -- #000000 pas attendue au niveau 1. Pour ces fonctions, l’évaluation porte sur la disponibilité des intrants,
+  423.6 x  56.7 11.52 -- #000000 des équipements et des autres conditions nécessaires à leur réalisation.
+  440.7 x  56.7 11.52 -- #000000 Ce référentiel est en cours de révision. Le processus Re-Visioning EmONC, coordonné par AMDD
+  454.7 x  56.7 11.52 -- #000000 avec l’OMS, l’UNICEF, l’UNFPA et la LSHTM, propose désormais 25 fonctions signal (11
+  468.8 x  56.7 11.52 -- #000000 obstétricales, 13 néonatales et une fonction de référence), réparties en trois niveaux de soins : de
+  482.8 x  56.7 11.52 -- #000000 base, complets et intensifs [57]. Le diagnostic ayant été conçu sur les neuf fonctions classiques,
+  496.9 x  56.7 11.52 -- #000000 qui restent celles des enquêtes HHFA et EPSS et permettent la comparaison avec elles, la
+  510.9 x  56.7 11.52 -- #000000 correspondance ci-dessous porte sur ce référentiel. Plusieurs fonctions du nouveau cadre sont
+  524.9 x  56.7 11.52 -- #000000 néanmoins documentées, au moins en partie : médicaments de l’hémorragie du post-partum,
+  539.0 x  56.7 11.52 -- #000000 antibiotiques parentéraux maternels, sulfate de magnésium, accouchement vaginal assisté,
+  553.0 x  56.7 11.52 -- #000000 césarienne, transfusion, réanimation néonatale au ballon et au masque, apport de chaleur au
+  567.1 x  56.7 11.52 -- #000000 nouveau-né et organisation de la référence. Les fonctions néonatales avancées et celles du niveau
+  581.1 x  56.7 11.52 -- #000000 intensif, comme l’oxygénothérapie avec oxymétrie, la CPAP ou la photothérapie, n’ont pas été
+  595.1 x  56.7 11.52 -- #000000 mesurées.
+
+===== PAGE 17 / imprimée 42 =====
+   62.0 x  56.7 11.04 -I #0e2841 Tableau 12: Correspondance documentaire avec les fonctions signal SONU (référentiel classique)
+   89.2 x  61.5 10.56 B- #ffffff Fonction signal SONU
+   89.2 x 148.2 10.56 B- #ffffff Catégorie
+   89.2 x 307.3 10.56 B- #ffffff Couverture par le diagnostic
+   89.2 x 485.6 10.56 B- #ffffff Réserve
+   90.7 x 201.3  8.52 B- #ffffff Fonction traceuse
+   99.5 x 201.3 10.56 B- #ffffff correspondante
+  116.1 x  61.5 10.56 -- #1f2a37 Antibiotiques parentéraux
+  116.1 x 148.2 10.56 -- #1f2a37 SONU de base
+  119.5 x 201.3  6.00 -- #1f2a37 Prise en charge du sepsis maternel ou
+  119.5 x 307.3  6.00 -- #1f2a37 Couverte : fonction traceuse dédiée (antibiotique injectable parmi les
+  123.4 x 201.3 10.56 -- #1f2a37 puerpéral
+  123.4 x 307.3 10.56 -- #1f2a37 éléments critiques)
+  139.2 x  61.5 10.56 -- #1f2a37 Ocytociques parentéraux
+  139.2 x 148.2 10.56 -- #1f2a37 SONU de base
+  142.6 x 201.3  6.00 -- #1f2a37 Prévention et prise en charge de
+  142.6 x 307.3  6.00 -- #1f2a37 Couverte : ocytocine / ergométrine parmi les éléments critiques de la
+  146.5 x 201.3 10.56 -- #1f2a37 l'hémorragie du post-partum
+  146.5 x 307.3 10.56 -- #1f2a37 fonction HPP
+  162.4 x  61.5 10.56 -- #1f2a37 Anticonvulsivants parentéraux
+  162.4 x 148.2 10.56 -- #1f2a37 SONU de base
+  162.4 x 307.3 10.56 -- #1f2a37 Couverte : sulfate de magnésium parmi les éléments critiques
+  165.8 x 201.3  6.00 -- #1f2a37 Prise en charge de la pré-
+  169.7 x 201.3 10.56 -- #1f2a37 éclampsie/éclampsie
+  185.5 x 148.2 10.56 -- #1f2a37 SONU de base
+  189.0 x  61.5  6.00 -- #1f2a37 Extraction manuelle du
+  189.0 x 201.3  6.00 -- #1f2a37 Prévention et prise en charge de
+  189.0 x 307.3  6.00 -- #1f2a37 Partiellement couverte : geste non documenté individuellement ;
+  189.0 x 485.6  6.00 -- #1f2a37 Acte réalisé non
+  192.9 x  61.5 10.56 -- #1f2a37 placenta
+  192.9 x 201.3 10.56 -- #1f2a37 l'hémorragie du post-partum
+  192.9 x 307.3 10.56 -- #1f2a37 conditions (gants longs, personnel) dans HPP
+  192.9 x 485.6 10.56 -- #1f2a37 mesuré
+  208.7 x 148.2 10.56 -- #1f2a37 SONU de base
+  208.7 x 201.3 10.56 -- #1f2a37 -
+  208.7 x 485.6 10.56 -- #1f2a37 Non mesuré
+  212.1 x  61.5  6.00 -- #1f2a37 Évacuation des produits de
+  212.1 x 307.3  6.00 -- #1f2a37 Non couverte : aucune fonction traceuse ni élément dédié (AMIU,
+  216.0 x  61.5 10.56 -- #1f2a37 conception
+  216.0 x 307.3 10.56 -- #1f2a37 misoprostol post-abortum)
+  231.9 x  61.5 10.56 -- #1f2a37 Accouchement vaginal assisté
+  231.9 x 148.2 10.56 -- #1f2a37 SONU de base
+  231.9 x 201.3 10.56 -- #1f2a37 Accouchement vaginal assisté
+  235.3 x 307.3  6.00 -- #1f2a37 Couverte au niveau 1+ et 2 (ventouse / forceps parmi les éléments
+  235.3 x 485.6  6.00 -- #1f2a37 Niveau 1 non
+  239.2 x 307.3 10.56 -- #1f2a37 critiques) ; non attendue au CS
+  239.2 x 485.6 10.56 -- #1f2a37 couvert
+  255.0 x  61.5 10.56 -- #1f2a37 Réanimation néonatale
+  255.0 x 148.2 10.56 -- #1f2a37 SONU de base
+  255.0 x 201.3 10.56 -- #1f2a37 Réanimation néonatale immédiate
+  258.5 x 307.3  6.00 -- #1f2a37 Couverte : fonction traceuse dédiée (ballon et masque, aspiration,
+  262.4 x 307.3 10.56 -- #1f2a37 source de chaleur)
+  278.2 x  61.5 10.56 -- #1f2a37 Césarienne
+  278.2 x 148.2 10.56 -- #1f2a37 SONU complet
+  278.2 x 201.3 10.56 -- #1f2a37 Césarienne d'urgence
+  278.2 x 307.3 10.56 -- #1f2a37 Couverte aux niveaux 1+ et 2
+  299.4 x  61.5 10.56 -- #1f2a37 Transfusion sanguine
+  299.4 x 148.2 10.56 -- #1f2a37 SONU complet
+  299.4 x 201.3 10.56 -- #1f2a37 Transfusion sanguine d'urgence
+  299.4 x 307.3 10.56 -- #1f2a37 Couverte aux niveaux 1+ et 2
+  323.0 x  56.7 11.52 -- #000000 L’extraction manuelle du placenta est partiellement couverte : le diagnostic documente certaines
+  337.0 x  56.7 11.52 -- #000000 conditions matérielles et la disponibilité du personnel dans le cadre de la fonction relative à
+  351.0 x  56.7 11.52 -- #000000 l’hémorragie du post-partum, mais ne mesure pas la réalisation de ce geste. L’évacuation des
+  365.1 x  56.7 11.52 -- #000000 produits de conception n’est, quant à elle, couverte par aucune fonction traceuse ni par aucun
+  379.1 x  56.7 11.52 -- #000000 élément dédié, tel que l’aspiration manuelle intra-utérine ou le misoprostol post-abortum ; le
+  393.2 x  56.7 11.52 -- #000000 diagnostic ne permet donc pas d’en apprécier la préparation.
+  410.2 x  56.7 11.52 -- #000000 Les deux fonctions signal des SONU complets la césarienne et la transfusion sanguine sont
+  424.2 x  56.7 11.52 -- #000000 couvertes aux niveaux 1+ et 2. Dans l’ensemble, cette correspondance permet d’évaluer la
+  438.3 x  56.7 11.52 -- #000000 préparation opérationnelle de plusieurs fonctions SONU, mais ne renseigne pas directement sur
+  452.3 x  56.7 11.52 -- #000000 la réalisation effective des actes ni sur leur qualité clinique.
+  472.5 x  56.7 12.96 B- #000000 3.4. Intégration opérationnelle des services
+  498.9 x  62.4 14.04 B- #215e99 À retenir
+  516.1 x  62.4 11.52 -- #000000 L’intégration des contacts maternels s’améliore avec le niveau de soins : ils sont pleinement
+  530.1 x  62.4 11.52 -- #000000 documentés dans 46 % des centres de santé (CS), 73 % des centres de santé de référence (CSR)
+  544.1 x  62.4 11.52 -- #000000 et 84 % des hôpitaux généraux de référence (HGR).
+  558.2 x  62.4 11.52 -- #000000 La continuité des services nutritionnels est particulièrement fragile : dans 56 % des CS, la
+  572.2 x  62.4 11.52 -- #000000 présence continue d’un prestataire formé n’a pas été assurée au cours des trois mois précédant
+  586.3 x  62.4 11.52 -- #000000 la visite.
+  600.3 x  62.4 11.52 -- #000000 Les ruptures de référence tiennent surtout au transport et à l’absence de contact préalable,
+  614.4 x  62.4 11.52 -- #000000 plutôt qu’à l’absence d’une structure de destination. Par ailleurs, 89,8 % des structures
+  628.4 x  62.4 11.52 -- #000000 d’accueil déclarent recevoir des patients arrivés trop tard.
+  642.4 x  62.4 11.52 -- #000000 La référence vers l’hôpital ne garantit pas une prise en charge adéquate : la disponibilité
+  656.5 x  62.4 11.52 -- #000000 opérationnelle de la césarienne est classée rouge dans 81,7 % des hôpitaux appariés.
+  670.5 x  62.4 11.52 -- #000000 Le dépistage nutritionnel est rarement suivi d’une prise en charge opérationnelle : les
+  684.6 x  62.4 11.52 -- #000000 fonctions d’aval restent classées rouges dans 78 à 94 % des cas.
+  698.6 x  62.4 11.52 -- #000000 L’évaluation porte sur les conditions d’application des protocoles, mais les actes de soins
+  712.6 x  62.4 11.52 -- #000000 eux-mêmes n’ont pas été observés.
+
+===== PAGE 18 / imprimée 43 =====
+   62.1 x  56.7 12.00 B- #000000 3.4.1. Intégration des prestations au point de soins et entre niveaux
+   82.7 x  56.7 11.52 -- #000000 La documentation des contacts maternels s’améliore avec le niveau de soins : l’ensemble des
+   96.7 x  56.7 11.52 -- #000000 couples de prestations est documenté dans 46 % des centres de santé (CS), 73 % des centres de
+  110.8 x  56.7 11.52 -- #000000 santé de référence (CSR) et 84 % des hôpitaux généraux de référence (HGR). Cette progression est
+  124.8 x  56.7 11.52 -- #000000 moins nette pour les consultations de l’enfant. Au niveau 1, 48 % des CS présentent une intégration
+  138.8 x  56.7 11.52 -- #000000 partielle, correspondant à une occasion manquée, ou aucune intégration, contre 27 % des CSR et
+  152.9 x  56.7 11.52 -- #000000 30 % des HGR. L’absence totale d’intégration reste toutefois peu fréquente : elle concerne six
+  166.9 x  56.7 11.52 -- #000000 établissements, soit 3,8 % de l’échantillon.
+  184.0 x  56.7 11.52 -- #000000 L’intégration de la référence, évaluée uniquement dans les CSR et les HGR, demeure limitée et ne
+  198.0 x  56.7 11.52 -- #000000 s’améliore pas avec le niveau de soins. Tous les couples attendus sont documentés dans 59 % des
+  212.0 x  56.7 11.52 -- #000000 CSR et 57 % des HGR ; l’intégration est partielle dans respectivement 23 % et 30 % des
+  226.1 x  56.7 11.52 -- #000000 établissements, et absente dans 18 % et 14 %. Ces résultats suggèrent que la coordination entre
+  240.1 x  56.7 11.52 -- #000000 structures constitue un enjeu distinct de la disponibilité du plateau technique.
+  257.2 x  56.7 11.52 -- #000000 Ces constats doivent être distingués des résultats portant sur la préparation opérationnelle des
+  271.2 x  56.7 11.52 -- #000000 fonctions traceuses. La consultation prénatale intégrée à la prévention de la transmission mère-
+  285.3 x  56.7 11.52 -- #000000 enfant (CPN-PTME) est classée rouge dans 69,7 % des évaluations, principalement en raison du
+  299.3 x  56.7 11.52 -- #000000 manque d’intrants, qui concerne 97,6 % des classements rouges. Pour la fonction systémique
+  313.4 x  56.7 11.52 -- #000000 d’intégration des services, les classements jaunes prédominent (68,8 %), contre 28,1 % de
+  327.4 x  56.7 11.52 -- #000000 classements rouges. Enfin, la condition transversale associée à l’intégration est classée verte dans
+  341.4 x  56.7 11.52 -- #000000 71,2 % des établissements. Ces indicateurs mesurent des aspects complémentaires : la
+  355.5 x  56.7 11.52 -- #000000 documentation des prestations combinées, la préparation d’une fonction traceuse et la présence
+  369.5 x  56.7 11.52 -- #000000 de conditions systémiques favorables à l’intégration.
+  705.9 x 170.7  9.00 -I #0e2841 Figure 8: Couples de prestations documentés, par niveau de soins
+  726.8 x  56.7 12.00 B- #000000 3.4.2. Continuité des services et présence des prestataires
+  751.8 x  56.7 11.52 -- #000000 Mesurée sur les trois mois précédant l’enquête, la continuité de présence varie fortement selon le
+  765.8 x  56.7 11.52 -- #000000 service et le niveau de soins. La proportion d’établissements déclarant une présence pendant
+
+===== PAGE 19 / imprimée 44 =====
+   62.0 x  56.7 11.52 -- #000000 presque toute la période (90 à 92 jours) s’étend de 18 % à 76 %. Le paludisme présente le profil le
+   76.1 x  56.7 11.52 -- #000000 plus régulier : la médiane atteint 90 jours aux trois niveaux, et la présence pendant presque toute
+   90.1 x  56.7 11.52 -- #000000 la période est déclarée par 64 % des CS, 55 % des CSR et 76 % des HGR.
+  107.2 x  56.7 11.52 -- #000000 La continuité est particulièrement fragile pour la nutrition dans les CS et les CSR : 56 % des CS et
+  121.2 x  56.7 11.52 -- #000000 55 % des CSR déclarent zéro jour de présence d’un prestataire formé, ce qui correspond à une
+  135.2 x  56.7 11.52 -- #000000 médiane nulle. La situation est meilleure dans les HGR, où 57 % déclarent une présence pendant
+  149.3 x  56.7 11.52 -- #000000 90 à 92 jours, même si 27 % signalent toujours zéro jour. En maternité, la distribution au niveau 1
+  163.3 x  56.7 11.52 -- #000000 est contrastée : 49 % des CS déclarent seulement 1 à 7 jours de présence, tandis que 41 %
+  177.4 x  56.7 11.52 -- #000000 déclarent une présence pendant presque toute la période. Les HGR présentent la continuité la plus
+  191.4 x  56.7 11.52 -- #000000 élevée pour la maternité (68 %) et le paludisme (76 %).
+  208.4 x  56.7 11.52 -- #000000 Ces durées sont déclarées rétrospectivement par les établissements. Elles décrivent la présence
+  222.5 x  56.7 11.52 -- #000000 rapportée des prestataires, mais ne constituent pas une mesure quotidienne vérifiée de la
+  236.5 x  56.7 11.52 -- #000000 disponibilité effective des services ni de la qualité des soins.
+  620.1 x 119.5  9.00 -I #0e2841 Figure 9: Jours de présence des prestataires déclarés sur trois mois, par service et par niveau
+  641.0 x  56.7 12.00 B- #000000 3.4.3. Motifs et volumes des références déclarées
+  666.0 x  56.7 11.52 -- #000000 Sur les trois mois considérés, le paludisme grave représente le plus grand volume de références,
+  680.0 x  56.7 11.52 -- #000000 avec 2 486 cas déclarés dans 85 établissements. Les urgences médicales de l’adulte sont
+  694.0 x  56.7 11.52 -- #000000 toutefois le motif le plus largement rapporté : 102 établissements en ont déclaré, pour un total de
+  708.1 x  56.7 11.52 -- #000000 1 926 cas. Les urgences pédiatriques arrivent ensuite, avec 1 788 cas dans 73 établissements. Les
+  722.1 x  56.7 11.52 -- #000000 urgences obstétricales et les cas chirurgicaux totalisent respectivement 781 et 774 références.
+  739.2 x  56.7 11.52 -- #000000 Les volumes déclarés varient fortement d’un établissement à l’autre. Pour les urgences médicales
+  753.2 x  56.7 11.52 -- #000000 de l’adulte, la médiane est de 3 références par établissement, alors que le maximum atteint 277 ;
+
+===== PAGE 20 / imprimée 45 =====
+   62.0 x  56.7 11.52 -- #000000 pour le paludisme grave, la médiane est de 2, contre un maximum de 189. Ces écarts indiquent
+   76.1 x  56.7 11.52 -- #000000 que les volumes totaux sont concentrés dans certains établissements.
+   93.1 x  56.7 11.52 -- #000000 À l’inverse, la médiane est nulle pour plusieurs motifs, notamment les urgences pédiatriques, les
+  107.2 x  56.7 11.52 -- #000000 traumatismes et accidents, la malnutrition aiguë sévère compliquée, les complications
+  121.2 x  56.7 11.52 -- #000000 néonatales et les suspicions de maladies à potentiel épidémique. Pourtant, entre 48 et 75
+  135.2 x  56.7 11.52 -- #000000 établissements ont déclaré au moins une référence pour chacun de ces motifs. Une médiane nulle
+  149.3 x  56.7 11.52 -- #000000 signifie donc qu’au moins la moitié des établissements n’a déclaré aucune référence pour le motif
+  163.3 x  56.7 11.52 -- #000000 concerné, même si un volume notable a été enregistré ailleurs.
+  180.3 x  56.7 11.04 -I #0e2841 Tableau 13: Références au cours des trois derniers mois, par motif
+  209.4 x  61.5 11.04 B- #ffffff Motif de référence
+  209.4 x 225.4 11.04 B- #ffffff Établissements
+  209.4 x 321.8 11.04 B- #ffffff Total déclaré
+  209.4 x 398.9 11.04 B- #ffffff Médiane par
+  209.4 x 476.0 11.04 B- #ffffff Maximum
+  222.9 x 225.4 11.04 B- #ffffff avec au moins une
+  222.9 x 321.8 11.04 B- #ffffff sur trois mois
+  222.9 x 398.9 11.04 B- #ffffff établissement
+  236.3 x 225.4 11.04 B- #ffffff référence (sur 160)
+  258.3 x  61.5 11.04 -- #1f2a37 Paludisme grave
+  258.3 x 301.6 11.04 -- #1f2a37 85
+  258.3 x 365.1 11.04 -- #1f2a37 2 486
+  258.3 x 453.1 11.04 -- #1f2a37 2,0
+  258.3 x 517.8 11.04 -- #1f2a37 189
+  280.2 x  61.5 11.04 -- #1f2a37 Urgences médicales de l’adulte
+  280.2 x 296.1 11.04 -- #1f2a37 102
+  280.2 x 365.1 11.04 -- #1f2a37 1 926
+  280.2 x 453.1 11.04 -- #1f2a37 3,0
+  280.2 x 517.8 11.04 -- #1f2a37 277
+  302.1 x  61.5 11.04 -- #1f2a37 Urgences pédiatriques
+  302.1 x 301.6 11.04 -- #1f2a37 73
+  302.1 x 365.1 11.04 -- #1f2a37 1 788
+  302.1 x 453.1 11.04 -- #1f2a37 0,0
+  302.1 x 517.8 11.04 -- #1f2a37 182
+  324.0 x  61.5 11.04 -- #1f2a37 Urgences obstétricales
+  324.0 x 301.6 11.04 -- #1f2a37 88
+  324.0 x 373.3 11.04 -- #1f2a37 781
+  324.0 x 453.1 11.04 -- #1f2a37 2,0
+  324.0 x 523.3 11.04 -- #1f2a37 44
+  346.0 x  61.5 11.04 -- #1f2a37 Cas chirurgicaux
+  346.0 x 301.6 11.04 -- #1f2a37 88
+  346.0 x 373.3 11.04 -- #1f2a37 774
+  346.0 x 453.1 11.04 -- #1f2a37 1,0
+  346.0 x 523.3 11.04 -- #1f2a37 95
+  368.0 x  61.5 11.04 -- #1f2a37 Autres
+  368.0 x 301.6 11.04 -- #1f2a37 56
+  368.0 x 373.3 11.04 -- #1f2a37 530
+  368.0 x 453.1 11.04 -- #1f2a37 0,0
+  368.0 x 517.8 11.04 -- #1f2a37 125
+  389.8 x  61.5 11.04 -- #1f2a37 Malnutrition aiguë sévère
+  389.8 x 301.6 11.04 -- #1f2a37 57
+  389.8 x 373.3 11.04 -- #1f2a37 520
+  389.8 x 453.1 11.04 -- #1f2a37 0,0
+  389.8 x 523.3 11.04 -- #1f2a37 71
+  403.2 x  61.5 11.04 -- #1f2a37 compliquée
+  425.2 x  61.5 11.04 -- #1f2a37 Traumatismes et accidents
+  425.2 x 301.6 11.04 -- #1f2a37 75
+  425.2 x 373.3 11.04 -- #1f2a37 432
+  425.2 x 453.1 11.04 -- #1f2a37 0,0
+  425.2 x 523.3 11.04 -- #1f2a37 48
+  447.2 x  61.5 11.04 -- #1f2a37 Suspicion de maladie à potentiel
+  447.2 x 301.6 11.04 -- #1f2a37 48
+  447.2 x 373.3 11.04 -- #1f2a37 284
+  447.2 x 453.1 11.04 -- #1f2a37 0,0
+  447.2 x 523.3 11.04 -- #1f2a37 35
+  460.6 x  61.5 11.04 -- #1f2a37 épidémique
+  482.5 x  61.5 11.04 -- #1f2a37 Complications néonatales
+  482.5 x 301.6 11.04 -- #1f2a37 52
+  482.5 x 373.3 11.04 -- #1f2a37 240
+  482.5 x 453.1 11.04 -- #1f2a37 0,0
+  482.5 x 523.3 11.04 -- #1f2a37 54
+  499.3 x  56.7 12.00 B- #000000 3.4.4. Contraintes déclarées au départ des centres de santé
+  524.2 x  56.7 11.52 -- #000000 Parmi les 101 centres de santé interrogés, les contraintes les plus souvent rapportées lors de la
+  538.3 x  56.7 11.52 -- #000000 référence concernent les ménages et le transport. Le manque de ressources financières du
+  552.3 x  56.7 11.52 -- #000000 ménage arrive en tête (78 CS, soit 77,2 %), suivi de l’absence de moyen de transport (71 ; 70,3 %)
+  566.3 x  56.7 11.52 -- #000000 et du refus du patient ou de sa famille (70 ; 69,3 %). Le coût du transport est également
+  580.4 x  56.7 11.52 -- #000000 fréquemment cité (66 ; 65,3 %).
+  597.4 x  56.7 11.52 -- #000000 Les difficultés d’accès géographique et logistique sont elles aussi importantes : la distance jusqu’à
+  611.5 x  56.7 11.52 -- #000000 la structure de référence est mentionnée par 50,5 % des CS, le mauvais état des routes par 44,6
+  625.5 x  56.7 11.52 -- #000000 %, les difficultés de communication par 32,7 % et les pannes de transport par 28,7 %. L’insécurité
+  639.6 x  56.7 11.52 -- #000000 ou les contraintes géographiques sont rapportées par 19,8 % des centres. En revanche, le retard
+  653.6 x  56.7 11.52 -- #000000 dans la prise de décision clinique (9,9 %) et la saturation de l’hôpital de référence (8,9 %) sont les
+  667.6 x  56.7 11.52 -- #000000 contraintes les moins souvent citées.
+  684.7 x  56.7 11.52 -- #000000 Dans l’ensemble, les réponses mettent en évidence des obstacles financiers, sociaux et
+  698.7 x  56.7 11.52 -- #000000 logistiques qui peuvent se cumuler au cours de la référence. Les pourcentages ne doivent donc
+  712.8 x  56.7 11.52 -- #000000 pas être additionnés : un même centre pouvait signaler plusieurs contraintes.
+
+===== PAGE 21 / imprimée 46 =====
+   62.1 x  56.7  9.00 -I #0e2841 Tableau 14: Contraintes déclarées au départ lorsque la référence est décidée (centres de santé)
+   88.7 x  61.5 11.04 B- #ffffff Contrainte déclarée au départ (centres de santé, n = 101)
+   88.7 x 398.9 11.04 B- #ffffff n (%)
+  110.7 x  61.5 11.04 -- #1f2a37 Manque de ressources financières du ménage
+  110.7 x 484.3 11.04 -- #1f2a37 78 (77,2 %)
+  132.6 x  61.5 11.04 -- #1f2a37 Absence de moyen de transport
+  132.6 x 484.3 11.04 -- #1f2a37 71 (70,3 %)
+  154.5 x  61.5 11.04 -- #1f2a37 Refus du patient ou de sa famille
+  154.5 x 484.3 11.04 -- #1f2a37 70 (69,3 %)
+  176.4 x  61.5 11.04 -- #1f2a37 Coût du transport
+  176.4 x 484.3 11.04 -- #1f2a37 66 (65,3 %)
+  198.4 x  61.5 11.04 -- #1f2a37 Distance importante vers la structure de référence
+  198.4 x 484.3 11.04 -- #1f2a37 51 (50,5 %)
+  220.3 x  61.5 11.04 -- #1f2a37 Mauvais état des routes
+  220.3 x 484.3 11.04 -- #1f2a37 45 (44,6 %)
+  242.2 x  61.5 11.04 -- #1f2a37 Difficultés de communication
+  242.2 x 484.3 11.04 -- #1f2a37 33 (32,7 %)
+  264.2 x  61.5 11.04 -- #1f2a37 Panne du moyen de transport
+  264.2 x 484.3 11.04 -- #1f2a37 29 (28,7 %)
+  286.1 x  61.5 11.04 -- #1f2a37 Insécurité ou contraintes géographiques
+  286.1 x 484.3 11.04 -- #1f2a37 20 (19,8 %)
+  308.1 x  61.5 11.04 -- #1f2a37 Retard dans la prise de décision clinique
+  308.1 x 490.0 11.04 -- #1f2a37 10 (9,9 %)
+  329.9 x  61.5 11.04 -- #1f2a37 Saturation de l’hôpital de référence
+  329.9 x 495.5 11.04 -- #1f2a37 9 (8,9 %)
+  346.7 x  56.7 12.00 B- #000000 3.4.5. Difficultés à la réception et dans la continuité de la référence
+  371.7 x  56.7 11.52 -- #000000 Parmi les 59 centres de santé de référence et hôpitaux généraux de référence interrogés, les
+  385.7 x  56.7 11.52 -- #000000 difficultés les plus fréquemment signalées concernent le délai et la coordination de la référence.
+  399.8 x  56.7 11.52 -- #000000 L’arrivée tardive du patient est citée par 53 établissements (89,8 %), l’absence de communication
+  413.8 x  56.7 11.52 -- #000000 préalable par 50 (84,7 %) et l’aggravation de l’état clinique à l’arrivée par 48 (81,4 %). Ces constats
+  427.8 x  56.7 11.52 -- #000000 témoignent de ruptures possibles dans la coordination entre la structure référente et la structure
+  441.9 x  56.7 11.52 -- #000000 d’accueil.
+  458.9 x  56.7 11.52 -- #000000 La transmission des informations et l’accompagnement du patient posent également problème.
+  473.0 x  56.7 11.52 -- #000000 Les informations cliniques sont jugées insuffisantes dans 79,7 % des établissements ; la fiche de
+  487.0 x  56.7 11.52 -- #000000 référence est incomplète ou mal renseignée dans 76,3 % des cas, et absente dans 74,6 %. Dans la
+  501.1 x  56.7 11.52 -- #000000 même proportion, les patients sont référés sans accompagnement approprié alors qu’il est
+  515.1 x  56.7 11.52 -- #000000 nécessaire. La continuité après la prise en charge reste aussi fragile : 62,7 % des structures
+  529.1 x  56.7 11.52 -- #000000 signalent des difficultés financières pour le patient et une absence ou un retard de contre-
+  543.2 x  56.7 11.52 -- #000000 référence.
+  560.2 x  56.7 11.52 -- #000000 Enfin, même si elles sont moins souvent citées, l’indisponibilité des examens complémentaires et
+  574.3 x  56.7 11.52 -- #000000 celle des médicaments ou intrants essentiels concernent chacune 26 structures (44,1 %). Les
+  588.3 x  56.7 11.52 -- #000000 difficultés rapportées ne se limitent donc pas à la coordination et à la documentation ; elles
+  602.3 x  56.7 11.52 -- #000000 incluent aussi des contraintes financières et de disponibilité des ressources. Plusieurs problèmes
+  616.4 x  56.7 11.52 -- #000000 pouvant être signalés par une même structure, les pourcentages ne doivent pas être additionnés.
+
+===== PAGE 22 / imprimée 47 =====
+   62.0 x  56.7 11.04 -I #0e2841 Tableau 15: Difficultés déclarées à la réception des patients référés (CSR et HGR)
+   87.0 x  61.5  9.96 B- #ffffff Difficulté déclarée à la réception (CSR et HGR, n = 59)
+   87.0 x 513.4  9.96 B- #ffffff n (%)
+  107.7 x  61.5  9.96 -- #1f2a37 Arrivée tardive du patient après la décision de référence
+  107.7 x 488.9  9.96 -- #1f2a37 53 (89,8 %)
+  128.4 x 488.9  9.96 -- #1f2a37 50 (84,7 %)
+  128.5 x  61.5  9.96 -- #1f2a37 Absence de communication préalable entre la structure référente et votre
+  140.6 x  61.5  9.96 -- #1f2a37 établissement
+  161.4 x  61.5  9.96 -- #1f2a37 État clinique du patient aggravé à son arrivée
+  161.4 x 488.9  9.96 -- #1f2a37 48 (81,4 %)
+  182.0 x  61.5  9.96 -- #1f2a37 Informations cliniques insuffisantes sur le patient référé
+  182.0 x 488.9  9.96 -- #1f2a37 47 (79,7 %)
+  202.8 x  61.5  9.96 -- #1f2a37 Fiche de référence incomplète ou mal renseignée
+  202.8 x 488.9  9.96 -- #1f2a37 45 (76,3 %)
+  223.4 x 488.9  9.96 -- #1f2a37 45 (76,3 %)
+  223.5 x  61.5  9.96 -- #1f2a37 Patient référé sans accompagnement approprié (personnel de santé ou autre)
+  235.7 x  61.5  9.96 -- #1f2a37 lorsque nécessaire
+  256.5 x  61.5  9.96 -- #1f2a37 Référence sans fiche de référence
+  256.5 x 488.9  9.96 -- #1f2a37 44 (74,6 %)
+  277.1 x  61.5  9.96 -- #1f2a37 Difficultés financières du patient limitant sa prise en charge
+  277.1 x 488.9  9.96 -- #1f2a37 37 (62,7 %)
+  297.9 x  61.5  9.96 -- #1f2a37 Absence ou retard de contre référence après la prise en charge
+  297.9 x 488.9  9.96 -- #1f2a37 37 (62,7 %)
+  318.5 x  61.5  9.96 -- #1f2a37 Indisponibilité des examens complémentaires nécessaires
+  318.5 x 488.9  9.96 -- #1f2a37 26 (44,1 %)
+  339.3 x  61.5  9.96 -- #1f2a37 Indisponibilité des médicaments ou intrants essentiels
+  339.3 x 488.9  9.96 -- #1f2a37 26 (44,1 %)
+  366.9 x  56.7 12.00 B- #000000 3.4.6. Préparation opérationnelle des structures de destination
+  387.5 x  56.7 11.52 -- #000000 Sur les 160 établissements sources, une destination a été identifiée pour 82 liaisons : 68 au départ
+  401.6 x  56.7 11.52 -- #000000 d’un centre de santé (CS), 12 d’un centre de santé de référence (CSR) et deux d’un hôpital général
+  415.6 x  56.7 11.52 -- #000000 de référence (HGR). Toutefois, seules 20 liaisons sont confirmées par le nom de la destination ; les
+  429.7 x  56.7 11.52 -- #000000 62 autres ne sont pas confirmées nominativement.
+  449.7 x  56.7 11.04 -I #0e2841 Tableau 16: État des fonctions vitales d'aval à la destination de référence enquêtée
+  476.1 x  61.5  9.96 B- #ffffff Niveau source
+  476.2 x 138.5  9.96 B- #ffffff Destination
+  476.2 x 196.4  9.96 B- #ffffff Liaisons appariées
+  476.2 x 283.1  9.96 B- #ffffff Césarienne rouge
+  476.2 x 369.9  9.96 B- #ffffff Transfusion rouge
+  476.2 x 456.7  9.96 B- #ffffff Réanimation
+  488.3 x 138.5  9.96 B- #ffffff nommée
+  488.3 x 369.9  9.96 B- #ffffff : n (%)
+  488.4 x 196.4  9.96 B- #ffffff (confirmées par le
+  488.4 x 283.1  9.96 B- #ffffff à la destination : n
+  488.4 x 456.7  9.96 B- #ffffff néonatale rouge :
+  500.6 x 196.4  9.96 B- #ffffff nom / non
+  500.6 x 283.1  9.96 B- #ffffff (%)
+  500.6 x 456.7  9.96 B- #ffffff n (%)
+  512.8 x 196.4  9.96 B- #ffffff confirmées
+  524.9 x 196.4  9.96 B- #ffffff nominativement)
+  545.7 x  61.5  9.96 -- #1f2a37 Niveau 1 (CS)
+  545.7 x 172.1  9.96 -- #1f2a37 101
+  545.7 x 227.0  9.96 -- #1f2a37 68 (15 / 53)
+  545.7 x 315.3  9.96 -- #1f2a37 54 (79,4 %)
+  545.7 x 402.1  9.96 -- #1f2a37 50 (73,5 %)
+  545.7 x 488.9  9.96 -- #1f2a37 45 (66,2 %)
+  566.3 x  61.5  9.96 -- #1f2a37 Niveau 1+ (CSR)
+  566.3 x 177.3  9.96 -- #1f2a37 22
+  566.3 x 237.2  9.96 -- #1f2a37 12 (3 / 9)
+  566.3 x 315.3  9.96 -- #1f2a37 11 (91,7 %)
+  566.3 x 402.1  9.96 -- #1f2a37 10 (83,3 %)
+  566.3 x 493.9  9.96 -- #1f2a37 9 (75,0 %)
+  587.1 x  61.5  9.96 -- #1f2a37 Niveau 2 (HGR)
+  587.1 x 177.3  9.96 -- #1f2a37 37
+  587.1 x 242.2  9.96 -- #1f2a37 2 (2 / 0)
+  587.1 x 315.3  9.96 -- #1f2a37 2 (100,0 %)
+  587.1 x 407.1  9.96 -- #1f2a37 1 (50,0 %)
+  587.1 x 493.9  9.96 -- #1f2a37 1 (50,0 %)
+  607.7 x  61.5  9.96 -- #1f2a37 Ensemble
+  607.7 x 172.1  9.96 -- #1f2a37 160
+  607.7 x 227.0  9.96 -- #1f2a37 82 (20 / 62)
+  607.7 x 315.3  9.96 -- #1f2a37 67 (81,7 %)
+  607.7 x 402.1  9.96 -- #1f2a37 61 (74,4 %)
+  607.7 x 488.9  9.96 -- #1f2a37 55 (67,1 %)
+  626.5 x  56.7 11.52 -- #000000 Parmi ces 82 liaisons, les fonctions nécessaires à la prise en charge à destination sont
+  640.5 x  56.7 11.52 -- #000000 fréquemment classées rouges : 67 destinations (81,7 %) pour la césarienne, 61 (74,4 %) pour la
+  654.6 x  56.7 11.52 -- #000000 transfusion et 55 (67,1 %) pour la réanimation néonatale. Les proportions sont particulièrement
+  668.6 x  56.7 11.52 -- #000000 élevées pour les liaisons issues des CSR : 11 des 12 destinations sont classées rouges pour la
+  682.6 x  56.7 11.52 -- #000000 césarienne, 10 pour la transfusion et 9 pour la réanimation néonatale. Les résultats concernant les
+  696.7 x  56.7 11.52 -- #000000 HGR sources reposent sur seulement deux liaisons et doivent être interprétés avec prudence.
+  713.7 x  56.7 11.52 -- #000000 Ainsi, la référence vers une structure d’accueil ne garantit pas à elle seule que la fonction requise
+  727.8 x  56.7 11.52 -- #000000 y soit opérationnelle. Ces résultats décrivent toutefois les liaisons analysées dans l’échantillon :
+  741.8 x  56.7 11.52 -- #000000 la majorité des destinations n’étant pas confirmée nominativement, ils ne permettent pas d’établir
+  755.8 x  56.7 11.52 -- #000000 avec certitude l’état opérationnel de chaque destination effectivement sollicitée. Les destinations
+  769.9 x  56.7 11.52 -- #000000 situées hors de l’échantillon ne sont pas évaluées.
+
+===== PAGE 23 / imprimée 48 =====
+   62.1 x  56.7 12.00 B- #000000 3.4.7. Continuité opérationnelle entre les fonctions de soins
+   87.0 x  56.7 11.52 -- #000000 Parmi les établissements où la fonction d’amont est classée verte ou jaune, la fonction d’aval
+  101.0 x  56.7 11.52 -- #000000 demeure souvent rouge, ce qui révèle des ruptures possibles dans la continuité opérationnelle au
+  115.1 x  56.7 11.52 -- #000000 sein d’un même établissement. Les écarts les plus marqués concernent le dépistage nutritionnel
+  129.1 x  56.7 11.52 -- #000000 : l’aval est classé rouge dans 78 % des cas pour la prise en charge de la malnutrition aiguë
+  143.2 x  56.7 11.52 -- #000000 compliquée et dans 94 % pour la malnutrition aiguë non compliquée au centre de santé. Le
+  157.2 x  56.7 11.52 -- #000000 passage du traitement du paludisme simple à la stabilisation pré-référence du paludisme grave
+  171.2 x  56.7 11.52 -- #000000 présente également une forte proportion de rouge (environ 75 %), tout comme le passage de la
+  185.3 x  56.7 11.52 -- #000000 vaccination de routine à la prise en charge des manifestations adverses post-immunisation (MAPI,
+  199.3 x  56.7 11.52 -- #000000 70 %).
+  216.4 x  56.7 11.52 -- #000000 D’autres enchaînements sont moins souvent classés rouges : 9 % pour la vaccination de routine
+  230.4 x  56.7 11.52 -- #000000 suivie de la chaîne du froid, 24 % pour la consultation prénatale suivie de la CPN intégrée à la PTME,
+  244.4 x  56.7 11.52 -- #000000 25 % pour l’accouchement normal suivi de la prise en charge de l’hémorragie du post-partum et
+  258.5 x  56.7 11.52 -- #000000 26 % pour le diagnostic du paludisme suivi de son traitement. Toutefois, certains parcours restent
+  272.6 x  56.7 11.52 -- #000000 fragiles : la proportion rouge atteint 57 % entre la consultation prénatale et la détection-référence
+  286.6 x  56.7 11.52 -- #000000 des grossesses à risque, 58 % entre l’accouchement normal et la réanimation néonatale ou les
+  300.6 x  56.7 11.52 -- #000000 soins essentiels du nouveau-né, 66 % entre l’hémorragie du post-partum et la transfusion, 50 %
+  314.7 x  56.7 11.52 -- #000000 entre l’accouchement assisté et la césarienne d’urgence, et 40 % entre l’hémorragie du post-
+  328.3 x  56.7 12.00 -- #000000 partum et la référence urgente.
+  565.2 x 125.7  9.00 -I #0e2841 Figure 10: État de la fonction d’aval lorsque la fonction d’amont est classée verte ou jaune
+  586.1 x  56.7 11.52 -- #000000 Ces résultats suggèrent que la continuité est particulièrement vulnérable lorsque la fonction d’aval
+  600.2 x  56.7 11.52 -- #000000 exige des intrants, des équipements ou des compétences spécifiques. Ils doivent toutefois être
+  614.2 x  56.7 11.52 -- #000000 interprétés comme des parcours analytiques au sein des établissements, et non comme
+  628.3 x  56.7 11.52 -- #000000 l’observation du cheminement réel des patients. Les effectifs diffèrent selon les parcours (de 12 à
+  642.3 x  56.7 11.52 -- #000000 140 établissements) ; les valeurs fondées sur de petits effectifs sont donc à considérer avec
+  656.4 x  56.7 11.52 -- #000000 prudence.
+
+===== PAGE 24 / imprimée 49 =====
+   62.1 x  56.7 12.96 B- #000000 3.5. Utilisation des données de routine et de surveillance
+   88.7 x  62.3 14.04 B- #1f4e79 À retenir
+  107.8 x  62.3 12.00 -- #000000 La détection et la notification semblent bien assurées selon les déclarations : 78 % des
+  122.4 x  62.3 12.00 -- #000000 établissements sont classés verts pour la reconnaissance du signal, et 90 % déclarent
+  137.1 x  62.3 12.00 -- #000000 notifier les alertes en moins de 24 heures.
+  153.8 x  62.3 12.00 -- #000000 Les outils et la transmission constituent le principal point de fragilité : 31 % des
+  168.4 x  62.3 12.00 -- #000000 établissements sont classés rouges pour cette composante, une proportion qui atteint 66,7
+  183.0 x  62.3 12.00 -- #000000 % au Haut-Lomami.
+  199.7 x  62.3 12.00 -- #000000 L’analyse des données est plus favorable, mais le système reste instable : 67,5 % des
+  214.4 x  62.3 12.00 -- #000000 établissements sont classés verts pour l’analyse et la prise de décision, tandis que la
+  229.0 x  62.3 12.00 -- #000000 fonction « données sanitaires » est jaune dans 58,6 % des cas.
+  245.7 x  62.3 12.00 -- #000000 L’utilisation des données pour l’action reste incomplète : là où les outils existent, les
+  260.3 x  62.3 12.00 -- #000000 équipes analysent leurs données, mais seuls 7,6 % des établissements ont une fonction «
+  275.0 x  62.3 12.00 -- #000000 données sanitaires » pleinement opérationnelle. La discontinuité des outils et de la
+  289.6 x  62.3 12.00 -- #000000 transmission freine l’action correctrice, et les données de routine ne montrent pas l’écart
+  304.3 x  62.3 12.00 -- #000000 entre services déclarés et capacité réelle : 97 des 98 centres de santé qui déclarent la
+  318.9 x  62.3 12.00 -- #000000 réanimation néonatale n’en réunissent pas les conditions.
+  335.6 x  62.3 12.00 -- #000000 Ces résultats reposent sur les déclarations des établissements et n’ont pas été vérifiés
+  350.2 x  62.3 12.00 -- #000000 par confrontation aux registres.
+  377.6 x  56.7 12.00 B- #000000 3.5.1. Fonctionnement du circuit de surveillance et d’utilisation des données
+  402.5 x  56.7 11.52 -- #000000 Le circuit de surveillance présente des résultats contrastés selon ses étapes. La reconnaissance
+  416.6 x  56.7 11.52 -- #000000 du signal est classée verte dans 78 % des établissements, et la rapidité de notification dans 90 %.
+  430.6 x  56.7 11.52 -- #000000 Cette dernière proportion varie de 86,1 % dans les CS à 97,3 % dans les HGR ; toutefois, trois CS
+  444.7 x  56.7 11.52 -- #000000 déclarent ne disposer d’aucun système de notification. Ces deux premiers maillons apparaissent
+  458.7 x  56.7 11.52 -- #000000 donc globalement fonctionnels.
+  475.7 x  56.7 11.52 -- #000000 La principale rupture concerne les outils et la transmission des données : seuls 30 % des
+  489.8 x  56.7 11.52 -- #000000 établissements sont classés verts, tandis que 39 % sont jaunes et 31 % rouges. Cette étape
+  503.8 x  56.7 11.52 -- #000000 constitue le principal point de rupture du circuit (31 %) et regroupe plusieurs exigences, relevé
+  517.9 x  56.7 11.52 -- #000000 hebdomadaire, canevas SNIS et accès au SNIS ; contrairement aux maillons de reconnaissance et
+  531.9 x  56.7 11.52 -- #000000 de notification, évalués chacun à partir d’un seul élément.
+  722.2 x 108.9  9.00 -I #0e2841 Figure 11: Chaîne surveillance-réponse et chaîne des données : composantes et points de rupture
+  743.1 x  56.7 11.52 -- #000000 En aval, l’analyse et la prise de décision sont classées vertes dans 68 % des établissements, jaunes
+  757.2 x  56.7 11.52 -- #000000 dans 19 % et rouges dans 14 %. Cette capacité semble donc se maintenir malgré les faiblesses
+  771.2 x  56.7 11.52 -- #000000 constatées dans la production et la transmission des données. Toutefois, la fonction globale «
+
+===== PAGE 25 / imprimée 50 =====
+   62.0 x  56.7 11.52 -- #000000 données sanitaires » reste surtout classée jaune (58,6 %), et seulement 7,6 % des établissements
+   76.1 x  56.7 11.52 -- #000000 sont classés verts. Enfin, la rapidité de notification repose sur les déclarations des établissements
+   89.7 x  56.7 12.00 -- #000000 : les délais n’ont pas été mesurés directement.
+  107.2 x  56.7 12.00 B- #000000 3.5.2. Points de rupture du circuit de surveillance selon le niveau et la province
+  132.1 x  56.7 11.52 -- #000000 Les outils et la transmission constituent le principal point de rupture du circuit de surveillance,
+  146.2 x  56.7 11.52 -- #000000 quel que soit le niveau de soins. Cette difficulté concerne davantage les centres de santé (38,6 %
+  160.2 x  56.7 11.52 -- #000000 de classements rouges) que les hôpitaux généraux de référence (21,6 %) et les centres de santé de
+  174.2 x  56.7 11.52 -- #000000 référence (13,6 %).
+  191.3 x  56.7 11.52 -- #000000 Les écarts entre provinces sont marqués : la proportion rouge pour cette composante atteint 66,7
+  205.3 x  56.7 11.52 -- #000000 % au Haut-Lomami et 43,8 % dans la Lomami. Elle est de 37,5 % au Lualaba et au Sankuru, de 29,2
+  219.4 x  56.7 11.52 -- #000000 % au Kasaï-Central, et de 12,5 % au Kasaï-Oriental comme au Tanganyika. Ces deux dernières
+  233.4 x  56.7 11.52 -- #000000 valeurs doivent être interprétées avec prudence, les échantillons provinciaux ne comptant que huit
+  247.4 x  56.7 11.52 -- #000000 établissements chacun.
+  264.5 x  56.7 11.04 -I #0e2841 Tableau 17: Points de rupture du circuit de surveillance, par niveau et par province
+  293.6 x  61.5 11.04 B- #ffffff Composante : % rouge
+  293.6 x 186.5 11.04 B- #ffffff CS
+  293.6 x 215.4 11.04 B- #ffffff CSR
+  293.6 x 250.2 11.04 B- #ffffff HGR
+  293.6 x 285.1 11.04 B- #ffffff HK
+  293.6 x 317.4 11.04 B- #ffffff HL
+  293.6 x 349.6 11.04 B- #ffffff KC
+  293.6 x 381.9 11.04 B- #ffffff KO
+  293.6 x 414.2 11.04 B- #ffffff LM
+  293.6 x 446.5 11.04 B- #ffffff LL
+  293.6 x 478.9 11.04 B- #ffffff SK
+  293.6 x 511.2 11.04 B- #ffffff TG
+  315.5 x  61.5 11.04 -- #1f2a37 Reconnaissance du signal
+  315.5 x 187.0 11.04 -- #1f2a37 11,9
+  315.5 x 227.3 11.04 -- #1f2a37 9,1
+  315.5 x 262.1 11.04 -- #1f2a37 5,4
+  315.5 x 288.9 11.04 -- #1f2a37 19,2
+  315.5 x 326.7 11.04 -- #1f2a37 0,0
+  315.5 x 359.0 11.04 -- #1f2a37 4,2
+  315.5 x 391.3 11.04 -- #1f2a37 0,0
+  315.5 x 423.6 11.04 -- #1f2a37 0,0
+  315.5 x 455.9 11.04 -- #1f2a37 8,3
+  315.5 x 482.8 11.04 -- #1f2a37 18,8
+  315.5 x 520.6 11.04 -- #1f2a37 0,0
+  337.5 x  61.5 11.04 -- #1f2a37 Rapidité de la notification
+  337.5 x 192.5 11.04 -- #1f2a37 6,9
+  337.5 x 227.3 11.04 -- #1f2a37 4,5
+  337.5 x 262.1 11.04 -- #1f2a37 0,0
+  337.5 x 294.4 11.04 -- #1f2a37 3,8
+  337.5 x 326.7 11.04 -- #1f2a37 0,0
+  337.5 x 359.0 11.04 -- #1f2a37 8,3
+  337.5 x 391.3 11.04 -- #1f2a37 0,0
+  337.5 x 423.6 11.04 -- #1f2a37 6,2
+  337.5 x 455.9 11.04 -- #1f2a37 0,0
+  337.5 x 482.8 11.04 -- #1f2a37 18,8
+  337.5 x 520.6 11.04 -- #1f2a37 0,0
+  359.4 x  61.5 11.04 -- #1f2a37 Outils et transmission
+  359.4 x 187.0 11.04 -- #1f2a37 38,6
+  359.4 x 221.8 11.04 -- #1f2a37 13,6
+  359.4 x 256.6 11.04 -- #1f2a37 21,6
+  359.4 x 288.9 11.04 -- #1f2a37 21,2
+  359.4 x 321.2 11.04 -- #1f2a37 66,7
+  359.4 x 353.5 11.04 -- #1f2a37 29,2
+  359.4 x 385.8 11.04 -- #1f2a37 12,5
+  359.4 x 418.1 11.04 -- #1f2a37 43,8
+  359.4 x 450.3 11.04 -- #1f2a37 37,5
+  359.4 x 482.8 11.04 -- #1f2a37 37,5
+  359.4 x 515.0 11.04 -- #1f2a37 12,5
+  381.3 x  61.5 11.04 -- #1f2a37 Analyse et décision
+  381.3 x 187.0 11.04 -- #1f2a37 13,9
+  381.3 x 227.3 11.04 -- #1f2a37 9,1
+  381.3 x 256.6 11.04 -- #1f2a37 16,2
+  381.3 x 288.9 11.04 -- #1f2a37 30,8
+  381.3 x 326.7 11.04 -- #1f2a37 0,0
+  381.3 x 359.0 11.04 -- #1f2a37 0,0
+  381.3 x 391.3 11.04 -- #1f2a37 0,0
+  381.3 x 418.1 11.04 -- #1f2a37 18,8
+  381.3 x 455.9 11.04 -- #1f2a37 0,0
+  381.3 x 482.8 11.04 -- #1f2a37 18,8
+  381.3 x 520.6 11.04 -- #1f2a37 0,0
+  401.1 x  56.7 11.52 -- #000000 Les autres maillons présentent généralement moins de classements rouges. La reconnaissance
+  415.1 x  56.7 11.52 -- #000000 du signal demeure toutefois plus fragile au Haut-Katanga (19,2 %) et au Sankuru (18,8 %), tandis
+  429.2 x  56.7 11.52 -- #000000 que les retards ou absences de notification sont les plus fréquents au Sankuru (18,8 %). Pour
+  443.2 x  56.7 11.52 -- #000000 l’analyse et la prise de décision, le Haut-Katanga est la seule province où la proportion rouge
+  457.3 x  56.7 11.52 -- #000000 dépasse 30 % (30,8 %) ; aucun classement rouge n’est observé dans cinq provinces. Ces résultats
+  471.3 x  56.7 11.52 -- #000000 décrivent des variations au sein des établissements évalués et ne constituent pas un classement
+  485.3 x  56.7 11.52 -- #000000 des provinces.
+  505.5 x  56.7 12.96 B- #000000 3.6. Facteurs associés aux contraintes observées
+  532.0 x  62.3 14.04 B- #1f4e79 À retenir
+  551.1 x  62.3 12.00 -- #000000 Les intrants et les équipements sont les principaux goulots d’étranglement : chacun
+  565.8 x  62.3 12.00 -- #000000 bloque plus de la moitié des fonctions classées rouges, et près de deux fonctions rouges sur
+  580.4 x  62.3 12.00 -- #000000 trois cumulent au moins deux dimensions de contrainte.
+  597.1 x  62.3 12.00 -- #000000 Pour les équipements, l’absence est plus fréquente que la panne : 73,1 % sont
+  611.8 x  62.3 12.00 -- #000000 manquants, contre 4,3 % qui sont présents mais non fonctionnels.
+  628.4 x  62.3 12.00 -- #000000 La présence de personnel ne garantit pas la disponibilité des compétences requises :
+  643.1 x  62.3 12.00 -- #000000 94,1 % des centres de santé n’ont pas de nutritionniste et 53,5 % n’ont pas de sage-femme.
+  659.6 x  62.3 12.00 -- #000000 Le rétablissement des intrants et des équipements ne suffirait pas à lui seul : même si
+  674.3 x  62.3 12.00 -- #000000 tous les éléments manquants étaient rétablis, 54,4 % des fonctions concernées resteraient
+  689.0 x  62.3 12.00 -- #000000 classées rouges.
+  716.4 x  56.7 12.00 B- #000000 3.6.1. Principaux blocages et fragilités des fonctions évaluées
+  741.3 x  56.7 11.52 -- #000000 Parmi les 2 579 évaluations classées rouges, les équipements et les intrants et produits
+  755.4 x  56.7 11.52 -- #000000 constituent les dimensions bloquantes les plus fréquemment relevées : chacune concerne 53 %
+  769.4 x  56.7 11.52 -- #000000 des cas. La référence arrive ensuite, avec 40 %, suivie de l’organisation du service (23 %) et des
+
+===== PAGE 26 / imprimée 51 =====
+   62.0 x  56.7 11.52 -- #000000 ressources humaines (14 %). Les autres dimensions (communication, électricité, intégration des
+   76.1 x  56.7 11.52 -- #000000 services, données sanitaires et surveillance épidémiologique) sont moins souvent en cause.
+   90.1 x  56.7 11.52 -- #000000 Conformément à la grille de classification, l’eau, l’hygiène et l’assainissement ne sont pas une
+  104.2 x  56.7 11.52 -- #000000 dimension bloquante : ils plafonnent la fonction au jaune et figurent donc parmi les fragilités.
+  346.1 x 127.7  9.00 -I #0e2841 Figure 12: Dimensions bloquantes des fonctions rouges et fragilités des fonctions jaunes
+  367.0 x  56.7 11.52 -- #000000 Parmi les 1 140 évaluations jaunes, qui signalent des fonctions présentes mais fragiles, les
+  381.0 x  56.7 11.52 -- #000000 difficultés concernent d’abord la référence (51 %), puis l’eau, l’hygiène et l’assainissement et les
+  395.1 x  56.7 11.52 -- #000000 ressources humaines (44 % chacun). Viennent ensuite l’électricité (33 %), les intrants et produits
+  409.1 x  56.7 11.52 -- #000000 (30 %), l’organisation du service (27 %) et les données sanitaires (25 %). Ainsi, les contraintes les
+  423.2 x  56.7 11.52 -- #000000 plus fréquentes diffèrent selon le statut de la fonction : les évaluations rouges sont surtout
+  437.2 x  56.7 11.52 -- #000000 associées aux équipements et aux intrants, tandis que les évaluations jaunes révèlent
+  451.3 x  56.7 11.52 -- #000000 particulièrement des fragilités de référence, d’eau, d’hygiène et d’assainissement et de ressources
+  465.2 x  56.7 11.52 -- #000000 humaines. Ces pourcentages décrivent la fréquence de chaque dimension dans les évaluations
+  479.2 x  56.7 11.52 -- #000000 concernées ; ils ne sont pas nécessairement exclusifs.
+  496.3 x  56.7 12.00 B- #000000 3.6.2. Des blocages aux leviers de déblocage
+  521.3 x  56.7 11.52 -- #000000 Parmi les 2 579 fonctions classées rouges, les équipements et les intrants et produits sont les
+  535.4 x  56.7 11.52 -- #000000 dimensions bloquantes les plus fréquentes : ils concernent respectivement 1 370 fonctions (53,1
+  549.3 x  56.7 11.52 -- #000000 %) et 1 357 (52,6 %). La référence est également souvent en cause (1 038 fonctions, 40,2 %), devant
+  563.3 x  56.7 11.52 -- #000000 l’organisation du service (22,6 %) et les ressources humaines (14,3 %). Une même fonction
+  577.4 x  56.7 11.52 -- #000000 pouvant cumuler plusieurs blocages, ces proportions ne s’additionnent pas.
+  594.4 x  56.7 11.52 -- #000000 Le premier blocage identifié ne reflète pas exactement cette fréquence : les intrants arrivent en
+  608.5 x  56.7 11.52 -- #000000 tête (1 101 fonctions, 42,7 %), devant l’organisation du service (583, 22,6 %) et les équipements
+  622.5 x  56.7 11.52 -- #000000 (451, 17,5 %). Ce classement dépend en partie de l’ordre conventionnel appliqué par l’algorithme
+  636.6 x  56.7 11.52 -- #000000 : les intrants sont examinés avant les équipements et l’organisation du service occupe le premier
+  650.6 x  56.7 11.52 -- #000000 rang de la hiérarchie. Ainsi, pour les 583 fonctions où l’organisation est relevée comme dimension
+  664.6 x  56.7 11.52 -- #000000 bloquante, elle est aussi désignée comme premier blocage. Ces rangs indiquent la contrainte
+  678.7 x  56.7 11.52 -- #000000 retenue selon la règle de classement ; ils ne mesurent pas directement le poids relatif des
+  692.7 x  56.7 11.52 -- #000000 contraintes.
+  709.8 x  56.7 11.52 -- #000000 Pour les 1 140 fonctions classées jaunes, la hiérarchie est différente : la référence fragilise 51,3 %
+  723.8 x  56.7 11.52 -- #000000 des cas, l’eau, l’hygiène et l’assainissement 44,1 % et les ressources humaines 43,6 %. Les
+  737.8 x  56.7 11.52 -- #000000 priorités pour stabiliser une fonction déjà partiellement opérationnelle ne sont donc pas
+  751.9 x  56.7 11.52 -- #000000 nécessairement celles qui permettent de sortir une fonction du rouge.
+
+===== PAGE 27 / imprimée 52 =====
+   62.0 x  56.7 11.52 -- #000000 Enfin, la fréquence d’un blocage ne correspond pas au nombre de fonctions qui passeraient au
+   76.1 x  56.7 11.52 -- #000000 jaune ou au vert si ce blocage était résolu isolément. Dans cette simulation, la résolution seule des
+   90.1 x  56.7 11.52 -- #000000 problèmes d’intrants ferait sortir du rouge 338 fonctions (13,1 %), celle des équipements 262 (10,2
+  104.2 x  56.7 11.52 -- #000000 %), celle de la référence 152 (5,9 %) et celle de l’organisation du service 7 (0,3 %). Ces résultats
+  118.2 x  56.7 11.52 -- #000000 soulignent les limites d’interventions isolées face à des contraintes souvent cumulées.
+  135.2 x  56.7 11.04 -I #0e2841 Tableau 18: Les dimensions de blocage : ce qu'elles bloquent, ce qu'elles fragilisent et ce que leur
+  148.7 x  56.7 11.04 -I #0e2841 résolution libère
+  175.7 x  61.5 10.56 B- #ffffff Dimension
+  177.2 x 196.4  8.52 B- #ffffff Bloque : n (% des
+  177.2 x 283.1  8.52 B- #ffffff Premier blocage : n
+  177.2 x 369.9  8.52 B- #ffffff Fragilise : n (% des
+  177.2 x 456.7  8.52 B- #ffffff Libère si résolue
+  186.1 x 196.4 10.56 B- #ffffff rouges)
+  186.1 x 283.1 10.56 B- #ffffff (%)
+  186.1 x 369.9 10.56 B- #ffffff jaunes)
+  187.7 x 456.7  8.52 B- #ffffff seule : n (% des
+  196.5 x 456.7 10.56 B- #ffffff rouges)
+  217.3 x  61.5 10.56 -- #1f2a37 Équipements
+  217.3 x 196.4 10.56 -- #1f2a37 1 370 (53,1 %)
+  217.3 x 307.8 10.56 -- #1f2a37 451 (17,5 %)
+  217.3 x 394.5 10.56 -- #1f2a37 265 (23,2 %)
+  217.3 x 481.3 10.56 -- #1f2a37 262 (10,2 %)
+  238.6 x  61.5 10.56 -- #1f2a37 Intrants et produits
+  238.6 x 196.4 10.56 -- #1f2a37 1 357 (52,6 %)
+  238.6 x 300.1 10.56 -- #1f2a37 1 101 (42,7 %)
+  238.6 x 394.5 10.56 -- #1f2a37 345 (30,3 %)
+  238.6 x 481.3 10.56 -- #1f2a37 338 (13,1 %)
+  260.0 x  61.5 10.56 -- #1f2a37 Référence
+  260.0 x 196.4 10.56 -- #1f2a37 1 038 (40,2 %)
+  260.0 x 313.0 10.56 -- #1f2a37 153 (5,9 %)
+  260.0 x 394.5 10.56 -- #1f2a37 585 (51,3 %)
+  260.0 x 486.6 10.56 -- #1f2a37 152 (5,9 %)
+  281.3 x  61.5 10.56 -- #1f2a37 Organisation du service
+  281.3 x 196.4 10.56 -- #1f2a37 583 (22,6 %)
+  281.3 x 307.8 10.56 -- #1f2a37 583 (22,6 %)
+  281.3 x 394.5 10.56 -- #1f2a37 303 (26,6 %)
+  281.3 x 497.3 10.56 -- #1f2a37 7 (0,3 %)
+  302.6 x  61.5 10.56 -- #1f2a37 Ressources humaines
+  302.6 x 196.4 10.56 -- #1f2a37 369 (14,3 %)
+  302.6 x 313.0 10.56 -- #1f2a37 122 (4,7 %)
+  302.6 x 394.5 10.56 -- #1f2a37 497 (43,6 %)
+  302.6 x 492.0 10.56 -- #1f2a37 31 (1,2 %)
+  323.9 x  61.5 10.56 -- #1f2a37 Communication
+  323.9 x 196.4 10.56 -- #1f2a37 219 (8,5 %)
+  323.9 x 318.4 10.56 -- #1f2a37 68 (2,6 %)
+  323.9 x 394.5 10.56 -- #1f2a37 118 (10,4 %)
+  323.9 x 492.0 10.56 -- #1f2a37 50 (1,9 %)
+  345.2 x  61.5 10.56 -- #1f2a37 Électricité
+  345.2 x 196.4 10.56 -- #1f2a37 188 (7,3 %)
+  345.2 x 318.4 10.56 -- #1f2a37 53 (2,1 %)
+  345.2 x 394.5 10.56 -- #1f2a37 380 (33,3 %)
+  345.2 x 492.0 10.56 -- #1f2a37 53 (2,1 %)
+  366.5 x 196.4 10.56 -- #1f2a37 0 (0,0 %)
+  366.5 x 323.7 10.56 -- #1f2a37 0 (0,0 %)
+  366.5 x 394.5 10.56 -- #1f2a37 503 (44,1 %)
+  366.5 x 497.3 10.56 -- #1f2a37 0 (0,0 %)
+  366.6 x  61.5 10.56 -- #1f2a37 Eau, hygiène et
+  379.4 x  61.5 10.56 -- #1f2a37 assainissement
+  398.6 x  56.7  9.00 -I #000000 Base : 2 579 fonctions rouges et 1 140 fonctions jaunes ; une fonction peut être bloquée ou fragilisée par plusieurs dimensions.
+  409.7 x  56.7  9.00 -I #000000 Quatre autres dimensions bloquent chacune 3 % ou moins des fonctions rouges : intégration des services (81), données
+  420.6 x  56.7  9.00 -I #000000 sanitaires (53), surveillance épidémiologique (38) et capacité d'accueil (2). Les données sanitaires fragilisent toutefois environ
+  431.7 x  56.7  9.00 -I #000000 un quart des fonctions jaunes (25 %) et la capacité d'accueil près d'une sur cinq (18 %).
+  445.6 x  56.7 12.00 B- #000000 3.6.3. Cumul des blocages selon le niveau de soins
+  470.6 x  56.7 11.52 -- #000000 Parmi les 2 579 fonctions classées rouges, 36 % présentent une seule dimension bloquante, 33 %
+  484.6 x  56.7 11.52 -- #000000 en cumulent deux, 22 % en cumulent trois et 9 % en comptent quatre ou plus : 1 640 fonctions
+  498.7 x  56.7 11.52 -- #000000 rouges (63,6 %) cumulent donc au moins deux dimensions. La répartition varie selon le niveau de
+  512.7 x  56.7 11.52 -- #000000 soins : une seule dimension est en cause pour 29 % des fonctions rouges au CS, 48 % au CSR et
+  526.7 x  56.7 11.52 -- #000000 60 % à l’HGR. À l’inverse, trois dimensions ou plus se cumulent dans 35 % des cas au CS, contre
+  540.8 x  56.7 11.52 -- #000000 22 % au CSR et 15 % à l’HGR. Le profil du CSR se situe entre les deux autres niveaux ; les effectifs
+  554.8 x  56.7 11.52 -- #000000 par niveau sont détaillés en annexe.
+  770.7 x 125.8  9.00 -I #0e2841 Figure 13: Nombre de dimensions bloquantes par fonction rouge, selon le niveau de soins
+
+===== PAGE 28 / imprimée 53 =====
+   62.0 x  56.7 11.52 -- #000000 Ces résultats suggèrent que les fonctions rouges des HGR relèvent plus souvent d’un blocage
+   76.1 x  56.7 11.52 -- #000000 concentré sur une dimension, tandis qu’au CS les contraintes sont plus fréquemment cumulées.
+   90.1 x  56.7 11.52 -- #000000 Les réponses au niveau primaire devront donc plus souvent combiner plusieurs leviers. Le nombre
+  104.2 x  56.7 11.52 -- #000000 de dimensions indique toutefois l’étendue des contraintes, sans suffire à déterminer à lui seul
+  118.2 x  56.7 11.52 -- #000000 l’effort nécessaire pour rétablir une fonction.
+  138.3 x  56.7 12.00 B- #000000 3.6.4. Combinaisons de blocages les plus fréquentes
+  163.2 x  56.7 11.52 -- #000000 Parmi les 2 579 fonctions classées rouges, la configuration exacte la plus fréquente est le blocage
+  177.2 x  56.7 11.52 -- #000000 par les intrants seuls : 338 fonctions (13,1 %). Viennent ensuite les équipements seuls (262 ; 10,2
+  191.3 x  56.7 11.52 -- #000000 %), l’association intrants et équipements (261 ; 10,1 %), puis intrants, équipements et référence
+  205.3 x  56.7 11.52 -- #000000 (219 ; 8,5 %). Les sept configurations les plus fréquentes, toutes composées de ces trois
+  219.4 x  56.7 11.52 -- #000000 dimensions, représentent 62,0 % des fonctions rouges.
+  236.4 x  56.7 11.52 -- #000000 Considérées ensemble, les dimensions « intrants », « équipements » et « référence » sont aussi
+  250.4 x  56.7 11.52 -- #000000 celles qui coïncident le plus souvent : intrants et équipements dans 26,4 % des fonctions rouges,
+  264.5 x  56.7 11.52 -- #000000 équipements et référence dans 23,3 %, et intrants et référence dans 20,5 %. Ces proportions
+  278.6 x  56.7 11.52 -- #000000 décrivent des cooccurrences et ne s’ajoutent pas aux pourcentages des configurations exactes.
+  575.2 x 118.0  9.00 -I #0e2841 Figure 14: Les douze configurations de blocage les plus fréquentes parmi les fonctions rouges
+  595.6 x  56.7 12.00 -- #000000 Le blocage par une seule dimension reste fréquent : sept des douze configurations présentées sont
+  610.2 x  56.7 11.52 -- #000000 de ce type, en premier lieu les intrants seuls (13,1 %), les équipements seuls (10,2 %) et la référence
+  624.2 x  56.7 11.52 -- #000000 seule (6,5 %) ; les données sanitaires, l’électricité, la communication et l’intégration des services
+  638.2 x  56.7 11.52 -- #000000 en constituent chacune environ 2 %.
+  658.3 x  56.7 12.00 B- #000000 3.6.5. Fonctions jaunes proches du vert et fragilités dominantes
+  683.2 x  56.7 11.52 -- #000000 Parmi les 1 140 fonctions classées jaunes, 172 (15,1 %) ne présentent qu’une seule fragilité. Selon
+  697.3 x  56.7 11.52 -- #000000 la règle de classement, la levée de cette fragilité suffirait à faire passer la fonction au vert. En
+  711.3 x  56.7 11.52 -- #000000 nombre total de fonctions jaunes, le diagnostic du paludisme arrive en tête (134), devant
+  725.4 x  56.7 11.52 -- #000000 l’intégration des services (110) et la surveillance épidémiologique (109). Ces totaux ne
+  739.4 x  56.7 11.52 -- #000000 correspondent pas uniquement aux cas présentant une fragilité unique, qui se concentrent dans le
+  753.4 x  56.7 11.52 -- #000000 dépistage nutritionnel (23), la surveillance épidémiologique (22), l’intégration des services (20) et
+  767.5 x  56.7 11.52 -- #000000 les données sanitaires (19).
+
+===== PAGE 29 / imprimée 54 =====
+   62.0 x  56.7 11.52 -- #000000 La fragilité dominante, calculée sur l’ensemble des fonctions jaunes de chaque ligne, varie selon
+   76.1 x  56.7 11.52 -- #000000 la fonction. La référence est notamment en cause pour le diagnostic du paludisme, le paludisme
+   90.1 x  56.7 11.52 -- #000000 simple, le dépistage nutritionnel et l’intégration des services. L’organisation du service domine pour
+  104.2 x  56.7 11.52 -- #000000 la chaîne du froid, la vaccination de routine, la CPN intégrée à la PTME et la CPoN de la mère ; l’eau,
+  118.2 x  56.7 11.52 -- #000000 l’hygiène et l’assainissement pour le sepsis obstétrical, la pré-éclampsie, l’accouchement assisté
+  132.2 x  56.7 11.52 -- #000000 et la CPoN du nouveau-né ; les ressources humaines pour la césarienne d’urgence. Pour la
+  146.3 x  56.7 11.52 -- #000000 surveillance épidémiologique, ce sont les données sanitaires qui prédominent.
+  507.3 x 192.3  9.00 -I #0e2841 Figure 15: Fonctions jaunes à une seule fragilité du vert
+  528.2 x  56.7 11.52 -- #000000 Ces profils appellent des mesures adaptées à chaque contrainte. Les 172 fonctions à fragilité
+  542.2 x  56.7 11.52 -- #000000 unique constituent des cibles possibles d’amélioration ciblée, mais le graphique ne permet pas
+  556.3 x  56.7 11.52 -- #000000 d’affirmer que leur stabilisation ne nécessiterait aucune dotation matérielle nouvelle. À l’inverse,
+  570.3 x  56.7 11.52 -- #000000 cinq fonctions n’en comptent aucune (grossesse à risque, accouchement normal, CPN de routine,
+  584.3 x  56.7 11.52 -- #000000 CPN intégrée à la PTME et CPoN de la mère) : toutes leurs fonctions jaunes cumulent au moins
+  598.4 x  56.7 11.52 -- #000000 deux fragilités, souvent les mêmes, comme la référence pour l’accouchement normal ou
+  612.4 x  56.7 11.52 -- #000000 l’organisation du service pour la CPN de routine.
+  632.5 x  56.7 12.00 B- #000000 3.6.6. Disponibilité des intrants critiques : des déficits fréquents, mais souvent
+  649.4 x  92.7 12.00 B- #000000 ponctuels
+  674.4 x  56.7 11.52 -- #000000 Parmi les intrants les plus souvent associés à une fonction classée rouge, le kit d’accouchement à
+  688.4 x  56.7 11.52 -- #000000 usage unique arrive en tête : il est indisponible dans 127 établissements sur 160 (79,4 %). Le kit
+  702.4 x  56.7 11.52 -- #000000 anti-choc ou chariot d’urgence est concerné dans 99 établissements sur 123 (80,5 %), et le sulfate
+  716.5 x  56.7 11.52 -- #000000 de magnésium dans 98 sur 160 (61,2 %). Au total, sept des quatorze intrants du tableau
+  730.5 x  56.7 11.52 -- #000000 conditionnent directement une fonction vitale ; les gants, requis pour plusieurs prestations
+  744.6 x  56.7 11.52 -- #000000 maternelles et néonatales, sont rouges dans 91 établissements sur 160 (56,9 %).
+
+===== PAGE 30 / imprimée 55 =====
+   62.0 x  56.7 11.52 -- #000000 Pour la plupart des intrants, l’indisponibilité constatée le jour de la visite explique l’essentiel du
+   76.1 x  56.7 11.52 -- #000000 classement rouge. C’est particulièrement le cas de l’ATPE (86,1 % d’indisponibilité le jour de la
+   90.1 x  56.7 11.52 -- #000000 visite, sans rupture de plus de sept jours déclarée), du kit d’accouchement (78,1 %) et du kit anti-
+  104.2 x  56.7 11.52 -- #000000 choc (78,1 %). Les ruptures prolongées sont plus marquées pour l’artésunate-amodiaquine (33,1
+  118.2 x  56.7 11.52 -- #000000 %), l’artésunate en suppositoire (14,9 %), les tests rapides VIH (13,0 %) et l’artéméther-
+  132.2 x  56.7 11.52 -- #000000 luméfantrine (11,9 %).
+  152.3 x  56.7 11.52 -- #000000 Le Haut-Lomami est la province indiquée comme la plus concernée pour six des quatorze intrants,
+  166.3 x  56.7 11.52 -- #000000 notamment les kits anti-choc, les gants, les bandelettes urinaires, la méthyldopa, l’artésunate-
+  180.4 x  56.7 11.52 -- #000000 amodiaquine et les tests rapides VIH. L’ATPE se distingue par un déficit concentré au niveau 1 : il
+  194.4 x  56.7 11.52 -- #000000 est rouge dans 87 des 101 CS (86,1 %). Les données fournies ici ne détaillent pas les résultats par
+  208.4 x  56.7 11.52 -- #000000 niveau pour le F100, le F75 ou les utérotoniques ; ces éléments ne sont donc pas repris dans cette
+  222.5 x  56.7 11.52 -- #000000 comparaison.

@@ -1,0 +1,71 @@
+INVENTAIRE EXHAUSTIF ET CHECKLIST — LIVRAISON FUSIONNÉE
+==========================================================================
+
+SEGMENT 1 — 25 pages source (imprimées 1–25)
+--------------------------------------------------------------------------
+  Blocs corps            : 137
+  Entrées TOC source     : 54
+  Figures listées        : 21
+  Tableaux listés        : 37
+  Tableaux d’annexes     : 64
+  Tableaux complets      : 8 (434 cellules)
+  Détail : work/inventaire_et_checklist.txt
+
+SEGMENT 2 — 30 pages source (imprimées 26–55)
+--------------------------------------------------------------------------
+  Lignes natives         : 1923 (non couvertes : 0)
+  Blocs sémantiques      : 160 {'heading': 33, 'body': 89, 'figure': 15, 'note': 1, 'box': 5, 'kpi': 1, 'table': 16}
+  Figures natives        : 15
+  Tableaux reconstruits  : 16 (1137 cellules)
+  Encadrés « À retenir » : 5 (p.27, 37, 42, 49, 50 du source)
+  Cellules KPI           : 5 (bandeau p.27 du source)
+  Détail : work/inventaire_et_checklist_suite.txt
+
+CHECKLIST PAR PAGE SOURCE DU SEGMENT 2
+--------------------------------------------------------------------------
+  p.01 (impr. 26) :  19 lignes |   4 blocs | 0 fig. | 0 tab. | encadré=non | KPI=non
+  p.02 (impr. 27) :  32 lignes |   5 blocs | 1 fig. | 0 tab. | encadré=oui | KPI=oui
+  p.03 (impr. 28) :  23 lignes |   3 blocs | 0 fig. | 0 tab. | encadré=non | KPI=non
+  p.04 (impr. 29) :  12 lignes |   3 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.05 (impr. 30) : 268 lignes |   1 blocs | 0 fig. | 1 tab. | encadré=non | KPI=non
+  p.06 (impr. 31) : 118 lignes |   6 blocs | 0 fig. | 2 tab. | encadré=non | KPI=non
+  p.07 (impr. 32) : 133 lignes |   1 blocs | 0 fig. | 1 tab. | encadré=non | KPI=non
+  p.08 (impr. 33) :  99 lignes |   3 blocs | 0 fig. | 1 tab. | encadré=non | KPI=non
+  p.09 (impr. 34) :  26 lignes |   7 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.10 (impr. 35) :  17 lignes |   5 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.11 (impr. 36) :  26 lignes |   7 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.12 (impr. 37) :  25 lignes |   7 blocs | 1 fig. | 0 tab. | encadré=oui | KPI=non
+  p.13 (impr. 38) :  32 lignes |   6 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.14 (impr. 39) : 258 lignes |   3 blocs | 0 fig. | 1 tab. | encadré=non | KPI=non
+  p.15 (impr. 40) :  92 lignes |   8 blocs | 0 fig. | 2 tab. | encadré=non | KPI=non
+  p.16 (impr. 41) :  72 lignes |   5 blocs | 0 fig. | 1 tab. | encadré=non | KPI=non
+  p.17 (impr. 42) :  87 lignes |   5 blocs | 0 fig. | 1 tab. | encadré=oui | KPI=non
+  p.18 (impr. 43) :  26 lignes |   7 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.19 (impr. 44) :  22 lignes |   7 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.20 (impr. 45) :  85 lignes |   7 blocs | 0 fig. | 1 tab. | encadré=non | KPI=non
+  p.21 (impr. 46) :  44 lignes |   5 blocs | 0 fig. | 1 tab. | encadré=non | KPI=non
+  p.22 (impr. 47) :  84 lignes |   6 blocs | 0 fig. | 2 tab. | encadré=non | KPI=non
+  p.23 (impr. 48) :  26 lignes |   5 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.24 (impr. 49) :  34 lignes |   7 blocs | 1 fig. | 0 tab. | encadré=oui | KPI=non
+  p.25 (impr. 50) :  97 lignes |  10 blocs | 0 fig. | 1 tab. | encadré=oui | KPI=non
+  p.26 (impr. 51) :  32 lignes |   7 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.27 (impr. 52) :  71 lignes |   5 blocs | 1 fig. | 1 tab. | encadré=non | KPI=non
+  p.28 (impr. 53) :  28 lignes |   8 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.29 (impr. 54) :  23 lignes |   5 blocs | 1 fig. | 0 tab. | encadré=non | KPI=non
+  p.30 (impr. 55) :  12 lignes |   2 blocs | 0 fig. | 0 tab. | encadré=non | KPI=non
+
+CONTRÔLE FINAL
+--------------------------------------------------------------------------
+  [x] 100 % des lignes natives des deux segments rattachées à un bloc.
+  [x] 0 chaîne absente du PDF (plus de 4 000 chaînes testées, voir qc_report_merged.txt).
+  [x] 0 chaîne absente du DOCX (paragraphes, cellules, en-têtes).
+  [x] 15 figures natives incorporées, proportions conservées.
+  [x] 16 tableaux / 1 137 cellules, fonds de criticité conservés.
+  [x] 5 encadrés + 1 bandeau KPI, textes et gras conservés.
+  [x] 0 mot interdit du modèle de design.
+  [x] 0 débordement, 0 page presque vide, 0 titre orphelin.
+  [x] 4 polices incorporées, 0 police non incorporée.
+  [x] Numérotation 01–24 puis 25–50 vérifiée page par page.
+  [x] TOC automatique Word avec numéros finaux et navigation.
+  [x] Pages 56–151 non fournies : aucune invention.
+

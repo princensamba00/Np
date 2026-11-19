@@ -1,0 +1,2259 @@
+
+==========================================================================================
+PAGE 01 — 1597 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+26 
+III. 
+Résultats 
+Cette section présente les résultats du diagnostic rapide opérationnel organisés selon les objectifs 
+spécifiques de l’étude. Pour en faciliter la lecture, ils sont organisés selon les thèmes suivants : 
+description de l’échantillon, niveau de préparation fonctionnelle des établissements, intégration 
+opérationnelle des services, utilisation des données de routine, facteurs associés aux contraintes 
+observées et priorités d’investissement. Les recommandations font l’objet d’une section distincte 
+à la fin du rapport.  
+3.1. Description de l’échantillon et couverture 
+L’étude a porté sur 160 établissements répartis dans 40 zones de santé et huit provinces : 101 
+centres de santé, 22 centres de santé de référence et 37 hôpitaux généraux de référence. Le Haut-
+Katanga regroupe le plus grand nombre d’établissements (52), soit près d’un tiers de l’échantillon. 
+Viennent ensuite le Kasaï-Central et le Lualaba, avec 24 établissements chacun, puis la Lomami 
+et le Sankuru, avec 16 chacun. Le Haut-Lomami en compte 12, tandis que le Kasaï-Oriental et le 
+Tanganyika en comptent chacun huit. Les centres de santé constituent la catégorie la plus 
+représentée dans toutes les provinces. L’échantillon ayant été constitué de manière raisonnée, les 
+proportions présentées décrivent les établissements visités et ne constituent pas des taux 
+provinciaux. La convergence des constats avec les enquêtes nationales suggère toutefois que les 
+goulots identifiés dépassent largement l’échantillon. 
+ 
+ 
+
+
+==========================================================================================
+PAGE 02 — 1823 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+27 
+ 
+Figure 1: Établissements évalués par province et par niveau de soins 
+HK : Haut-Katanga ; HL : Haut-Lomami ; KC : Kasaï-Central ; KO : Kasaï-Oriental ; LL : Lualaba ; LM : Lomami ; SK : Sankuru ; 
+TG : Tanganyika. Ces abréviations sont utilisées dans les figures provinciales du rapport. 
+3.2. Niveau de préparation fonctionnelle des établissements 
+À retenir  
+La préparation opérationnelle reste très insuffisante : 68,4 % des évaluations sont classées 
+rouges, 30,2 % jaunes et 1,4 % vertes. Parmi les fonctions vitales, 13 sur 15 dépassent 70 % de 
+rouge. 
+Les écarts entre niveaux de soins restent insuffisants : parmi les 17 fonctions communes, la part 
+moyenne de rouge est d’environ 70 % au CS, 55 % au CSR et 50 % à l’HGR. Même à l’hôpital, 
+l’accouchement normal reste rouge dans 92 % des cas. 
+La nutrition est particulièrement touchée, quel que soit le niveau : la malnutrition aiguë 
+compliquée est classée rouge dans 84 à 93 % des cas. 
+La déclaration d’un service ne garantit pas qu’il puisse être assuré : parmi les 98 CS qui 
+déclarent offrir la réanimation néonatale, 97 ne disposent pas des conditions nécessaires. 
+Des goulots d’étranglement multiples et interdépendants : les intrants et les équipements 
+bloquent chacun plus de la moitié des fonctions rouges, suivis de la référence et de l’organisation 
+des services ; les ressources humaines et l’eau, l’hygiène et l’assainissement fragilisent surtout les 
+fonctions jaunes. Près de deux fonctions rouges sur trois cumulent au moins deux contraintes, ce 
+qui appelle des interventions intégrées. 
+160 
+Établissements · 40 
+zones · 8 provinces 
+3 773 
+Évaluations fonction × 
+établissement 
+68,4 % 
+Fonctions rouges 
+30,2 % 
+Fonctions jaunes 
+1,4 % 
+Fonctions vertes 
+
+
+==========================================================================================
+PAGE 03 — 2141 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+28 
+Le diagnostic rapide opérationnel a donné lieu à 3 773 évaluations fonction-établissement. Celles-
+ci révèlent une préparation opérationnelle globalement insuffisante : 68,4 % des fonctions sont 
+classées rouges, indiquant qu’elles ne peuvent être assurées dans des conditions adéquates, 
+tandis que 30,2 % sont jaunes, donc assurées de manière fragile. Seules 1,4 % sont vertes, 
+témoignant d’une capacité pleinement opérationnelle. Ainsi, moins de deux fonctions évaluées 
+sur cent répondent pleinement aux exigences de préparation. 
+3.2.1. Vue d'ensemble des 28 fonctions 
+Parmi les évaluations calculables, les fonctions traceuses présentent des niveaux de préparation 
+très contrastés, avec une prédominance des classifications rouges pour la plupart des prestations. 
+Les insuffisances sont particulièrement marquées pour la nutrition et les soins maternels et 
+néonatals : 98 % des évaluations de la prise en charge de la malnutrition aiguë non compliquée et 
+92 % de celles de l’accouchement normal sont classées rouges. Les grossesses à risque (92 %), la 
+malnutrition aiguë compliquée (91 %), les MAPI (90 %) et la réanimation néonatale (88 %) affichent 
+également des niveaux élevés de non-préparation, et la pré-éclampsie comme le paludisme grave 
+dépassent 80 % d’évaluations rouges. Les urgences obstétricales restent très exposées : 76 % pour 
+la césarienne d’urgence, 71 % pour l’hémorragie du post-partum et 69 % pour le sepsis obstétrical. 
+À l’inverse, les proportions rouges sont plus faibles pour le diagnostic du paludisme (12 %), la 
+surveillance épidémiologique (27 %), l’intégration des services (28 %), le paludisme simple et la 
+gestion des données sanitaires (33 % chacun). Toutefois, ces fonctions sont principalement 
+classées jaunes, ce qui traduit une capacité jugée réalisable mais encore instable ; les évaluations 
+vertes restent peu fréquentes dans l’ensemble. Le nombre d’évaluations calculables variant selon 
+la fonction, les résultats doivent être interprétés en tenant compte des effectifs indiqués dans le 
+graphique. 
+
+
+==========================================================================================
+PAGE 04 — 1089 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+29 
+ 
+ 
+Figure 2: Classification des 28 fonctions traceuses, ensemble des établissements 
+3.2.2. Résultats selon le niveau de criticité 
+Parmi les fonctions essentielles, les proportions rouges s’étendent de 12,5 % pour le diagnostic du 
+paludisme à 98,0 % pour la prise en charge de la malnutrition aiguë non compliquée. Les 
+classements rouges sont également très fréquents pour l’accouchement normal (92,5 %), les 
+soins postnatals à la mère (83,1 %), les consultations prénatales de routine (82,9 %), la vaccination 
+de routine (81,3 %) et les soins du nouveau-né (76,9 %). À l’inverse, les classements jaunes 
+prédominent pour le diagnostic du paludisme (83,8 %) et le paludisme simple (63,8 %). Les 
+fonctions systémiques présentent elles aussi une majorité de classements jaunes : 59,4 % pour 
+les données sanitaires et 68,8 % pour l’intégration des services, contre respectivement 33,1 % et 
+28,1 % de classements rouges. 
+ 
+Tableau 7: Classification des 28 fonctions traceuses, par ordre de criticité 
+ 
+
+
+==========================================================================================
+PAGE 05 — 2141 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+30 
+N° 
+ 
+Fonction 
+Criticité 
+K 
+% 
+Vert 
+% 
+Jaune 
+% 
+Rouge 
+Premier blocage 
+dominant 
+Part 
+des 
+rouges 
+Provinces 
+où rouge 
+1 
+Grossesse à risque 
+Vitale 
+123 
+0,0 
+8,1 
+91,9 
+Intrants et produits 
+88,5 
+8 
+2 
+MA compliquée 
+Vitale 
+160 
+0,6 
+8,8 
+90,6 
+Ressources 
+humaines 
+53,1 
+8 
+3 
+MAPI 
+Vitale 
+123 
+0,0 
+9,8 
+90,2 
+Intrants et produits 
+89,2 
+8 
+4 
+Réanimation 
+néonat. 
+Vitale 
+160 
+0,6 
+11,9 
+87,5 
+Équipements 
+95,7 
+8 
+5 
+Pré-éclampsie 
+Vitale 
+160 
+0,6 
+16,9 
+82,5 
+Intrants et produits 
+83,3 
+8 
+6 
+Paludisme grave 
+Vitale 
+160 
+0,0 
+18,1 
+81,9 
+Équipements 
+68,7 
+8 
+7 
+Chaîne du froid 
+Vitale 
+123 
+0,0 
+22,0 
+78,0 
+Électricité 
+77,1 
+8 
+8 
+Césarienne 
+d'urgence 
+Vitale 
+59 
+0,0 
+23,7 
+76,3 
+Intrants et produits 
+71,1 
+7 
+9 
+Transfusion 
+Vitale 
+59 
+3,4 
+20,3 
+76,3 
+Équipements 
+80,0 
+8 
+10 
+Référence urgente 
+Vitale 
+160 
+0,0 
+25,0 
+75,0 
+Organisation du 
+service 
+94,2 
+8 
+11 
+Réception urgences 
+Vitale 
+37 
+0,0 
+27,0 
+73,0 
+Organisation du 
+service 
+88,9 
+8 
+12 
+Accouchement 
+assisté 
+Vitale 
+59 
+0,0 
+27,1 
+72,9 
+Équipements 
+95,3 
+7 
+13 
+Hémorragie post-
+partum 
+Vitale 
+160 
+0,0 
+29,4 
+70,6 
+Référence 
+67,3 
+8 
+14 
+Sepsis obstétrical 
+Vitale 
+160 
+1,9 
+28,8 
+69,4 
+Référence 
+68,5 
+8 
+15 
+Surveillance 
+épidémio 
+Vitale 
+160 
+5,0 
+68,1 
+26,9 
+Communication 
+67,4 
+7 
+16 
+MA non compliquée Essentielle 
+101 
+0,0 
+2,0 
+98,0 
+Intrants et produits 
+90,9 
+8 
+17 
+Accouchement 
+normal 
+Essentielle 
+160 
+0,6 
+6,9 
+92,5 
+Intrants et produits 
+93,2 
+8 
+18 
+CPoN mère 
+Essentielle 
+160 
+0,0 
+16,9 
+83,1 
+Intrants et produits 
+78,9 
+8 
+19 
+CPN de routine 
+Essentielle 
+123 
+0,8 
+16,3 
+82,9 
+Intrants et produits 
+91,2 
+8 
+20 
+Vaccination de 
+routine 
+Essentielle 
+123 
+0,0 
+18,7 
+81,3 
+Électricité 
+74,0 
+8 
+21 
+Soins du nouveau-
+né 
+Essentielle 
+160 
+0,6 
+22,5 
+76,9 
+Équipements 
+92,7 
+8 
+22 
+CPN + PTME 
+Essentielle 
+123 
+0,8 
+30,1 
+69,1 
+Intrants et produits 
+97,6 
+8 
+23 
+CPoN nouveau-né 
+Essentielle 
+160 
+0,0 
+31,2 
+68,8 
+Référence 
+80,9 
+8 
+24 
+Dépistage nutrition 
+Essentielle 
+160 
+3,8 
+38,1 
+58,1 
+Ressources 
+humaines 
+82,8 
+8 
+
+
+==========================================================================================
+PAGE 06 — 3499 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+31 
+N° 
+ 
+Fonction 
+Criticité 
+K 
+% 
+Vert 
+% 
+Jaune 
+% 
+Rouge 
+Premier blocage 
+dominant 
+Part 
+des 
+rouges 
+Provinces 
+où rouge 
+25 
+Paludisme simple 
+Essentielle 
+160 
+3,1 
+63,8 
+33,1 
+Intrants et produits 
+94,3 
+7 
+26 
+Diagnostic 
+paludisme 
+Essentielle 
+160 
+3,8 
+83,8 
+12,5 
+Intrants et produits 
+90,0 
+6 
+27 
+Données sanitaires 
+Systémique 
+160 
+7,5 
+59,4 
+33,1 
+Organisation du 
+service 
+100,0 
+6 
+28 
+Intégration services 
+Systémique 
+160 
+3,1 
+68,8 
+28,1 
+Intégration des 
+services 
+100,0 
+5 
+Lecture du tableau. La colonne « % Rouge » donne la part des évaluations de la fonction classées 
+rouges. La colonne « Part des rouges » se lit uniquement parmi ces évaluations rouges : elle indique 
+la proportion de celles qui sont concernées par le premier blocage dominant indiqué. 
+Les blocages dominants diffèrent selon les fonctions. Le manque d’intrants et de produits ressort 
+notamment pour la prise en charge des grossesses à risque, des MAPI et de la pré-éclampsie, la 
+césarienne d’urgence, les consultations prénatales, l’accouchement normal et le paludisme 
+simple. Les équipements constituent le principal obstacle à la réanimation néonatale, à la prise en 
+charge du paludisme grave, à l’accouchement assisté et à la transfusion ; la référence domine pour 
+l’hémorragie du post-partum, le sepsis obstétrical et les soins postnatals du nouveau-né. 
+L’organisation du service est le blocage dominant pour la référence urgente et la réception des 
+urgences, représentant respectivement 94,2 % et 88,9 % des classements rouges correspondants 
+; dans les deux cas, c’est l’absence d’un moyen de transport fonctionnel qui est en cause. 
+Enfin, les classements rouges sont observés dans les huit provinces pour la plupart des fonctions. 
+Ils sont présents dans sept provinces pour la surveillance épidémiologique, le paludisme simple, 
+la césarienne d’urgence et l’accouchement assisté, six pour le diagnostic du paludisme et les 
+données sanitaires, et cinq pour l’intégration des services. Les effectifs évalués variant selon la 
+fonction, les résultats doivent être interprétés en tenant compte des dénominateurs indiqués dans 
+le tableau. 
+Pour rendre ces blocages directement actionnables, le tableau suivant précise, pour chaque 
+fonction, l’élément le plus souvent en déficit à l’intérieur du premier blocage dominant, parmi les 
+fonctions rouges. Quelques éléments expliquent à eux seuls une grande part des classements 
+rouges : le moyen de transport pour la référence urgente (105 des 120 fonctions rouges), 
+l’hémorragie du post-partum (71 sur 113) et le sepsis obstétrical (71 sur 111) ; le kit anti-choc pour 
+les MAPI (99 sur 111) ; le kit d’accouchement pour l’accouchement normal (127 sur 148) ; la source 
+de chaleur pour la réanimation néonatale (110 sur 140) ; le sulfate de magnésium pour la pré-
+éclampsie (98 sur 132) et les bandelettes urinaires pour la grossesse à risque (89 sur 113). 
+Tableau 8: Élément critique le plus souvent en déficit, par fonction 
+N° 
+Fonction 
+Fonctions 
+rouges 
+Premier blocage 
+dominant 
+Rouges bloquées 
+par cette 
+dimension : n (%) 
+Élément le plus souvent en 
+déficit 
+Fonctions 
+rouges où 
+l’élément 
+est en déficit 
+: n (%) 
+1 Grossesse à risque 
+113 Intrants et 
+produits 
+100 (88,5 %) Bandelettes urinaires 
+(protéinurie) 
+89 (78,8 
+%) 
+2 MA compliquée 
+145 Ressources 
+humaines 
+77 (53,1 %) Prestataire formé 
+présent pour la 
+fonction 
+77 (53,1 
+%) 
+
+
+==========================================================================================
+PAGE 07 — 2059 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+32 
+N° 
+Fonction 
+Fonctions 
+rouges 
+Premier blocage 
+dominant 
+Rouges bloquées 
+par cette 
+dimension : n (%) 
+Élément le plus souvent en 
+déficit 
+Fonctions 
+rouges où 
+l’élément 
+est en déficit 
+: n (%) 
+3 MAPI 
+111 Intrants et 
+produits 
+99 (89,2 %) Kit anti-choc ou chariot 
+d’urgence (adrénaline) 
+99 (89,2 
+%) 
+4 Réanimation 
+néonat. 
+140 Équipements 
+134 (95,7 %) Source de chaleur (salle 
+et nouveau-né) 
+110 (78,6 
+%) 
+5 Pré-éclampsie 
+132 Intrants et 
+produits 
+110 (83,3 %) Sulfate de magnésium 
+98 (74,2 
+%) 
+6 Paludisme grave 
+131 Équipements 
+90 (68,7 %) Glucomètre + 
+bandelettes 
+63 (48,1 
+%) 
+7 Chaîne du froid 
+96 Électricité 
+74 (77,1 %) Source de secours 
+fonctionnelle 
+68 (70,8 
+%) 
+8 Césarienne 
+d'urgence 
+45 Intrants et 
+produits 
+32 (71,1 %) Antiseptique 
+(iodophore ou 
+chlorhexidine) 
+22 (48,9 
+%) 
+9 Transfusion 
+45 Équipements 
+36 (80,0 %) Réfrigérateur à sang ou 
+banque de sang 
+36 (80,0 
+%) 
+10 Référence urgente 
+120 Organisation du 
+service 
+113 (94,2 %) Moyen de transport 
+disponible et 
+fonctionnel 
+105 (87,5 
+%) 
+11 Réception 
+urgences 
+27 Organisation du 
+service 
+24 (88,9 %) Moyen de transport 
+disponible et 
+fonctionnel 
+21 (77,8 
+%) 
+12 Accouchement 
+assisté 
+43 Équipements 
+41 (95,3 %) Ventouse ou forceps 
+obstétricaux (aucun des 
+deux fonctionnel) 
+30 (69,8 
+%) 
+13 Hémorragie post-
+partum 
+113 Référence 
+76 (67,3 %) Moyen de transport 
+disponible et 
+fonctionnel 
+71 (62,8 
+%) 
+14 Sepsis obstétrical 
+111 Référence 
+76 (68,5 %) Moyen de transport 
+disponible et 
+fonctionnel 
+71 (64,0 
+%) 
+15 Surveillance 
+épidémiologique 
+43 Communication 
+29 (67,4 %) Continuité de la 
+communication sur 
+trois mois 
+23 (53,5 
+%) 
+16 MA non 
+compliquée 
+99 Intrants et 
+produits 
+90 (90,9 %) ATPE 
+87 (87,9 
+%) 
+17 Accouchement 
+normal 
+148 Intrants et 
+produits 
+138 (93,2 %) Kit d’accouchement à 
+usage unique 
+127 (85,8 
+%) 
+18 CPoN mère 
+133 Intrants et 
+produits 
+105 (78,9 %) Bandelettes urinaires 
+(protéinurie/glycosurie) 
+75 (56,4 
+%) 
+
+
+==========================================================================================
+PAGE 08 — 2456 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+33 
+N° 
+Fonction 
+Fonctions 
+rouges 
+Premier blocage 
+dominant 
+Rouges bloquées 
+par cette 
+dimension : n (%) 
+Élément le plus souvent en 
+déficit 
+Fonctions 
+rouges où 
+l’élément 
+est en déficit 
+: n (%) 
+19 CPN de routine 
+102 Intrants et 
+produits 
+93 (91,2 %) Bandelettes urinaires 
+(protéinurie) 
+89 (87,3 
+%) 
+20 Vaccination de 
+routine 
+100 Électricité 
+74 (74,0 %) Source de secours 
+fonctionnelle 
+68 (68,0 
+%) 
+21 Soins du nouveau-
+né 
+123 Équipements 
+114 (92,7 %) Source de chaleur (salle 
+et nouveau-né) 
+110 (89,4 
+%) 
+22 CPN + PTME 
+85 Intrants et 
+produits 
+83 (97,6 %) Tests rapides VIH 
+62 (72,9 
+%) 
+23 CPoN nouveau-né 
+110 Référence 
+89 (80,9 %) Moyen de transport 
+disponible et 
+fonctionnel 
+84 (76,4 
+%) 
+24 Dépistage nutrition 
+93 Ressources 
+humaines 
+77 (82,8 %) Prestataire formé 
+présent pour la 
+fonction 
+77 (82,8 
+%) 
+25 Paludisme simple 
+53 Intrants et 
+produits 
+50 (94,3 %) CTA (AS-AQ ou AL) 
+50 (94,3 
+%) 
+26 Diagnostic 
+paludisme 
+20 Intrants et 
+produits 
+18 (90,0 %) Test de diagnostic 
+rapide (TDR) du 
+paludisme 
+13 (65,0 
+%) 
+27 Données sanitaires 
+53 Organisation du 
+service 
+53 (100,0 %) Accès fonctionnel au 
+SNIS (DHIS2) 
+37 (69,8 
+%) 
+28 Intégration 
+services 
+45 Intégration des 
+services 
+45 (100,0 %) Services intégrés offerts 
+actuellement 
+45 (100,0 
+%) 
+Base : fonctions rouges de chaque fonction, tous niveaux où elle est attendue. L’élément est recherché parmi les fonctions 
+rouges bloquées par le premier blocage dominant ; pour les dimensions sans élément matériel (référence, communication, 
+électricité, organisation du service, ressources humaines), la composante la plus souvent défaillante est indiquée. Un groupe 
+d’éléments substituables compte pour un seul élément, en déficit lorsque tous ses membres manquent. 
+3.2.3. Préparation opérationnelle par niveau 
+L’analyse des 17 fonctions évaluées aux trois niveaux de soins montre une diminution progressive 
+de la proportion moyenne de classements rouges : environ 70 % au niveau 1, 55 % au niveau 1+ et 
+50 % au niveau 2. Ce gradient reste toutefois insuffisant : à l’HGR, une fonction sur deux demeure 
+classée rouge. Il n’est pas non plus uniforme d’une fonction à l’autre. Le niveau 1+ et le niveau 2 
+présentent chacun la proportion rouge la plus faible pour huit des dix-sept fonctions ; seul le 
+diagnostic du paludisme est moins souvent rouge au niveau 1. 
+
+
+==========================================================================================
+PAGE 09 — 2352 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+34 
+ 
+ 
+Figure 3: Préparation opérationnelle des 17 fonctions communes aux trois niveaux de soins 
+Certaines fonctions suivent la progression attendue avec l’élévation du niveau de soins. C’est 
+notamment le cas des soins postnatals du nouveau-né, dont la proportion de classements rouges 
+passe de 82 % au niveau 1 à 35 % au niveau 2, et de la prise en charge du paludisme grave, qui 
+passe de 95 % à 46 %. À l’inverse, l’accouchement normal reste classé rouge dans 93 % des 
+évaluations au niveau 1 et 92 % au niveau 2, contre 91 % au niveau 1+.  
+La prise en charge de la malnutrition aiguë compliquée reste élevée à tous les niveaux (de 84 % à 
+93 % de classements rouges). Les fonctions propres aux niveaux supérieurs présentent également 
+des difficultés : la césarienne d’urgence est classée rouge dans 81 % des cas à l’HGR, tandis que 
+la transfusion semble davantage contrainte au niveau 1+ qu’au niveau 2 (86 % contre 70 % de 
+classements rouges). 
+Pour les fonctions les moins contraintes, telles que le diagnostic du paludisme, la surveillance 
+épidémiologique, l’intégration des services et les données sanitaires, les classements jaunes 
+prédominent aux trois niveaux. La situation traduit donc surtout des capacités jugées réalisables, 
+mais encore instables, et souligne la nécessité de renforcer leur fonctionnement à l’ensemble des 
+niveaux de soins. 
+3.2.4. Préparation opérationnelle par province 
+La lecture par province met en évidence des contraintes largement répandues, sans pour autant 
+permettre d’établir un classement entre les provinces, dont les effectifs enquêtés varient. Au 
+Sankuru et au Haut-Lomami, les proportions de fonctions cliniques classées rouges sont très 
+élevées dans la plupart des domaines ; certaines fonctions systémiques sont également fortement 
+touchées, notamment la réception des urgences au Sankuru. Le Kasaï-Oriental et le Tanganyika 
+affichent souvent des proportions plus faibles, mais leurs résultats doivent être interprétés avec 
+prudence, car huit établissements seulement ont été enquêtés dans chacune de ces provinces. 
+La lecture par fonction souligne l’ampleur de certaines difficultés dans l’ensemble des provinces. 
+Pour l’accouchement normal, la proportion de classements rouges atteint 100 % dans trois 
+
+
+==========================================================================================
+PAGE 10 — 1567 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+35 
+provinces (le Haut-Katanga, le Haut-Lomami et le Sankuru) et au moins 75 % dans les autres, à 
+l’exception du Tanganyika (50 %). Pour la prise en charge de la malnutrition aiguë non compliquée, 
+elle atteint 100 % dans cinq provinces disposant de données suffisantes ; la valeur indiquée entre 
+parenthèses au Kasaï-Oriental est également de 100 %, mais repose sur moins de cinq 
+établissements. Elle s’élève à 92 % au Lualaba et à 80 % au Tanganyika. Ces résultats témoignent 
+de contraintes étendues pour ces deux fonctions. 
+À l’inverse, les proportions rouges sont généralement plus faibles pour le diagnostic du paludisme, 
+la surveillance épidémiologique et l’intégration des services, le plus souvent inférieures à 40 %. 
+Les données sanitaires présentent également des niveaux rouges relativement bas dans plusieurs 
+provinces, bien que des valeurs plus élevées soient observées au Haut-Lomami et dans la Lomami. 
+Enfin, les valeurs entre parenthèses, fondées sur moins de cinq établissements, doivent être 
+interprétées avec une prudence particulière. 
+ 
+ 
+Figure 4: Part de fonctions rouges par fonction et par province 
+3.2.5. Préparation opérationnelle par domaine et niveau de soins 
+À l’échelle de l’ensemble des établissements, les classements rouges prédominent en vaccination 
+(83 %), en nutrition (80 %) et en SMNEA (79 %). Le profil est différent pour le paludisme et le 
+domaine transversal : les classements jaunes y sont majoritaires (55 % chacun), tandis que les 
+
+
+==========================================================================================
+PAGE 11 — 2294 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+36 
+classements rouges concernent 42 % des évaluations en paludisme et 41 % dans le domaine 
+transversal. Ces résultats suggèrent que, dans ces deux domaines, les fonctions sont plus souvent 
+réalisables, mais restent instables. 
+Les tendances varient également selon le niveau de soins. La proportion de classements rouges 
+diminue en nutrition, passant de 86 % au niveau 1 à 75 % au niveau 1+ puis à 59 % au niveau 2. Elle 
+baisse aussi en vaccination, de 87 % au niveau 1 à 65 % au niveau 1+ ; le graphique ne présente 
+pas de valeur pour ce domaine au niveau 2. Dans le domaine transversal, les classements rouges 
+passent de 44 % au niveau 1 à 30 % au niveau 1+, avant de remonter à 38 % au niveau 2. En SMNEA, 
+ils diminuent de 88 % au niveau 1 à 67 % au niveau 1+ et 64 % au niveau 2. Le paludisme reste 
+majoritairement jaune aux trois niveaux, avec des proportions rouges de 46 %, 44 % et 33 %, 
+respectivement. 
+ 
+Figure 5: Préparation opérationnelle par domaine technique et par niveau de soins 
+La part de fonctions rouges par établissement se concentre dans le haut de l'échelle : la médiane 
+se situe à 75,0 % (79,2 % au CS, 67,3 % au CSR et 57,1 % à l’HGR) et 56 établissements sur 160 
+(35,0 %) atteignent 80 % ou plus. 
+3.2.6. Service déclaré et capacité opérationnelle observée pendant la visite  
+Parmi les établissements déclarant offrir les services évalués, les constats effectués lors de la 
+visite révèlent une forte proportion de fonctions classées rouges. La réanimation néonatale 
+immédiate au niveau 1 en est un exemple marquant : 97 des 98 centres de santé ayant déclaré 
+offrir ce service sont classés rouges (99 %). À ce niveau, les principaux blocages de cette fonction 
+concernent les équipements (94 des 99 fonctions rouges), surtout la source de chaleur et l’appareil 
+d’aspiration, ainsi que la référence (76). 
+Pour plusieurs fonctions, les résultats sont moins défavorables aux niveaux 1+ et 2, mais les 
+classements rouges restent importants et les classements verts demeurent peu fréquents. La 
+déclaration de l’offre indique que le service est proposé, sans garantir que les conditions 
+nécessaires à sa réalisation soient réunies. Cet écart ne traduit pas nécessairement une 
+
+
+==========================================================================================
+PAGE 12 — 1929 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+37 
+déclaration inexacte : il souligne la différence entre l’offre déclarée et la capacité opérationnelle 
+constatée. 
+La prise en charge de la malnutrition aiguë constitue un cas distinct. Parmi les 99 centres de santé 
+concernés, 55 déclarent ne pas offrir ce service ; ils sont classés rouges en raison de son absence, 
+et non de l’insuffisance des conditions de prise en charge. Cette distinction souligne l’importance 
+de vérifier sur place à la fois l’existence du service et les moyens permettant de l’assurer. 
+ 
+ 
+Figure 6: État opérationnel des fonctions vitales dont le service est déclaré offert, par niveau de soins 
+3.3. Préparation aux urgences 
+À retenir  
+Les fonctions d’urgence sont très largement classées rouges : 81 % dans l’ensemble, avec 
+des proportions de 90 % au CS, 72 % au CSR et 65 % à l’HGR. 
+Dans 115 établissements, l’absence d’au moins un élément critique compromet la prise en 
+charge d’une urgence vitale : sulfate de magnésium (98 établissements), ballon et masque 
+néonatals (56), ocytocine (23) ou artésunate injectable (14). 
+La référence ne suffit souvent pas à compenser ces défaillances : parmi les 159 
+établissements exposés à au moins une menace immédiate, 112 présentent aussi une condition 
+de référence classée rouge. 
+L’exposition est généralisée au Sankuru (16 établissements sur 16) et presque aussi élevée 
+dans la Lomami (15 sur 16). 
+3.3.1. Préparation aux urgences par niveau et par province 
+Les fonctions d’urgence sont plus souvent classées rouges que l’ensemble des fonctions 
+traceuses : 81 % contre 68 %. De plus, 115 établissements sur 160 (72 %) présentent au moins une 
+fonction d’urgence classée rouge en raison de l’absence d’un élément critique, notamment le 
+sulfate de magnésium, un utérotonique, l’artésunate injectable ou le matériel de ventilation 
+néonatale (ballon et masque). 
+
+
+==========================================================================================
+PAGE 13 — 2998 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+38 
+La préparation reste particulièrement faible au niveau 1, où 90 % des fonctions d’urgence sont 
+rouges et 84 des 101 centres de santé (83 %) comptent au moins une fonction rouge liée à 
+l’absence d’un élément critique. Les proportions sont également préoccupantes au niveau 1+ : 72 
+% de fonctions rouges et 13 établissements sur 22 (59 %) exposés. Au niveau 2, malgré des 
+proportions plus faibles, 65 % des fonctions demeurent rouges et 18 hôpitaux sur 37 (49 %) 
+présentent au moins une fonction d’urgence rouge pour cette raison. Les HGR restent donc eux 
+aussi confrontés à des lacunes importantes dans la préparation aux urgences vitales. 
+Les résultats varient également selon la province. La proportion de fonctions d’urgence classées 
+rouges va de 58 % au Kasaï-Oriental à 99 % au Sankuru. Dans cette dernière province, les 16 
+établissements évalués sont tous concernés par au moins une fonction rouge liée à l’absence d’un 
+élément critique ; au Lomami, 15 établissements sur 16 (94 %) le sont également. Au Kasaï-
+Oriental, 5 établissements sur 8 (62 %) sont concernés, contre 4 sur 8 (50 %) au Tanganyika. Ces 
+résultats provinciaux décrivent les établissements évalués et doivent être interprétés avec 
+prudence, en particulier pour les provinces où l’effectif est limité. 
+ 
+Figure 7: Préparation aux urgences : ensemble, par niveau de soins et par province 
+3.3.2. Blocages des fonctions d’urgence par niveau  
+Les résultats montrent que la nature du blocage dominant varie selon la fonction et le niveau de 
+soins, sans que cette variation entraîne nécessairement une baisse importante des classements 
+rouges. Certains obstacles persistent à plusieurs niveaux : les équipements dominent pour la 
+réanimation néonatale (98,0 % de rouge au niveau 1, 77,3 % au niveau 1+ et 64,9 % au niveau 2), 
+en premier lieu la source de chaleur, tandis que les intrants, d’abord le sulfate de magnésium, 
+restent le principal blocage pour la pré-éclampsie (93,1 %, 68,2 % et 62,2 %). Pour la référence 
+urgente, le blocage dominant est l’organisation du service aux trois niveaux, et il tient presque 
+toujours à l’absence d’un moyen de transport fonctionnel. La part de rouge est de 79,2 % au niveau 
+1, 63,6 % au niveau 1+ et 70,3 % au niveau 2, ce qui souligne le caractère transversal de cette 
+contrainte. 
+Pour d’autres fonctions, le blocage dominant change avec le niveau de soins. Pour l’hémorragie du 
+post-partum et le sepsis obstétrical, il s’agit de la référence au niveau 1, le transport faisant défaut 
+dans la plupart des cas, puis des intrants aux niveaux 1+ et 2, notamment les seringues et aiguilles 
+pour l’hémorragie et l’ampicilline pour le sepsis ; la part de rouge y est nettement plus faible qu’au 
+centre de santé (de 41 % à 46 %, contre 84 % à 85 %). La prise en charge de la malnutrition aiguë 
+compliquée passe également d’un blocage lié à la référence au niveau 1 à un blocage lié aux 
+
+
+==========================================================================================
+PAGE 14 — 4156 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+39 
+intrants (F100 et F75) aux niveaux supérieurs, alors que la proportion de rouge demeure élevée à 
+tous les niveaux (83,8 % à 93,1 %). Pour le paludisme grave, la référence domine aux niveaux 1 et 
+1+, puis les équipements à l’HGR, où la part de rouge tombe à 45,9 %. Enfin, pour la césarienne 
+d’urgence, le blocage passe des équipements au niveau 1+ aux intrants au niveau 2, tandis que la 
+proportion de rouge augmente de 68,2 % à 81,1 %. 
+Ces profils indiquent que les contraintes opérationnelles ne sont ni identiques ni uniformément 
+réparties entre les niveaux de soins. La persistance de blocages liés aux équipements ou à 
+l’organisation, ainsi que les changements observés pour la référence et les intrants, appellent des 
+réponses adaptées à chaque fonction et à chaque niveau. La dernière colonne du tableau indique, 
+pour chaque ligne, l’élément le plus souvent en cause ; le détail des éléments par fonction et par 
+niveau figure en annexe. 
+Tableau 9: Blocages dominants des fonctions d’urgence, par niveau de soins 
+ 
+Fonction d'urgence 
+Niveau 
+K 
+% 
+Vert 
+% 
+Jaune 
+% 
+Rouge 
+Premier blocage 
+dominant 
+Élément le plus souvent en 
+cause (fonctions rouges 
+concernées) 
+Grossesse à risque 
+Niveau 1 (CS) 
+101 
+0,0 
+5,0 
+95,0 
+Intrants et produits 
+Bandelettes urinaires (77/96) 
+Grossesse à risque 
+Niveau 1+ (CSR) 
+22 
+0,0 
+22,7 
+77,3 
+Référence 
+Moyen de transport (13/17) 
+Hémorragie post-partum 
+Niveau 1 (CS) 
+101 
+0,0 
+14,9 
+85,1 
+Référence 
+Moyen de transport (71/86) 
+Hémorragie post-partum 
+Niveau 1+ (CSR) 
+22 
+0,0 
+54,5 
+45,5 
+Intrants et produits 
+Seringues et aiguilles (4/10) 
+Hémorragie post-partum 
+Niveau 2 (HGR) 
+37 
+0,0 
+54,1 
+45,9 
+Intrants et produits 
+Seringues et aiguilles (11/17) 
+Pré-éclampsie 
+Niveau 1 (CS) 
+101 
+1,0 
+5,9 
+93,1 
+Intrants et produits 
+Sulfate de magnésium (77/94) 
+Pré-éclampsie 
+Niveau 1+ (CSR) 
+22 
+0,0 
+31,8 
+68,2 
+Intrants et produits 
+Sulfate de magnésium (11/15) 
+Pré-éclampsie 
+Niveau 2 (HGR) 
+37 
+0,0 
+37,8 
+62,2 
+Intrants et produits 
+Seringues et aiguilles (11/23) 
+Sepsis obstétrical 
+Niveau 1 (CS) 
+101 
+2,0 
+13,9 
+84,2 
+Référence 
+Moyen de transport (71/85) 
+Sepsis obstétrical 
+Niveau 1+ (CSR) 
+22 
+0,0 
+59,1 
+40,9 
+Intrants et produits 
+Ampicilline (5/9) 
+Sepsis obstétrical 
+Niveau 2 (HGR) 
+37 
+2,7 
+51,4 
+45,9 
+Intrants et produits 
+Ampicilline (11/17) 
+Accouchement assisté 
+Niveau 1+ (CSR) 
+22 
+0,0 
+18,2 
+81,8 
+Équipements 
+Ventouse ou forceps (13/18) 
+Accouchement assisté 
+Niveau 2 (HGR) 
+37 
+0,0 
+32,4 
+67,6 
+Équipements 
+Ventouse ou forceps (17/25) 
+Césarienne d'urgence 
+Niveau 1+ (CSR) 
+22 
+0,0 
+31,8 
+68,2 
+Équipements 
+Matériel d'anesthésie (8/15) 
+Césarienne d'urgence 
+Niveau 2 (HGR) 
+37 
+0,0 
+18,9 
+81,1 
+Intrants et produits 
+Antiseptique (17/30) 
+Transfusion 
+Niveau 1+ (CSR) 
+22 
+0,0 
+13,6 
+86,4 
+Équipements 
+Réfrigérateur à sang (17/19) 
+Transfusion 
+Niveau 2 (HGR) 
+37 
+5,4 
+24,3 
+70,3 
+Équipements 
+Réfrigérateur à sang (19/26) 
+Réanimation néonat. 
+Niveau 1 (CS) 
+101 
+0,0 
+2,0 
+98,0 
+Équipements 
+Source de chaleur (77/99) 
+Réanimation néonat. 
+Niveau 1+ (CSR) 
+22 
+0,0 
+22,7 
+77,3 
+Équipements 
+Source de chaleur (14/17) 
+Réanimation néonat. 
+Niveau 2 (HGR) 
+37 
+2,7 
+32,4 
+64,9 
+Équipements 
+Source de chaleur (19/24) 
+Réception urgences 
+Niveau 2 (HGR) 
+37 
+0,0 
+27,0 
+73,0 
+Organisation du service 
+Moyen de transport (21/27) 
+Paludisme grave 
+Niveau 1 (CS) 
+101 
+0,0 
+5,0 
+95,0 
+Référence 
+Moyen de transport (71/96) 
+Paludisme grave 
+Niveau 1+ (CSR) 
+22 
+0,0 
+18,2 
+81,8 
+Référence 
+Moyen de transport (13/18) 
+Paludisme grave 
+Niveau 2 (HGR) 
+37 
+0,0 
+54,1 
+45,9 
+Équipements 
+Échelle de coma (10/17) 
+MA compliquée 
+Niveau 1 (CS) 
+101 
+0,0 
+6,9 
+93,1 
+Référence 
+Moyen de transport (71/94) 
+MA compliquée 
+Niveau 1+ (CSR) 
+22 
+0,0 
+9,1 
+90,9 
+Intrants et produits 
+F100 (20/20) 
+MA compliquée 
+Niveau 2 (HGR) 
+37 
+2,7 
+13,5 
+83,8 
+Intrants et produits 
+F75 (29/31) 
+MAPI 
+Niveau 1 (CS) 
+101 
+0,0 
+7,9 
+92,1 
+Intrants et produits 
+Kit anti-choc (adrénaline) (85/93) 
+MAPI 
+Niveau 1+ (CSR) 
+22 
+0,0 
+18,2 
+81,8 
+Intrants et produits 
+Kit anti-choc (adrénaline) (14/18) 
+
+
+==========================================================================================
+PAGE 15 — 3362 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+40 
+Fonction d'urgence 
+Niveau 
+K 
+% 
+Vert 
+% 
+Jaune 
+% 
+Rouge 
+Premier blocage 
+dominant 
+Élément le plus souvent en 
+cause (fonctions rouges 
+concernées) 
+Référence urgente 
+Niveau 1 (CS) 
+101 
+0,0 
+20,8 
+79,2 
+Organisation du service 
+Moyen de transport (71/80) 
+Référence urgente 
+Niveau 1+ (CSR) 
+22 
+0,0 
+36,4 
+63,6 
+Organisation du service 
+Moyen de transport (13/14) 
+Référence urgente 
+Niveau 2 (HGR) 
+37 
+0,0 
+29,7 
+70,3 
+Organisation du service 
+Moyen de transport (21/26) 
+Élément le plus souvent en cause : élément ou composante le plus souvent défaillant parmi les fonctions rouges bloquées par 
+le premier blocage dominant ; entre parenthèses, nombre de fonctions rouges concernées sur le total des fonctions rouges de 
+la ligne. 
+3.3.3. Absence d’éléments critiques et préparation aux urgences 
+Dans le paquet d’urgence, 80,8 % des évaluations de fonctions sont classées rouges. Par ailleurs, 
+115 établissements sur 160 (71,9 %) présentent au moins une fonction d’urgence classée rouge en 
+raison de l’absence ou de la rupture d’un élément critique. 
+Le sulfate de magnésium est l’élément le plus fréquemment manquant : son absence est relevée 
+dans 98 établissements répartis dans les huit provinces. Viennent ensuite le ballon auto-gonflable 
+avec masque néonatal, absent dans 56 établissements des huit provinces, l’ocytocine, dans 23 
+établissements de cinq provinces, et l’artésunate injectable, dans 14 établissements de sept 
+provinces. Ces manques compromettent respectivement la prise en charge de la pré-éclampsie, 
+la réanimation néonatale, la prévention ou le traitement de l’hémorragie du post-partum et la prise 
+en charge du paludisme grave. 
+Tableau 10: Principaux éléments critiques d’urgence manquants ou en rupture 
+Élément critique d'urgence absent 
+ou en rupture 
+Occurrences 
+Établissements Provinces Fonctions vitales concernées 
+Sulfate de magnésium 
+98 
+98 
+8 
+Pré-éclampsie 
+Ballon auto-gonflable + masque taille 
+néonatale (Ambu) 
+56 
+56 
+8 
+Réanimation néonat. 
+Ocytocine 
+23 
+23 
+5 
+Hémorragie post-partum 
+Artésunate, injectable 
+14 
+14 
+7 
+Paludisme grave 
+Les données désignent ainsi deux types de besoins : la disponibilité continue de médicaments 
+essentiels et l’accès au matériel de réanimation néonatale. Les nombres d’établissements 
+associés à chaque élément ne doivent pas être additionnés, car un même établissement peut être 
+concerné par plusieurs ruptures. Ces résultats plaident pour des dotations ciblées selon les 
+besoins provinciaux et un suivi régulier des stocks et des équipements. 
+3.3.4. Menace vitale et limites du système de référence  
+En considérant toute fonction vitale classée rouge comme une menace immédiate, 159 des 160 
+établissements évalués (99,4 %) sont concernés. Cette situation touche les 101 centres de santé 
+et les 22 centres de santé de référence ; elle concerne également 36 des 37 hôpitaux généraux de 
+référence (97,3 %). La menace est souvent associée à une référence défaillante : parmi les 
+établissements concernés, 112 (70,4 %) ont aussi un circuit de référence classé rouge, et la 
+fonction « référence urgente » est elle-même rouge dans 119 d’entre eux. Cette double contrainte 
+est observée à chaque niveau : le circuit de référence est rouge dans 76 CS, 13 CSR et 23 HGR 
+exposés. 
+
+
+==========================================================================================
+PAGE 16 — 3041 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+41 
+Tableau 11: Menaces immédiates et contraintes déclarées d'accès à la référence 
+ 
+Niveau 
+Établissements Avec au moins une 
+menace immédiate : 
+n (%) 
+Destination à 
+plus de 30 km 
+Délai 
+décision–
+départ > 1 h 
+Circuit de 
+référence rouge 
+(condition 
+transversale) 
+Fonction « 
+référence 
+urgente » rouge 
+Niveau 1 (CS) 
+101 
+101 (100,0 %) 
+29 
+18 
+76 
+80 
+Niveau 1+ (CSR) 
+22 
+22 (100,0 %) 
+8 
+6 
+13 
+14 
+Niveau 2 (HGR) 
+37 
+36 (97,3 %) 
+25 
+16 
+23 
+25 
+Ensemble 
+160 
+159 (99,4 %) 
+62 
+40 
+112 
+119 
+Menace immédiate : au moins une fonction vitale classée rouge. Le circuit de référence est une condition transversale évaluée 
+au niveau de l’établissement ; la fonction « référence urgente » est une fonction traceuse évaluée selon ses propres conditions. 
+La référence risque en outre d’être retardée ou difficile à organiser : pour 62 établissements, la 
+structure de destination se trouve à plus de 30 km ; dans 40 établissements, le délai entre la 
+décision et le départ dépasse une heure. Ainsi, face à une menace vitale, la référence ne constitue 
+pas toujours une solution rapidement mobilisable, en particulier lorsque la fonction de référence 
+est elle-même classée rouge. 
+3.3.5. Correspondance entre les fonctions traceuses et les fonctions signal SONU 
+Au regard du référentiel classique de l’OMS, qui compte sept fonctions signal pour les soins 
+obstétricaux et néonatals d’urgence (SONU) de base et neuf pour les SONU complets, le diagnostic 
+couvre directement cinq des sept fonctions signal de base : l’administration d’antibiotiques 
+parentéraux, d’ocytociques et d’anticonvulsivants, la réanimation néonatale ainsi que 
+l’accouchement vaginal assisté. Cette dernière fonction est évaluée aux niveaux 1+ et 2, mais n’est 
+pas attendue au niveau 1. Pour ces fonctions, l’évaluation porte sur la disponibilité des intrants, 
+des équipements et des autres conditions nécessaires à leur réalisation. 
+Ce référentiel est en cours de révision. Le processus Re-Visioning EmONC, coordonné par AMDD 
+avec l’OMS, l’UNICEF, l’UNFPA et la LSHTM, propose désormais 25 fonctions signal (11 
+obstétricales, 13 néonatales et une fonction de référence), réparties en trois niveaux de soins : de 
+base, complets et intensifs [57]. Le diagnostic ayant été conçu sur les neuf fonctions classiques, 
+qui restent celles des enquêtes HHFA et EPSS et permettent la comparaison avec elles, la 
+correspondance ci-dessous porte sur ce référentiel. Plusieurs fonctions du nouveau cadre sont 
+néanmoins documentées, au moins en partie : médicaments de l’hémorragie du post-partum, 
+antibiotiques parentéraux maternels, sulfate de magnésium, accouchement vaginal assisté, 
+césarienne, transfusion, réanimation néonatale au ballon et au masque, apport de chaleur au 
+nouveau-né et organisation de la référence. Les fonctions néonatales avancées et celles du niveau 
+intensif, comme l’oxygénothérapie avec oxymétrie, la CPAP ou la photothérapie, n’ont pas été 
+mesurées. 
+
+
+==========================================================================================
+PAGE 17 — 3854 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+42 
+Tableau 12: Correspondance documentaire avec les fonctions signal SONU (référentiel classique) 
+Fonction signal SONU 
+Catégorie 
+Fonction traceuse 
+correspondante 
+Couverture par le diagnostic 
+Réserve 
+Antibiotiques parentéraux 
+SONU de base 
+Prise en charge du sepsis maternel ou 
+puerpéral 
+Couverte : fonction traceuse dédiée (antibiotique injectable parmi les 
+éléments critiques) 
+ 
+Ocytociques parentéraux 
+SONU de base 
+Prévention et prise en charge de 
+l'hémorragie du post-partum 
+Couverte : ocytocine / ergométrine parmi les éléments critiques de la 
+fonction HPP 
+ 
+Anticonvulsivants parentéraux 
+SONU de base 
+Prise en charge de la pré-
+éclampsie/éclampsie 
+Couverte : sulfate de magnésium parmi les éléments critiques 
+ 
+Extraction manuelle du 
+placenta 
+SONU de base 
+Prévention et prise en charge de 
+l'hémorragie du post-partum 
+Partiellement couverte : geste non documenté individuellement ; 
+conditions (gants longs, personnel) dans HPP 
+Acte réalisé non 
+mesuré 
+Évacuation des produits de 
+conception 
+SONU de base 
+- 
+Non couverte : aucune fonction traceuse ni élément dédié (AMIU, 
+misoprostol post-abortum) 
+Non mesuré 
+Accouchement vaginal assisté 
+SONU de base 
+Accouchement vaginal assisté 
+Couverte au niveau 1+ et 2 (ventouse / forceps parmi les éléments 
+critiques) ; non attendue au CS 
+Niveau 1 non 
+couvert 
+Réanimation néonatale 
+SONU de base 
+Réanimation néonatale immédiate 
+Couverte : fonction traceuse dédiée (ballon et masque, aspiration, 
+source de chaleur) 
+ 
+Césarienne 
+SONU complet 
+Césarienne d'urgence 
+Couverte aux niveaux 1+ et 2 
+ 
+Transfusion sanguine 
+SONU complet 
+Transfusion sanguine d'urgence 
+Couverte aux niveaux 1+ et 2 
+ 
+L’extraction manuelle du placenta est partiellement couverte : le diagnostic documente certaines 
+conditions matérielles et la disponibilité du personnel dans le cadre de la fonction relative à 
+l’hémorragie du post-partum, mais ne mesure pas la réalisation de ce geste. L’évacuation des 
+produits de conception n’est, quant à elle, couverte par aucune fonction traceuse ni par aucun 
+élément dédié, tel que l’aspiration manuelle intra-utérine ou le misoprostol post-abortum ; le 
+diagnostic ne permet donc pas d’en apprécier la préparation. 
+Les deux fonctions signal des SONU complets la césarienne et la transfusion sanguine sont 
+couvertes aux niveaux 1+ et 2. Dans l’ensemble, cette correspondance permet d’évaluer la 
+préparation opérationnelle de plusieurs fonctions SONU, mais ne renseigne pas directement sur 
+la réalisation effective des actes ni sur leur qualité clinique. 
+3.4. Intégration opérationnelle des services 
+À retenir 
+L’intégration des contacts maternels s’améliore avec le niveau de soins : ils sont pleinement 
+documentés dans 46 % des centres de santé (CS), 73 % des centres de santé de référence (CSR) 
+et 84 % des hôpitaux généraux de référence (HGR). 
+La continuité des services nutritionnels est particulièrement fragile : dans 56 % des CS, la 
+présence continue d’un prestataire formé n’a pas été assurée au cours des trois mois précédant 
+la visite. 
+Les ruptures de référence tiennent surtout au transport et à l’absence de contact préalable, 
+plutôt qu’à l’absence d’une structure de destination. Par ailleurs, 89,8 % des structures 
+d’accueil déclarent recevoir des patients arrivés trop tard. 
+La référence vers l’hôpital ne garantit pas une prise en charge adéquate : la disponibilité 
+opérationnelle de la césarienne est classée rouge dans 81,7 % des hôpitaux appariés. 
+Le dépistage nutritionnel est rarement suivi d’une prise en charge opérationnelle : les 
+fonctions d’aval restent classées rouges dans 78 à 94 % des cas. 
+L’évaluation porte sur les conditions d’application des protocoles, mais les actes de soins 
+eux-mêmes n’ont pas été observés. 
+
+
+==========================================================================================
+PAGE 18 — 2372 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+43 
+3.4.1. Intégration des prestations au point de soins et entre niveaux 
+La documentation des contacts maternels s’améliore avec le niveau de soins : l’ensemble des 
+couples de prestations est documenté dans 46 % des centres de santé (CS), 73 % des centres de 
+santé de référence (CSR) et 84 % des hôpitaux généraux de référence (HGR). Cette progression est 
+moins nette pour les consultations de l’enfant. Au niveau 1, 48 % des CS présentent une intégration 
+partielle, correspondant à une occasion manquée, ou aucune intégration, contre 27 % des CSR et 
+30 % des HGR. L’absence totale d’intégration reste toutefois peu fréquente : elle concerne six 
+établissements, soit 3,8 % de l’échantillon. 
+L’intégration de la référence, évaluée uniquement dans les CSR et les HGR, demeure limitée et ne 
+s’améliore pas avec le niveau de soins. Tous les couples attendus sont documentés dans 59 % des 
+CSR et 57 % des HGR ; l’intégration est partielle dans respectivement 23 % et 30 % des 
+établissements, et absente dans 18 % et 14 %. Ces résultats suggèrent que la coordination entre 
+structures constitue un enjeu distinct de la disponibilité du plateau technique. 
+Ces constats doivent être distingués des résultats portant sur la préparation opérationnelle des 
+fonctions traceuses. La consultation prénatale intégrée à la prévention de la transmission mère-
+enfant (CPN-PTME) est classée rouge dans 69,7 % des évaluations, principalement en raison du 
+manque d’intrants, qui concerne 97,6 % des classements rouges. Pour la fonction systémique 
+d’intégration des services, les classements jaunes prédominent (68,8 %), contre 28,1 % de 
+classements rouges. Enfin, la condition transversale associée à l’intégration est classée verte dans 
+71,2 % des établissements. Ces indicateurs mesurent des aspects complémentaires : la 
+documentation des prestations combinées, la préparation d’une fonction traceuse et la présence 
+de conditions systémiques favorables à l’intégration. 
+ 
+Figure 8: Couples de prestations documentés, par niveau de soins 
+3.4.2. Continuité des services et présence des prestataires 
+Mesurée sur les trois mois précédant l’enquête, la continuité de présence varie fortement selon le 
+service et le niveau de soins. La proportion d’établissements déclarant une présence pendant 
+
+
+==========================================================================================
+PAGE 19 — 2081 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+44 
+presque toute la période (90 à 92 jours) s’étend de 18 % à 76 %. Le paludisme présente le profil le 
+plus régulier : la médiane atteint 90 jours aux trois niveaux, et la présence pendant presque toute 
+la période est déclarée par 64 % des CS, 55 % des CSR et 76 % des HGR. 
+La continuité est particulièrement fragile pour la nutrition dans les CS et les CSR : 56 % des CS et 
+55 % des CSR déclarent zéro jour de présence d’un prestataire formé, ce qui correspond à une 
+médiane nulle. La situation est meilleure dans les HGR, où 57 % déclarent une présence pendant 
+90 à 92 jours, même si 27 % signalent toujours zéro jour. En maternité, la distribution au niveau 1 
+est contrastée : 49 % des CS déclarent seulement 1 à 7 jours de présence, tandis que 41 % 
+déclarent une présence pendant presque toute la période. Les HGR présentent la continuité la plus 
+élevée pour la maternité (68 %) et le paludisme (76 %). 
+Ces durées sont déclarées rétrospectivement par les établissements. Elles décrivent la présence 
+rapportée des prestataires, mais ne constituent pas une mesure quotidienne vérifiée de la 
+disponibilité effective des services ni de la qualité des soins. 
+ 
+ 
+Figure 9: Jours de présence des prestataires déclarés sur trois mois, par service et par niveau 
+3.4.3. Motifs et volumes des références déclarées 
+Sur les trois mois considérés, le paludisme grave représente le plus grand volume de références, 
+avec 2 486 cas déclarés dans 85 établissements. Les urgences médicales de l’adulte sont 
+toutefois le motif le plus largement rapporté : 102 établissements en ont déclaré, pour un total de 
+1 926 cas. Les urgences pédiatriques arrivent ensuite, avec 1 788 cas dans 73 établissements. Les 
+urgences obstétricales et les cas chirurgicaux totalisent respectivement 781 et 774 références. 
+Les volumes déclarés varient fortement d’un établissement à l’autre. Pour les urgences médicales 
+de l’adulte, la médiane est de 3 références par établissement, alors que le maximum atteint 277 ; 
+
+
+==========================================================================================
+PAGE 20 — 2719 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+45 
+pour le paludisme grave, la médiane est de 2, contre un maximum de 189. Ces écarts indiquent 
+que les volumes totaux sont concentrés dans certains établissements. 
+À l’inverse, la médiane est nulle pour plusieurs motifs, notamment les urgences pédiatriques, les 
+traumatismes et accidents, la malnutrition aiguë sévère compliquée, les complications 
+néonatales et les suspicions de maladies à potentiel épidémique. Pourtant, entre 48 et 75 
+établissements ont déclaré au moins une référence pour chacun de ces motifs. Une médiane nulle 
+signifie donc qu’au moins la moitié des établissements n’a déclaré aucune référence pour le motif 
+concerné, même si un volume notable a été enregistré ailleurs. 
+Tableau 13: Références au cours des trois derniers mois, par motif 
+Motif de référence 
+Établissements 
+avec au moins une 
+référence (sur 160) 
+Total déclaré 
+sur trois mois 
+Médiane par 
+établissement 
+Maximum 
+Paludisme grave 
+85 
+2 486 
+2,0 
+189 
+Urgences médicales de l’adulte 
+102 
+1 926 
+3,0 
+277 
+Urgences pédiatriques 
+73 
+1 788 
+0,0 
+182 
+Urgences obstétricales 
+88 
+781 
+2,0 
+44 
+Cas chirurgicaux 
+88 
+774 
+1,0 
+95 
+Autres 
+56 
+530 
+0,0 
+125 
+Malnutrition aiguë sévère 
+compliquée 
+57 
+520 
+0,0 
+71 
+Traumatismes et accidents 
+75 
+432 
+0,0 
+48 
+Suspicion de maladie à potentiel 
+épidémique 
+48 
+284 
+0,0 
+35 
+Complications néonatales 
+52 
+240 
+0,0 
+54 
+3.4.4. Contraintes déclarées au départ des centres de santé 
+Parmi les 101 centres de santé interrogés, les contraintes les plus souvent rapportées lors de la 
+référence concernent les ménages et le transport. Le manque de ressources financières du 
+ménage arrive en tête (78 CS, soit 77,2 %), suivi de l’absence de moyen de transport (71 ; 70,3 %) 
+et du refus du patient ou de sa famille (70 ; 69,3 %). Le coût du transport est également 
+fréquemment cité (66 ; 65,3 %). 
+Les difficultés d’accès géographique et logistique sont elles aussi importantes : la distance jusqu’à 
+la structure de référence est mentionnée par 50,5 % des CS, le mauvais état des routes par 44,6 
+%, les difficultés de communication par 32,7 % et les pannes de transport par 28,7 %. L’insécurité 
+ou les contraintes géographiques sont rapportées par 19,8 % des centres. En revanche, le retard 
+dans la prise de décision clinique (9,9 %) et la saturation de l’hôpital de référence (8,9 %) sont les 
+contraintes les moins souvent citées. 
+Dans l’ensemble, les réponses mettent en évidence des obstacles financiers, sociaux et 
+logistiques qui peuvent se cumuler au cours de la référence. Les pourcentages ne doivent donc 
+pas être additionnés : un même centre pouvait signaler plusieurs contraintes. 
+
+
+==========================================================================================
+PAGE 21 — 2416 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+46 
+Tableau 14: Contraintes déclarées au départ lorsque la référence est décidée (centres de santé) 
+Contrainte déclarée au départ (centres de santé, n = 101) 
+n (%) 
+Manque de ressources financières du ménage 
+78 (77,2 %) 
+Absence de moyen de transport 
+71 (70,3 %) 
+Refus du patient ou de sa famille 
+70 (69,3 %) 
+Coût du transport 
+66 (65,3 %) 
+Distance importante vers la structure de référence 
+51 (50,5 %) 
+Mauvais état des routes 
+45 (44,6 %) 
+Difficultés de communication 
+33 (32,7 %) 
+Panne du moyen de transport 
+29 (28,7 %) 
+Insécurité ou contraintes géographiques 
+20 (19,8 %) 
+Retard dans la prise de décision clinique 
+10 (9,9 %) 
+Saturation de l’hôpital de référence 
+9 (8,9 %) 
+3.4.5. Difficultés à la réception et dans la continuité de la référence 
+Parmi les 59 centres de santé de référence et hôpitaux généraux de référence interrogés, les 
+difficultés les plus fréquemment signalées concernent le délai et la coordination de la référence. 
+L’arrivée tardive du patient est citée par 53 établissements (89,8 %), l’absence de communication 
+préalable par 50 (84,7 %) et l’aggravation de l’état clinique à l’arrivée par 48 (81,4 %). Ces constats 
+témoignent de ruptures possibles dans la coordination entre la structure référente et la structure 
+d’accueil. 
+La transmission des informations et l’accompagnement du patient posent également problème. 
+Les informations cliniques sont jugées insuffisantes dans 79,7 % des établissements ; la fiche de 
+référence est incomplète ou mal renseignée dans 76,3 % des cas, et absente dans 74,6 %. Dans la 
+même proportion, les patients sont référés sans accompagnement approprié alors qu’il est 
+nécessaire. La continuité après la prise en charge reste aussi fragile : 62,7 % des structures 
+signalent des difficultés financières pour le patient et une absence ou un retard de contre-
+référence. 
+Enfin, même si elles sont moins souvent citées, l’indisponibilité des examens complémentaires et 
+celle des médicaments ou intrants essentiels concernent chacune 26 structures (44,1 %). Les 
+difficultés rapportées ne se limitent donc pas à la coordination et à la documentation ; elles 
+incluent aussi des contraintes financières et de disponibilité des ressources. Plusieurs problèmes 
+pouvant être signalés par une même structure, les pourcentages ne doivent pas être additionnés. 
+
+
+==========================================================================================
+PAGE 22 — 3093 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+47 
+Tableau 15: Difficultés déclarées à la réception des patients référés (CSR et HGR) 
+Difficulté déclarée à la réception (CSR et HGR, n = 59) 
+n (%) 
+Arrivée tardive du patient après la décision de référence 
+53 (89,8 %) 
+Absence de communication préalable entre la structure référente et votre 
+établissement 
+50 (84,7 %) 
+État clinique du patient aggravé à son arrivée 
+48 (81,4 %) 
+Informations cliniques insuffisantes sur le patient référé 
+47 (79,7 %) 
+Fiche de référence incomplète ou mal renseignée 
+45 (76,3 %) 
+Patient référé sans accompagnement approprié (personnel de santé ou autre) 
+lorsque nécessaire 
+45 (76,3 %) 
+Référence sans fiche de référence 
+44 (74,6 %) 
+Difficultés financières du patient limitant sa prise en charge 
+37 (62,7 %) 
+Absence ou retard de contre référence après la prise en charge 
+37 (62,7 %) 
+Indisponibilité des examens complémentaires nécessaires 
+26 (44,1 %) 
+Indisponibilité des médicaments ou intrants essentiels 
+26 (44,1 %) 
+3.4.6. Préparation opérationnelle des structures de destination 
+Sur les 160 établissements sources, une destination a été identifiée pour 82 liaisons : 68 au départ 
+d’un centre de santé (CS), 12 d’un centre de santé de référence (CSR) et deux d’un hôpital général 
+de référence (HGR). Toutefois, seules 20 liaisons sont confirmées par le nom de la destination ; les 
+62 autres ne sont pas confirmées nominativement. 
+Tableau 16: État des fonctions vitales d'aval à la destination de référence enquêtée 
+Parmi ces 82 liaisons, les fonctions nécessaires à la prise en charge à destination sont 
+fréquemment classées rouges : 67 destinations (81,7 %) pour la césarienne, 61 (74,4 %) pour la 
+transfusion et 55 (67,1 %) pour la réanimation néonatale. Les proportions sont particulièrement 
+élevées pour les liaisons issues des CSR : 11 des 12 destinations sont classées rouges pour la 
+césarienne, 10 pour la transfusion et 9 pour la réanimation néonatale. Les résultats concernant les 
+HGR sources reposent sur seulement deux liaisons et doivent être interprétés avec prudence. 
+Ainsi, la référence vers une structure d’accueil ne garantit pas à elle seule que la fonction requise 
+y soit opérationnelle. Ces résultats décrivent toutefois les liaisons analysées dans l’échantillon : 
+la majorité des destinations n’étant pas confirmée nominativement, ils ne permettent pas d’établir 
+avec certitude l’état opérationnel de chaque destination effectivement sollicitée. Les destinations 
+situées hors de l’échantillon ne sont pas évaluées. 
+Niveau source 
+Destination 
+nommée 
+Liaisons appariées 
+(confirmées par le 
+nom / non 
+confirmées 
+nominativement) 
+Césarienne rouge 
+à la destination : n 
+(%) 
+Transfusion rouge 
+: n (%) 
+Réanimation 
+néonatale rouge : 
+n (%) 
+Niveau 1 (CS) 
+101 
+68 (15 / 53) 
+54 (79,4 %) 
+50 (73,5 %) 
+45 (66,2 %) 
+Niveau 1+ (CSR) 
+22 
+12 (3 / 9) 
+11 (91,7 %) 
+10 (83,3 %) 
+9 (75,0 %) 
+Niveau 2 (HGR) 
+37 
+2 (2 / 0) 
+2 (100,0 %) 
+1 (50,0 %) 
+1 (50,0 %) 
+Ensemble 
+160 
+82 (20 / 62) 
+67 (81,7 %) 
+61 (74,4 %) 
+55 (67,1 %) 
+
+
+==========================================================================================
+PAGE 23 — 2316 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+48 
+3.4.7. Continuité opérationnelle entre les fonctions de soins 
+Parmi les établissements où la fonction d’amont est classée verte ou jaune, la fonction d’aval 
+demeure souvent rouge, ce qui révèle des ruptures possibles dans la continuité opérationnelle au 
+sein d’un même établissement. Les écarts les plus marqués concernent le dépistage nutritionnel 
+: l’aval est classé rouge dans 78 % des cas pour la prise en charge de la malnutrition aiguë 
+compliquée et dans 94 % pour la malnutrition aiguë non compliquée au centre de santé. Le 
+passage du traitement du paludisme simple à la stabilisation pré-référence du paludisme grave 
+présente également une forte proportion de rouge (environ 75 %), tout comme le passage de la 
+vaccination de routine à la prise en charge des manifestations adverses post-immunisation (MAPI, 
+70 %). 
+D’autres enchaînements sont moins souvent classés rouges : 9 % pour la vaccination de routine 
+suivie de la chaîne du froid, 24 % pour la consultation prénatale suivie de la CPN intégrée à la PTME, 
+25 % pour l’accouchement normal suivi de la prise en charge de l’hémorragie du post-partum et 
+26 % pour le diagnostic du paludisme suivi de son traitement. Toutefois, certains parcours restent 
+fragiles : la proportion rouge atteint 57 % entre la consultation prénatale et la détection-référence 
+des grossesses à risque, 58 % entre l’accouchement normal et la réanimation néonatale ou les 
+soins essentiels du nouveau-né, 66 % entre l’hémorragie du post-partum et la transfusion, 50 % 
+entre l’accouchement assisté et la césarienne d’urgence, et 40 % entre l’hémorragie du post-
+partum et la référence urgente. 
+ 
+Figure 10: État de la fonction d’aval lorsque la fonction d’amont est classée verte ou jaune 
+Ces résultats suggèrent que la continuité est particulièrement vulnérable lorsque la fonction d’aval 
+exige des intrants, des équipements ou des compétences spécifiques. Ils doivent toutefois être 
+interprétés comme des parcours analytiques au sein des établissements, et non comme 
+l’observation du cheminement réel des patients. Les effectifs diffèrent selon les parcours (de 12 à 
+140 établissements) ; les valeurs fondées sur de petits effectifs sont donc à considérer avec 
+prudence.  
+ 
+ 
+
+
+==========================================================================================
+PAGE 24 — 2775 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+49 
+3.5. Utilisation des données de routine et de surveillance 
+À retenir 
+La détection et la notification semblent bien assurées selon les déclarations : 78 % des 
+établissements sont classés verts pour la reconnaissance du signal, et 90 % déclarent 
+notifier les alertes en moins de 24 heures. 
+Les outils et la transmission constituent le principal point de fragilité : 31 % des 
+établissements sont classés rouges pour cette composante, une proportion qui atteint 66,7 
+% au Haut-Lomami. 
+L’analyse des données est plus favorable, mais le système reste instable : 67,5 % des 
+établissements sont classés verts pour l’analyse et la prise de décision, tandis que la 
+fonction « données sanitaires » est jaune dans 58,6 % des cas. 
+L’utilisation des données pour l’action reste incomplète : là où les outils existent, les 
+équipes analysent leurs données, mais seuls 7,6 % des établissements ont une fonction « 
+données sanitaires » pleinement opérationnelle. La discontinuité des outils et de la 
+transmission freine l’action correctrice, et les données de routine ne montrent pas l’écart 
+entre services déclarés et capacité réelle : 97 des 98 centres de santé qui déclarent la 
+réanimation néonatale n’en réunissent pas les conditions. 
+Ces résultats reposent sur les déclarations des établissements et n’ont pas été vérifiés 
+par confrontation aux registres. 
+3.5.1. Fonctionnement du circuit de surveillance et d’utilisation des données 
+Le circuit de surveillance présente des résultats contrastés selon ses étapes. La reconnaissance 
+du signal est classée verte dans 78 % des établissements, et la rapidité de notification dans 90 %. 
+Cette dernière proportion varie de 86,1 % dans les CS à 97,3 % dans les HGR ; toutefois, trois CS 
+déclarent ne disposer d’aucun système de notification. Ces deux premiers maillons apparaissent 
+donc globalement fonctionnels. 
+La principale rupture concerne les outils et la transmission des données : seuls 30 % des 
+établissements sont classés verts, tandis que 39 % sont jaunes et 31 % rouges. Cette étape 
+constitue le principal point de rupture du circuit (31 %) et regroupe plusieurs exigences, relevé 
+hebdomadaire, canevas SNIS et accès au SNIS ; contrairement aux maillons de reconnaissance et 
+de notification, évalués chacun à partir d’un seul élément. 
+ 
+Figure 11: Chaîne surveillance-réponse et chaîne des données : composantes et points de rupture 
+En aval, l’analyse et la prise de décision sont classées vertes dans 68 % des établissements, jaunes 
+dans 19 % et rouges dans 14 %. Cette capacité semble donc se maintenir malgré les faiblesses 
+constatées dans la production et la transmission des données. Toutefois, la fonction globale « 
+
+
+==========================================================================================
+PAGE 25 — 3397 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+50 
+données sanitaires » reste surtout classée jaune (58,6 %), et seulement 7,6 % des établissements 
+sont classés verts. Enfin, la rapidité de notification repose sur les déclarations des établissements 
+: les délais n’ont pas été mesurés directement. 
+3.5.2. Points de rupture du circuit de surveillance selon le niveau et la province 
+Les outils et la transmission constituent le principal point de rupture du circuit de surveillance, 
+quel que soit le niveau de soins. Cette difficulté concerne davantage les centres de santé (38,6 % 
+de classements rouges) que les hôpitaux généraux de référence (21,6 %) et les centres de santé de 
+référence (13,6 %). 
+Les écarts entre provinces sont marqués : la proportion rouge pour cette composante atteint 66,7 
+% au Haut-Lomami et 43,8 % dans la Lomami. Elle est de 37,5 % au Lualaba et au Sankuru, de 29,2 
+% au Kasaï-Central, et de 12,5 % au Kasaï-Oriental comme au Tanganyika. Ces deux dernières 
+valeurs doivent être interprétées avec prudence, les échantillons provinciaux ne comptant que huit 
+établissements chacun. 
+Tableau 17: Points de rupture du circuit de surveillance, par niveau et par province 
+Composante : % rouge 
+CS 
+CSR 
+HGR 
+HK 
+HL 
+KC 
+KO 
+LM 
+LL 
+SK 
+TG 
+Reconnaissance du signal 
+11,9 
+9,1 
+5,4 
+19,2 
+0,0 
+4,2 
+0,0 
+0,0 
+8,3 
+18,8 
+0,0 
+Rapidité de la notification 
+6,9 
+4,5 
+0,0 
+3,8 
+0,0 
+8,3 
+0,0 
+6,2 
+0,0 
+18,8 
+0,0 
+Outils et transmission 
+38,6 
+13,6 
+21,6 
+21,2 
+66,7 
+29,2 
+12,5 
+43,8 
+37,5 
+37,5 
+12,5 
+Analyse et décision 
+13,9 
+9,1 
+16,2 
+30,8 
+0,0 
+0,0 
+0,0 
+18,8 
+0,0 
+18,8 
+0,0 
+Les autres maillons présentent généralement moins de classements rouges. La reconnaissance 
+du signal demeure toutefois plus fragile au Haut-Katanga (19,2 %) et au Sankuru (18,8 %), tandis 
+que les retards ou absences de notification sont les plus fréquents au Sankuru (18,8 %). Pour 
+l’analyse et la prise de décision, le Haut-Katanga est la seule province où la proportion rouge 
+dépasse 30 % (30,8 %) ; aucun classement rouge n’est observé dans cinq provinces. Ces résultats 
+décrivent des variations au sein des établissements évalués et ne constituent pas un classement 
+des provinces. 
+3.6. Facteurs associés aux contraintes observées 
+À retenir 
+Les intrants et les équipements sont les principaux goulots d’étranglement : chacun 
+bloque plus de la moitié des fonctions classées rouges, et près de deux fonctions rouges sur 
+trois cumulent au moins deux dimensions de contrainte. 
+Pour les équipements, l’absence est plus fréquente que la panne : 73,1 % sont 
+manquants, contre 4,3 % qui sont présents mais non fonctionnels. 
+La présence de personnel ne garantit pas la disponibilité des compétences requises : 
+94,1 % des centres de santé n’ont pas de nutritionniste et 53,5 % n’ont pas de sage-femme. 
+Le rétablissement des intrants et des équipements ne suffirait pas à lui seul : même si 
+tous les éléments manquants étaient rétablis, 54,4 % des fonctions concernées resteraient 
+classées rouges. 
+3.6.1. Principaux blocages et fragilités des fonctions évaluées 
+Parmi les 2 579 évaluations classées rouges, les équipements et les intrants et produits 
+constituent les dimensions bloquantes les plus fréquemment relevées : chacune concerne 53 % 
+des cas. La référence arrive ensuite, avec 40 %, suivie de l’organisation du service (23 %) et des 
+
+
+==========================================================================================
+PAGE 26 — 2951 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+51 
+ressources humaines (14 %). Les autres dimensions (communication, électricité, intégration des 
+services, données sanitaires et surveillance épidémiologique) sont moins souvent en cause. 
+Conformément à la grille de classification, l’eau, l’hygiène et l’assainissement ne sont pas une 
+dimension bloquante : ils plafonnent la fonction au jaune et figurent donc parmi les fragilités. 
+ 
+ 
+Figure 12: Dimensions bloquantes des fonctions rouges et fragilités des fonctions jaunes 
+Parmi les 1 140 évaluations jaunes, qui signalent des fonctions présentes mais fragiles, les 
+difficultés concernent d’abord la référence (51 %), puis l’eau, l’hygiène et l’assainissement et les 
+ressources humaines (44 % chacun). Viennent ensuite l’électricité (33 %), les intrants et produits 
+(30 %), l’organisation du service (27 %) et les données sanitaires (25 %). Ainsi, les contraintes les 
+plus fréquentes diffèrent selon le statut de la fonction : les évaluations rouges sont surtout 
+associées aux équipements et aux intrants, tandis que les évaluations jaunes révèlent 
+particulièrement des fragilités de référence, d’eau, d’hygiène et d’assainissement et de ressources 
+humaines. Ces pourcentages décrivent la fréquence de chaque dimension dans les évaluations 
+concernées ; ils ne sont pas nécessairement exclusifs. 
+3.6.2. Des blocages aux leviers de déblocage 
+Parmi les 2 579 fonctions classées rouges, les équipements et les intrants et produits sont les 
+dimensions bloquantes les plus fréquentes : ils concernent respectivement 1 370 fonctions (53,1 
+%) et 1 357 (52,6 %). La référence est également souvent en cause (1 038 fonctions, 40,2 %), devant 
+l’organisation du service (22,6 %) et les ressources humaines (14,3 %). Une même fonction 
+pouvant cumuler plusieurs blocages, ces proportions ne s’additionnent pas. 
+Le premier blocage identifié ne reflète pas exactement cette fréquence : les intrants arrivent en 
+tête (1 101 fonctions, 42,7 %), devant l’organisation du service (583, 22,6 %) et les équipements 
+(451, 17,5 %). Ce classement dépend en partie de l’ordre conventionnel appliqué par l’algorithme 
+: les intrants sont examinés avant les équipements et l’organisation du service occupe le premier 
+rang de la hiérarchie. Ainsi, pour les 583 fonctions où l’organisation est relevée comme dimension 
+bloquante, elle est aussi désignée comme premier blocage. Ces rangs indiquent la contrainte 
+retenue selon la règle de classement ; ils ne mesurent pas directement le poids relatif des 
+contraintes. 
+Pour les 1 140 fonctions classées jaunes, la hiérarchie est différente : la référence fragilise 51,3 % 
+des cas, l’eau, l’hygiène et l’assainissement 44,1 % et les ressources humaines 43,6 %. Les 
+priorités pour stabiliser une fonction déjà partiellement opérationnelle ne sont donc pas 
+nécessairement celles qui permettent de sortir une fonction du rouge. 
+
+
+==========================================================================================
+PAGE 27 — 2647 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+52 
+Enfin, la fréquence d’un blocage ne correspond pas au nombre de fonctions qui passeraient au 
+jaune ou au vert si ce blocage était résolu isolément. Dans cette simulation, la résolution seule des 
+problèmes d’intrants ferait sortir du rouge 338 fonctions (13,1 %), celle des équipements 262 (10,2 
+%), celle de la référence 152 (5,9 %) et celle de l’organisation du service 7 (0,3 %). Ces résultats 
+soulignent les limites d’interventions isolées face à des contraintes souvent cumulées. 
+Tableau 18: Les dimensions de blocage : ce qu'elles bloquent, ce qu'elles fragilisent et ce que leur 
+résolution libère 
+Dimension 
+Bloque : n (% des 
+rouges) 
+Premier blocage : n 
+(%) 
+Fragilise : n (% des 
+jaunes) 
+Libère si résolue 
+seule : n (% des 
+rouges) 
+Équipements 
+1 370 (53,1 %) 
+451 (17,5 %) 
+265 (23,2 %) 
+262 (10,2 %) 
+Intrants et produits 
+1 357 (52,6 %) 
+1 101 (42,7 %) 
+345 (30,3 %) 
+338 (13,1 %) 
+Référence 
+1 038 (40,2 %) 
+153 (5,9 %) 
+585 (51,3 %) 
+152 (5,9 %) 
+Organisation du service 
+583 (22,6 %) 
+583 (22,6 %) 
+303 (26,6 %) 
+7 (0,3 %) 
+Ressources humaines 
+369 (14,3 %) 
+122 (4,7 %) 
+497 (43,6 %) 
+31 (1,2 %) 
+Communication 
+219 (8,5 %) 
+68 (2,6 %) 
+118 (10,4 %) 
+50 (1,9 %) 
+Électricité 
+188 (7,3 %) 
+53 (2,1 %) 
+380 (33,3 %) 
+53 (2,1 %) 
+Eau, hygiène et 
+assainissement 
+0 (0,0 %) 
+0 (0,0 %) 
+503 (44,1 %) 
+0 (0,0 %) 
+Base : 2 579 fonctions rouges et 1 140 fonctions jaunes ; une fonction peut être bloquée ou fragilisée par plusieurs dimensions. 
+Quatre autres dimensions bloquent chacune 3 % ou moins des fonctions rouges : intégration des services (81), données 
+sanitaires (53), surveillance épidémiologique (38) et capacité d'accueil (2). Les données sanitaires fragilisent toutefois environ 
+un quart des fonctions jaunes (25 %) et la capacité d'accueil près d'une sur cinq (18 %). 
+3.6.3. Cumul des blocages selon le niveau de soins 
+Parmi les 2 579 fonctions classées rouges, 36 % présentent une seule dimension bloquante, 33 % 
+en cumulent deux, 22 % en cumulent trois et 9 % en comptent quatre ou plus : 1 640 fonctions 
+rouges (63,6 %) cumulent donc au moins deux dimensions. La répartition varie selon le niveau de 
+soins : une seule dimension est en cause pour 29 % des fonctions rouges au CS, 48 % au CSR et 
+60 % à l’HGR. À l’inverse, trois dimensions ou plus se cumulent dans 35 % des cas au CS, contre 
+22 % au CSR et 15 % à l’HGR. Le profil du CSR se situe entre les deux autres niveaux ; les effectifs 
+par niveau sont détaillés en annexe. 
+ 
+Figure 13: Nombre de dimensions bloquantes par fonction rouge, selon le niveau de soins 
+
+
+==========================================================================================
+PAGE 28 — 2515 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+53 
+Ces résultats suggèrent que les fonctions rouges des HGR relèvent plus souvent d’un blocage 
+concentré sur une dimension, tandis qu’au CS les contraintes sont plus fréquemment cumulées. 
+Les réponses au niveau primaire devront donc plus souvent combiner plusieurs leviers. Le nombre 
+de dimensions indique toutefois l’étendue des contraintes, sans suffire à déterminer à lui seul 
+l’effort nécessaire pour rétablir une fonction. 
+3.6.4. Combinaisons de blocages les plus fréquentes 
+Parmi les 2 579 fonctions classées rouges, la configuration exacte la plus fréquente est le blocage 
+par les intrants seuls : 338 fonctions (13,1 %). Viennent ensuite les équipements seuls (262 ; 10,2 
+%), l’association intrants et équipements (261 ; 10,1 %), puis intrants, équipements et référence 
+(219 ; 8,5 %). Les sept configurations les plus fréquentes, toutes composées de ces trois 
+dimensions, représentent 62,0 % des fonctions rouges. 
+Considérées ensemble, les dimensions « intrants », « équipements » et « référence » sont aussi 
+celles qui coïncident le plus souvent : intrants et équipements dans 26,4 % des fonctions rouges, 
+équipements et référence dans 23,3 %, et intrants et référence dans 20,5 %. Ces proportions 
+décrivent des cooccurrences et ne s’ajoutent pas aux pourcentages des configurations exactes. 
+ 
+Figure 14: Les douze configurations de blocage les plus fréquentes parmi les fonctions rouges 
+Le blocage par une seule dimension reste fréquent : sept des douze configurations présentées sont 
+de ce type, en premier lieu les intrants seuls (13,1 %), les équipements seuls (10,2 %) et la référence 
+seule (6,5 %) ; les données sanitaires, l’électricité, la communication et l’intégration des services 
+en constituent chacune environ 2 %. 
+3.6.5. Fonctions jaunes proches du vert et fragilités dominantes 
+Parmi les 1 140 fonctions classées jaunes, 172 (15,1 %) ne présentent qu’une seule fragilité. Selon 
+la règle de classement, la levée de cette fragilité suffirait à faire passer la fonction au vert. En 
+nombre total de fonctions jaunes, le diagnostic du paludisme arrive en tête (134), devant 
+l’intégration des services (110) et la surveillance épidémiologique (109). Ces totaux ne 
+correspondent pas uniquement aux cas présentant une fragilité unique, qui se concentrent dans le 
+dépistage nutritionnel (23), la surveillance épidémiologique (22), l’intégration des services (20) et 
+les données sanitaires (19). 
+
+
+==========================================================================================
+PAGE 29 — 2091 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+54 
+La fragilité dominante, calculée sur l’ensemble des fonctions jaunes de chaque ligne, varie selon 
+la fonction. La référence est notamment en cause pour le diagnostic du paludisme, le paludisme 
+simple, le dépistage nutritionnel et l’intégration des services. L’organisation du service domine pour 
+la chaîne du froid, la vaccination de routine, la CPN intégrée à la PTME et la CPoN de la mère ; l’eau, 
+l’hygiène et l’assainissement pour le sepsis obstétrical, la pré-éclampsie, l’accouchement assisté 
+et la CPoN du nouveau-né ; les ressources humaines pour la césarienne d’urgence. Pour la 
+surveillance épidémiologique, ce sont les données sanitaires qui prédominent. 
+ 
+Figure 15: Fonctions jaunes à une seule fragilité du vert 
+Ces profils appellent des mesures adaptées à chaque contrainte. Les 172 fonctions à fragilité 
+unique constituent des cibles possibles d’amélioration ciblée, mais le graphique ne permet pas 
+d’affirmer que leur stabilisation ne nécessiterait aucune dotation matérielle nouvelle. À l’inverse, 
+cinq fonctions n’en comptent aucune (grossesse à risque, accouchement normal, CPN de routine, 
+CPN intégrée à la PTME et CPoN de la mère) : toutes leurs fonctions jaunes cumulent au moins 
+deux fragilités, souvent les mêmes, comme la référence pour l’accouchement normal ou 
+l’organisation du service pour la CPN de routine. 
+3.6.6. Disponibilité des intrants critiques : des déficits fréquents, mais souvent 
+ponctuels 
+Parmi les intrants les plus souvent associés à une fonction classée rouge, le kit d’accouchement à 
+usage unique arrive en tête : il est indisponible dans 127 établissements sur 160 (79,4 %). Le kit 
+anti-choc ou chariot d’urgence est concerné dans 99 établissements sur 123 (80,5 %), et le sulfate 
+de magnésium dans 98 sur 160 (61,2 %). Au total, sept des quatorze intrants du tableau 
+conditionnent directement une fonction vitale ; les gants, requis pour plusieurs prestations 
+maternelles et néonatales, sont rouges dans 91 établissements sur 160 (56,9 %). 
+
+
+==========================================================================================
+PAGE 30 — 1104 CARACTÈRES
+==========================================================================================
+ICHESS, LLC 
+    International Center for Health Systems Strengthening 
+ 
+ 
+55 
+Pour la plupart des intrants, l’indisponibilité constatée le jour de la visite explique l’essentiel du 
+classement rouge. C’est particulièrement le cas de l’ATPE (86,1 % d’indisponibilité le jour de la 
+visite, sans rupture de plus de sept jours déclarée), du kit d’accouchement (78,1 %) et du kit anti-
+choc (78,1 %). Les ruptures prolongées sont plus marquées pour l’artésunate-amodiaquine (33,1 
+%), l’artésunate en suppositoire (14,9 %), les tests rapides VIH (13,0 %) et l’artéméther-
+luméfantrine (11,9 %). 
+Le Haut-Lomami est la province indiquée comme la plus concernée pour six des quatorze intrants, 
+notamment les kits anti-choc, les gants, les bandelettes urinaires, la méthyldopa, l’artésunate-
+amodiaquine et les tests rapides VIH. L’ATPE se distingue par un déficit concentré au niveau 1 : il 
+est rouge dans 87 des 101 CS (86,1 %). Les données fournies ici ne détaillent pas les résultats par 
+niveau pour le F100, le F75 ou les utérotoniques ; ces éléments ne sont donc pas repris dans cette 
+comparaison. 

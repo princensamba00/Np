@@ -1,0 +1,111 @@
+INVENTAIRE EXHAUSTIF — SEGMENT SOURCE 26–55
+======================================================================
+
+Pages physiques        : 30
+Pages imprimées        : 26–55
+Caractères extraits    : 74835
+Lignes de texte        : 1923
+Blocs sémantiques      : 160 {'heading': 33, 'body': 89, 'figure': 15, 'note': 1, 'box': 5, 'kpi': 1, 'table': 16}
+Figures bitmap natives : 15
+Tableaux reconstruits  : 16 (1137 cellules)
+Cellules KPI           : 5
+Lignes non couvertes   : 0
+
+DÉTAIL PAR PAGE
+----------------------------------------------------------------------
+p.01 (impr. 26) :  19 lignes |   4 blocs | 0 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.02 (impr. 27) :  32 lignes |   5 blocs | 1 figure(s) | 0 tableau(x) | encadré=oui | KPI=oui
+p.03 (impr. 28) :  23 lignes |   3 blocs | 0 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.04 (impr. 29) :  12 lignes |   3 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.05 (impr. 30) : 268 lignes |   1 blocs | 0 figure(s) | 1 tableau(x) | encadré=non | KPI=non
+p.06 (impr. 31) : 118 lignes |   6 blocs | 0 figure(s) | 2 tableau(x) | encadré=non | KPI=non
+p.07 (impr. 32) : 133 lignes |   1 blocs | 0 figure(s) | 1 tableau(x) | encadré=non | KPI=non
+p.08 (impr. 33) :  99 lignes |   3 blocs | 0 figure(s) | 1 tableau(x) | encadré=non | KPI=non
+p.09 (impr. 34) :  26 lignes |   7 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.10 (impr. 35) :  17 lignes |   5 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.11 (impr. 36) :  26 lignes |   7 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.12 (impr. 37) :  25 lignes |   7 blocs | 1 figure(s) | 0 tableau(x) | encadré=oui | KPI=non
+p.13 (impr. 38) :  32 lignes |   6 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.14 (impr. 39) : 258 lignes |   3 blocs | 0 figure(s) | 1 tableau(x) | encadré=non | KPI=non
+p.15 (impr. 40) :  92 lignes |   8 blocs | 0 figure(s) | 2 tableau(x) | encadré=non | KPI=non
+p.16 (impr. 41) :  72 lignes |   5 blocs | 0 figure(s) | 1 tableau(x) | encadré=non | KPI=non
+p.17 (impr. 42) :  87 lignes |   5 blocs | 0 figure(s) | 1 tableau(x) | encadré=oui | KPI=non
+p.18 (impr. 43) :  26 lignes |   7 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.19 (impr. 44) :  22 lignes |   7 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.20 (impr. 45) :  85 lignes |   7 blocs | 0 figure(s) | 1 tableau(x) | encadré=non | KPI=non
+p.21 (impr. 46) :  44 lignes |   5 blocs | 0 figure(s) | 1 tableau(x) | encadré=non | KPI=non
+p.22 (impr. 47) :  84 lignes |   6 blocs | 0 figure(s) | 2 tableau(x) | encadré=non | KPI=non
+p.23 (impr. 48) :  26 lignes |   5 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.24 (impr. 49) :  34 lignes |   7 blocs | 1 figure(s) | 0 tableau(x) | encadré=oui | KPI=non
+p.25 (impr. 50) :  97 lignes |  10 blocs | 0 figure(s) | 1 tableau(x) | encadré=oui | KPI=non
+p.26 (impr. 51) :  32 lignes |   7 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.27 (impr. 52) :  71 lignes |   5 blocs | 1 figure(s) | 1 tableau(x) | encadré=non | KPI=non
+p.28 (impr. 53) :  28 lignes |   8 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.29 (impr. 54) :  23 lignes |   5 blocs | 1 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+p.30 (impr. 55) :  12 lignes |   2 blocs | 0 figure(s) | 0 tableau(x) | encadré=non | KPI=non
+
+LÉGENDES ET NOTES
+----------------------------------------------------------------------
+  p.02 y= 418.2  Figure 1: Établissements évalués par province et par niveau de soins
+  p.04 y= 529.5  Figure 2: Classification des 28 fonctions traceuses, ensemble des établissements
+  p.04 y= 721.7  Tableau 7: Classification des 28 fonctions traceuses, par ordre de criticité
+  p.06 y= 608.1  Tableau 8: Élément critique le plus souvent en déficit, par fonction
+  p.09 y= 385.9  Figure 3: Préparation opérationnelle des 17 fonctions communes aux trois niveaux de soins
+  p.10 y= 695.9  Figure 4: Part de fonctions rouges par fonction et par province
+  p.11 y= 532.6  Figure 5: Préparation opérationnelle par domaine technique et par niveau de soins
+  p.12 y= 464.3  Figure 6: État opérationnel des fonctions vitales dont le service est déclaré offert, par niveau de soins
+  p.13 y= 509.4  Figure 7: Préparation aux urgences : ensemble, par niveau de soins et par province
+  p.14 y= 222.6  Tableau 9: Blocages dominants des fonctions d’urgence, par niveau de soins
+  p.15 y= 361.8  Tableau 10: Principaux éléments critiques d’urgence manquants ou en rupture
+  p.16 y=  62.1  Tableau 11: Menaces immédiates et contraintes déclarées d'accès à la référence
+  p.17 y=  62.0  Tableau 12: Correspondance documentaire avec les fonctions signal SONU (référentiel classique)
+  p.18 y= 705.9  Figure 8: Couples de prestations documentés, par niveau de soins
+  p.19 y= 620.1  Figure 9: Jours de présence des prestataires déclarés sur trois mois, par service et par niveau
+  p.20 y= 180.3  Tableau 13: Références au cours des trois derniers mois, par motif
+  p.21 y=  62.1  Tableau 14: Contraintes déclarées au départ lorsque la référence est décidée (centres de santé)
+  p.22 y=  62.0  Tableau 15: Difficultés déclarées à la réception des patients référés (CSR et HGR)
+  p.22 y= 449.7  Tableau 16: État des fonctions vitales d'aval à la destination de référence enquêtée
+  p.23 y= 565.2  Figure 10: État de la fonction d’aval lorsque la fonction d’amont est classée verte ou jaune
+  p.24 y= 722.2  Figure 11: Chaîne surveillance-réponse et chaîne des données : composantes et points de rupture
+  p.25 y= 264.5  Tableau 17: Points de rupture du circuit de surveillance, par niveau et par province
+  p.26 y= 346.1  Figure 12: Dimensions bloquantes des fonctions rouges et fragilités des fonctions jaunes
+  p.27 y= 135.2  Tableau 18: Les dimensions de blocage : ce qu'elles bloquent, ce qu'elles fragilisent et ce que leur résolution libère
+  p.27 y= 770.7  Figure 13: Nombre de dimensions bloquantes par fonction rouge, selon le niveau de soins
+  p.28 y= 575.2  Figure 14: Les douze configurations de blocage les plus fréquentes parmi les fonctions rouges
+  p.29 y= 507.3  Figure 15: Fonctions jaunes à une seule fragilité du vert
+
+TITRES ET SOUS-TITRES
+----------------------------------------------------------------------
+  p.01 H1  III. Résultats
+  p.01 H2  3.1. Description de l’échantillon et couverture
+  p.02 H2  3.2. Niveau de préparation fonctionnelle des établissements
+  p.03 H3  3.2.1. Vue d'ensemble des 28 fonctions
+  p.04 H3  3.2.2. Résultats selon le niveau de criticité
+  p.08 H3  3.2.3. Préparation opérationnelle par niveau
+  p.09 H3  3.2.4. Préparation opérationnelle par province
+  p.10 H3  3.2.5. Préparation opérationnelle par domaine et niveau de soins
+  p.11 H3  3.2.6. Service déclaré et capacité opérationnelle observée pendant la visite
+  p.12 H2  3.3. Préparation aux urgences
+  p.12 H3  3.3.1. Préparation aux urgences par niveau et par province
+  p.13 H3  3.3.2. Blocages des fonctions d’urgence par niveau
+  p.15 H3  3.3.3. Absence d’éléments critiques et préparation aux urgences
+  p.15 H3  3.3.4. Menace vitale et limites du système de référence
+  p.16 H3  3.3.5. Correspondance entre les fonctions traceuses et les fonctions signal SONU
+  p.17 H2  3.4. Intégration opérationnelle des services
+  p.18 H3  3.4.1. Intégration des prestations au point de soins et entre niveaux
+  p.18 H3  3.4.2. Continuité des services et présence des prestataires
+  p.19 H3  3.4.3. Motifs et volumes des références déclarées
+  p.20 H3  3.4.4. Contraintes déclarées au départ des centres de santé
+  p.21 H3  3.4.5. Difficultés à la réception et dans la continuité de la référence
+  p.22 H3  3.4.6. Préparation opérationnelle des structures de destination
+  p.23 H3  3.4.7. Continuité opérationnelle entre les fonctions de soins
+  p.24 H2  3.5. Utilisation des données de routine et de surveillance
+  p.24 H3  3.5.1. Fonctionnement du circuit de surveillance et d’utilisation des données
+  p.25 H3  3.5.2. Points de rupture du circuit de surveillance selon le niveau et la province
+  p.25 H2  3.6. Facteurs associés aux contraintes observées
+  p.25 H3  3.6.1. Principaux blocages et fragilités des fonctions évaluées
+  p.26 H3  3.6.2. Des blocages aux leviers de déblocage
+  p.27 H3  3.6.3. Cumul des blocages selon le niveau de soins
+  p.28 H3  3.6.4. Combinaisons de blocages les plus fréquentes
+  p.28 H3  3.6.5. Fonctions jaunes proches du vert et fragilités dominantes
+  p.29 H3  3.6.6. Disponibilité des intrants critiques : des déficits fréquents, mais souvent ponctuels

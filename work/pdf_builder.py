@@ -46,7 +46,7 @@ def draw_header_footer(c, page):
     c.setStrokeColor(le.RULE); c.setLineWidth(0.7)
     c.line(le.M_L, le.A4_H-55.0, le.A4_W-le.M_R, le.A4_H-55.0)
     # footer: source-style split rule with centered spaced page number
-    num = f'{page.page_no:02d}'
+    num = f'{page.print_no or page.page_no:02d}'
     label = ' '.join(num)
     c.setStrokeColor(le.RULE); c.setLineWidth(0.6)
     c.line(le.M_L, 47, 270, 47)
@@ -131,7 +131,7 @@ def draw_bullet(c, item, y_top):
 def draw_caption(c, item, y_top):
     segs = fu.runs_to_segments(le.text_runs(item.data['text'], italic=True), 9.0, le.NAVY)
     fu.draw_rich(c, segs, le.M_L, y_top, le.CONTENT_W, le.A4_H,
-                 size=9.0, line_height=12.6, align='left')
+                 size=9.0, line_height=12.8, align='left')
 
 def draw_signature(c, item, y_top):
     lines = item.data['lines']
@@ -142,77 +142,159 @@ def draw_signature(c, item, y_top):
         fu.draw_rich(c, segs, le.M_L, y_top+i*15.0, le.CONTENT_W, le.A4_H,
                      size=10.0 if i==0 else 9.0, line_height=15.0, align='center')
 
-def _entry_lines(entry):
+def _entry_lines(entry, compact=False):
+    size, lh, after = le.list_metrics(compact)
     text = entry['text']; bold = bool(entry.get('bold',False))
-    segs = fu.runs_to_segments(le.text_runs(text, bold=bold), le.LIST_SIZE, le.BLACK)
+    segs = fu.runs_to_segments(le.text_runs(text, bold=bold), size, le.BLACK)
     indent = 14 if entry.get('indent',0) else 0
     x0 = le.M_L + indent
     avail = (le.A4_W-le.M_R) - x0 - 50
-    lines, n = fu.wrap_segments(segs, avail, size=le.LIST_SIZE)
-    return segs, x0, avail, lines, n
+    lines, n = fu.wrap_segments(segs, avail, size=size)
+    return segs, x0, avail, lines, n, size, lh
 
-def draw_list_entry(c, entry, y_top):
-    segs, x0, avail, lines, n = _entry_lines(entry)
+def draw_list_entry(c, entry, y_top, compact=False):
+    segs, x0, avail, lines, n, size, lh = _entry_lines(entry, compact)
     marker = str(entry.get('page',''))
     x_right = le.A4_W - le.M_R
     # title
     fu.draw_rich(c, segs, x0, y_top, avail, le.A4_H,
-                 size=le.LIST_SIZE, line_height=le.LIST_LH, align='left', justify=False)
+                 size=size, line_height=lh, align='left', justify=False)
     long_marker = len(marker) > 6
     # dotted leader on the last title line
     if not long_marker and lines:
         last = lines[-1]
         end = x0 + last.justified_width + 4
         c.setStrokeColor(le.DOTTED); c.setLineWidth(0.9); c.setDash(1,3)
-        ly = le.A4_H - (y_top + (n-1)*le.LIST_LH + le.LIST_SIZE*0.55)
+        ly = le.A4_H - (y_top + (n-1)*lh + size*0.55)
         if end < x_right - 30:
             c.line(end, ly, x_right-30, ly)
         c.setDash()
     # page marker
-    msegs = fu.runs_to_segments(le.text_runs(marker, bold=True), 10.6, le.NAVY)
+    msize = 9.0 if compact else 10.6
+    msegs = fu.runs_to_segments(le.text_runs(marker, bold=True), msize, le.NAVY)
     if long_marker:
-        fu.draw_rich(c, msegs, x_right-260, y_top+n*le.LIST_LH, 260, le.A4_H,
-                     size=9.0, line_height=le.LIST_LH, align='right')
+        fu.draw_rich(c, msegs, x_right-260, y_top+n*lh, 260, le.A4_H,
+                     size=9.0, line_height=lh, align='right')
     else:
-        fu.draw_rich(c, msegs, x_right-30, y_top+(n-1)*le.LIST_LH, 30, le.A4_H,
-                     size=10.6, line_height=le.LIST_LH, align='right')
+        fu.draw_rich(c, msegs, x_right-30, y_top+(n-1)*lh, 30, le.A4_H,
+                     size=msize, line_height=lh, align='right')
 
 def draw_list_block(c, item, y_top):
+    compact = item.kind == 'auto_toc'
     cy = y_top
     for e in item.data['entries']:
-        draw_list_entry(c, e, cy)
-        cy += le.list_entry_height(e)
+        draw_list_entry(c, e, cy, compact)
+        cy += le.list_entry_height(e, compact)
+
+def _dark(hexcolor):
+    try:
+        s = hexcolor.lstrip('#')
+        r, g, b = (int(s[i:i+2], 16)/255.0 for i in (0, 2, 4))
+        return 0.299*r + 0.587*g + 0.114*b < 0.52
+    except Exception:
+        return False
+
 
 def draw_table(c, item, y_top):
     rows = item.data['rows']; cw = item.data['col_widths']; fs = item.data['font_size']
+    fills = item.data.get('fills')
     x0 = le.M_L; total = sum(cw)
     heights = le.table_row_heights(rows, cw, fs)
     cy = y_top
-    # header
-    h = heights[0]
-    c.setFillColor(le.NAVY); c.rect(x0, le.A4_H-cy-h, total, h, stroke=0, fill=1)
-    for j, cell in enumerate(rows[0]):
-        segs = fu.runs_to_segments(le.text_runs(str(cell), bold=True), fs, le.WHITE)
-        fu.draw_rich(c, segs, x0+sum(cw[:j])+5, cy+5, cw[j]-10, le.A4_H,
-                     size=fs, line_height=fs*1.34, align='left')
-    cy += h
-    # body
-    for ri, row in enumerate(rows[1:], start=1):
+    for ri, row in enumerate(rows):
         rh = heights[ri]
-        if ri % 2 == 0:
-            c.setFillColor(le.CREAM); c.rect(x0, le.A4_H-cy-rh, total, rh, stroke=0, fill=1)
+        # fond de chaque cellule : couleurs source exactes (vert / jaune / rouge
+        # conservent leur signification) ou charte pour les tableaux liminaires.
         for j, cell in enumerate(row):
             if j >= len(cw): break
-            segs = fu.runs_to_segments(le.text_runs(str(cell)), fs, le.BLACK)
-            fu.draw_rich(c, segs, x0+sum(cw[:j])+5, cy+3.5, cw[j]-10, le.A4_H,
-                         size=fs, line_height=fs*1.34, align='left')
-        c.setStrokeColor(le.DOTTED); c.setLineWidth(0.4)
+            if fills:
+                col = fills[ri][j] if j < len(fills[ri]) else None
+            else:
+                col = '#131D44' if ri == 0 else ('FFFBF7' if ri % 2 == 0 else 'FFFFFF')
+            if col:
+                c.setFillColor(HexColor('#'+col.lstrip('#')))
+                c.rect(x0+sum(cw[:j]), le.A4_H-cy-rh, cw[j], rh, stroke=0, fill=1)
+        for j, cell in enumerate(row):
+            if j >= len(cw): break
+            col = (fills[ri][j] if fills and j < len(fills[ri]) else None)
+            dark = bool(col and _dark(col)) or (not fills and ri == 0)
+            segs = fu.runs_to_segments(le.text_runs(str(cell), bold=(ri == 0)), fs,
+                                       le.WHITE if dark else le.BLACK)
+            fu.draw_rich(c, segs, x0+sum(cw[:j])+4, cy+3.2, cw[j]-8, le.A4_H,
+                         size=fs, line_height=fs*1.28, align='left')
+        c.setStrokeColor(le.RULE if fills else le.DOTTED); c.setLineWidth(0.35)
         c.line(x0, le.A4_H-cy-rh, x0+total, le.A4_H-cy-rh)
+        if fills:
+            xx = x0
+            for w in cw[:-1]:
+                xx += w
+                c.line(xx, le.A4_H-cy-rh, xx, le.A4_H-cy)
         cy += rh
     # outer top/bottom rules
     c.setStrokeColor(le.NAVY); c.setLineWidth(0.8)
     c.line(x0, le.A4_H-y_top, x0+total, le.A4_H-y_top)
     c.line(x0, le.A4_H-cy, x0+total, le.A4_H-cy)
+
+
+def draw_figure(c, item, y_top):
+    d = item.data
+    w, h = d['disp_w'], d['disp_h']
+    x = le.M_L + (le.CONTENT_W - w)/2
+    c.drawImage(ImageReader(os.path.join(ROOT, d['path'])),
+                x, le.A4_H - y_top - h, width=w, height=h,
+                preserveAspectRatio=True, mask='auto')
+    if d.get('caption'):
+        segs = fu.runs_to_segments(le.text_runs(d['caption'], italic=True), 9.0, le.NAVY)
+        fu.draw_rich(c, segs, le.M_L, y_top+h+3, le.CONTENT_W, le.A4_H,
+                     size=9.0, line_height=12.8, align='center')
+
+
+def draw_note(c, item, y_top):
+    segs = fu.runs_to_segments(le.text_runs(item.data['text'], italic=True),
+                               le.NOTE_SIZE, le.GREY)
+    fu.draw_rich(c, segs, le.M_L, y_top, le.CONTENT_W, le.A4_H,
+                 size=le.NOTE_SIZE, line_height=12.8, align='left', justify=False)
+
+
+def draw_box(c, item, y_top):
+    d = item.data
+    paras = d['paragraphs']
+    h = le.measure(item)
+    c.setFillColor(HexColor('#D1DEEF'))
+    c.rect(le.M_L, le.A4_H-y_top-h, le.CONTENT_W, h, stroke=0, fill=1)
+    c.setStrokeColor(le.NAVY); c.setLineWidth(0.7)
+    c.rect(le.M_L, le.A4_H-y_top-h, le.CONTENT_W, h, stroke=1, fill=0)
+    cy = y_top + le.BOX_PAD
+    segs = fu.runs_to_segments(le.text_runs(d['title'], bold=True, italic=True),
+                               11.0, le.NAVY)
+    fu.draw_rich(c, segs, le.M_L+le.BOX_PAD+3, cy, le.CONTENT_W-2*le.BOX_PAD-6,
+                 le.A4_H, size=11.0, line_height=15.0, align='left')
+    cy += 19.0
+    for runs in paras:
+        segs = fu.runs_to_segments(runs, le.BOX_SIZE, le.BLACK)
+        fu.draw_rich(c, segs, le.M_L+le.BOX_PAD+3, cy,
+                     le.CONTENT_W-2*le.BOX_PAD-6, le.A4_H,
+                     size=le.BOX_SIZE, line_height=le.BOX_LH,
+                     align='left', justify=True)
+        cy += le.measure_rich(runs, le.BOX_SIZE, le.CONTENT_W-2*le.BOX_PAD-10, True) + le.BOX_AFTER
+
+
+def draw_kpi(c, item, y_top):
+    cells = item.data['cells']
+    n = len(cells) or 1
+    w = le.CONTENT_W/n
+    for i, cell in enumerate(cells):
+        x = le.M_L + i*w
+        col = le.NAVY if i < 2 else HexColor('#0C8A76')
+        c.setFillColor(col); c.rect(x, le.A4_H-y_top-le.KPI_H, w, le.KPI_H, stroke=0, fill=1)
+        c.setStrokeColor(le.WHITE); c.setLineWidth(0.8)
+        c.line(x+w, le.A4_H-y_top-le.KPI_H, x+w, le.A4_H-y_top)
+        segs = fu.runs_to_segments(le.text_runs(cell['value'], bold=True), 18.0, le.WHITE)
+        fu.draw_rich(c, segs, x+3, y_top+13, w-6, le.A4_H,
+                     size=18.0, line_height=22.0, align='center')
+        segs = fu.runs_to_segments(le.text_runs(cell['label']), 7.4, le.WHITE)
+        fu.draw_rich(c, segs, x+3, y_top+39, w-6, le.A4_H,
+                     size=7.4, line_height=9.6, align='center')
 
 def render_pdf(pages, path):
     c = rl_canvas.Canvas(path, pagesize=(le.A4_W, le.A4_H), pageCompression=1)
@@ -235,6 +317,10 @@ def render_pdf(pages, path):
                 elif item.kind == 'signature': draw_signature(c, item, cy)
                 elif item.kind in ('list_block','auto_toc'): draw_list_block(c, item, cy)
                 elif item.kind == 'table': draw_table(c, item, cy)
+                elif item.kind == 'figure': draw_figure(c, item, cy)
+                elif item.kind == 'note': draw_note(c, item, cy)
+                elif item.kind == 'box': draw_box(c, item, cy)
+                elif item.kind == 'kpi': draw_kpi(c, item, cy)
                 cy += h
                 if item.kind == 'heading' and item.bookmark_level:
                     c.addOutlineEntry(item.data['text'], key,

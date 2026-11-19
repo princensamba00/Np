@@ -1,0 +1,1094 @@
+
+==========================================================================================
+PAGE 01 — 3147 CARACTÈRES
+==========================================================================================
+I C H E S S , L L C
+International Center for Health Systems Strengthening
+P R É F A C E
+0 2
+Préface
+La République Démocratique du Congo (RDC) évolue dans un contexte sanitaire marqué par des besoins
+importants, des vulnérabilités structurelles persistantes et la survenue récurrente d’épidémies et d’autres
+urgences de santé publique. Dans ce contexte, la capacité des établissements de soins de santé à assurer de
+manière continue, sûre et efficace les services essentiels constitue un déterminant majeur de la performance et
+de la résilience du système de santé.
+C’est dans cette perspective qu’a été réalisé le présent Diagnostic opérationnel rapide des établissements de
+soins de santé, avec un accent particulier sur les services de santé maternelle, néonatale et infantile, de lutte
+contre le paludisme et de nutrition. L’exercice a permis d’apprécier leur niveau réel de préparation
+opérationnelle, au-delà de la seule disponibilité des infrastructures et des équipements.
+Le diagnostic a notamment examiné la capacité des établissements à réunir les conditions essentielles à la
+prestation effective des soins : ressources humaines compétentes, médicaments et intrants essentiels,
+équipements fonctionnels, eau, hygiène et assainissement, systèmes d’information, organisation des services et
+mécanismes de référence et contre‑référence. Il a ainsi permis d’identifier ce qui fonctionnait, les principaux
+goulots d’étranglement et leurs causes, ainsi que les actions prioritaires nécessaires pour les lever.
+Les résultats présentés dans ce rapport constituent une contribution importante à la compréhension des
+contraintes opérationnelles affectant la prestation des services et fournissent des éléments utiles pour orienter
+la planification et la priorisation des interventions. Ils devraient contribuer à renforcer durablement la capacité
+des établissements de soins de santé à offrir des services essentiels de manière sûre, fiable et continue, et à
+mieux faire face aux urgences sanitaires.
+Je tiens à exprimer ma profonde gratitude aux autorités sanitaires, aux responsables des établissements de
+soins de santé, aux professionnels de santé, aux équipes techniques ainsi qu’à l’ensemble des partenaires qui
+ont contribué à la réalisation de ce diagnostic.
+J’adresse une reconnaissance particulière au Dr Ngashi Ngongo, au Dr Gullit Lufiauluisu et à l’ensemble de
+l’équipe d’ICHESS pour avoir conduit ce travail avec rigueur, professionnalisme et engagement. Ce diagnostic
+réalisé par le cabinet ICHESS présente une analyse structurée des principaux constats et formule des
+recommandations visant à orienter les actions d’amélioration et de renforcement des systèmes et des services
+de santé.
+J’encourage toutes les parties prenantes à s’approprier les résultats et recommandations de ce rapport et à les
+traduire en actions concrètes, priorisées et mesurables, afin d’améliorer durablement la disponibilité, la qualité
+et la continuité des services de santé maternelle, néonatale et infantile, de lutte contre le paludisme et de
+nutrition au bénéfice des populations.
+Narcisse Naia Embeke, MD, MPH
+Directeur Technique, Projet EpiC RDC
+
+
+==========================================================================================
+PAGE 02 — 2404 CARACTÈRES
+==========================================================================================
+I C H E S S , L L C
+International Center for Health Systems Strengthening
+R E M E R C I E M E N T S
+0 3
+Remerciements
+La réalisation de cette évaluation a reposé sur la mobilisation de nombreuses institutions, équipes et personnes
+ayant contribué à sa conception, sa mise en œuvre, à l’analyse des données et à la production du présent
+rapport. ICHESS leur exprime sa profonde gratitude pour leur confiance, leur disponibilité et leur engagement.
+Nos premiers remerciements s’adressent à FHI 360, pour la confiance accordée à ICHESS et son
+accompagnement technique et institutionnel. Une reconnaissance particulière est adressée à Joyce Kakesa,
+Narcisse Embeke, Teddy Matadi, Elie Alimasi, Peter Diakumpuna et Milan Milambu pour leurs orientations et
+contributions aux différentes étapes de l’évaluation.
+Nous remercions les Divisions Provinciales de la Santé (DPS) et les Équipes Cadres des Zones de Santé (ECZ)
+pour leur collaboration et la facilitation des activités de terrain. Notre gratitude va également aux responsables
+et personnels des établissements de soins de santé (ESS) ainsi qu’aux enquêteurs et enquêtrices, dont la
+disponibilité et la rigueur ont contribué à la qualité des données recueillies.
+Une reconnaissance particulière est adressée aux superviseurs provinciaux : Gullit Lufiauluisu (Lualaba), Prince
+Lumbu (Haut‑Katanga), Cédric Kabala (Haut‑Lomami), Lucien Banze (Tanganyika), Mireille Meta (Kasaï‑Oriental),
+Toto Ezombe (Lomami), Olivier Kingulu (Kasaï‑Central) et Clovis Ludiala (Sankuru), pour la coordination des
+équipes et l’assurance qualité des opérations.
+ICHESS remercie particulièrement Ngashi Ngongo, Investigateur Principal, pour la direction scientifique et
+méthodologique de l’étude, et Gullit Lufiauluisu, Co-investigateur et Coordonnateur terrain, pour la
+coordination opérationnelle. Nos remerciements vont également à Glody Kanga, Statisticien, pour le traitement
+et l’analyse des données, et à Prince Nsamba, Informaticien, pour la gestion des outils numériques et des
+données.
+Enfin, nous remercions Jean Lubuanga et Emmanuel Nsamba, ainsi que l’équipe administrative et financière
+d’ICHESS, pour leur appui logistique et administratif. La complémentarité de toutes ces expertises a permis de
+produire des analyses robustes et utiles à la décision pour améliorer la préparation opérationnelle des ESS.
+Ngashi Ngongo, PhD, MD, MPH
+Directeur Exécutif, ICHESS
+
+
+==========================================================================================
+PAGE 03 — 2438 CARACTÈRES
+==========================================================================================
+I C H E S S , L L C
+International Center for Health Systems Strengthening
+T A B L E D E S M A T I È R E S
+0 4
+Table des matières
+Préface
+2
+Remerciements
+3
+Liste des figures et tableaux
+6
+Résumé exécutif
+11
+I. Introduction
+14
+1.1. Contexte et justification
+14
+1.2. Objectifs et résultats attendus
+15
+1.3. Bénéficiaires et utilisations des résultats
+16
+II. Approche méthodologique
+17
+2.1. Conception générale de l'étude
+17
+2.2. Population, échantillonnage et unités d'analyse
+17
+2.3. Instruments de collecte
+18
+2.4. Organisation de la collecte
+18
+2.5. Assurance qualité des données
+19
+2.6. Cadre analytique : fonctions traceuses et classification tricolore
+19
+2.7. Analyse qualitative
+24
+2.8. Chaîne de traitement des données et reproductibilité
+24
+2.9. Considérations éthiques
+25
+2.10. Limites méthodologiques
+25
+III. Résultats
+26
+3.1. Description de l’échantillon et couverture
+26
+3.2. Niveau de préparation fonctionnelle des établissements
+27
+3.3. Préparation aux urgences
+37
+3.4. Intégration opérationnelle des services
+42
+3.5. Utilisation des données de routine et de surveillance
+49
+3.6. Facteurs associés aux contraintes observées
+50
+3.7. Priorités d'investissement
+74
+IV. Discussion
+83
+4.1. Ce que mesure le diagnostic et comment interpréter les résultats
+83
+4.2. Des vulnérabilités déjà documentées et confirmées
+83
+4.3. Les goulots dominants à la lumière de la littérature
+85
+4.4. Le paradoxe du rétablissement matériel isolé
+86
+4.5. De l’offre déclarée à la capacité réelle : les limites du suivi de routine
+86
+4.6. Un gradient de capacité insuffisant : l’HGR ne garantit pas toujours la prise en charge des cas
+référés
+87
+4.7. Vulnérabilités provinciales et contraction des appuis extérieurs
+87
+4.8. Cohérence avec les orientations nationales vers la CSU
+88
+4.9. Forces et limites de l'analyse
+88
+4.10. Implications pour l'action et pour la recherche
+88
+V. Conclusion et recommandations
+89
+5.1. Conclusion
+89
+5.2. Recommandations
+89
+Bibliographie
+96
+Annexes
+100
+Annexe 1 : Haut‑Katanga
+100
+Annexe 2 : Haut‑Lomami
+105
+Annexe 3 : Kasaï‑Central
+109
+Annexe 4 : Kasaï‑Oriental
+114
+Annexe 5 : Lomami
+119
+Annexe 6 : Lualaba
+124
+Annexe 7 : Sankuru
+129
+Annexe 8 : Tanganyika
+133
+Annexe 9 : Éléments en cause dans les fonctions d’urgence rouges, par niveau
+138
+Annexe 10 : Compléments sur le cumul des blocages, les fragilités et les simulations
+146
+Annexe 11 : Analyse de sensibilité : observations rattachées à plusieurs dimensions
+150
+
+
+==========================================================================================
+PAGE 04 — 1939 CARACTÈRES
+==========================================================================================
+I C H E S S , L L C
+International Center for Health Systems Strengthening
+T A B L E D E S M A T I È R E S
+0 5
+Table des matières
+Préface
+2
+Remerciements
+3
+Table des matières
+4
+Liste des figures et tableaux
+6
+Liste des figures
+6
+Liste des tableaux
+6
+Tableaux des annexes
+7
+Abréviations et acronymes
+9
+Résumé exécutif
+11
+Contexte et objectif
+11
+Les défaillances opérationnelles les plus prioritaires
+11
+Les défaillances de préparation présentant le plus grand risque
+12
+Les principaux goulots d’étranglement transversaux
+12
+Où investir en priorité
+12
+Les cinq priorités d’investissement immédiates (0–3 mois)
+13
+Les cinq priorités de renforcement du système à moyen terme (3–12 mois)
+13
+Recommandations stratégiques pour le dialogue avec le Département d’État des États-Unis (DOS)
+13
+I. Introduction
+14
+1.1. Contexte et justification
+14
+1.2. Objectifs et résultats attendus
+15
+1.2.1. Objectif général
+15
+1.2.2. Objectifs spécifiques
+15
+1.2.3. Périmètre du diagnostic
+15
+1.2.4. Résultats attendus
+15
+1.3. Bénéficiaires et utilisations des résultats
+16
+1.3.1. Bénéficiaires
+16
+1.3.2. Utilisation des résultats
+16
+II. Approche méthodologique
+17
+2.1. Conception générale de l'étude
+17
+2.2. Population, échantillonnage et unités d'analyse
+17
+2.2.1. Base de sondage et plan d'échantillonnage
+17
+2.2.2. Unités d'analyse
+17
+2.3. Instruments de collecte
+18
+2.3.1. Composante quantitative
+18
+2.3.2. Composante qualitative
+18
+2.4. Organisation de la collecte
+18
+2.4.1. Phasage du déploiement
+18
+2.4.2. Dispositif humain et circuit d’assurance qualité
+19
+2.5. Assurance qualité des données
+19
+2.6. Cadre analytique : fonctions traceuses et classification tricolore
+19
+2.6.1. Fonctions traceuses
+19
+Définitions et conventions de lecture
+20
+2.6.2. Algorithme de classification Vert / Jaune / Rouge
+21
+2.7. Analyse qualitative
+23
+2.8. Chaîne de traitement des données et reproductibilité
+23
+2.9. Considérations éthiques
+24
+2.10. Limites méthodologiques
+24
+
+
+==========================================================================================
+PAGE 05 — 3243 CARACTÈRES
+==========================================================================================
+I C H E S S , L L C
+International Center for Health Systems Strengthening
+L I S T E D E S F I G U R E S E T T A B L E A U X
+0 6
+Liste des figures et tableaux
+Liste des figures
+Figure 1: Établissements évalués par province et par niveau de soins
+27
+Figure 2: Classification des 28 fonctions traceuses, ensemble des établissements
+29
+Figure 3: Préparation opérationnelle des 17 fonctions communes aux trois niveaux de soins
+34
+Figure 4: Part de fonctions rouges par fonction et par province
+35
+Figure 5: Préparation opérationnelle par domaine technique et par niveau de soins
+36
+Figure 6: État opérationnel des fonctions vitales dont le service est déclaré offert, par niveau de soins
+37
+Figure 7: Préparation aux urgences : ensemble, par niveau de soins et par province
+38
+Figure 8: Couples de prestations documentés, par niveau de soins
+43
+Figure 9: Jours de présence des prestataires déclarés sur trois mois, par service et par niveau
+44
+Figure 10: État de la fonction d’aval lorsque la fonction d’amont est classée verte ou jaune
+48
+Figure 11: Chaîne surveillance-réponse et chaîne des données : composantes et points de rupture
+49
+Figure 12: Dimensions bloquantes des fonctions rouges et fragilités des fonctions jaunes
+51
+Figure 13: Nombre de dimensions bloquantes par fonction rouge, selon le niveau de soins
+52
+Figure 14: Les douze configurations de blocage les plus fréquentes parmi les fonctions rouges
+53
+Figure 15: Fonctions jaunes à une seule fragilité du vert
+54
+Figure 16: Fonctions rouges libérées par le rétablissement d’un seul élément critique
+58
+Figure 17: Part de fonctions vitales rouges dans les CS selon la présence déclarée d’une catégorie de
+personnel
+61
+Figure 18: Composantes de la référence, de l’eau et de l’hygiène, de l’électricité et de la communication
+63
+Figure 19: Profil des dimensions bloquantes par province
+68
+Figure 20: Paquets cumulatifs de leviers : fonctions rouges libérées à mesure que les dimensions sont
+résolues
+77
+Figure 21: Gain simulé de chaque levier, par province (part des fonctions rouges libérées)
+81
+Liste des tableaux
+Tableau 1: Périmètre du diagnostic
+15
+Tableau 2: Base de sondage et échantillon réalisé, par niveau géographique
+17
+Tableau 3: Les 28 fonctions traceuses (71 spécifications selon le niveau)
+20
+Tableau 4: Les huit règles de décision de l'algorithme de classification Vert / Jaune / Rouge
+22
+Tableau 5: Rôle des douze dimensions dans les 71 spécifications
+23
+Tableau 6: Modalités d’application des règles de classification
+24
+Tableau 7: Classification des 28 fonctions traceuses, par ordre de criticité
+29
+Tableau 8: Élément critique le plus souvent en déficit, par fonction
+31
+Tableau 9: Blocages dominants des fonctions d’urgence, par niveau de soins
+39
+Tableau 10: Principaux éléments critiques d’urgence manquants ou en rupture
+40
+Tableau 11: Menaces immédiates et contraintes déclarées d'accès à la référence
+41
+Tableau 12: Correspondance documentaire avec les fonctions signal SONU (référentiel classique)
+42
+Tableau 13: Références au cours des trois derniers mois, par motif
+45
+Tableau 14: Contraintes déclarées au départ lorsque la référence est décidée (centres de santé)
+46
+Tableau 15: Difficultés déclarées à la réception des patients référés (CSR et HGR)
+47
+
+
+==========================================================================================
+PAGE 06 — 3896 CARACTÈRES
+==========================================================================================
+I C H E S S , L L C
+International Center for Health Systems Strengthening
+L I S T E D E S F I G U R E S E T T A B L E A U X
+0 7
+Tableau 16: État des fonctions vitales d'aval à la destination de référence enquêtée
+47
+Tableau 17: Points de rupture du circuit de surveillance, par niveau et par province
+50
+Tableau 18: Les dimensions de blocage : ce qu'elles bloquent, ce qu'elles fragilisent et ce que leur
+résolution libère
+52
+Tableau 19: Disponibilité des intrants critiques, tous niveaux
+56
+Tableau 20: Disponibilité des équipements critiques, tous niveaux
+57
+Tableau 21: Effectifs déclarés par catégorie et par niveau (roster du personnel)
+59
+Tableau 22: Formations déclarées au cours des deux dernières années, par thème et par niveau
+60
+Tableau 23: Conditions transversales au niveau des établissements
+62
+Tableau 24: Composantes du mécanisme de référence en cause dans les fonctions rouges de la
+référence urgente, par niveau
+64
+Tableau 25: Perturbations déclarées au cours des trois derniers mois, par province (% d’établissements)
+65
+Tableau 26: Conjoncturel ou structurel : perturbation déclarée et blocage observé
+66
+Tableau 27: Causes déclarées des interruptions et blocages observés de la fonction correspondante
+67
+Tableau 28: Constance intra-zone de la dimension bloquante dominante
+69
+Tableau 29: Synthèse des goulots opérationnels, de leurs conséquences et des risques sanitaires
+associés
+Erreur ! Signet non défini.
+Tableau 30: Matrice consolidée d'analyse et de correction des goulots d'étranglement, par contrainte
+transversale
+71
+Tableau 31: Intrants et équipements prioritaires les plus souvent manquants pour les fonctions vitales
+(tous niveaux)
+75
+Tableau 32: Gains simulés des paires de leviers et complémentarité
+78
+Tableau 33: Lecture programmatique des priorités d’investissement
+79
+Tableau 34: Profil provincial des blocages et des leviers (ordre alphabétique)
+80
+Tableau 35: Les quinze zones de santé où un seul levier débloque le plus de fonctions rouges, et la
+meilleure combinaison de deux leviers
+82
+Tableau 36: Rapprochement de quelques indicateurs avec les enquêtes antérieures
+84
+Tableau 37: Plan d'action priorisé : responsables, indicateurs, valeurs de départ et cibles indicatives
+94
+Tableaux des annexes
+Tableau A1: Classification des 28 fonctions traceuses, Haut‑Katanga
+101
+Tableau A2: Dimensions bloquantes des fonctions rouges, par fonction (n), Haut‑Katanga
+102
+Tableau A3: Dimensions bloquantes et fragilités, Haut‑Katanga
+103
+Tableau A4: Conditions transversales et profil d'urgence, Haut‑Katanga
+103
+Tableau A5: Leviers simples et paire optimale, Haut‑Katanga
+103
+Tableau A6: Lecture par zone de santé, Haut‑Katanga
+104
+Tableau A7: Établissements où un seul levier libère le plus de fonctions rouges, Haut‑Katanga
+105
+Tableau A8: Classification des 28 fonctions traceuses, Haut‑Lomami
+106
+Tableau A9: Dimensions bloquantes des fonctions rouges, par fonction (n), Haut‑Lomami
+107
+Tableau A10: Dimensions bloquantes et fragilités, Haut‑Lomami
+108
+Tableau A11: Conditions transversales et profil d'urgence, Haut‑Lomami
+108
+Tableau A12: Leviers simples et paire optimale, Haut‑Lomami
+108
+Tableau A13: Lecture par zone de santé, Haut‑Lomami
+109
+Tableau A14: Établissements où un seul levier libère le plus de fonctions rouges, Haut‑Lomami
+109
+Tableau A15: Classification des 28 fonctions traceuses, Kasaï‑Central
+111
+Tableau A16: Dimensions bloquantes des fonctions rouges, par fonction (n), Kasaï‑Central
+112
+Tableau A17: Dimensions bloquantes et fragilités, Kasaï‑Central
+113
+Tableau A18: Conditions transversales et profil d'urgence, Kasaï‑Central
+113
+Tableau A19: Leviers simples et paire optimale, Kasaï‑Central
+113
+Tableau A20: Lecture par zone de santé, Kasaï‑Central
+114
+Tableau A21: Établissements où un seul levier libère le plus de fonctions rouges, Kasaï‑Central
+114
+Tableau A22: Classification des 28 fonctions traceuses, Kasaï‑Oriental
+116
+
+
+==========================================================================================
+PAGE 07 — 3275 CARACTÈRES
+==========================================================================================
+I C H E S S , L L C
+International Center for Health Systems Strengthening
+L I S T E D E S F I G U R E S E T T A B L E A U X
+0 8
+Tableau A23: Dimensions bloquantes des fonctions rouges, par fonction (n), Kasaï‑Oriental
+117
+Tableau A24: Dimensions bloquantes et fragilités, Kasaï‑Oriental
+118
+Tableau A25: Conditions transversales et profil d'urgence, Kasaï‑Oriental
+118
+Tableau A26: Leviers simples et paire optimale, Kasaï‑Oriental
+118
+Tableau A27: Lecture par zone de santé, Kasaï‑Oriental
+119
+Tableau A28: Établissements où un seul levier libère le plus de fonctions rouges, Kasaï‑Oriental
+119
+Tableau A29: Classification des 28 fonctions traceuses, Lomami
+120
+Tableau A30: Dimensions bloquantes des fonctions rouges, par fonction (n), Lomami
+121
+Tableau A31: Dimensions bloquantes et fragilités, Lomami
+122
+Tableau A32: Conditions transversales et profil d'urgence, Lomami
+122
+Tableau A33: Leviers simples et paire optimale, Lomami
+123
+Tableau A34: Lecture par zone de santé, Lomami
+123
+Tableau A35: Établissements où un seul levier libère le plus de fonctions rouges, Lomami
+123
+Tableau A36: Classification des 28 fonctions traceuses, Lualaba
+125
+Tableau A37: Dimensions bloquantes des fonctions rouges, par fonction (n), Lualaba
+126
+Tableau A38: Dimensions bloquantes et fragilités, Lualaba
+127
+Tableau A39: Conditions transversales et profil d'urgence, Lualaba
+127
+Tableau A40: Leviers simples et paire optimale, Lualaba
+128
+Tableau A41: Lecture par zone de santé, Lualaba
+128
+Tableau A42: Établissements où un seul levier libère le plus de fonctions rouges, Lualaba
+128
+Tableau A43: Classification des 28 fonctions traceuses, Sankuru
+130
+Tableau A44: Dimensions bloquantes des fonctions rouges, par fonction (n), Sankuru
+131
+Tableau A45: Dimensions bloquantes et fragilités, Sankuru
+132
+Tableau A46: Conditions transversales et profil d'urgence, Sankuru
+132
+Tableau A47: Leviers simples et paire optimale, Sankuru
+132
+Tableau A48: Lecture par zone de santé, Sankuru
+133
+Tableau A49: Établissements où un seul levier libère le plus de fonctions rouges, Sankuru
+133
+Tableau A50: Classification des 28 fonctions traceuses, Tanganyika
+135
+Tableau A51: Dimensions bloquantes des fonctions rouges, par fonction (n), Tanganyika
+136
+Tableau A52: Dimensions bloquantes et fragilités, Tanganyika
+137
+Tableau A53: Conditions transversales et profil d'urgence, Tanganyika
+137
+Tableau A54: Leviers simples et paire optimale, Tanganyika
+137
+Tableau A55: Lecture par zone de santé, Tanganyika
+138
+Tableau A56: Établissements où un seul levier libère le plus de fonctions rouges, Tanganyika
+138
+Tableau A57: Éléments et composantes en cause dans les fonctions d’urgence rouges, par fonction et
+par niveau
+138
+Tableau A58: Nombre de dimensions bloquantes par fonction rouge, par niveau
+146
+Tableau A59: Fonctions jaunes à fragilité unique, par fonction
+147
+Tableau A60: Rétablissement conjoint de tous les éléments critiques en déficit, par niveau
+148
+Tableau A61: Fonctions rouges libérées par le rétablissement d’un seul élément critique, par niveau
+148
+Tableau A62: Fonctions rouges libérées à chaque étape du paquet cumulatif
+149
+Tableau A63: Observations lues dans plusieurs dimensions de la grille
+150
+Tableau A64: Effet du rattachement unique sur les principaux indicateurs
+151
+
+
+==========================================================================================
+PAGE 08 — 2002 CARACTÈRES
+==========================================================================================
+I C H E S S , L L C
+International Center for Health Systems Strengthening
+A B R É V I A T I O N S E T A C R O N Y M E S
+0 9
+Abréviations et acronymes
+Sigle
+Signification
+AL
+Artéméther-Luméfantrine
+AMIU
+Aspiration Manuelle Intra-Utérine
+ARV
+Antirétroviraux
+AS-AQ
+Artésunate-Amodiaquine
+ASC
+Agent de Santé Communautaire
+ATPE
+Aliment Thérapeutique Prêt à l'Emploi
+CAC
+Cellule d'Animation communautaire
+CAPI
+Computer-Assisted Personal Interviewing (entretien assisté par tablette)
+CARAMAL
+Community Access to Rectal Artesunate for Malaria
+CHISU
+Country Health Information Systems and Data Use
+CODESA
+Comité de développement de l'aire de santé
+CPN
+Consultation prénatale
+CPNr
+Consultation prénatale recentrée / de routine
+CPoN
+Consultation postnatale
+CS
+Centre de santé
+CSR
+Centre de santé de référence
+CSU
+Couverture sanitaire universelle
+DHIS2
+District Health Information Software, version 2
+DOS
+Department of State (Département d’État des États-Unis)
+DPS
+Division provinciale de la santé
+DQR/DQE
+Data Quality Review / Data Quality Evaluation (Revue / Évaluation de la qualité des données).
+ECZ
+Équipe cadre de la zone de santé
+EDS
+Enquête démographique et de santé
+EpiC
+Meeting Targets and Maintaining Epidemic Control (projet EpiC)
+EPSS
+Évaluation des prestations des services de soins de santé
+ESP / ESPK
+École de santé publique de Kinshasa
+ESS
+Établissement de soins de santé
+F75 / F100
+Laits thérapeutiques de la prise en charge de la malnutrition aiguë sévère
+FHI 360
+Family Health International 360
+FSS
+Fonds de solidarité de santé
+HGR
+Hôpital général de référence
+HHFA
+Harmonized Health Facility Assessment (évaluation harmonisée des établissements de soins de santé)
+HPP
+Hémorragie du post-partum
+ICHESS
+International Center for Health Systems Strengthening
+IHP
+Integrated Health Program (programme de santé intégré de l'USAID)
+INS
+Institut national de la statistique
+IT / ITA
+Infirmier titulaire / infirmier titulaire adjoint
+MA
+Malnutrition aiguë
+MAPI
+Manifestations adverses post-immunisation
+
+
+==========================================================================================
+PAGE 09 — 1727 CARACTÈRES
+==========================================================================================
+I C H E S S , L L C
+International Center for Health Systems Strengthening
+A B R É V I A T I O N S E T A C R O N Y M E S
+1 0
+Sigle
+Signification
+MSPHPS
+Ministère de la Santé publique, Hygiène et Prévoyance sociale
+MUAC
+Mid-Upper Arm Circumference (périmètre brachial)
+Sigle
+Signification
+OMS
+Organisation mondiale de la santé
+PCIMA
+Prise en charge intégrée de la malnutrition aiguë
+PCIMNE
+Prise en charge intégrée des maladies du nouveau-né et de l'enfant
+PEV
+Programme élargi de vaccination
+PIB
+Produit intérieur brut
+PMI
+President's Malaria Initiative (Initiative présidentielle américaine contre le paludisme)
+PNDS-PS
+Plan national de développement sanitaire et de prévoyance sociale
+PNLP
+Programme national de lutte contre le paludisme
+PNLS
+Programme national de lutte contre le VIH/sida et les IST
+PNSR
+Programme national de santé de la reproduction
+PRONANUT
+Programme national de nutrition
+PSN SACO
+Plan stratégique national de santé communautaire
+PTF
+Partenaires techniques et financiers
+PTME
+Prévention de la transmission mère-enfant (du VIH)
+RDC
+République démocratique du Congo
+RECO
+Relais communautaire
+RH
+Ressources humaines
+SARA
+Service Availability and Readiness Assessment
+SMNEA
+Santé de la mère, du nouveau-né, de l'enfant et de l'adolescent
+SMS
+Short Message Service (message texte)
+SNIS
+Système national d'information sanitaire
+SONU
+Soins obstétricaux et néonatals d'urgence
+SPA
+Service Provision Assessment
+UNICEF
+Fonds des Nations unies pour l'enfance
+USAID
+Agence des États-Unis pour le développement international
+VIH
+Virus de l'immunodéficience humaine
+WASH
+Water, Sanitation and Hygiene (eau, hygiène et assainissement)
+WASH-FIT
+Water and Sanitation for Health Facility Improvement Tool
+ZS
+Zone de santé
+
+
+==========================================================================================
+PAGE 10 — 4214 CARACTÈRES
+==========================================================================================
+I C H E S S , L L C
+International Center for Health Systems Strengthening
+R É S U M É E X É C U T I F
+1 1
+Résumé exécutif
+Contexte et objectif
+En RDC, la grossesse, l’accouchement et les premières années de vie restent exposés à des risques parmi les
+plus élevés au monde : 746 décès maternels pour 100 000 naissances vivantes et 93 décès d’enfants de moins
+de cinq ans pour 1 000 naissances vivantes, selon l’EDS-RDC III. Une part importante de ces décès survient
+lorsque l’établissement ne dispose pas, au moment critique, du personnel, des médicaments ou des
+équipements nécessaires. Pour mieux orienter ses appuis, le programme EpiC RDC, mis en œuvre par FHI 360, a
+fait réaliser un diagnostic rapide de la préparation opérationnelle de 160 établissements de soins de santé (101
+centres de santé, 22 centres de santé de référence et 37 hôpitaux généraux de référence), répartis dans 40
+zones de santé de huit provinces : Haut-Katanga, Haut-Lomami, Lualaba, Kasaï-Central, Kasaï-Oriental,
+Lomami, Sankuru et Tanganyika.
+Jusqu’à 28 services essentiels de santé maternelle, néonatale et infantile, de paludisme, de nutrition et de
+vaccination, appelés fonctions traceuses, ont été vérifiés sur place. Chaque fonction, et non l’établissement, a
+été classée en vert (assurée), jaune (assurée mais fragile) ou rouge (non assurée dans des conditions
+adéquates). L’absence d’un seul élément indispensable suffit à classer une fonction en rouge, ce qui signale un
+maillon critique manquant plutôt qu’un service inexistant. Les causes ont ensuite été analysées avec les équipes
+cadres des zones et les divisions provinciales de la santé.
+Les défaillances opérationnelles les plus prioritaires
+Le constat central est que l’offre de soins existe souvent sans être prête au moment où une vie en dépend. Sur
+l’ensemble des évaluations, 68,4 % des fonctions sont rouges et 1,4 % seulement sont pleinement assurées. Les
+urgences sont les plus touchées, avec 81 % de fonctions rouges, et 159 établissements sur 160 ont au moins une
+fonction vitale rouge. Six fonctions vitales sont rouges dans plus de huit établissements sur dix, dans les huit
+provinces : les grossesses à risque (91,9 %), la prise en charge de la malnutrition aiguë compliquée (90,6 %), les
+manifestations adverses post-immunisation (90,2 %), la réanimation néonatale (87,5 %), la pré-éclampsie (82,5
+%) et le paludisme grave (81,9 %). Les urgences obstétricales restent elles aussi très exposées : la césarienne
+d’urgence est rouge dans 76,3 % des cas, l’hémorragie du post-partum dans 70,6 % et le sepsis obstétrical dans
+69,4 %.
+Le niveau de référence n’offre pas la sécurité attendue. Pour les fonctions communes aux trois niveaux de
+soins, la part de rouge passe d’environ 70 % au centre de santé à 50 % à l’hôpital général de référence (HGR) :
+à l’hôpital, une fonction sur deux reste rouge. À l’HGR, l’accouchement normal est rouge dans 92 % des cas, la
+césarienne d’urgence dans 81,1 % et la réanimation néonatale dans 64,9 %. La référence est elle-même
+défaillante dans 70,6 % des établissements. Sur place, le transport d’urgence est absent ou non fonctionnel
+dans 65,6 % d’entre eux, et 77,2 % des centres de santé interrogés citent le manque de ressources financières
+des ménages parmi les obstacles. À l’arrivée, 89,8 % des structures d’accueil interrogées (53 sur 59) signalent
+des arrivées tardives, et la césarienne reste rouge dans 81,7 % des destinations identifiées : référer plus vite ne
+garantit donc pas la prise en charge.
+Deux autres écarts appellent une attention particulière. En nutrition, le système dépiste des enfants qu’il ne
+peut pas traiter : là où le dépistage fonctionne, la prise en charge reste impossible sur place dans 78 à 94 %
+des cas, faute de personnel dédié (aucun nutritionniste déclaré dans 94,1 % des centres de santé) et d’aliment
+thérapeutique prêt à l’emploi (absent dans 86,1 % d’entre eux). Par ailleurs, l’offre déclarée surestime la
+capacité réelle : 97 des 98 centres de santé qui déclarent pratiquer la réanimation néonatale n’en réunissent
+pas les conditions. La notification des maladies à potentiel épidémique reste en revanche un point fort, avec
+90 % des alertes transmises en moins de 24 heures.
+
+
+==========================================================================================
+PAGE 11 — 131 CARACTÈRES
+==========================================================================================
+Rapport Annuel
+J A N V I E R 2 0 3 0
+C O N C O R D I A
+H E L L O @ R E A L L Y G R E A T S I T E . C O M
+A N D R É A S A N C H E Z
+
+
+==========================================================================================
+PAGE 12 — 1060 CARACTÈRES
+==========================================================================================
+70 %
+65 %
+86 %
+Chiffre d’affaires
+Bénéfices
+Marges
+175 M
+210 M
+75 M
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore
+magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.Lorem ipsum dolor sit amet, consectetur
+adipiscing elit, sed do eiusmod tempor incididunt ut
+labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore
+magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.Lorem ipsum dolor sit amet, consectetur
+adipiscing elit, sed do eiusmod tempor incididunt ut
+labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore
+magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.Lorem ipsum dolor sit amet, consectetur 
+Résultats
+
+
+==========================================================================================
+PAGE 13 — 1045 CARACTÈRES
+==========================================================================================
+Chiffre d’affaires
+Bénéfices
+Marges
+175 M
+210 M
+75 M
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor
+sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor
+sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor
+sit amet, consectetur 
+Résultats
+
+
+==========================================================================================
+PAGE 14 — 520 CARACTÈRES
+==========================================================================================
+Répartition
+Des bénéfices
+Bénéfices annuels
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore
+magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.Lorem ipsum dolor sit amet, consectetur ex ea
+commodo consequat.Lorem ipsum dolor sit amet,
+consectetur ex ea commodo consequat.
+Élément 1
+Élément 2
+Élément 3
+Élément 4
+Élément 5
+Élément 6
+0
+5
+10
+15
+20
+Évolution par rapport à l'année
+précédente
+
+
+==========================================================================================
+PAGE 15 — 726 CARACTÈRES
+==========================================================================================
+Développement
+Communication
+Actions réalisées
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad
+minim veniam,sed do eiusmod tempor
+incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim
+veniam,Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore 
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad
+minim veniam,sed do eiusmod tempor
+incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim
+veniam,Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore 
+
+
+==========================================================================================
+PAGE 16 — 719 CARACTÈRES
+==========================================================================================
+Des projets phares
+Projet 01
+Projet 02
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad
+minim veniam,sed do eiusmod tempor
+incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim
+veniam,Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore 
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad
+minim veniam,sed do eiusmod tempor
+incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim
+veniam,Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore 
+
+
+==========================================================================================
+PAGE 17 — 805 CARACTÈRES
+==========================================================================================
+Résultats btenus
+Projet 01
+Projet 02
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
+67 %
+55 %
+Évolution par rapport à N-1
+Élément 1
+Élément 2
+Élément 3
+Élément 4
+Élément 5
+0
+20
+40
+60
+80
+100
+120
+140
+
+
+==========================================================================================
+PAGE 18 — 870 CARACTÈRES
+==========================================================================================
+Priorités de l’année
+Engagement client
+Innovation
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum
+dolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,
+consectetur ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum
+dolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,
+consectetur ex ea commodo consequat.
+Série 1
+Série 2
+Série 3
+0
+20
+40
+60
+80
+100
+120
+140
+Élément 1
+Élément 2
+Élément 3
+Élément 4
+Élément 5
+
+
+==========================================================================================
+PAGE 19 — 734 CARACTÈRES
+==========================================================================================
+Stratégiques
+Expansion globale
+Responsabilité sociale
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad
+minim veniam,sed do eiusmod tempor
+incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim
+veniam,Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore 
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad
+minim veniam,sed do eiusmod tempor
+incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim
+veniam,Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore 
+
+
+==========================================================================================
+PAGE 20 — 430 CARACTÈRES
+==========================================================================================
+Bilan
+Général
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum
+dolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,
+consectetur ex ea commodo consequat.
+Élément 1
+25%
+Élément 2
+25%
+Élément 3
+25%
+Élément 4
+25%
+
+
+==========================================================================================
+PAGE 21 — 1142 CARACTÈRES
+==========================================================================================
+Remerciements
+Andréa Sanchez
+Antoine Auclair
+Agence Concordia
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum
+dolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,
+consectetur ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum
+dolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,
+consectetur ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum
+dolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,
+consectetur ex ea commodo consequat.

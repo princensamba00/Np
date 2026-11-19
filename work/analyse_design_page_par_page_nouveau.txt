@@ -1,0 +1,230 @@
+ANALYSE DESIGN PAGE PAR PAGE — NOUVEAU MODÈLE Md_ref_nouveau.pdf
+==========================================================================
+
+Règle confirmée : pages 1–10 = mise en page, marges, tailles et hiérarchie ;
+pages 11–21 = inspiration couleur / graphique uniquement. Aucun rédactionnel
+de ces pages n’est repris dans le rapport.
+
+PAGE 01 — RÉFÉRENCE MISE EN PAGE / HIÉRARCHIE DES TAILLES
+--------------------------------------------------------------------------
+  Format                 : 595.28 × 841.89 pt
+  Polices dominantes     : GlacialIndifference (41), DejaVuSans (1)
+  Tailles (pt)           : 9.9 (33), 9.0 (3), 7.2 (2), 6.4 (1), 8.2 (1)
+  Couleurs de texte      : #000000 (33), #6B707D (5), #131D44 (4)
+  Éléments vectoriels    : 6 | images : 0
+  Première ligne         : I C H E S S , L L C
+  Dernière ligne         : 0 2
+
+PAGE 02 — RÉFÉRENCE MISE EN PAGE / HIÉRARCHIE DES TAILLES
+--------------------------------------------------------------------------
+  Format                 : 595.28 × 841.89 pt
+  Polices dominantes     : GlacialIndifference (35), DejaVuSans (4)
+  Tailles (pt)           : 9.9 (32), 7.2 (2), 6.4 (1), 8.2 (1), 12.2 (1)
+  Couleurs de texte      : #000000 (32), #131D44 (4), #6B707D (3)
+  Éléments vectoriels    : 6 | images : 0
+  Première ligne         : I C H E S S , L L C
+  Dernière ligne         : 0 3
+
+PAGE 03 — RÉFÉRENCE MISE EN PAGE / HIÉRARCHIE DES TAILLES
+--------------------------------------------------------------------------
+  Format                 : 595.28 × 841.89 pt
+  Polices dominantes     : GlacialIndifference (118), DejaVuSans (4)
+  Tailles (pt)           : 9.2 (63), 10.6 (54), 7.2 (2), 6.4 (1), 8.2 (1)
+  Couleurs de texte      : #000000 (63), #131D44 (57), #6B707D (2)
+  Éléments vectoriels    : 60 | images : 0
+  Première ligne         : I C H E S S , L L C
+  Dernière ligne         : 0 4
+
+PAGE 04 — RÉFÉRENCE MISE EN PAGE / HIÉRARCHIE DES TAILLES
+--------------------------------------------------------------------------
+  Format                 : 595.28 × 841.89 pt
+  Polices dominantes     : GlacialIndifference (103), DejaVuSans (2)
+  Tailles (pt)           : 9.2 (53), 10.6 (47), 7.2 (2), 6.4 (1), 8.2 (1)
+  Couleurs de texte      : #000000 (53), #131D44 (50), #6B707D (2)
+  Éléments vectoriels    : 53 | images : 0
+  Première ligne         : I C H E S S , L L C
+  Dernière ligne         : 0 5
+
+PAGE 05 — RÉFÉRENCE MISE EN PAGE / HIÉRARCHIE DES TAILLES
+--------------------------------------------------------------------------
+  Format                 : 595.28 × 841.89 pt
+  Polices dominantes     : GlacialIndifference (81)
+  Tailles (pt)           : 9.2 (38), 10.6 (36), 7.2 (2), 10.4 (2), 6.4 (1)
+  Couleurs de texte      : #131D44 (41), #000000 (38), #6B707D (2)
+  Éléments vectoriels    : 42 | images : 0
+  Première ligne         : I C H E S S , L L C
+  Dernière ligne         : 0 6
+
+PAGE 06 — RÉFÉRENCE MISE EN PAGE / HIÉRARCHIE DES TAILLES
+--------------------------------------------------------------------------
+  Format                 : 595.28 × 841.89 pt
+  Polices dominantes     : GlacialIndifference (121), DejaVuSans (22)
+  Tailles (pt)           : 9.2 (94), 10.6 (43), 7.2 (2), 6.4 (1), 8.2 (1)
+  Couleurs de texte      : #000000 (94), #131D44 (47), #6B707D (2)
+  Éléments vectoriels    : 46 | images : 0
+  Première ligne         : I C H E S S , L L C
+  Dernière ligne         : 0 7
+
+PAGE 07 — RÉFÉRENCE MISE EN PAGE / HIÉRARCHIE DES TAILLES
+--------------------------------------------------------------------------
+  Format                 : 595.28 × 841.89 pt
+  Polices dominantes     : GlacialIndifference (95), DejaVuSans (6)
+  Tailles (pt)           : 9.2 (55), 10.6 (42), 7.2 (2), 6.4 (1), 8.2 (1)
+  Couleurs de texte      : #000000 (55), #131D44 (44), #6B707D (2)
+  Éléments vectoriels    : 45 | images : 0
+  Première ligne         : I C H E S S , L L C
+  Dernière ligne         : 0 8
+
+PAGE 08 — RÉFÉRENCE MISE EN PAGE / HIÉRARCHIE DES TAILLES
+--------------------------------------------------------------------------
+  Format                 : 595.28 × 841.89 pt
+  Polices dominantes     : GlacialIndifference (86)
+  Tailles (pt)           : 8.0 (81), 7.2 (2), 6.4 (1), 8.2 (1), 12.2 (1)
+  Couleurs de texte      : #000000 (79), #131D44 (3), #6B707D (2), #FFFFFF (2)
+  Éléments vectoriels    : 67 | images : 0
+  Première ligne         : A B R É V I A T I O N S E T A C R O N Y M E S
+  Dernière ligne         : 0 9
+
+PAGE 09 — RÉFÉRENCE MISE EN PAGE / HIÉRARCHIE DES TAILLES
+--------------------------------------------------------------------------
+  Format                 : 595.28 × 841.89 pt
+  Polices dominantes     : GlacialIndifference (70)
+  Tailles (pt)           : 8.0 (66), 7.2 (2), 6.4 (1), 8.2 (1)
+  Couleurs de texte      : #000000 (62), #FFFFFF (4), #131D44 (2), #6B707D (2)
+  Éléments vectoriels    : 55 | images : 0
+  Première ligne         : A B R É V I A T I O N S E T A C R O N Y M E S
+  Dernière ligne         : 1 0
+
+PAGE 10 — RÉFÉRENCE MISE EN PAGE / HIÉRARCHIE DES TAILLES
+--------------------------------------------------------------------------
+  Format                 : 595.28 × 841.89 pt
+  Polices dominantes     : GlacialIndifference (47)
+  Tailles (pt)           : 9.9 (40), 7.2 (2), 10.4 (2), 6.4 (1), 8.2 (1)
+  Couleurs de texte      : #000000 (40), #131D44 (5), #6B707D (2)
+  Éléments vectoriels    : 6 | images : 0
+  Première ligne         : I C H E S S , L L C
+  Dernière ligne         : 1 1
+
+PAGE 11 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (5)
+  Tailles (pt)           : 11.5 (4), 50.0 (1)
+  Couleurs de texte      : #131D44 (4), #000000 (1)
+  Éléments vectoriels    : 6 | images : 0
+  Première ligne         : A N D R É A S A N C H E Z
+  Dernière ligne         : J A N V I E R 2 0 3 0
+
+PAGE 12 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (29)
+  Tailles (pt)           : 12.4 (19), 26.5 (3), 12.3 (3), 27.5 (3), 45.0 (1)
+  Couleurs de texte      : #000000 (29)
+  Éléments vectoriels    : 11 | images : 0
+  Première ligne         : Résultats
+  Dernière ligne         : consequat.Lorem ipsum dolor sit amet, consectetur
+
+PAGE 13 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (21)
+  Tailles (pt)           : 12.4 (14), 12.3 (3), 27.5 (3), 45.0 (1)
+  Couleurs de texte      : #000000 (21)
+  Éléments vectoriels    : 2 | images : 0
+  Première ligne         : Résultats
+  Dernière ligne         : sit amet, consectetur
+
+PAGE 14 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (23)
+  Tailles (pt)           : 9.0 (11), 12.4 (7), 45.0 (2), 19.9 (2), 16.3 (1)
+  Couleurs de texte      : #000000 (23)
+  Éléments vectoriels    : 35 | images : 0
+  Première ligne         : Répartition
+  Dernière ligne         : Élément 6
+
+PAGE 15 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (23)
+  Tailles (pt)           : 12.4 (20), 16.9 (2), 56.3 (1)
+  Couleurs de texte      : #000000 (23)
+  Éléments vectoriels    : 14 | images : 2
+  Première ligne         : Actions réalisées
+  Dernière ligne         : eiusmod tempor incididunt ut labore
+
+PAGE 16 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (23)
+  Tailles (pt)           : 12.4 (20), 16.9 (2), 56.3 (1)
+  Couleurs de texte      : #000000 (23)
+  Éléments vectoriels    : 8 | images : 2
+  Première ligne         : Des projets phares
+  Dernière ligne         : eiusmod tempor incididunt ut labore
+
+PAGE 17 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (28)
+  Tailles (pt)           : 11.3 (13), 12.4 (9), 16.9 (2), 15.0 (2), 45.0 (1)
+  Couleurs de texte      : #000000 (28)
+  Éléments vectoriels    : 30 | images : 0
+  Première ligne         : Résultats btenus
+  Dernière ligne         : Élément 5
+
+PAGE 18 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (29)
+  Tailles (pt)           : 9.2 (16), 12.4 (10), 16.3 (2), 45.0 (1)
+  Couleurs de texte      : #000000 (29)
+  Éléments vectoriels    : 37 | images : 0
+  Première ligne         : Priorités de l’année
+  Dernière ligne         : 80
+
+PAGE 19 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (23)
+  Tailles (pt)           : 12.4 (20), 16.9 (2), 56.3 (1)
+  Couleurs de texte      : #000000 (23)
+  Éléments vectoriels    : 8 | images : 2
+  Première ligne         : Stratégiques
+  Dernière ligne         : eiusmod tempor incididunt ut labore
+
+PAGE 20 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (15)
+  Tailles (pt)           : 14.8 (8), 12.4 (5), 45.0 (2)
+  Couleurs de texte      : #000000 (15)
+  Éléments vectoriels    : 10 | images : 0
+  Première ligne         : Bilan
+  Dernière ligne         : 25%
+
+PAGE 21 — INSPIRATION COULEUR / STYLE GRAPHIQUE — TEXTE INTERDIT
+--------------------------------------------------------------------------
+  Format                 : 595.50 × 842.25 pt
+  Polices dominantes     : GlacialIndifference (19)
+  Tailles (pt)           : 12.4 (15), 16.3 (3), 45.0 (1)
+  Couleurs de texte      : #000000 (19)
+  Éléments vectoriels    : 2 | images : 0
+  Première ligne         : Remerciements
+  Dernière ligne         : consectetur ex ea commodo consequat.
+
+CONSTANTES REPRISES DANS LA LIVRAISON
+--------------------------------------------------------------------------
+  Marges gauche/droite 59,5 pt ; haut 62 pt ; bas 60 pt ; largeur utile 476,28 pt.
+  En-tête : « ICHESS, LLC » 7,2 pt navy espacé + ligne institutionnelle 6,4 pt grise.
+  Pied de page : filet gris scindé + numéro centré espacé 8,2 pt navy.
+  H1 12,2 pt navy gras + filet navy et accents jaune/pervenche ; H2 10,4 ; H3 9,9.
+  Corps 9,9 pt / 13,4 pt justifié ; listes TOC 9,2 pt / 10,2 pt (8,0/8,3 pour la TOC fusionnée).
+  Tableaux 8,0 pt (7,0–7,6 pt pour les tableaux denses de la suite), en-tête navy.
+  Palette : navy #131D44, gris #6B707D, crème #FFFBF7, jaune #FFDE59,
+  pervenche #8DA1FF, bleu pâle #D1DEEF, vert #0C8A76 (bandeau KPI),
+  plus les fonds de cellules exacts du source (vert/jaune/rouge de criticité).
+  Césure automatique désactivée ; espaces insécables sur sigles, unités, %, dates, noms composés.
+

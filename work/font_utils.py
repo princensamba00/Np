@@ -91,7 +91,10 @@ def runs_to_segments(runs, size=9.9, color=HexColor('#000000')):
     if isinstance(color, str): color = HexColor(color)
     segs = []
     for run in runs:
-        text = run.get('text','')
+        # Espaces insécables sur les sigles, unités, dates et noms composés :
+        # appliqués ici pour couvrir aussi les paragraphes riches extraits
+        # directement du source (encadrés, texte courant de la suite).
+        text = nbsp_text(run.get('text',''))
         bold = bool(run.get('bold', False))
         italic = bool(run.get('italic', False))
         buf, buf_font = '', None

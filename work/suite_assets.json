@@ -1,0 +1,3596 @@
+{
+ "figures": {
+  "2": [
+   {
+    "path": "work/assets/suite_fig_p02_x110.png",
+    "width": 831,
+    "height": 611,
+    "bbox": [
+     59.6,
+     62.1,
+     535.7,
+     412.8
+    ],
+    "xref": 110
+   }
+  ],
+  "4": [
+   {
+    "path": "work/assets/suite_fig_p04_x192.png",
+    "width": 1197,
+    "height": 1148,
+    "bbox": [
+     68.6,
+     84.7,
+     526.7,
+     524.0
+    ],
+    "xref": 192
+   }
+  ],
+  "9": [
+   {
+    "path": "work/assets/suite_fig_p09_x1367.png",
+    "width": 1322,
+    "height": 821,
+    "bbox": [
+     59.5,
+     84.7,
+     535.7,
+     380.5
+    ],
+    "xref": 1367
+   }
+  ],
+  "10": [
+   {
+    "path": "work/assets/suite_fig_p10_x1388.png",
+    "width": 1322,
+    "height": 1189,
+    "bbox": [
+     59.5,
+     262.2,
+     535.7,
+     690.4
+    ],
+    "xref": 1388
+   }
+  ],
+  "11": [
+   {
+    "path": "work/assets/suite_fig_p11_x1407.png",
+    "width": 1387,
+    "height": 873,
+    "bbox": [
+     59.5,
+     227.5,
+     535.7,
+     527.2
+    ],
+    "xref": 1407
+   }
+  ],
+  "12": [
+   {
+    "path": "work/assets/suite_fig_p12_x1426.png",
+    "width": 1322,
+    "height": 780,
+    "bbox": [
+     59.5,
+     177.9,
+     535.7,
+     458.8
+    ],
+    "xref": 1426
+   }
+  ],
+  "13": [
+   {
+    "path": "work/assets/suite_fig_p13_x1475.png",
+    "width": 1385,
+    "height": 680,
+    "bbox": [
+     59.5,
+     270.2,
+     535.8,
+     504.0
+    ],
+    "xref": 1475
+   }
+  ],
+  "18": [
+   {
+    "path": "work/assets/suite_fig_p18_x2395.png",
+    "width": 1446,
+    "height": 938,
+    "bbox": [
+     59.5,
+     391.5,
+     535.7,
+     700.4
+    ],
+    "xref": 2395
+   }
+  ],
+  "19": [
+   {
+    "path": "work/assets/suite_fig_p19_x2419.png",
+    "width": 1076,
+    "height": 758,
+    "bbox": [
+     59.5,
+     279.2,
+     535.7,
+     614.6
+    ],
+    "xref": 2419
+   }
+  ],
+  "23": [
+   {
+    "path": "work/assets/suite_fig_p23_x2800.png",
+    "width": 1385,
+    "height": 608,
+    "bbox": [
+     59.5,
+     350.7,
+     535.8,
+     559.8
+    ],
+    "xref": 2800
+   }
+  ],
+  "24": [
+   {
+    "path": "work/assets/suite_fig_p24_x2822.png",
+    "width": 1494,
+    "height": 511,
+    "bbox": [
+     61.3,
+     553.9,
+     535.7,
+     716.7
+    ],
+    "xref": 2822
+   }
+  ],
+  "26": [
+   {
+    "path": "work/assets/suite_fig_p26_x3039.png",
+    "width": 1322,
+    "height": 538,
+    "bbox": [
+     59.5,
+     146.9,
+     535.8,
+     340.6
+    ],
+    "xref": 3039
+   }
+  ],
+  "27": [
+   {
+    "path": "work/assets/suite_fig_p27_x3060.png",
+    "width": 1385,
+    "height": 548,
+    "bbox": [
+     59.5,
+     576.8,
+     535.7,
+     765.2
+    ],
+    "xref": 3060
+   }
+  ],
+  "28": [
+   {
+    "path": "work/assets/suite_fig_p28_x3183.png",
+    "width": 1387,
+    "height": 784,
+    "bbox": [
+     59.5,
+     300.6,
+     535.7,
+     569.7
+    ],
+    "xref": 3183
+   }
+  ],
+  "29": [
+   {
+    "path": "work/assets/suite_fig_p29_x3218.png",
+    "width": 1385,
+    "height": 970,
+    "bbox": [
+     59.5,
+     168.3,
+     535.7,
+     501.8
+    ],
+    "xref": 3218
+   }
+  ]
+ },
+ "tables": {
+  "5": [
+   {
+    "rows": [
+     [
+      "N°",
+      "Fonction",
+      "Criticité",
+      "K",
+      "% Vert",
+      "% Jaune",
+      "% Rouge",
+      "Premier blocage dominant",
+      "Part des rouges",
+      "Provinces où rouge"
+     ],
+     [
+      "1",
+      "Grossesse à risque",
+      "Vitale",
+      "123",
+      "0,0",
+      "8,1",
+      "91,9",
+      "Intrants et produits",
+      "88,5",
+      "8"
+     ],
+     [
+      "2",
+      "MA compliquée",
+      "Vitale",
+      "160",
+      "0,6",
+      "8,8",
+      "90,6",
+      "Ressources humaines",
+      "53,1",
+      "8"
+     ],
+     [
+      "3",
+      "MAPI",
+      "Vitale",
+      "123",
+      "0,0",
+      "9,8",
+      "90,2",
+      "Intrants et produits",
+      "89,2",
+      "8"
+     ],
+     [
+      "4",
+      "Réanimation néonat.",
+      "Vitale",
+      "160",
+      "0,6",
+      "11,9",
+      "87,5",
+      "Équipements",
+      "95,7",
+      "8"
+     ],
+     [
+      "5",
+      "Pré-éclampsie",
+      "Vitale",
+      "160",
+      "0,6",
+      "16,9",
+      "82,5",
+      "Intrants et produits",
+      "83,3",
+      "8"
+     ],
+     [
+      "6",
+      "Paludisme grave",
+      "Vitale",
+      "160",
+      "0,0",
+      "18,1",
+      "81,9",
+      "Équipements",
+      "68,7",
+      "8"
+     ],
+     [
+      "7",
+      "Chaîne du froid",
+      "Vitale",
+      "123",
+      "0,0",
+      "22,0",
+      "78,0",
+      "Électricité",
+      "77,1",
+      "8"
+     ],
+     [
+      "8",
+      "Césarienne d'urgence",
+      "Vitale",
+      "59",
+      "0,0",
+      "23,7",
+      "76,3",
+      "Intrants et produits",
+      "71,1",
+      "7"
+     ],
+     [
+      "9",
+      "Transfusion",
+      "Vitale",
+      "59",
+      "3,4",
+      "20,3",
+      "76,3",
+      "Équipements",
+      "80,0",
+      "8"
+     ],
+     [
+      "10",
+      "Référence urgente",
+      "Vitale",
+      "160",
+      "0,0",
+      "25,0",
+      "75,0",
+      "Organisation du service",
+      "94,2",
+      "8"
+     ],
+     [
+      "11",
+      "Réception urgences",
+      "Vitale",
+      "37",
+      "0,0",
+      "27,0",
+      "73,0",
+      "Organisation du service",
+      "88,9",
+      "8"
+     ],
+     [
+      "12",
+      "Accouchement assisté",
+      "Vitale",
+      "59",
+      "0,0",
+      "27,1",
+      "72,9",
+      "Équipements",
+      "95,3",
+      "7"
+     ],
+     [
+      "13",
+      "Hémorragie post-partum",
+      "Vitale",
+      "160",
+      "0,0",
+      "29,4",
+      "70,6",
+      "Référence",
+      "67,3",
+      "8"
+     ],
+     [
+      "14",
+      "Sepsis obstétrical",
+      "Vitale",
+      "160",
+      "1,9",
+      "28,8",
+      "69,4",
+      "Référence",
+      "68,5",
+      "8"
+     ],
+     [
+      "15",
+      "Surveillance épidémio",
+      "Vitale",
+      "160",
+      "5,0",
+      "68,1",
+      "26,9",
+      "Communication",
+      "67,4",
+      "7"
+     ],
+     [
+      "16",
+      "MA non compliquée",
+      "Essentielle",
+      "101",
+      "0,0",
+      "2,0",
+      "98,0",
+      "Intrants et produits",
+      "90,9",
+      "8"
+     ],
+     [
+      "17",
+      "Accouchement normal",
+      "Essentielle",
+      "160",
+      "0,6",
+      "6,9",
+      "92,5",
+      "Intrants et produits",
+      "93,2",
+      "8"
+     ],
+     [
+      "18",
+      "CPoN mère",
+      "Essentielle",
+      "160",
+      "0,0",
+      "16,9",
+      "83,1",
+      "Intrants et produits",
+      "78,9",
+      "8"
+     ],
+     [
+      "19",
+      "CPN de routine",
+      "Essentielle",
+      "123",
+      "0,8",
+      "16,3",
+      "82,9",
+      "Intrants et produits",
+      "91,2",
+      "8"
+     ],
+     [
+      "20",
+      "Vaccination de routine",
+      "Essentielle",
+      "123",
+      "0,0",
+      "18,7",
+      "81,3",
+      "Électricité",
+      "74,0",
+      "8"
+     ],
+     [
+      "21",
+      "Soins du nouveau-né",
+      "Essentielle",
+      "160",
+      "0,6",
+      "22,5",
+      "76,9",
+      "Équipements",
+      "92,7",
+      "8"
+     ],
+     [
+      "22",
+      "CPN + PTME",
+      "Essentielle",
+      "123",
+      "0,8",
+      "30,1",
+      "69,1",
+      "Intrants et produits",
+      "97,6",
+      "8"
+     ],
+     [
+      "23",
+      "CPoN nouveau-né",
+      "Essentielle",
+      "160",
+      "0,0",
+      "31,2",
+      "68,8",
+      "Référence",
+      "80,9",
+      "8"
+     ],
+     [
+      "24",
+      "Dépistage nutrition",
+      "Essentielle",
+      "160",
+      "3,8",
+      "38,1",
+      "58,1",
+      "Ressources humaines",
+      "82,8",
+      "8"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#1F4E79",
+      "#FCEBC0",
+      "#1F4E79",
+      "#131D44",
+      "#1F4E79",
+      "#1F4E79"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ]
+    ],
+    "col_widths": [
+     22.9,
+     97.1,
+     58.6,
+     27.6,
+     31.6,
+     32.8,
+     33.2,
+     98.0,
+     37.2,
+     43.1
+    ],
+    "bbox": [
+     56.9,
+     63.1,
+     538.9,
+     768.7
+    ],
+    "n_rows": 25,
+    "n_cols": 10
+   }
+  ],
+  "6": [
+   {
+    "rows": [
+     [
+      "N°",
+      "Fonction",
+      "Criticité",
+      "K",
+      "% Vert",
+      "% Jaune",
+      "% Rouge",
+      "Premier blocage dominant",
+      "Part des rouges",
+      "Provinces où rouge"
+     ],
+     [
+      "25",
+      "Paludisme simple",
+      "Essentielle",
+      "160",
+      "3,1",
+      "63,8",
+      "33,1",
+      "Intrants et produits",
+      "94,3",
+      "7"
+     ],
+     [
+      "26",
+      "Diagnostic paludisme",
+      "Essentielle",
+      "160",
+      "3,8",
+      "83,8",
+      "12,5",
+      "Intrants et produits",
+      "90,0",
+      "6"
+     ],
+     [
+      "27",
+      "Données sanitaires",
+      "Systémique",
+      "160",
+      "7,5",
+      "59,4",
+      "33,1",
+      "Organisation du service",
+      "100,0",
+      "6"
+     ],
+     [
+      "28",
+      "Intégration services",
+      "Systémique",
+      "160",
+      "3,1",
+      "68,8",
+      "28,1",
+      "Intégration des services",
+      "100,0",
+      "5"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#1F4E79",
+      "#FCEBC0",
+      "#1F4E79",
+      "#131D44",
+      "#1F4E79",
+      "#1F4E79"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      "#FBE3E3",
+      "#FBE3E3"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F7D3D3",
+      "#F7D3D3"
+     ]
+    ],
+    "col_widths": [
+     22.8,
+     97.2,
+     58.6,
+     27.6,
+     31.6,
+     32.8,
+     33.2,
+     98.0,
+     37.2,
+     43.1
+    ],
+    "bbox": [
+     56.9,
+     63.1,
+     538.9,
+     227.0
+    ],
+    "n_rows": 5,
+    "n_cols": 10
+   },
+   {
+    "rows": [
+     [
+      "N°",
+      "Fonction",
+      "Fonctions rouges",
+      "Premier blocage dominant",
+      "Rouges bloquées par cette dimension : n (%)",
+      "Élément le plus souvent en déficit",
+      "Fonctions rouges où l’élément est en déficit : n (%)"
+     ],
+     [
+      "1",
+      "Grossesse à risque",
+      "113",
+      "Intrants et produits",
+      "100 (88,5 %)",
+      "Bandelettes urinaires (protéinurie)",
+      "89 (78,8 %)"
+     ],
+     [
+      "2",
+      "MA compliquée",
+      "145",
+      "Ressources humaines",
+      "77 (53,1 %)",
+      "Prestataire formé présent pour la fonction",
+      "77 (53,1 %)"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ]
+    ],
+    "col_widths": [
+     22.8,
+     92.2,
+     45.0,
+     82.6,
+     72.5,
+     112.0,
+     55.0
+    ],
+    "bbox": [
+     56.9,
+     632.6,
+     538.9,
+     772.5
+    ],
+    "n_rows": 3,
+    "n_cols": 7
+   }
+  ],
+  "7": [
+   {
+    "rows": [
+     [
+      "N°",
+      "Fonction",
+      "Fonctions rouges",
+      "Premier blocage dominant",
+      "Rouges bloquées par cette dimension : n (%)",
+      "Élément le plus souvent en déficit",
+      "Fonctions rouges où l’élément est en déficit : n (%)"
+     ],
+     [
+      "3",
+      "MAPI",
+      "111",
+      "Intrants et produits",
+      "99 (89,2 %)",
+      "Kit anti-choc ou chariot d’urgence (adrénaline)",
+      "99 (89,2 %)"
+     ],
+     [
+      "4",
+      "Réanimation néonat.",
+      "140",
+      "Équipements",
+      "134 (95,7 %)",
+      "Source de chaleur (salle et nouveau-né)",
+      "110 (78,6 %)"
+     ],
+     [
+      "5",
+      "Pré-éclampsie",
+      "132",
+      "Intrants et produits",
+      "110 (83,3 %)",
+      "Sulfate de magnésium",
+      "98 (74,2 %)"
+     ],
+     [
+      "6",
+      "Paludisme grave",
+      "131",
+      "Équipements",
+      "90 (68,7 %)",
+      "Glucomètre + bandelettes",
+      "63 (48,1 %)"
+     ],
+     [
+      "7",
+      "Chaîne du froid",
+      "96",
+      "Électricité",
+      "74 (77,1 %)",
+      "Source de secours fonctionnelle",
+      "68 (70,8 %)"
+     ],
+     [
+      "8",
+      "Césarienne d'urgence",
+      "45",
+      "Intrants et produits",
+      "32 (71,1 %)",
+      "Antiseptique (iodophore ou chlorhexidine)",
+      "22 (48,9 %)"
+     ],
+     [
+      "9",
+      "Transfusion",
+      "45",
+      "Équipements",
+      "36 (80,0 %)",
+      "Réfrigérateur à sang ou banque de sang",
+      "36 (80,0 %)"
+     ],
+     [
+      "10",
+      "Référence urgente",
+      "120",
+      "Organisation du service",
+      "113 (94,2 %)",
+      "Moyen de transport disponible et fonctionnel",
+      "105 (87,5 %)"
+     ],
+     [
+      "11",
+      "Réception urgences",
+      "27",
+      "Organisation du service",
+      "24 (88,9 %)",
+      "Moyen de transport disponible et fonctionnel",
+      "21 (77,8 %)"
+     ],
+     [
+      "12",
+      "Accouchement assisté",
+      "43",
+      "Équipements",
+      "41 (95,3 %)",
+      "Ventouse ou forceps obstétricaux (aucun des deux fonctionnel)",
+      "30 (69,8 %)"
+     ],
+     [
+      "13",
+      "Hémorragie post-partum",
+      "113",
+      "Référence",
+      "76 (67,3 %)",
+      "Moyen de transport disponible et fonctionnel",
+      "71 (62,8 %)"
+     ],
+     [
+      "14",
+      "Sepsis obstétrical",
+      "111",
+      "Référence",
+      "76 (68,5 %)",
+      "Moyen de transport disponible et fonctionnel",
+      "71 (64,0 %)"
+     ],
+     [
+      "15",
+      "Surveillance épidémiologique",
+      "43",
+      "Communication",
+      "29 (67,4 %)",
+      "Continuité de la communication sur trois mois",
+      "23 (53,5 %)"
+     ],
+     [
+      "16",
+      "MA non compliquée",
+      "99",
+      "Intrants et produits",
+      "90 (90,9 %)",
+      "ATPE",
+      "87 (87,9 %)"
+     ],
+     [
+      "17",
+      "Accouchement normal",
+      "148",
+      "Intrants et produits",
+      "138 (93,2 %)",
+      "Kit d’accouchement à usage unique",
+      "127 (85,8 %)"
+     ],
+     [
+      "18",
+      "CPoN mère",
+      "133",
+      "Intrants et produits",
+      "105 (78,9 %)",
+      "Bandelettes urinaires (protéinurie/glycosurie)",
+      "75 (56,4 %)"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ]
+    ],
+    "col_widths": [
+     22.6,
+     92.4,
+     45.0,
+     82.6,
+     72.5,
+     112.0,
+     55.0
+    ],
+    "bbox": [
+     56.9,
+     63.1,
+     538.9,
+     757.8
+    ],
+    "n_rows": 17,
+    "n_cols": 7
+   }
+  ],
+  "8": [
+   {
+    "rows": [
+     [
+      "N°",
+      "Fonction",
+      "Fonctions rouges",
+      "Premier blocage dominant",
+      "Rouges bloquées par cette dimension : n (%)",
+      "Élément le plus souvent en déficit",
+      "Fonctions rouges où l’élément est en déficit : n (%)"
+     ],
+     [
+      "19",
+      "CPN de routine",
+      "102",
+      "Intrants et produits",
+      "93 (91,2 %)",
+      "Bandelettes urinaires (protéinurie)",
+      "89 (87,3 %)"
+     ],
+     [
+      "20",
+      "Vaccination de routine",
+      "100",
+      "Électricité",
+      "74 (74,0 %)",
+      "Source de secours fonctionnelle",
+      "68 (68,0 %)"
+     ],
+     [
+      "21",
+      "Soins du nouveau-né",
+      "123",
+      "Équipements",
+      "114 (92,7 %)",
+      "Source de chaleur (salle et nouveau-né)",
+      "110 (89,4 %)"
+     ],
+     [
+      "22",
+      "CPN + PTME",
+      "85",
+      "Intrants et produits",
+      "83 (97,6 %)",
+      "Tests rapides VIH",
+      "62 (72,9 %)"
+     ],
+     [
+      "23",
+      "CPoN nouveau-né",
+      "110",
+      "Référence",
+      "89 (80,9 %)",
+      "Moyen de transport disponible et fonctionnel",
+      "84 (76,4 %)"
+     ],
+     [
+      "24",
+      "Dépistage nutrition",
+      "93",
+      "Ressources humaines",
+      "77 (82,8 %)",
+      "Prestataire formé présent pour la fonction",
+      "77 (82,8 %)"
+     ],
+     [
+      "25",
+      "Paludisme simple",
+      "53",
+      "Intrants et produits",
+      "50 (94,3 %)",
+      "CTA (AS-AQ ou AL)",
+      "50 (94,3 %)"
+     ],
+     [
+      "26",
+      "Diagnostic paludisme",
+      "20",
+      "Intrants et produits",
+      "18 (90,0 %)",
+      "Test de diagnostic rapide (TDR) du paludisme",
+      "13 (65,0 %)"
+     ],
+     [
+      "27",
+      "Données sanitaires",
+      "53",
+      "Organisation du service",
+      "53 (100,0 %)",
+      "Accès fonctionnel au SNIS (DHIS2)",
+      "37 (69,8 %)"
+     ],
+     [
+      "28",
+      "Intégration services",
+      "45",
+      "Intégration des services",
+      "45 (100,0 %)",
+      "Services intégrés offerts actuellement",
+      "45 (100,0 %)"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ]
+    ],
+    "col_widths": [
+     22.6,
+     92.4,
+     45.0,
+     82.6,
+     72.5,
+     112.0,
+     55.0
+    ],
+    "bbox": [
+     56.9,
+     63.1,
+     538.9,
+     501.7
+    ],
+    "n_rows": 11,
+    "n_cols": 7
+   }
+  ],
+  "14": [
+   {
+    "rows": [
+     [
+      "Fonction d'urgence",
+      "Niveau",
+      "K",
+      "% Vert",
+      "% Jaune",
+      "% Rouge",
+      "Premier blocage dominant",
+      "Élément le plus souvent en cause (fonctions rouges concernées)"
+     ],
+     [
+      "Grossesse à risque",
+      "Niveau 1 (CS)",
+      "101",
+      "0,0",
+      "5,0",
+      "95,0",
+      "Intrants et produits",
+      "Bandelettes urinaires (77/96)"
+     ],
+     [
+      "Grossesse à risque",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "22,7",
+      "77,3",
+      "Référence",
+      "Moyen de transport (13/17)"
+     ],
+     [
+      "Hémorragie post-partum",
+      "Niveau 1 (CS)",
+      "101",
+      "0,0",
+      "14,9",
+      "85,1",
+      "Référence",
+      "Moyen de transport (71/86)"
+     ],
+     [
+      "Hémorragie post-partum",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "54,5",
+      "45,5",
+      "Intrants et produits",
+      "Seringues et aiguilles (4/10)"
+     ],
+     [
+      "Hémorragie post-partum",
+      "Niveau 2 (HGR)",
+      "37",
+      "0,0",
+      "54,1",
+      "45,9",
+      "Intrants et produits",
+      "Seringues et aiguilles (11/17)"
+     ],
+     [
+      "Pré-éclampsie",
+      "Niveau 1 (CS)",
+      "101",
+      "1,0",
+      "5,9",
+      "93,1",
+      "Intrants et produits",
+      "Sulfate de magnésium (77/94)"
+     ],
+     [
+      "Pré-éclampsie",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "31,8",
+      "68,2",
+      "Intrants et produits",
+      "Sulfate de magnésium (11/15)"
+     ],
+     [
+      "Pré-éclampsie",
+      "Niveau 2 (HGR)",
+      "37",
+      "0,0",
+      "37,8",
+      "62,2",
+      "Intrants et produits",
+      "Seringues et aiguilles (11/23)"
+     ],
+     [
+      "Sepsis obstétrical",
+      "Niveau 1 (CS)",
+      "101",
+      "2,0",
+      "13,9",
+      "84,2",
+      "Référence",
+      "Moyen de transport (71/85)"
+     ],
+     [
+      "Sepsis obstétrical",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "59,1",
+      "40,9",
+      "Intrants et produits",
+      "Ampicilline (5/9)"
+     ],
+     [
+      "Sepsis obstétrical",
+      "Niveau 2 (HGR)",
+      "37",
+      "2,7",
+      "51,4",
+      "45,9",
+      "Intrants et produits",
+      "Ampicilline (11/17)"
+     ],
+     [
+      "Accouchement assisté",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "18,2",
+      "81,8",
+      "Équipements",
+      "Ventouse ou forceps (13/18)"
+     ],
+     [
+      "Accouchement assisté",
+      "Niveau 2 (HGR)",
+      "37",
+      "0,0",
+      "32,4",
+      "67,6",
+      "Équipements",
+      "Ventouse ou forceps (17/25)"
+     ],
+     [
+      "Césarienne d'urgence",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "31,8",
+      "68,2",
+      "Équipements",
+      "Matériel d'anesthésie (8/15)"
+     ],
+     [
+      "Césarienne d'urgence",
+      "Niveau 2 (HGR)",
+      "37",
+      "0,0",
+      "18,9",
+      "81,1",
+      "Intrants et produits",
+      "Antiseptique (17/30)"
+     ],
+     [
+      "Transfusion",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "13,6",
+      "86,4",
+      "Équipements",
+      "Réfrigérateur à sang (17/19)"
+     ],
+     [
+      "Transfusion",
+      "Niveau 2 (HGR)",
+      "37",
+      "5,4",
+      "24,3",
+      "70,3",
+      "Équipements",
+      "Réfrigérateur à sang (19/26)"
+     ],
+     [
+      "Réanimation néonat.",
+      "Niveau 1 (CS)",
+      "101",
+      "0,0",
+      "2,0",
+      "98,0",
+      "Équipements",
+      "Source de chaleur (77/99)"
+     ],
+     [
+      "Réanimation néonat.",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "22,7",
+      "77,3",
+      "Équipements",
+      "Source de chaleur (14/17)"
+     ],
+     [
+      "Réanimation néonat.",
+      "Niveau 2 (HGR)",
+      "37",
+      "2,7",
+      "32,4",
+      "64,9",
+      "Équipements",
+      "Source de chaleur (19/24)"
+     ],
+     [
+      "Réception urgences",
+      "Niveau 2 (HGR)",
+      "37",
+      "0,0",
+      "27,0",
+      "73,0",
+      "Organisation du service",
+      "Moyen de transport (21/27)"
+     ],
+     [
+      "Paludisme grave",
+      "Niveau 1 (CS)",
+      "101",
+      "0,0",
+      "5,0",
+      "95,0",
+      "Référence",
+      "Moyen de transport (71/96)"
+     ],
+     [
+      "Paludisme grave",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "18,2",
+      "81,8",
+      "Référence",
+      "Moyen de transport (13/18)"
+     ],
+     [
+      "Paludisme grave",
+      "Niveau 2 (HGR)",
+      "37",
+      "0,0",
+      "54,1",
+      "45,9",
+      "Équipements",
+      "Échelle de coma (10/17)"
+     ],
+     [
+      "MA compliquée",
+      "Niveau 1 (CS)",
+      "101",
+      "0,0",
+      "6,9",
+      "93,1",
+      "Référence",
+      "Moyen de transport (71/94)"
+     ],
+     [
+      "MA compliquée",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "9,1",
+      "90,9",
+      "Intrants et produits",
+      "F100 (20/20)"
+     ],
+     [
+      "MA compliquée",
+      "Niveau 2 (HGR)",
+      "37",
+      "2,7",
+      "13,5",
+      "83,8",
+      "Intrants et produits",
+      "F75 (29/31)"
+     ],
+     [
+      "MAPI",
+      "Niveau 1 (CS)",
+      "101",
+      "0,0",
+      "7,9",
+      "92,1",
+      "Intrants et produits",
+      "Kit anti-choc (adrénaline) (85/93)"
+     ],
+     [
+      "MAPI",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "18,2",
+      "81,8",
+      "Intrants et produits",
+      "Kit anti-choc (adrénaline) (14/18)"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#1F4E79",
+      "#FCEBC0",
+      "#1F4E79",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ]
+    ],
+    "col_widths": [
+     95.0,
+     62.5,
+     28.0,
+     32.1,
+     31.9,
+     32.0,
+     87.9,
+     112.6
+    ],
+    "bbox": [
+     56.9,
+     258.5,
+     538.9,
+     773.6
+    ],
+    "n_rows": 30,
+    "n_cols": 8
+   }
+  ],
+  "15": [
+   {
+    "rows": [
+     [
+      "Fonction d'urgence",
+      "Niveau",
+      "K",
+      "% Vert",
+      "% Jaune",
+      "% Rouge",
+      "Premier blocage dominant",
+      "Élément le plus souvent en cause (fonctions rouges concernées)"
+     ],
+     [
+      "Référence urgente",
+      "Niveau 1 (CS)",
+      "101",
+      "0,0",
+      "20,8",
+      "79,2",
+      "Organisation du service",
+      "Moyen de transport (71/80)"
+     ],
+     [
+      "Référence urgente",
+      "Niveau 1+ (CSR)",
+      "22",
+      "0,0",
+      "36,4",
+      "63,6",
+      "Organisation du service",
+      "Moyen de transport (13/14)"
+     ],
+     [
+      "Référence urgente",
+      "Niveau 2 (HGR)",
+      "37",
+      "0,0",
+      "29,7",
+      "70,3",
+      "Organisation du service",
+      "Moyen de transport (21/26)"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#1F4E79",
+      "#FCEBC0",
+      "#1F4E79",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      "#DCEFE1",
+      "#FFF2CC",
+      "#FBE3E3",
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#D3ECD9",
+      "#FCEBC0",
+      "#F7D3D3",
+      "#F4F8FC",
+      "#F4F8FC"
+     ]
+    ],
+    "col_widths": [
+     95.1,
+     62.5,
+     28.0,
+     32.1,
+     31.9,
+     32.0,
+     87.9,
+     112.6
+    ],
+    "bbox": [
+     56.9,
+     63.1,
+     538.9,
+     150.4
+    ],
+    "n_rows": 4,
+    "n_cols": 8
+   },
+   {
+    "rows": [
+     [
+      "Élément critique d'urgence absent ou en rupture",
+      "Occurrences",
+      "Établissements",
+      "Provinces",
+      "Fonctions vitales concernées"
+     ],
+     [
+      "Sulfate de magnésium",
+      "98",
+      "98",
+      "8",
+      "Pré-éclampsie"
+     ],
+     [
+      "Ballon auto-gonflable + masque taille néonatale (Ambu)",
+      "56",
+      "56",
+      "8",
+      "Réanimation néonat."
+     ],
+     [
+      "Ocytocine",
+      "23",
+      "23",
+      "5",
+      "Hémorragie post-partum"
+     ],
+     [
+      "Artésunate, injectable",
+      "14",
+      "14",
+      "7",
+      "Paludisme grave"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ]
+    ],
+    "col_widths": [
+     161.8,
+     63.0,
+     72.0,
+     49.6,
+     135.6
+    ],
+    "bbox": [
+     56.9,
+     386.3,
+     538.9,
+     512.8
+    ],
+    "n_rows": 5,
+    "n_cols": 5
+   }
+  ],
+  "16": [
+   {
+    "rows": [
+     [
+      "Niveau",
+      "Établissements",
+      "Avec au moins une menace immédiate : n (%)",
+      "Destination à plus de 30 km",
+      "Délai décision–départ > 1 h",
+      "Circuit de référence rouge (condition transversale)",
+      "Fonction « référence urgente » rouge"
+     ],
+     [
+      "Niveau 1 (CS)",
+      "101",
+      "101 (100,0 %)",
+      "29",
+      "18",
+      "76",
+      "80"
+     ],
+     [
+      "Niveau 1+ (CSR)",
+      "22",
+      "22 (100,0 %)",
+      "8",
+      "6",
+      "13",
+      "14"
+     ],
+     [
+      "Niveau 2 (HGR)",
+      "37",
+      "36 (97,3 %)",
+      "25",
+      "16",
+      "23",
+      "25"
+     ],
+     [
+      "Ensemble",
+      "160",
+      "159 (99,4 %)",
+      "62",
+      "40",
+      "112",
+      "119"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ]
+    ],
+    "col_widths": [
+     74.4,
+     62.2,
+     84.2,
+     62.5,
+     62.3,
+     68.3,
+     68.1
+    ],
+    "bbox": [
+     56.9,
+     98.2,
+     538.9,
+     212.1
+    ],
+    "n_rows": 5,
+    "n_cols": 7
+   }
+  ],
+  "17": [
+   {
+    "rows": [
+     [
+      "Fonction signal SONU",
+      "Catégorie",
+      "Fonction traceuse correspondante",
+      "Couverture par le diagnostic",
+      "Réserve"
+     ],
+     [
+      "Antibiotiques parentéraux",
+      "SONU de base",
+      "Prise en charge du sepsis maternel ou puerpéral",
+      "Couverte : fonction traceuse dédiée (antibiotique injectable parmi les éléments critiques)",
+      ""
+     ],
+     [
+      "Ocytociques parentéraux",
+      "SONU de base",
+      "Prévention et prise en charge de l'hémorragie du post-partum",
+      "Couverte : ocytocine / ergométrine parmi les éléments critiques de la fonction HPP",
+      ""
+     ],
+     [
+      "Anticonvulsivants parentéraux",
+      "SONU de base",
+      "Prise en charge de la pré-éclampsie/éclampsie",
+      "Couverte : sulfate de magnésium parmi les éléments critiques",
+      ""
+     ],
+     [
+      "Extraction manuelle du placenta",
+      "SONU de base",
+      "Prévention et prise en charge de l'hémorragie du post-partum",
+      "Partiellement couverte : geste non documenté individuellement ; conditions (gants longs, personnel) dans HPP",
+      "Acte réalisé non mesuré"
+     ],
+     [
+      "Évacuation des produits de conception",
+      "SONU de base",
+      "-",
+      "Non couverte : aucune fonction traceuse ni élément dédié (AMIU, misoprostol post-abortum)",
+      "Non mesuré"
+     ],
+     [
+      "Accouchement vaginal assisté",
+      "SONU de base",
+      "Accouchement vaginal assisté",
+      "Couverte au niveau 1+ et 2 (ventouse / forceps parmi les éléments critiques) ; non attendue au CS",
+      "Niveau 1 non couvert"
+     ],
+     [
+      "Réanimation néonatale",
+      "SONU de base",
+      "Réanimation néonatale immédiate",
+      "Couverte : fonction traceuse dédiée (ballon et masque, aspiration, source de chaleur)",
+      ""
+     ],
+     [
+      "Césarienne",
+      "SONU complet",
+      "Césarienne d'urgence",
+      "Couverte aux niveaux 1+ et 2",
+      ""
+     ],
+     [
+      "Transfusion sanguine",
+      "SONU complet",
+      "Transfusion sanguine d'urgence",
+      "Couverte aux niveaux 1+ et 2",
+      ""
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    ],
+    "col_widths": [
+     86.9,
+     53.1,
+     106.0,
+     178.4,
+     57.7
+    ],
+    "bbox": [
+     56.8,
+     86.5,
+     538.8,
+     319.8
+    ],
+    "n_rows": 10,
+    "n_cols": 5
+   }
+  ],
+  "20": [
+   {
+    "rows": [
+     [
+      "Motif de référence",
+      "Établissements avec au moins une référence (sur 160)",
+      "Total déclaré sur trois mois",
+      "Médiane par établissement",
+      "Maximum"
+     ],
+     [
+      "Paludisme grave",
+      "85",
+      "2 486",
+      "2,0",
+      "189"
+     ],
+     [
+      "Urgences médicales de l’adulte",
+      "102",
+      "1 926",
+      "3,0",
+      "277"
+     ],
+     [
+      "Urgences pédiatriques",
+      "73",
+      "1 788",
+      "0,0",
+      "182"
+     ],
+     [
+      "Urgences obstétricales",
+      "88",
+      "781",
+      "2,0",
+      "44"
+     ],
+     [
+      "Cas chirurgicaux",
+      "88",
+      "774",
+      "1,0",
+      "95"
+     ],
+     [
+      "Autres",
+      "56",
+      "530",
+      "0,0",
+      "125"
+     ],
+     [
+      "Malnutrition aiguë sévère compliquée",
+      "57",
+      "520",
+      "0,0",
+      "71"
+     ],
+     [
+      "Traumatismes et accidents",
+      "75",
+      "432",
+      "0,0",
+      "48"
+     ],
+     [
+      "Suspicion de maladie à potentiel épidémique",
+      "48",
+      "284",
+      "0,0",
+      "35"
+     ],
+     [
+      "Complications néonatales",
+      "52",
+      "240",
+      "0,0",
+      "54"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ]
+    ],
+    "col_widths": [
+     164.0,
+     96.5,
+     76.9,
+     77.2,
+     67.5
+    ],
+    "bbox": [
+     56.9,
+     204.8,
+     538.9,
+     498.3
+    ],
+    "n_rows": 11,
+    "n_cols": 5
+   }
+  ],
+  "21": [
+   {
+    "rows": [
+     [
+      "Contrainte déclarée au départ (centres de santé, n = 101)",
+      "n (%)"
+     ],
+     [
+      "Manque de ressources financières du ménage",
+      "78 (77,2 %)"
+     ],
+     [
+      "Absence de moyen de transport",
+      "71 (70,3 %)"
+     ],
+     [
+      "Refus du patient ou de sa famille",
+      "70 (69,3 %)"
+     ],
+     [
+      "Coût du transport",
+      "66 (65,3 %)"
+     ],
+     [
+      "Distance importante vers la structure de référence",
+      "51 (50,5 %)"
+     ],
+     [
+      "Mauvais état des routes",
+      "45 (44,6 %)"
+     ],
+     [
+      "Difficultés de communication",
+      "33 (32,7 %)"
+     ],
+     [
+      "Panne du moyen de transport",
+      "29 (28,7 %)"
+     ],
+     [
+      "Insécurité ou contraintes géographiques",
+      "20 (19,8 %)"
+     ],
+     [
+      "Retard dans la prise de décision clinique",
+      "10 (9,9 %)"
+     ],
+     [
+      "Saturation de l’hôpital de référence",
+      "9 (8,9 %)"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null
+     ]
+    ],
+    "col_widths": [
+     337.4,
+     144.6
+    ],
+    "bbox": [
+     56.9,
+     83.9,
+     538.9,
+     346.6
+    ],
+    "n_rows": 12,
+    "n_cols": 2
+   }
+  ],
+  "22": [
+   {
+    "rows": [
+     [
+      "Difficulté déclarée à la réception (CSR et HGR, n = 59)",
+      "n (%)"
+     ],
+     [
+      "Arrivée tardive du patient après la décision de référence",
+      "53 (89,8 %)"
+     ],
+     [
+      "Absence de communication préalable entre la structure référente et votre établissement",
+      "50 (84,7 %)"
+     ],
+     [
+      "État clinique du patient aggravé à son arrivée",
+      "48 (81,4 %)"
+     ],
+     [
+      "Informations cliniques insuffisantes sur le patient référé",
+      "47 (79,7 %)"
+     ],
+     [
+      "Fiche de référence incomplète ou mal renseignée",
+      "45 (76,3 %)"
+     ],
+     [
+      "Patient référé sans accompagnement approprié (personnel de santé ou autre) lorsque nécessaire",
+      "45 (76,3 %)"
+     ],
+     [
+      "Référence sans fiche de référence",
+      "44 (74,6 %)"
+     ],
+     [
+      "Difficultés financières du patient limitant sa prise en charge",
+      "37 (62,7 %)"
+     ],
+     [
+      "Absence ou retard de contre référence après la prise en charge",
+      "37 (62,7 %)"
+     ],
+     [
+      "Indisponibilité des examens complémentaires nécessaires",
+      "26 (44,1 %)"
+     ],
+     [
+      "Indisponibilité des médicaments ou intrants essentiels",
+      "26 (44,1 %)"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null
+     ]
+    ],
+    "col_widths": [
+     337.4,
+     144.6
+    ],
+    "bbox": [
+     56.9,
+     81.6,
+     538.9,
+     354.7
+    ],
+    "n_rows": 12,
+    "n_cols": 2
+   },
+   {
+    "rows": [
+     [
+      "Niveau source",
+      "Destination nommée",
+      "Liaisons appariées (confirmées par le nom / non confirmées nominativement)",
+      "Césarienne rouge à la destination : n (%)",
+      "Transfusion rouge : n (%)",
+      "Réanimation néonatale rouge : n (%)"
+     ],
+     [
+      "Niveau 1 (CS)",
+      "101",
+      "68 (15 / 53)",
+      "54 (79,4 %)",
+      "50 (73,5 %)",
+      "45 (66,2 %)"
+     ],
+     [
+      "Niveau 1+ (CSR)",
+      "22",
+      "12 (3 / 9)",
+      "11 (91,7 %)",
+      "10 (83,3 %)",
+      "9 (75,0 %)"
+     ],
+     [
+      "Niveau 2 (HGR)",
+      "37",
+      "2 (2 / 0)",
+      "2 (100,0 %)",
+      "1 (50,0 %)",
+      "1 (50,0 %)"
+     ],
+     [
+      "Ensemble",
+      "160",
+      "82 (20 / 62)",
+      "67 (81,7 %)",
+      "61 (74,4 %)",
+      "55 (67,1 %)"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ]
+    ],
+    "col_widths": [
+     77.0,
+     57.9,
+     86.8,
+     86.8,
+     86.8,
+     86.8
+    ],
+    "bbox": [
+     56.9,
+     471.6,
+     538.9,
+     622.5
+    ],
+    "n_rows": 5,
+    "n_cols": 6
+   }
+  ],
+  "25": [
+   {
+    "rows": [
+     [
+      "Composante : % rouge",
+      "CS",
+      "CSR",
+      "HGR",
+      "HK",
+      "HL",
+      "KC",
+      "KO",
+      "LM",
+      "LL",
+      "SK",
+      "TG"
+     ],
+     [
+      "Reconnaissance du signal",
+      "11,9",
+      "9,1",
+      "5,4",
+      "19,2",
+      "0,0",
+      "4,2",
+      "0,0",
+      "0,0",
+      "8,3",
+      "18,8",
+      "0,0"
+     ],
+     [
+      "Rapidité de la notification",
+      "6,9",
+      "4,5",
+      "0,0",
+      "3,8",
+      "0,0",
+      "8,3",
+      "0,0",
+      "6,2",
+      "0,0",
+      "18,8",
+      "0,0"
+     ],
+     [
+      "Outils et transmission",
+      "38,6",
+      "13,6",
+      "21,6",
+      "21,2",
+      "66,7",
+      "29,2",
+      "12,5",
+      "43,8",
+      "37,5",
+      "37,5",
+      "12,5"
+     ],
+     [
+      "Analyse et décision",
+      "13,9",
+      "9,1",
+      "16,2",
+      "30,8",
+      "0,0",
+      "0,0",
+      "0,0",
+      "18,8",
+      "0,0",
+      "18,8",
+      "0,0"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC",
+      "#F4F8FC"
+     ]
+    ],
+    "col_widths": [
+     125.3,
+     28.9,
+     34.8,
+     34.8,
+     32.3,
+     32.3,
+     32.3,
+     32.3,
+     32.3,
+     32.4,
+     32.3,
+     32.2
+    ],
+    "bbox": [
+     56.7,
+     289.0,
+     538.9,
+     397.0
+    ],
+    "n_rows": 5,
+    "n_cols": 12
+   }
+  ],
+  "27": [
+   {
+    "rows": [
+     [
+      "Dimension",
+      "Bloque : n (% des rouges)",
+      "Premier blocage : n (%)",
+      "Fragilise : n (% des jaunes)",
+      "Libère si résolue seule : n (% des rouges)"
+     ],
+     [
+      "Équipements",
+      "1 370 (53,1 %)",
+      "451 (17,5 %)",
+      "265 (23,2 %)",
+      "262 (10,2 %)"
+     ],
+     [
+      "Intrants et produits",
+      "1 357 (52,6 %)",
+      "1 101 (42,7 %)",
+      "345 (30,3 %)",
+      "338 (13,1 %)"
+     ],
+     [
+      "Référence",
+      "1 038 (40,2 %)",
+      "153 (5,9 %)",
+      "585 (51,3 %)",
+      "152 (5,9 %)"
+     ],
+     [
+      "Organisation du service",
+      "583 (22,6 %)",
+      "583 (22,6 %)",
+      "303 (26,6 %)",
+      "7 (0,3 %)"
+     ],
+     [
+      "Ressources humaines",
+      "369 (14,3 %)",
+      "122 (4,7 %)",
+      "497 (43,6 %)",
+      "31 (1,2 %)"
+     ],
+     [
+      "Communication",
+      "219 (8,5 %)",
+      "68 (2,6 %)",
+      "118 (10,4 %)",
+      "50 (1,9 %)"
+     ],
+     [
+      "Électricité",
+      "188 (7,3 %)",
+      "53 (2,1 %)",
+      "380 (33,3 %)",
+      "53 (2,1 %)"
+     ],
+     [
+      "Eau, hygiène et assainissement",
+      "0 (0,0 %)",
+      "0 (0,0 %)",
+      "503 (44,1 %)",
+      "0 (0,0 %)"
+     ]
+    ],
+    "fills": [
+     [
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44",
+      "#131D44"
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    ],
+    "col_widths": [
+     134.9,
+     86.8,
+     86.8,
+     86.8,
+     86.8
+    ],
+    "bbox": [
+     56.9,
+     173.1,
+     538.9,
+     395.5
+    ],
+    "n_rows": 9,
+    "n_cols": 5
+   }
+  ]
+ },
+ "kpi_regions": {
+  "2": [
+   [
+    57.5,
+    714.9,
+    153.1,
+    778.5
+   ],
+   [
+    153.9,
+    714.9,
+    249.5,
+    778.5
+   ],
+   [
+    250.2,
+    714.9,
+    345.9,
+    778.5
+   ],
+   [
+    346.6,
+    714.9,
+    442.3,
+    778.5
+   ],
+   [
+    442.9,
+    714.9,
+    538.7,
+    778.5
+   ]
+  ]
+ },
+ "box_regions": {
+  "2": [
+   57.3,
+   489.4,
+   538.2,
+   708.0
+  ]
+ }
+}

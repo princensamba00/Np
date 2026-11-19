@@ -7,6 +7,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_TAB_ALIGNMENT, WD_TAB_LEADER, 
 from docx.enum.table import WD_TABLE_ALIGNMENT, WD_CELL_VERTICAL_ALIGNMENT
 from docx.enum.style import WD_STYLE_TYPE
 from docx.enum.table import WD_ROW_HEIGHT_RULE
+from docx.enum.section import WD_SECTION
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 import layout_engine as le
@@ -69,12 +70,14 @@ def set_cell_margins(cell, top=40, start=70, bottom=40, end=70):
         node.set(qn('w:w'), str(v)); node.set(qn('w:type'),'dxa')
         tcMar.append(node)
 
-def set_table_borders(table):
+def set_table_borders(table, source_fills=False):
     tblPr = table._tbl.tblPr
     borders = OxmlElement('w:tblBorders')
+    grid = 'D9D9D9' if source_fills else DOTTED_HEX
     for edge, val, color, sz in (
         ('top','single',NAVY_HEX,'8'), ('bottom','single',NAVY_HEX,'8'),
-        ('insideH','single',DOTTED_HEX,'4'), ('insideV','nil',None,None),
+        ('insideH','single',grid,'4'),
+        ('insideV','single' if source_fills else 'nil', grid if source_fills else None, '4' if source_fills else None),
         ('left','nil',None,None), ('right','nil',None,None)):
         e = OxmlElement('w:'+edge)
         e.set(qn('w:val'),val)
@@ -131,17 +134,17 @@ def add_complex_toc(doc, entries):
     p = doc.add_paragraph()
     p.style = doc.styles['TOC Heading'] if 'TOC Heading' in [s.name for s in doc.styles] else doc.styles['Normal']
     no_hyphen(p)
-    r = p.add_run(); set_run_font(r, size=9.2)
+    r = p.add_run(); set_run_font(r, size=le.TOC_SIZE)
     fc = OxmlElement('w:fldChar'); fc.set(qn('w:fldCharType'),'begin'); fc.set(qn('w:dirty'),'true'); r._r.append(fc)
-    r = p.add_run(); set_run_font(r, size=9.2)
+    r = p.add_run(); set_run_font(r, size=le.TOC_SIZE)
     it = OxmlElement('w:instrText'); it.set(qn('xml:space'),'preserve')
     it.text = 'TOC \\o "1-3" \\h \\z \\u'; r._r.append(it)
-    r = p.add_run(); set_run_font(r, size=9.2)
+    r = p.add_run(); set_run_font(r, size=le.TOC_SIZE)
     fc = OxmlElement('w:fldChar'); fc.set(qn('w:fldCharType'),'separate'); r._r.append(fc)
     for e in entries:
         add_tab_entry(doc, e, style_prefix='TOC')
     p = doc.add_paragraph(); no_hyphen(p)
-    r = p.add_run(); set_run_font(r, size=9.2)
+    r = p.add_run(); set_run_font(r, size=le.TOC_SIZE)
     fc = OxmlElement('w:fldChar'); fc.set(qn('w:fldCharType'),'end'); r._r.append(fc)
 
 # ---------------------------------------------------------------------------
@@ -191,13 +194,13 @@ def configure_styles(doc):
 
     for i in (1,2,3):
         st = get_or_add_style(doc, f'TOC {i}', WD_STYLE_TYPE.PARAGRAPH)
-        st.font.name='Glacial Indifference'; st.font.size=Pt(9.2)
-        st.paragraph_format.space_after=Pt(0.5)
-        st.paragraph_format.line_spacing=Pt(le.LIST_LH)
+        st.font.name='Glacial Indifference'; st.font.size=Pt(le.TOC_SIZE)
+        st.paragraph_format.space_after=Pt(le.TOC_AFTER)
+        st.paragraph_format.line_spacing=Pt(le.TOC_LH)
         st.paragraph_format.left_indent = Pt(14*(i-1))
 
     th = get_or_add_style(doc, 'TOC Heading', WD_STYLE_TYPE.PARAGRAPH)
-    th.font.name='Glacial Indifference'; th.font.size=Pt(9.2)
+    th.font.name='Glacial Indifference'; th.font.size=Pt(le.TOC_SIZE)
 
 def configure_section(section):
     section.page_width = Pt(le.A4_W); section.page_height = Pt(le.A4_H)
@@ -205,6 +208,22 @@ def configure_section(section):
     section.top_margin = Pt(le.TOP); section.bottom_margin = Pt(le.BOTTOM)
     section.header_distance = Pt(26); section.footer_distance = Pt(26)
     section.different_first_page_header_footer = True
+
+def configure_continuation_section(section, print_start):
+    """Section Word pour la suite : en-têtes/pieds liés, numérotation à 25."""
+    section.page_width = Pt(le.A4_W); section.page_height = Pt(le.A4_H)
+    section.left_margin = Pt(le.M_L); section.right_margin = Pt(le.M_R)
+    section.top_margin = Pt(le.TOP); section.bottom_margin = Pt(le.BOTTOM)
+    section.header_distance = Pt(26); section.footer_distance = Pt(26)
+    section.different_first_page_header_footer = False
+    section.header.is_linked_to_previous = True
+    section.footer.is_linked_to_previous = True
+    sectPr = section._sectPr
+    old = sectPr.find(qn('w:pgNumType'))
+    if old is not None: sectPr.remove(old)
+    pg = OxmlElement('w:pgNumType'); pg.set(qn('w:start'), str(print_start))
+    sectPr.append(pg)
+
 
 def configure_header_footer(section):
     header = section.header
@@ -310,34 +329,115 @@ def add_signature(doc, item):
                      color=NAVY if i==0 else GREY)
 
 def add_tab_entry(doc, e, style_prefix=None):
+    compact = bool(style_prefix)
+    size, lh, after = le.list_metrics(compact)
     p = doc.add_paragraph(); no_hyphen(p)
     if style_prefix:
         lvl = min(3, max(1, int(e.get('level', e.get('indent',0)+1))))
         p.style = doc.styles[f'TOC {lvl}']
     else:
-        p.paragraph_format.line_spacing = Pt(le.LIST_LH)
-        p.paragraph_format.space_after = Pt(le.LIST_AFTER)
+        p.paragraph_format.line_spacing = Pt(lh)
+        p.paragraph_format.space_after = Pt(after)
         if e.get('indent',0): p.paragraph_format.left_indent = Pt(14)
     p.paragraph_format.tab_stops.add_tab_stop(Pt(le.CONTENT_W - (14 if e.get('indent',0) else 0)),
                                               WD_TAB_ALIGNMENT.RIGHT, WD_TAB_LEADER.DOTS)
     r = p.add_run(fu.nbsp_text(e['text']))
-    set_run_font(r, size=le.LIST_SIZE, bold=e.get('bold',False))
+    set_run_font(r, size=size, bold=e.get('bold',False))
     marker = str(e.get('page',''))
+    msize = 9.0 if compact else 10.6
     if len(marker) > 6:
         p2 = doc.add_paragraph(); no_hyphen(p2)
         p2.alignment = WD_ALIGN_PARAGRAPH.RIGHT
         p2.paragraph_format.space_after=Pt(0)
-        r2 = p2.add_run(fu.nbsp_text(marker)); set_run_font(r2, size=9, bold=True, color=NAVY)
+        r2 = p2.add_run(fu.nbsp_text(marker)); set_run_font(r2, size=msize, bold=True, color=NAVY)
     else:
-        r = p.add_run('\t'+marker); set_run_font(r, size=10.6, bold=True, color=NAVY)
+        r = p.add_run('\t'+marker); set_run_font(r, size=msize, bold=True, color=NAVY)
     return p
 
 def add_list_block(doc, item):
     for e in item.data['entries']:
         add_tab_entry(doc, e, style_prefix='TOC' if item.kind=='auto_toc' else None)
 
+def _dark(hexcolor):
+    try:
+        s = hexcolor.lstrip('#')
+        r, g, b = (int(s[i:i+2], 16)/255.0 for i in (0, 2, 4))
+        return 0.299*r + 0.587*g + 0.114*b < 0.52
+    except Exception:
+        return False
+
+
+def add_figure(doc, item):
+    d = item.data
+    p = doc.add_paragraph(); no_hyphen(p)
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.paragraph_format.space_after = Pt(3)
+    p.add_run().add_picture(os.path.join(ROOT, d['path']), width=Pt(d['disp_w']))
+    if d.get('caption'):
+        cp = doc.add_paragraph(); no_hyphen(cp); cp.style = doc.styles['Report Caption']
+        cp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        r = cp.add_run(fu.nbsp_text(d['caption']))
+        set_run_font(r, size=9, italic=True, color=NAVY)
+
+
+def add_note(doc, item):
+    p = doc.add_paragraph(); no_hyphen(p); p.style = doc.styles['Report Caption']
+    p.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
+    r = p.add_run(fu.nbsp_text(item.data['text']))
+    set_run_font(r, size=le.NOTE_SIZE, italic=True, color=GREY)
+
+
+def add_box(doc, item):
+    d = item.data
+    table = doc.add_table(rows=1, cols=1)
+    table.alignment = WD_TABLE_ALIGNMENT.CENTER
+    table.autofit = False
+    set_table_borders(table, source_fills=True)
+    cell = table.cell(0, 0)
+    cell.width = Pt(le.CONTENT_W)
+    set_cell_shading(cell, 'D1DEEF')
+    set_cell_margins(cell, 100, 100, 100, 100)
+    p = cell.paragraphs[0]; p.text = ''; no_hyphen(p)
+    r = p.add_run(fu.nbsp_text(d['title']))
+    set_run_font(r, size=11, bold=True, italic=True, color=NAVY)
+    p.paragraph_format.space_after = Pt(4)
+    for runs in d['paragraphs']:
+        bp = cell.add_paragraph(); no_hyphen(bp)
+        bp.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        bp.paragraph_format.line_spacing = Pt(le.BOX_LH)
+        bp.paragraph_format.space_after = Pt(le.BOX_AFTER)
+        for run in runs:
+            r = bp.add_run(fu.nbsp_text(run.get('text', '')))
+            set_run_font(r, size=le.BOX_SIZE, bold=run.get('bold', False),
+                         italic=run.get('italic', False))
+    return table
+
+
+def add_kpi(doc, item):
+    cells = item.data['cells']
+    table = doc.add_table(rows=1, cols=len(cells))
+    table.alignment = WD_TABLE_ALIGNMENT.CENTER
+    table.autofit = False
+    set_table_borders(table, source_fills=True)
+    for i, cell in enumerate(cells):
+        c = table.cell(0, i)
+        c.width = Pt(le.CONTENT_W/len(cells))
+        set_cell_shading(c, '131D44' if i < 2 else '0C8A76')
+        set_cell_margins(c, 60, 40, 60, 40)
+        p = c.paragraphs[0]; p.text = ''; no_hyphen(p)
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        r = p.add_run(fu.nbsp_text(cell['value']))
+        set_run_font(r, size=18, bold=True, color=WHITE)
+        lp = c.add_paragraph(); no_hyphen(lp)
+        lp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        r = lp.add_run(fu.nbsp_text(cell['label']))
+        set_run_font(r, size=7.4, color=WHITE)
+    return table
+
+
 def add_table(doc, item):
     rows = item.data['rows']; cw = item.data['col_widths']; fs = item.data['font_size']
+    fills = item.data.get('fills')
     if item.data.get('caption'):
         p = doc.add_paragraph(); no_hyphen(p); p.style=doc.styles['Report Caption']
         r = p.add_run(fu.nbsp_text(item.data['caption'])); set_run_font(r, size=9, italic=True, color=NAVY)
@@ -345,7 +445,7 @@ def add_table(doc, item):
     table = doc.add_table(rows=len(rows), cols=len(cw))
     table.alignment = WD_TABLE_ALIGNMENT.CENTER
     table.autofit = False
-    set_table_borders(table)
+    set_table_borders(table, source_fills=bool(fills))
     for j,w in enumerate(cw):
         for row in table.rows:
             row.cells[j].width = Pt(w)
@@ -356,17 +456,23 @@ def add_table(doc, item):
         for j,cell in enumerate(row[:len(cw)]):
             c = cells[j]
             c.vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.CENTER
-            set_cell_margins(c)
-            set_cell_shading(c, NAVY_HEX if ri==0 else (CREAM if ri%2==0 else 'FFFFFF'))
+            set_cell_margins(c, 25, 40, 25, 40)
+            col = (fills[ri][j] if fills and j < len(fills[ri]) else None)
+            if not col:
+                col = NAVY_HEX if ri == 0 else (CREAM if ri % 2 == 0 else 'FFFFFF')
+            col = col.lstrip('#')
+            set_cell_shading(c, col)
             p = c.paragraphs[0]; p.text=''; no_hyphen(p)
             p.paragraph_format.line_spacing = Pt(fs*1.28)
             p.paragraph_format.space_after = Pt(0)
             p.alignment = WD_ALIGN_PARAGRAPH.LEFT
             r = p.add_run(fu.nbsp_text(str(cell)))
-            set_run_font(r, size=fs, bold=(ri==0), color=WHITE if ri==0 else BLACK)
+            set_run_font(r, size=fs, bold=(ri==0),
+                         color=WHITE if _dark(col) else BLACK)
     return table
 
-def render_docx(pages, path, content=None):
+def render_docx(pages, path, content=None, suite_start_index=None,
+                suite_number_start=25):
     doc = Document()
     configure_styles(doc)
     configure_section(doc.sections[0])
@@ -378,8 +484,12 @@ def render_docx(pages, path, content=None):
     cp.comments = 'Table des matières automatique : mettre à jour les champs dans Word si nécessaire.'
 
     first = True
-    for page in pages:
-        if not first: add_page_break(doc)
+    for idx, page in enumerate(pages):
+        if suite_start_index is not None and idx == suite_start_index:
+            sec = doc.add_section(WD_SECTION.NEW_PAGE)
+            configure_continuation_section(sec, suite_number_start)
+        elif not first:
+            add_page_break(doc)
         first = False
         if page.is_cover:
             add_cover(doc); continue
@@ -396,5 +506,9 @@ def render_docx(pages, path, content=None):
             elif item.kind == 'auto_toc':
                 add_complex_toc(doc, item.data['entries'])
             elif item.kind == 'table': add_table(doc, item)
+            elif item.kind == 'figure': add_figure(doc, item)
+            elif item.kind == 'note': add_note(doc, item)
+            elif item.kind == 'box': add_box(doc, item)
+            elif item.kind == 'kpi': add_kpi(doc, item)
     doc.save(path)
     return path

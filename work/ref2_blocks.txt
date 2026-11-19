@@ -1,0 +1,329 @@
+
+==========================================================================================
+PAGE 01 — 13 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,36.8,207.9,52.0)] 'I C H E S S , L L C\nInternational Center for Health Systems Strengthening\n'
+[b001 no=1 type=0 bbox=(496.6,36.8,535.8,44.0)] 'P R É F A C E\n'
+[b002 no=2 type=0 bbox=(290.8,809.3,304.5,817.5)] '0 2\n'
+[b003 no=3 type=0 bbox=(59.5,64.1,103.3,76.3)] 'Préface\n'
+[b004 no=4 type=0 bbox=(59.5,101.7,535.8,165.2)] 'La République Démocratique du Congo (RDC) évolue dans un contexte sanitaire marqué par des besoins\nimportants, des vulnérabilités structurelles persistantes et la survenue récurrente d’épidémies et d’autres\nurgences de santé publique. Dans ce contexte, la capacité des établissements de soins de santé à assurer de\nmanière continue, sûre et efficace les services essentiels constitue un déterminant majeur de la performance et\nde la résilience du système de santé.\n'
+[b005 no=5 type=0 bbox=(59.5,176.0,535.8,226.1)] 'C’est dans cette perspective qu’a été réalisé le présent Diagnostic opérationnel rapide des établissements de\nsoins de santé, avec un accent particulier sur les services de santé maternelle, néonatale et infantile, de lutte\ncontre le paludisme et de nutrition. L’exercice a permis d’apprécier leur niveau réel de préparation\nopérationnelle, au-delà de la seule disponibilité des infrastructures et des équipements.\n'
+[b006 no=6 type=0 bbox=(59.5,236.2,535.8,299.7)] 'Le diagnostic a notamment examiné la capacité des établissements à réunir les conditions essentielles à la\nprestation effective des soins : ressources humaines compétentes, médicaments et intrants essentiels,\néquipements fonctionnels, eau, hygiène et assainissement, systèmes d’information, organisation des services et\nmécanismes de référence et contre‑référence. Il a ainsi permis d’identifier ce qui fonctionnait, les principaux\ngoulots d’étranglement et leurs causes, ainsi que les actions prioritaires nécessaires pour les lever.\n'
+[b007 no=7 type=0 bbox=(59.5,310.5,535.8,374.0)] 'Les résultats présentés dans ce rapport constituent une contribution importante à la compréhension des\ncontraintes opérationnelles affectant la prestation des services et fournissent des éléments utiles pour orienter\nla planification et la priorisation des interventions. Ils devraient contribuer à renforcer durablement la capacité\ndes établissements de soins de santé à offrir des services essentiels de manière sûre, fiable et continue, et à\nmieux faire face aux urgences sanitaires.\n'
+[b008 no=8 type=0 bbox=(59.5,384.8,535.8,421.5)] 'Je tiens à exprimer ma profonde gratitude aux autorités sanitaires, aux responsables des établissements de\nsoins de santé, aux professionnels de santé, aux équipes techniques ainsi qu’à l’ensemble des partenaires qui\nont contribué à la réalisation de ce diagnostic.\n'
+[b009 no=9 type=0 bbox=(59.5,431.0,535.8,494.5)] 'J’adresse une reconnaissance particulière au Dr Ngashi Ngongo, au Dr Gullit Lufiauluisu et à l’ensemble de\nl’équipe d’ICHESS pour avoir conduit ce travail avec rigueur, professionnalisme et engagement. Ce diagnostic\nréalisé par le cabinet ICHESS présente une analyse structurée des principaux constats et formule des\nrecommandations visant à orienter les actions d’amélioration et de renforcement des systèmes et des services\nde santé.\n'
+[b010 no=10 type=0 bbox=(59.5,505.2,535.8,555.3)] 'J’encourage toutes les parties prenantes à s’approprier les résultats et recommandations de ce rapport et à les\ntraduire en actions concrètes, priorisées et mesurables, afin d’améliorer durablement la disponibilité, la qualité\net la continuité des services de santé maternelle, néonatale et infantile, de lutte contre le paludisme et de\nnutrition au bénéfice des populations.\n'
+[b011 no=11 type=0 bbox=(222.6,565.5,372.7,575.5)] 'Narcisse Naia Embeke, MD, MPH\n'
+[b012 no=12 type=0 bbox=(224.6,580.2,370.7,589.3)] 'Directeur Technique, Projet EpiC RDC\n'
+
+==========================================================================================
+PAGE 02 — 12 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,36.8,207.9,52.0)] 'I C H E S S , L L C\nInternational Center for Health Systems Strengthening\n'
+[b001 no=1 type=0 bbox=(461.9,36.8,535.8,44.0)] 'R E M E R C I E M E N T S\n'
+[b002 no=2 type=0 bbox=(290.7,809.3,304.6,817.5)] '0 3\n'
+[b003 no=3 type=0 bbox=(59.5,64.1,146.8,76.3)] 'Remerciements\n'
+[b004 no=4 type=0 bbox=(59.5,101.7,535.8,138.4)] 'La réalisation de cette évaluation a reposé sur la mobilisation de nombreuses institutions, équipes et personnes\nayant contribué à sa conception, sa mise en œuvre, à l’analyse des données et à la production du présent\nrapport. ICHESS leur exprime sa profonde gratitude pour leur confiance, leur disponibilité et leur engagement.\n'
+[b005 no=5 type=0 bbox=(59.5,147.8,535.8,198.0)] 'Nos premiers remerciements s’adressent à FHI 360, pour la confiance accordée à ICHESS et son\naccompagnement technique et institutionnel. Une reconnaissance particulière est adressée à Joyce Kakesa,\nNarcisse Embeke, Teddy Matadi, Elie Alimasi, Peter Diakumpuna et Milan Milambu pour leurs orientations et\ncontributions aux différentes étapes de l’évaluation.\n'
+[b006 no=6 type=0 bbox=(59.5,208.1,535.8,258.2)] 'Nous remercions les Divisions Provinciales de la Santé (DPS) et les Équipes Cadres des Zones de Santé (ECZ)\npour leur collaboration et la facilitation des activités de terrain. Notre gratitude va également aux responsables\net personnels des établissements de soins de santé (ESS) ainsi qu’aux enquêteurs et enquêtrices, dont la\ndisponibilité et la rigueur ont contribué à la qualité des données recueillies.\n'
+[b007 no=7 type=0 bbox=(59.5,268.3,535.8,318.4)] 'Une reconnaissance particulière est adressée aux superviseurs provinciaux : Gullit Lufiauluisu (Lualaba), Prince\nLumbu (Haut‑Katanga), Cédric Kabala (Haut‑Lomami), Lucien Banze (Tanganyika), Mireille Meta (Kasaï‑Oriental),\nToto Ezombe (Lomami), Olivier Kingulu (Kasaï‑Central) et Clovis Ludiala (Sankuru), pour la coordination des\néquipes et l’assurance qualité des opérations.\n'
+[b008 no=8 type=0 bbox=(59.5,328.6,535.8,392.1)] 'ICHESS remercie particulièrement Ngashi Ngongo, Investigateur Principal, pour la direction scientifique et\nméthodologique de l’étude, et Gullit Lufiauluisu, Co-investigateur et Coordonnateur terrain, pour la\ncoordination opérationnelle. Nos remerciements vont également à Glody Kanga, Statisticien, pour le traitement\net l’analyse des données, et à Prince Nsamba, Informaticien, pour la gestion des outils numériques et des\ndonnées.\n'
+[b009 no=9 type=0 bbox=(59.5,402.8,535.8,439.5)] 'Enfin, nous remercions Jean Lubuanga et Emmanuel Nsamba, ainsi que l’équipe administrative et financière\nd’ICHESS, pour leur appui logistique et administratif. La complémentarité de toutes ces expertises a permis de\nproduire des analyses robustes et utiles à la décision pour améliorer la préparation opérationnelle des ESS.\n'
+[b010 no=10 type=0 bbox=(228.0,449.0,367.3,459.0)] 'Ngashi Ngongo, PhD, MD, MPH\n'
+[b011 no=11 type=0 bbox=(246.1,463.9,349.2,472.9)] 'Directeur Exécutif, ICHESS\n'
+
+==========================================================================================
+PAGE 03 — 5 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,36.8,207.9,52.0)] 'I C H E S S , L L C\nInternational Center for Health Systems Strengthening\n'
+[b001 no=1 type=0 bbox=(441.0,36.8,535.8,44.0)] 'T A B L E D E S M A T I È R E S\n'
+[b002 no=2 type=0 bbox=(290.4,809.3,304.9,817.5)] '0 4\n'
+[b003 no=3 type=0 bbox=(59.5,64.1,168.4,76.3)] 'Table des matières\n'
+[b004 no=4 type=0 bbox=(59.5,101.6,535.8,689.7)] "Préface\n2\nRemerciements\n3\nListe des figures et tableaux\n6\nRésumé exécutif\n11\nI. Introduction\n14\n1.1. Contexte et justification\n14\n1.2. Objectifs et résultats attendus\n15\n1.3. Bénéficiaires et utilisations des résultats\n16\nII. Approche méthodologique\n17\n2.1. Conception générale de l'étude\n17\n2.2. Population, échantillonnage et unités d'analyse\n17\n2.3. Instruments de collecte\n18\n2.4. Organisation de la collecte\n18\n2.5. Assurance qualité des données\n19\n2.6. Cadre analytique : fonctions traceuses et classification tricolore\n19\n2.7. Analyse qualitative\n24\n2.8. Chaîne de traitement des données et reproductibilité\n24\n2.9. Considérations éthiques\n25\n2.10. Limites méthodologiques\n25\nIII. Résultats\n26\n3.1. Description de l’échantillon et couverture\n26\n3.2. Niveau de préparation fonctionnelle des établissements\n27\n3.3. Préparation aux urgences\n37\n3.4. Intégration opérationnelle des services\n42\n3.5. Utilisation des données de routine et de surveillance\n49\n3.6. Facteurs associés aux contraintes observées\n50\n3.7. Priorités d'investissement\n74\nIV. Discussion\n83\n4.1. Ce que mesure le diagnostic et comment interpréter les résultats\n83\n4.2. Des vulnérabilités déjà documentées et confirmées\n83\n4.3. Les goulots dominants à la lumière de la littérature\n85\n4.4. Le paradoxe du rétablissement matériel isolé\n86\n4.5. De l’offre déclarée à la capacité réelle : les limites du suivi de routine\n86\n4.6. Un gradient de capacité insuffisant : l’HGR ne garantit pas toujours la prise en charge des cas\nréférés\n87\n4.7. Vulnérabilités provinciales et contraction des appuis extérieurs\n87\n4.8. Cohérence avec les orientations nationales vers la CSU\n88\n4.9. Forces et limites de l'analyse\n88\n4.10. Implications pour l'action et pour la recherche\n88\nV. Conclusion et recommandations\n89\n5.1. Conclusion\n89\n5.2. Recommandations\n89\nBibliographie\n96\nAnnexes\n100\nAnnexe 1 : Haut‑Katanga\n100\nAnnexe 2 : Haut‑Lomami\n105\nAnnexe 3 : Kasaï‑Central\n109\nAnnexe 4 : Kasaï‑Oriental\n114\nAnnexe 5 : Lomami\n119\nAnnexe 6 : Lualaba\n124\nAnnexe 7 : Sankuru\n129\nAnnexe 8 : Tanganyika\n133\nAnnexe 9 : Éléments en cause dans les fonctions d’urgence rouges, par niveau\n138\nAnnexe 10 : Compléments sur le cumul des blocages, les fragilités et les simulations\n146\nAnnexe 11 : Analyse de sensibilité : observations rattachées à plusieurs dimensions\n150\n"
+
+==========================================================================================
+PAGE 04 — 5 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,36.8,207.9,52.0)] 'I C H E S S , L L C\nInternational Center for Health Systems Strengthening\n'
+[b001 no=1 type=0 bbox=(441.0,36.8,535.8,44.0)] 'T A B L E D E S M A T I È R E S\n'
+[b002 no=2 type=0 bbox=(290.7,809.3,304.6,817.5)] '0 5\n'
+[b003 no=3 type=0 bbox=(59.5,64.1,168.4,76.3)] 'Table des matières\n'
+[b004 no=4 type=0 bbox=(59.5,101.6,535.8,604.6)] "Préface\n2\nRemerciements\n3\nTable des matières\n4\nListe des figures et tableaux\n6\nListe des figures\n6\nListe des tableaux\n6\nTableaux des annexes\n7\nAbréviations et acronymes\n9\nRésumé exécutif\n11\nContexte et objectif\n11\nLes défaillances opérationnelles les plus prioritaires\n11\nLes défaillances de préparation présentant le plus grand risque\n12\nLes principaux goulots d’étranglement transversaux\n12\nOù investir en priorité\n12\nLes cinq priorités d’investissement immédiates (0–3 mois)\n13\nLes cinq priorités de renforcement du système à moyen terme (3–12 mois)\n13\nRecommandations stratégiques pour le dialogue avec le Département d’État des États-Unis (DOS)\n13\nI. Introduction\n14\n1.1. Contexte et justification\n14\n1.2. Objectifs et résultats attendus\n15\n1.2.1. Objectif général\n15\n1.2.2. Objectifs spécifiques\n15\n1.2.3. Périmètre du diagnostic\n15\n1.2.4. Résultats attendus\n15\n1.3. Bénéficiaires et utilisations des résultats\n16\n1.3.1. Bénéficiaires\n16\n1.3.2. Utilisation des résultats\n16\nII. Approche méthodologique\n17\n2.1. Conception générale de l'étude\n17\n2.2. Population, échantillonnage et unités d'analyse\n17\n2.2.1. Base de sondage et plan d'échantillonnage\n17\n2.2.2. Unités d'analyse\n17\n2.3. Instruments de collecte\n18\n2.3.1. Composante quantitative\n18\n2.3.2. Composante qualitative\n18\n2.4. Organisation de la collecte\n18\n2.4.1. Phasage du déploiement\n18\n2.4.2. Dispositif humain et circuit d’assurance qualité\n19\n2.5. Assurance qualité des données\n19\n2.6. Cadre analytique : fonctions traceuses et classification tricolore\n19\n2.6.1. Fonctions traceuses\n19\nDéfinitions et conventions de lecture\n20\n2.6.2. Algorithme de classification Vert / Jaune / Rouge\n21\n2.7. Analyse qualitative\n23\n2.8. Chaîne de traitement des données et reproductibilité\n23\n2.9. Considérations éthiques\n24\n2.10. Limites méthodologiques\n24\n"
+
+==========================================================================================
+PAGE 05 — 7 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,36.8,207.9,52.0)] 'I C H E S S , L L C\nInternational Center for Health Systems Strengthening\n'
+[b001 no=1 type=0 bbox=(385.5,36.8,535.8,44.0)] 'L I S T E D E S F I G U R E S E T T A B L E A U X\n'
+[b002 no=2 type=0 bbox=(290.6,809.3,304.7,817.5)] '0 6\n'
+[b003 no=3 type=0 bbox=(59.5,64.1,220.4,76.3)] 'Liste des figures et tableaux\n'
+[b004 no=4 type=0 bbox=(59.5,101.8,139.2,112.2)] 'Liste des figures\n'
+[b005 no=5 type=0 bbox=(59.5,124.6,535.8,380.3)] 'Figure 1: Établissements évalués par province et par niveau de soins\n27\nFigure 2: Classification des 28 fonctions traceuses, ensemble des établissements\n29\nFigure 3: Préparation opérationnelle des 17 fonctions communes aux trois niveaux de soins\n34\nFigure 4: Part de fonctions rouges par fonction et par province\n35\nFigure 5: Préparation opérationnelle par domaine technique et par niveau de soins\n36\nFigure 6: État opérationnel des fonctions vitales dont le service est déclaré offert, par niveau de soins\n37\nFigure 7: Préparation aux urgences : ensemble, par niveau de soins et par province\n38\nFigure 8: Couples de prestations documentés, par niveau de soins\n43\nFigure 9: Jours de présence des prestataires déclarés sur trois mois, par service et par niveau\n44\nFigure 10: État de la fonction d’aval lorsque la fonction d’amont est classée verte ou jaune\n48\nFigure 11: Chaîne surveillance-réponse et chaîne des données : composantes et points de rupture\n49\nFigure 12: Dimensions bloquantes des fonctions rouges et fragilités des fonctions jaunes\n51\nFigure 13: Nombre de dimensions bloquantes par fonction rouge, selon le niveau de soins\n52\nFigure 14: Les douze configurations de blocage les plus fréquentes parmi les fonctions rouges\n53\nFigure 15: Fonctions jaunes à une seule fragilité du vert\n54\nFigure 16: Fonctions rouges libérées par le rétablissement d’un seul élément critique\n58\nFigure 17: Part de fonctions vitales rouges dans les CS selon la présence déclarée d’une catégorie de\npersonnel\n61\nFigure 18: Composantes de la référence, de l’eau et de l’hygiène, de l’électricité et de la communication\n63\nFigure 19: Profil des dimensions bloquantes par province\n68\nFigure 20: Paquets cumulatifs de leviers : fonctions rouges libérées à mesure que les dimensions sont\nrésolues\n77\nFigure 21: Gain simulé de chaque levier, par province (part des fonctions rouges libérées)\n81\nListe des tableaux\n'
+[b006 no=6 type=0 bbox=(73.5,392.7,535.8,553.3)] "Tableau 1: Périmètre du diagnostic\n15\nTableau 2: Base de sondage et échantillon réalisé, par niveau géographique\n17\nTableau 3: Les 28 fonctions traceuses (71 spécifications selon le niveau)\n20\nTableau 4: Les huit règles de décision de l'algorithme de classification Vert / Jaune / Rouge\n22\nTableau 5: Rôle des douze dimensions dans les 71 spécifications\n23\nTableau 6: Modalités d’application des règles de classification\n24\nTableau 7: Classification des 28 fonctions traceuses, par ordre de criticité\n29\nTableau 8: Élément critique le plus souvent en déficit, par fonction\n31\nTableau 9: Blocages dominants des fonctions d’urgence, par niveau de soins\n39\nTableau 10: Principaux éléments critiques d’urgence manquants ou en rupture\n40\nTableau 11: Menaces immédiates et contraintes déclarées d'accès à la référence\n41\nTableau 12: Correspondance documentaire avec les fonctions signal SONU (référentiel classique)\n42\nTableau 13: Références au cours des trois derniers mois, par motif\n45\nTableau 14: Contraintes déclarées au départ lorsque la référence est décidée (centres de santé)\n46\nTableau 15: Difficultés déclarées à la réception des patients référés (CSR et HGR)\n47\n"
+
+==========================================================================================
+PAGE 06 — 6 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,36.8,207.9,52.0)] 'I C H E S S , L L C\nInternational Center for Health Systems Strengthening\n'
+[b001 no=1 type=0 bbox=(385.5,36.8,535.8,44.0)] 'L I S T E D E S F I G U R E S E T T A B L E A U X\n'
+[b002 no=2 type=0 bbox=(290.6,809.3,304.6,817.5)] '0 7\n'
+[b003 no=3 type=0 bbox=(73.5,63.6,535.8,242.5)] "Tableau 16: État des fonctions vitales d'aval à la destination de référence enquêtée\n47\nTableau 17: Points de rupture du circuit de surveillance, par niveau et par province\n50\nTableau 18: Les dimensions de blocage : ce qu'elles bloquent, ce qu'elles fragilisent et ce que leur\nrésolution libère\n52\nTableau 19: Disponibilité des intrants critiques, tous niveaux\n56\nTableau 20: Disponibilité des équipements critiques, tous niveaux\n57\nTableau 21: Effectifs déclarés par catégorie et par niveau (roster du personnel)\n59\nTableau 22: Formations déclarées au cours des deux dernières années, par thème et par niveau\n60\nTableau 23: Conditions transversales au niveau des établissements\n62\nTableau 24: Composantes du mécanisme de référence en cause dans les fonctions rouges de la\nréférence urgente, par niveau\n64\nTableau 25: Perturbations déclarées au cours des trois derniers mois, par province (% d’établissements)\n65\nTableau 26: Conjoncturel ou structurel : perturbation déclarée et blocage observé\n66\nTableau 27: Causes déclarées des interruptions et blocages observés de la fonction correspondante\n67\nTableau 28: Constance intra-zone de la dimension bloquante dominante\n69\nTableau 29: Synthèse des goulots opérationnels, de leurs conséquences et des risques sanitaires\nassociés\n"
+[b004 no=4 type=0 bbox=(59.5,243.4,535.8,381.0)] "Erreur ! Signet non défini.\nTableau 30: Matrice consolidée d'analyse et de correction des goulots d'étranglement, par contrainte\ntransversale\n71\nTableau 31: Intrants et équipements prioritaires les plus souvent manquants pour les fonctions vitales\n(tous niveaux)\n75\nTableau 32: Gains simulés des paires de leviers et complémentarité\n78\nTableau 33: Lecture programmatique des priorités d’investissement\n79\nTableau 34: Profil provincial des blocages et des leviers (ordre alphabétique)\n80\nTableau 35: Les quinze zones de santé où un seul levier débloque le plus de fonctions rouges, et la\nmeilleure combinaison de deux leviers\n82\nTableau 36: Rapprochement de quelques indicateurs avec les enquêtes antérieures\n84\nTableau 37: Plan d'action priorisé : responsables, indicateurs, valeurs de départ et cibles indicatives\n94\nTableaux des annexes\n"
+[b005 no=5 type=0 bbox=(73.5,393.3,535.8,628.9)] "Tableau A1: Classification des 28 fonctions traceuses, Haut‑Katanga\n101\nTableau A2: Dimensions bloquantes des fonctions rouges, par fonction (n), Haut‑Katanga\n102\nTableau A3: Dimensions bloquantes et fragilités, Haut‑Katanga\n103\nTableau A4: Conditions transversales et profil d'urgence, Haut‑Katanga\n103\nTableau A5: Leviers simples et paire optimale, Haut‑Katanga\n103\nTableau A6: Lecture par zone de santé, Haut‑Katanga\n104\nTableau A7: Établissements où un seul levier libère le plus de fonctions rouges, Haut‑Katanga\n105\nTableau A8: Classification des 28 fonctions traceuses, Haut‑Lomami\n106\nTableau A9: Dimensions bloquantes des fonctions rouges, par fonction (n), Haut‑Lomami\n107\nTableau A10: Dimensions bloquantes et fragilités, Haut‑Lomami\n108\nTableau A11: Conditions transversales et profil d'urgence, Haut‑Lomami\n108\nTableau A12: Leviers simples et paire optimale, Haut‑Lomami\n108\nTableau A13: Lecture par zone de santé, Haut‑Lomami\n109\nTableau A14: Établissements où un seul levier libère le plus de fonctions rouges, Haut‑Lomami\n109\nTableau A15: Classification des 28 fonctions traceuses, Kasaï‑Central\n111\nTableau A16: Dimensions bloquantes des fonctions rouges, par fonction (n), Kasaï‑Central\n112\nTableau A17: Dimensions bloquantes et fragilités, Kasaï‑Central\n113\nTableau A18: Conditions transversales et profil d'urgence, Kasaï‑Central\n113\nTableau A19: Leviers simples et paire optimale, Kasaï‑Central\n113\nTableau A20: Lecture par zone de santé, Kasaï‑Central\n114\nTableau A21: Établissements où un seul levier libère le plus de fonctions rouges, Kasaï‑Central\n114\nTableau A22: Classification des 28 fonctions traceuses, Kasaï‑Oriental\n116\n"
+
+==========================================================================================
+PAGE 07 — 4 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,36.8,207.9,52.0)] 'I C H E S S , L L C\nInternational Center for Health Systems Strengthening\n'
+[b001 no=1 type=0 bbox=(385.5,36.8,535.8,44.0)] 'L I S T E D E S F I G U R E S E T T A B L E A U X\n'
+[b002 no=2 type=0 bbox=(290.6,809.3,304.7,817.5)] '0 8\n'
+[b003 no=3 type=0 bbox=(73.5,63.5,535.8,523.3)] "Tableau A23: Dimensions bloquantes des fonctions rouges, par fonction (n), Kasaï‑Oriental\n117\nTableau A24: Dimensions bloquantes et fragilités, Kasaï‑Oriental\n118\nTableau A25: Conditions transversales et profil d'urgence, Kasaï‑Oriental\n118\nTableau A26: Leviers simples et paire optimale, Kasaï‑Oriental\n118\nTableau A27: Lecture par zone de santé, Kasaï‑Oriental\n119\nTableau A28: Établissements où un seul levier libère le plus de fonctions rouges, Kasaï‑Oriental\n119\nTableau A29: Classification des 28 fonctions traceuses, Lomami\n120\nTableau A30: Dimensions bloquantes des fonctions rouges, par fonction (n), Lomami\n121\nTableau A31: Dimensions bloquantes et fragilités, Lomami\n122\nTableau A32: Conditions transversales et profil d'urgence, Lomami\n122\nTableau A33: Leviers simples et paire optimale, Lomami\n123\nTableau A34: Lecture par zone de santé, Lomami\n123\nTableau A35: Établissements où un seul levier libère le plus de fonctions rouges, Lomami\n123\nTableau A36: Classification des 28 fonctions traceuses, Lualaba\n125\nTableau A37: Dimensions bloquantes des fonctions rouges, par fonction (n), Lualaba\n126\nTableau A38: Dimensions bloquantes et fragilités, Lualaba\n127\nTableau A39: Conditions transversales et profil d'urgence, Lualaba\n127\nTableau A40: Leviers simples et paire optimale, Lualaba\n128\nTableau A41: Lecture par zone de santé, Lualaba\n128\nTableau A42: Établissements où un seul levier libère le plus de fonctions rouges, Lualaba\n128\nTableau A43: Classification des 28 fonctions traceuses, Sankuru\n130\nTableau A44: Dimensions bloquantes des fonctions rouges, par fonction (n), Sankuru\n131\nTableau A45: Dimensions bloquantes et fragilités, Sankuru\n132\nTableau A46: Conditions transversales et profil d'urgence, Sankuru\n132\nTableau A47: Leviers simples et paire optimale, Sankuru\n132\nTableau A48: Lecture par zone de santé, Sankuru\n133\nTableau A49: Établissements où un seul levier libère le plus de fonctions rouges, Sankuru\n133\nTableau A50: Classification des 28 fonctions traceuses, Tanganyika\n135\nTableau A51: Dimensions bloquantes des fonctions rouges, par fonction (n), Tanganyika\n136\nTableau A52: Dimensions bloquantes et fragilités, Tanganyika\n137\nTableau A53: Conditions transversales et profil d'urgence, Tanganyika\n137\nTableau A54: Leviers simples et paire optimale, Tanganyika\n137\nTableau A55: Lecture par zone de santé, Tanganyika\n138\nTableau A56: Établissements où un seul levier libère le plus de fonctions rouges, Tanganyika\n138\nTableau A57: Éléments et composantes en cause dans les fonctions d’urgence rouges, par fonction et\npar niveau\n138\nTableau A58: Nombre de dimensions bloquantes par fonction rouge, par niveau\n146\nTableau A59: Fonctions jaunes à fragilité unique, par fonction\n147\nTableau A60: Rétablissement conjoint de tous les éléments critiques en déficit, par niveau\n148\nTableau A61: Fonctions rouges libérées par le rétablissement d’un seul élément critique, par niveau\n148\nTableau A62: Fonctions rouges libérées à chaque étape du paquet cumulatif\n149\nTableau A63: Observations lues dans plusieurs dimensions de la grille\n150\nTableau A64: Effet du rattachement unique sur les principaux indicateurs\n151\n"
+
+==========================================================================================
+PAGE 08 — 44 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,36.8,207.9,52.0)] 'I C H E S S , L L C\nInternational Center for Health Systems Strengthening\n'
+[b001 no=1 type=0 bbox=(396.5,36.8,535.8,44.0)] 'A B R É V I A T I O N S E T A C R O N Y M E S\n'
+[b002 no=2 type=0 bbox=(290.6,809.3,304.7,817.5)] '0 9\n'
+[b003 no=3 type=0 bbox=(59.5,64.1,211.0,76.3)] 'Abréviations et acronymes\n'
+[b004 no=4 type=0 bbox=(64.5,106.4,162.8,114.4)] 'Sigle\nSignification\n'
+[b005 no=5 type=0 bbox=(64.5,126.9,201.8,134.9)] 'AL\nArtéméther-Luméfantrine\n'
+[b006 no=6 type=0 bbox=(64.5,143.4,229.0,151.4)] 'AMIU\nAspiration Manuelle Intra-Utérine\n'
+[b007 no=7 type=0 bbox=(64.5,159.9,165.2,167.9)] 'ARV\nAntirétroviraux\n'
+[b008 no=8 type=0 bbox=(64.5,176.4,201.3,184.4)] 'AS-AQ\nArtésunate-Amodiaquine\n'
+[b009 no=9 type=0 bbox=(64.5,192.9,226.7,200.9)] 'ASC\nAgent de Santé Communautaire\n'
+[b010 no=10 type=0 bbox=(64.5,209.4,243.7,217.4)] "ATPE\nAliment Thérapeutique Prêt à l'Emploi\n"
+[b011 no=11 type=0 bbox=(64.5,225.9,237.4,233.9)] "CAC\nCellule d'Animation communautaire\n"
+[b012 no=12 type=0 bbox=(64.5,242.4,362.1,250.4)] 'CAPI\nComputer-Assisted Personal Interviewing (entretien assisté par tablette)\n'
+[b013 no=13 type=0 bbox=(64.5,258.9,292.6,266.9)] 'CARAMAL\nCommunity Access to Rectal Artesunate for Malaria\n'
+[b014 no=14 type=0 bbox=(64.5,275.4,286.6,283.4)] 'CHISU\nCountry Health Information Systems and Data Use\n'
+[b015 no=15 type=0 bbox=(64.5,291.9,269.0,299.9)] "CODESA\nComité de développement de l'aire de santé\n"
+[b016 no=16 type=0 bbox=(64.5,308.4,194.4,316.4)] 'CPN\nConsultation prénatale\n'
+[b017 no=17 type=0 bbox=(64.5,324.9,273.4,332.9)] 'CPNr\nConsultation prénatale recentrée / de routine\n'
+[b018 no=18 type=0 bbox=(64.5,341.4,197.8,349.4)] 'CPoN\nConsultation postnatale\n'
+[b019 no=19 type=0 bbox=(64.5,357.9,171.2,365.9)] 'CS\nCentre de santé\n'
+[b020 no=20 type=0 bbox=(64.5,374.4,217.9,382.4)] 'CSR\nCentre de santé de référence\n'
+[b021 no=21 type=0 bbox=(64.5,390.9,223.0,398.9)] 'CSU\nCouverture sanitaire universelle\n'
+[b022 no=22 type=0 bbox=(64.5,407.4,273.4,415.4)] 'DHIS2\nDistrict Health Information Software, version 2\n'
+[b023 no=23 type=0 bbox=(64.5,423.9,312.9,431.9)] 'DOS\nDepartment of State (Département d’État des États-Unis)\n'
+[b024 no=24 type=0 bbox=(64.5,440.4,221.3,448.4)] 'DPS\nDivision provinciale de la santé\n'
+[b025 no=25 type=0 bbox=(64.5,456.9,440.4,464.9)] 'DQR/DQE\nData Quality Review / Data Quality Evaluation (Revue / Évaluation de la qualité des données).\n'
+[b026 no=26 type=0 bbox=(64.5,473.4,231.8,481.4)] 'ECZ\nÉquipe cadre de la zone de santé\n'
+[b027 no=27 type=0 bbox=(64.5,489.9,241.9,497.9)] 'EDS\nEnquête démographique et de santé\n'
+[b028 no=28 type=0 bbox=(64.5,506.4,336.8,514.4)] 'EpiC\nMeeting Targets and Maintaining Epidemic Control (projet EpiC)\n'
+[b029 no=29 type=0 bbox=(64.5,522.9,311.0,530.9)] 'EPSS\nÉvaluation des prestations des services de soins de santé\n'
+[b030 no=30 type=0 bbox=(64.5,539.4,241.1,547.4)] 'ESP / ESPK\nÉcole de santé publique de Kinshasa\n'
+[b031 no=31 type=0 bbox=(64.5,555.9,225.2,563.9)] 'ESS\nÉtablissement de soins de santé\n'
+[b032 no=32 type=0 bbox=(64.5,572.4,368.1,580.4)] 'F75 / F100\nLaits thérapeutiques de la prise en charge de la malnutrition aiguë sévère\n'
+[b033 no=33 type=0 bbox=(64.5,588.8,221.6,596.9)] 'FHI 360\nFamily Health International 360\n'
+[b034 no=34 type=0 bbox=(64.5,605.4,212.6,613.4)] 'FSS\nFonds de solidarité de santé\n'
+[b035 no=35 type=0 bbox=(64.5,621.9,215.0,629.9)] 'HGR\nHôpital général de référence\n'
+[b036 no=36 type=0 bbox=(64.5,638.4,462.1,646.4)] 'HHFA\nHarmonized Health Facility Assessment (évaluation harmonisée des établissements de soins de santé)\n'
+[b037 no=37 type=0 bbox=(64.5,654.9,210.9,662.9)] 'HPP\nHémorragie du post-partum\n'
+[b038 no=38 type=0 bbox=(64.5,671.4,300.8,679.4)] 'ICHESS\nInternational Center for Health Systems Strengthening\n'
+[b039 no=39 type=0 bbox=(64.5,687.9,350.0,695.9)] "IHP\nIntegrated Health Program (programme de santé intégré de l'USAID)\n"
+[b040 no=40 type=0 bbox=(64.5,704.4,225.5,712.4)] 'INS\nInstitut national de la statistique\n'
+[b041 no=41 type=0 bbox=(64.5,720.9,262.1,728.9)] 'IT / ITA\nInfirmier titulaire / infirmier titulaire adjoint\n'
+[b042 no=42 type=0 bbox=(64.5,737.4,177.6,745.4)] 'MA\nMalnutrition aiguë\n'
+[b043 no=43 type=0 bbox=(64.5,753.9,263.0,761.9)] 'MAPI\nManifestations adverses post-immunisation\n'
+
+==========================================================================================
+PAGE 09 — 36 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,36.8,207.9,52.0)] 'I C H E S S , L L C\nInternational Center for Health Systems Strengthening\n'
+[b001 no=1 type=0 bbox=(396.5,36.8,535.8,44.0)] 'A B R É V I A T I O N S E T A C R O N Y M E S\n'
+[b002 no=2 type=0 bbox=(291.7,809.3,303.6,817.5)] '1 0\n'
+[b003 no=3 type=0 bbox=(64.5,68.4,162.8,76.4)] 'Sigle\nSignification\n'
+[b004 no=4 type=0 bbox=(64.5,88.9,329.0,96.9)] 'MSPHPS\nMinistère de la Santé publique, Hygiène et Prévoyance sociale\n'
+[b005 no=5 type=0 bbox=(64.5,105.4,291.6,113.4)] 'MUAC\nMid-Upper Arm Circumference (périmètre brachial)\n'
+[b006 no=6 type=0 bbox=(64.5,127.4,161.9,135.4)] 'Sigle\nSignification\n'
+[b007 no=7 type=0 bbox=(64.5,147.9,233.4,155.9)] 'OMS\nOrganisation mondiale de la santé\n'
+[b008 no=8 type=0 bbox=(64.5,164.4,282.3,172.4)] 'PCIMA\nPrise en charge intégrée de la malnutrition aiguë\n'
+[b009 no=9 type=0 bbox=(64.5,180.9,347.5,188.9)] "PCIMNE\nPrise en charge intégrée des maladies du nouveau-né et de l'enfant\n"
+[b010 no=10 type=0 bbox=(64.5,197.4,228.5,205.4)] 'PEV\nProgramme élargi de vaccination\n'
+[b011 no=11 type=0 bbox=(64.5,213.9,184.9,221.9)] 'PIB\nProduit intérieur brut\n'
+[b012 no=12 type=0 bbox=(64.5,230.4,404.5,238.4)] "PMI\nPresident's Malaria Initiative (Initiative présidentielle américaine contre le paludisme)\n"
+[b013 no=13 type=0 bbox=(64.5,246.9,346.2,254.9)] 'PNDS-PS\nPlan national de développement sanitaire et de prévoyance sociale\n'
+[b014 no=14 type=0 bbox=(64.5,263.4,282.2,271.4)] 'PNLP\nProgramme national de lutte contre le paludisme\n'
+[b015 no=15 type=0 bbox=(64.5,279.9,310.0,287.9)] 'PNLS\nProgramme national de lutte contre le VIH/sida et les IST\n'
+[b016 no=16 type=0 bbox=(64.5,296.4,281.7,304.4)] 'PNSR\nProgramme national de santé de la reproduction\n'
+[b017 no=17 type=0 bbox=(64.5,312.9,225.1,320.9)] 'PRONANUT\nProgramme national de nutrition\n'
+[b018 no=18 type=0 bbox=(64.5,329.4,288.3,337.4)] 'PSN SACO\nPlan stratégique national de santé communautaire\n'
+[b019 no=19 type=0 bbox=(64.5,345.9,237.4,353.9)] 'PTF\nPartenaires techniques et financiers\n'
+[b020 no=20 type=0 bbox=(64.5,362.4,288.4,370.4)] 'PTME\nPrévention de la transmission mère-enfant (du VIH)\n'
+[b021 no=21 type=0 bbox=(64.5,378.9,239.5,386.9)] 'RDC\nRépublique démocratique du Congo\n'
+[b022 no=22 type=0 bbox=(64.5,395.4,190.1,403.4)] 'RECO\nRelais communautaire\n'
+[b023 no=23 type=0 bbox=(64.5,411.9,186.8,419.9)] 'RH\nRessources humaines\n'
+[b024 no=24 type=0 bbox=(64.5,428.4,272.4,436.4)] 'SARA\nService Availability and Readiness Assessment\n'
+[b025 no=25 type=0 bbox=(64.5,444.9,333.5,452.9)] "SMNEA\nSanté de la mère, du nouveau-né, de l'enfant et de l'adolescent\n"
+[b026 no=26 type=0 bbox=(64.5,461.4,250.0,469.4)] 'SMS\nShort Message Service (message texte)\n'
+[b027 no=27 type=0 bbox=(64.5,477.9,252.1,485.9)] "SNIS\nSystème national d'information sanitaire\n"
+[b028 no=28 type=0 bbox=(64.5,494.4,258.4,502.4)] "SONU\nSoins obstétricaux et néonatals d'urgence\n"
+[b029 no=29 type=0 bbox=(64.5,510.9,213.2,518.9)] 'SPA\nService Provision Assessment\n'
+[b030 no=30 type=0 bbox=(64.5,527.4,247.7,535.4)] "UNICEF\nFonds des Nations unies pour l'enfance\n"
+[b031 no=31 type=0 bbox=(64.5,543.9,319.3,551.9)] 'USAID\nAgence des États-Unis pour le développement international\n'
+[b032 no=32 type=0 bbox=(64.5,560.4,241.8,568.4)] "VIH\nVirus de l'immunodéficience humaine\n"
+[b033 no=33 type=0 bbox=(64.5,576.9,332.2,584.9)] 'WASH\nWater, Sanitation and Hygiene (eau, hygiène et assainissement)\n'
+[b034 no=34 type=0 bbox=(64.5,593.4,312.4,601.4)] 'WASH-FIT\nWater and Sanitation for Health Facility Improvement Tool\n'
+[b035 no=35 type=0 bbox=(64.5,609.9,164.1,617.9)] 'ZS\nZone de santé\n'
+
+==========================================================================================
+PAGE 10 — 11 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,36.8,207.9,52.0)] 'I C H E S S , L L C\nInternational Center for Health Systems Strengthening\n'
+[b001 no=1 type=0 bbox=(453.4,36.8,535.8,44.0)] 'R É S U M É E X É C U T I F\n'
+[b002 no=2 type=0 bbox=(293.0,809.3,302.3,817.5)] '1 1\n'
+[b003 no=3 type=0 bbox=(59.5,64.1,152.4,76.3)] 'Résumé exécutif\n'
+[b004 no=4 type=0 bbox=(59.5,101.8,155.5,112.2)] 'Contexte et objectif\n'
+[b005 no=5 type=0 bbox=(59.5,124.7,535.8,241.8)] 'En RDC, la grossesse, l’accouchement et les premières années de vie restent exposés à des risques parmi les\nplus élevés au monde : 746 décès maternels pour 100 000 naissances vivantes et 93 décès d’enfants de moins\nde cinq ans pour 1 000 naissances vivantes, selon l’EDS-RDC III. Une part importante de ces décès survient\nlorsque l’établissement ne dispose pas, au moment critique, du personnel, des médicaments ou des\néquipements nécessaires. Pour mieux orienter ses appuis, le programme EpiC RDC, mis en œuvre par FHI 360, a\nfait réaliser un diagnostic rapide de la préparation opérationnelle de 160 établissements de soins de santé (101\ncentres de santé, 22 centres de santé de référence et 37 hôpitaux généraux de référence), répartis dans 40\nzones de santé de huit provinces : Haut-Katanga, Haut-Lomami, Lualaba, Kasaï-Central, Kasaï-Oriental,\nLomami, Sankuru et Tanganyika.\n'
+[b006 no=6 type=0 bbox=(59.5,255.2,535.8,332.1)] 'Jusqu’à 28 services essentiels de santé maternelle, néonatale et infantile, de paludisme, de nutrition et de\nvaccination, appelés fonctions traceuses, ont été vérifiés sur place. Chaque fonction, et non l’établissement, a\nété classée en vert (assurée), jaune (assurée mais fragile) ou rouge (non assurée dans des conditions\nadéquates). L’absence d’un seul élément indispensable suffit à classer une fonction en rouge, ce qui signale un\nmaillon critique manquant plutôt qu’un service inexistant. Les causes ont ensuite été analysées avec les équipes\ncadres des zones et les divisions provinciales de la santé.\n'
+[b007 no=7 type=0 bbox=(59.5,343.6,312.8,354.0)] 'Les défaillances opérationnelles les plus prioritaires\n'
+[b008 no=8 type=0 bbox=(59.5,366.6,535.8,483.7)] 'Le constat central est que l’offre de soins existe souvent sans être prête au moment où une vie en dépend. Sur\nl’ensemble des évaluations, 68,4 % des fonctions sont rouges et 1,4 % seulement sont pleinement assurées. Les\nurgences sont les plus touchées, avec 81 % de fonctions rouges, et 159 établissements sur 160 ont au moins une\nfonction vitale rouge. Six fonctions vitales sont rouges dans plus de huit établissements sur dix, dans les huit\nprovinces : les grossesses à risque (91,9 %), la prise en charge de la malnutrition aiguë compliquée (90,6 %), les\nmanifestations adverses post-immunisation (90,2 %), la réanimation néonatale (87,5 %), la pré-éclampsie (82,5\n%) et le paludisme grave (81,9 %). Les urgences obstétricales restent elles aussi très exposées : la césarienne\nd’urgence est rouge dans 76,3 % des cas, l’hémorragie du post-partum dans 70,6 % et le sepsis obstétrical dans\n69,4 %.\n'
+[b009 no=9 type=0 bbox=(59.5,497.1,535.8,614.2)] 'Le niveau de référence n’offre pas la sécurité attendue. Pour les fonctions communes aux trois niveaux de\nsoins, la part de rouge passe d’environ 70 % au centre de santé à 50 % à l’hôpital général de référence (HGR) :\nà l’hôpital, une fonction sur deux reste rouge. À l’HGR, l’accouchement normal est rouge dans 92 % des cas, la\ncésarienne d’urgence dans 81,1 % et la réanimation néonatale dans 64,9 %. La référence est elle-même\ndéfaillante dans 70,6 % des établissements. Sur place, le transport d’urgence est absent ou non fonctionnel\ndans 65,6 % d’entre eux, et 77,2 % des centres de santé interrogés citent le manque de ressources financières\ndes ménages parmi les obstacles. À l’arrivée, 89,8 % des structures d’accueil interrogées (53 sur 59) signalent\ndes arrivées tardives, et la césarienne reste rouge dans 81,7 % des destinations identifiées : référer plus vite ne\ngarantit donc pas la prise en charge.\n'
+[b010 no=10 type=0 bbox=(59.5,627.6,535.8,717.9)] 'Deux autres écarts appellent une attention particulière. En nutrition, le système dépiste des enfants qu’il ne\npeut pas traiter : là où le dépistage fonctionne, la prise en charge reste impossible sur place dans 78 à 94 %\ndes cas, faute de personnel dédié (aucun nutritionniste déclaré dans 94,1 % des centres de santé) et d’aliment\nthérapeutique prêt à l’emploi (absent dans 86,1 % d’entre eux). Par ailleurs, l’offre déclarée surestime la\ncapacité réelle : 97 des 98 centres de santé qui déclarent pratiquer la réanimation néonatale n’en réunissent\npas les conditions. La notification des maladies à potentiel épidémique reste en revanche un point fort, avec\n90 % des alertes transmises en moins de 24 heures.\n'
+
+==========================================================================================
+PAGE 11 — 5 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(127.6,337.6,458.9,397.6)] 'Rapport Annuel\n'
+[b001 no=1 type=0 bbox=(59.5,758.3,162.0,772.2)] 'J A N V I E R 2 0 3 0\n'
+[b002 no=2 type=0 bbox=(59.5,59.2,148.6,73.0)] 'C O N C O R D I A\n'
+[b003 no=3 type=0 bbox=(306.4,758.3,535.9,772.2)] 'H E L L O @ R E A L L Y G R E A T S I T E . C O M\n'
+[b004 no=4 type=0 bbox=(404.0,59.2,535.9,73.0)] 'A N D R É A S A N C H E Z\n'
+
+==========================================================================================
+PAGE 12 — 13 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(87.3,270.8,143.7,302.6)] '70\xa0%\n'
+[b001 no=1 type=0 bbox=(88.0,485.0,143.0,516.8)] '65\xa0%\n'
+[b002 no=2 type=0 bbox=(87.9,699.2,143.2,731.0)] '86\xa0%\n'
+[b003 no=3 type=0 bbox=(211.7,232.2,311.0,246.9)] 'Chiffre d’affaires\n'
+[b004 no=4 type=0 bbox=(211.7,446.4,267.3,461.1)] 'Bénéfices\n'
+[b005 no=5 type=0 bbox=(211.7,660.6,255.9,675.3)] 'Marges\n'
+[b006 no=6 type=0 bbox=(211.7,197.7,282.0,230.7)] '175 M\n'
+[b007 no=7 type=0 bbox=(211.7,411.9,283.1,444.9)] '210 M\n'
+[b008 no=8 type=0 bbox=(211.7,626.1,273.8,659.1)] '75 M\n'
+[b009 no=9 type=0 bbox=(211.7,255.3,522.2,373.8)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,\nsed do eiusmod tempor incididunt ut labore et dolore\nmagna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat.Lorem ipsum dolor sit amet, consectetur\nadipiscing elit, sed do eiusmod tempor incididunt ut\nlabore et dolore magna aliqua.\n'
+[b010 no=10 type=0 bbox=(211.7,469.5,522.2,588.0)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,\nsed do eiusmod tempor incididunt ut labore et dolore\nmagna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat.Lorem ipsum dolor sit amet, consectetur\nadipiscing elit, sed do eiusmod tempor incididunt ut\nlabore et dolore magna aliqua.\n'
+[b011 no=11 type=0 bbox=(211.7,683.7,522.2,767.7)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,\nsed do eiusmod tempor incididunt ut labore et dolore\nmagna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat.Lorem ipsum dolor sit amet, consectetur \n'
+[b012 no=12 type=0 bbox=(59.5,57.4,233.1,111.4)] 'Résultats\n'
+
+==========================================================================================
+PAGE 13 — 10 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,227.5,158.8,242.2)] 'Chiffre d’affaires\n'
+[b001 no=1 type=0 bbox=(59.5,427.7,115.1,442.5)] 'Bénéfices\n'
+[b002 no=2 type=0 bbox=(59.5,637.0,103.7,651.7)] 'Marges\n'
+[b003 no=3 type=0 bbox=(59.5,187.2,129.9,220.2)] '175 M\n'
+[b004 no=4 type=0 bbox=(59.5,387.2,130.9,420.2)] '210 M\n'
+[b005 no=5 type=0 bbox=(59.5,596.5,121.6,629.5)] '75 M\n'
+[b006 no=6 type=0 bbox=(59.5,255.2,535.9,339.1)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor\nsit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et\ndolore magna aliqua.\n'
+[b007 no=7 type=0 bbox=(59.5,455.1,535.9,539.1)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor\nsit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et\ndolore magna aliqua.\n'
+[b008 no=8 type=0 bbox=(59.5,658.4,535.9,725.1)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor\nsit amet, consectetur \n'
+[b009 no=9 type=0 bbox=(59.5,57.4,233.1,111.4)] 'Résultats\n'
+
+==========================================================================================
+PAGE 14 — 10 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,59.0,272.0,113.0)] 'Répartition\n'
+[b001 no=1 type=0 bbox=(59.5,138.9,333.3,192.9)] 'Des bénéfices\n'
+[b002 no=2 type=0 bbox=(211.7,253.7,348.6,273.2)] 'Bénéfices annuels\n'
+[b003 no=3 type=0 bbox=(211.7,276.9,522.2,395.4)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,\nsed do eiusmod tempor incididunt ut labore et dolore\nmagna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat.Lorem ipsum dolor sit amet, consectetur ex ea\ncommodo consequat.Lorem ipsum dolor sit amet,\nconsectetur ex ea commodo consequat.\n'
+[b004 no=4 type=0 bbox=(65.1,772.5,517.8,793.2)] 'Élément 1\nÉlément 2\nÉlément 3\nÉlément 4\nÉlément 5\nÉlément 6\n0\n'
+[b005 no=5 type=0 bbox=(65.7,709.0,70.6,719.8)] '5\n'
+[b006 no=6 type=0 bbox=(62.4,645.6,70.7,656.4)] '10\n'
+[b007 no=7 type=0 bbox=(63.0,582.1,70.6,592.9)] '15\n'
+[b008 no=8 type=0 bbox=(60.5,518.7,70.7,529.5)] '20\n'
+[b009 no=9 type=0 bbox=(59.5,444.6,342.2,496.1)] "Évolution par rapport à l'année\nprécédente\n"
+
+==========================================================================================
+PAGE 15 — 9 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(81.5,280.4,203.9,300.7)] 'Développement\n'
+[b001 no=1 type=0 bbox=(387.8,563.6,511.6,583.9)] 'Communication\n'
+[b002 no=2 type=0 bbox=(59.5,138.7,465.1,206.3)] 'Actions réalisées\n'
+[b003 no=3 type=0 bbox=(81.5,306.7,281.4,477.6)] 'Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad\nminim veniam,sed do eiusmod tempor\nincididunt ut labore et dolore magna\naliqua. Ut enim ad minim\nveniam,Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore \n'
+[b004 no=4 type=0 bbox=(319.3,589.7,511.6,639.1)] 'Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore\n'
+[b005 no=5 type=0 bbox=(311.9,641.5,511.6,673.6)] 'et dolore magna aliqua. Ut enim ad\nminim veniam,sed do eiusmod tempor\n'
+[b006 no=6 type=0 bbox=(316.3,676.0,511.6,690.9)] 'incididunt ut labore et dolore magna\n'
+[b007 no=7 type=0 bbox=(325.7,693.3,511.6,725.4)] 'aliqua. Ut enim ad minim\nveniam,Lorem ipsum dolor sit amet,\n'
+[b008 no=8 type=0 bbox=(315.9,727.8,511.6,759.9)] 'consectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore \n'
+
+==========================================================================================
+PAGE 16 — 5 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,138.7,508.9,206.3)] 'Des projets phares\n'
+[b001 no=1 type=0 bbox=(318.6,280.4,383.9,300.7)] 'Projet 01\n'
+[b002 no=2 type=0 bbox=(80.9,566.4,149.8,586.7)] 'Projet 02\n'
+[b003 no=3 type=0 bbox=(318.6,306.7,518.5,477.6)] 'Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad\nminim veniam,sed do eiusmod tempor\nincididunt ut labore et dolore magna\naliqua. Ut enim ad minim\nveniam,Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore \n'
+[b004 no=4 type=0 bbox=(80.9,592.7,280.7,763.6)] 'Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad\nminim veniam,sed do eiusmod tempor\nincididunt ut labore et dolore magna\naliqua. Ut enim ad minim\nveniam,Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore \n'
+
+==========================================================================================
+PAGE 17 — 16 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,138.9,374.2,192.9)] 'Résultats btenus\n'
+[b001 no=1 type=0 bbox=(82.1,242.5,147.4,262.8)] 'Projet 01\n'
+[b002 no=2 type=0 bbox=(82.1,414.6,151.0,434.9)] 'Projet 02\n'
+[b003 no=3 type=0 bbox=(82.1,292.0,502.7,376.3)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,sed do\neiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim\nveniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod\ntempor incididunt ut labore \n'
+[b004 no=4 type=0 bbox=(82.1,464.1,516.1,531.0)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,sed do\neiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim\nveniam,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te\n'
+[b005 no=5 type=0 bbox=(161.7,268.3,192.8,286.3)] '67\xa0%\n'
+[b006 no=6 type=0 bbox=(161.7,440.4,192.4,458.4)] '55\xa0%\n'
+[b007 no=7 type=0 bbox=(61.7,571.8,275.3,592.8)] 'Évolution par rapport à N-1\n'
+[b008 no=8 type=0 bbox=(70.1,750.0,511.7,776.2)] 'Élément 1\nÉlément 2\nÉlément 3\nÉlément 4\nÉlément 5\n0\n'
+[b009 no=9 type=0 bbox=(64.3,729.1,77.1,742.7)] '20\n'
+[b010 no=10 type=0 bbox=(63.3,708.2,77.1,721.7)] '40\n'
+[b011 no=11 type=0 bbox=(63.7,687.2,77.1,700.8)] '60\n'
+[b012 no=12 type=0 bbox=(63.8,666.3,77.1,679.8)] '80\n'
+[b013 no=13 type=0 bbox=(59.8,645.3,77.1,658.9)] '100\n'
+[b014 no=14 type=0 bbox=(60.9,624.4,77.1,637.9)] '120\n'
+[b015 no=15 type=0 bbox=(59.9,603.4,77.1,617.0)] '140\n'
+
+==========================================================================================
+PAGE 18 — 12 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,138.9,428.8,192.9)] 'Priorités de l’année\n'
+[b001 no=1 type=0 bbox=(69.1,241.6,209.7,261.1)] 'Engagement client\n'
+[b002 no=2 type=0 bbox=(69.1,398.3,147.6,417.9)] 'Innovation\n'
+[b003 no=3 type=0 bbox=(69.1,264.8,512.7,348.8)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum\ndolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,\nconsectetur ex ea commodo consequat.\n'
+[b004 no=4 type=0 bbox=(69.1,421.5,512.7,505.5)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum\ndolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,\nconsectetur ex ea commodo consequat.\n'
+[b005 no=5 type=0 bbox=(227.6,549.4,375.0,560.4)] 'Série 1\nSérie 2\nSérie 3\n'
+[b006 no=6 type=0 bbox=(105.8,774.0,535.9,785.1)] '0\n20\n40\n60\n80\n100\n120\n140\n'
+[b007 no=7 type=0 bbox=(63.1,585.8,102.0,596.8)] 'Élément 1\n'
+[b008 no=8 type=0 bbox=(61.0,626.4,101.9,637.5)] 'Élément 2\n'
+[b009 no=9 type=0 bbox=(60.6,667.1,101.7,678.1)] 'Élément 3\n'
+[b010 no=10 type=0 bbox=(59.9,707.7,101.6,718.8)] 'Élément 4\n'
+[b011 no=11 type=0 bbox=(60.6,748.4,101.8,759.4)] 'Élément 5\n'
+
+==========================================================================================
+PAGE 19 — 5 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,138.7,368.8,206.3)] 'Stratégiques\n'
+[b001 no=1 type=0 bbox=(318.6,280.4,462.4,300.7)] 'Expansion globale\n'
+[b002 no=2 type=0 bbox=(80.9,566.4,258.0,586.7)] 'Responsabilité sociale\n'
+[b003 no=3 type=0 bbox=(318.6,306.7,518.5,477.6)] 'Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad\nminim veniam,sed do eiusmod tempor\nincididunt ut labore et dolore magna\naliqua. Ut enim ad minim\nveniam,Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore \n'
+[b004 no=4 type=0 bbox=(80.9,592.7,280.7,763.6)] 'Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore\net dolore magna aliqua. Ut enim ad\nminim veniam,sed do eiusmod tempor\nincididunt ut labore et dolore magna\naliqua. Ut enim ad minim\nveniam,Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit, sed do\neiusmod tempor incididunt ut labore \n'
+
+==========================================================================================
+PAGE 20 — 10 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,59.0,152.6,113.0)] 'Bilan\n'
+[b001 no=1 type=0 bbox=(59.5,138.9,217.2,192.9)] 'Général\n'
+[b002 no=2 type=0 bbox=(69.1,285.9,512.7,369.9)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum\ndolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,\nconsectetur ex ea commodo consequat.\n'
+[b003 no=3 type=0 bbox=(388.3,472.8,450.7,490.5)] 'Élément 1\n'
+[b004 no=4 type=0 bbox=(406.7,488.7,432.8,506.4)] '25%\n'
+[b005 no=5 type=0 bbox=(395.9,730.2,461.5,748.0)] 'Élément 2\n'
+[b006 no=6 type=0 bbox=(129.1,730.2,442.1,763.8)] '25%\nÉlément 3\n'
+[b007 no=7 type=0 bbox=(149.2,746.1,175.4,763.8)] '25%\n'
+[b008 no=8 type=0 bbox=(137.2,472.1,204.0,489.8)] 'Élément 4\n'
+[b009 no=9 type=0 bbox=(157.8,488.0,183.9,505.7)] '25%\n'
+
+==========================================================================================
+PAGE 21 — 7 BLOCS (ordre natif)
+==========================================================================================
+[b000 no=0 type=0 bbox=(59.5,138.9,354.5,192.9)] 'Remerciements\n'
+[b001 no=1 type=0 bbox=(69.1,262.7,193.5,282.2)] 'Andréa Sanchez\n'
+[b002 no=2 type=0 bbox=(69.1,429.9,185.9,449.5)] 'Antoine Auclair\n'
+[b003 no=3 type=0 bbox=(69.1,597.2,210.6,616.7)] 'Agence Concordia\n'
+[b004 no=4 type=0 bbox=(69.1,285.9,512.7,369.9)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum\ndolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,\nconsectetur ex ea commodo consequat.\n'
+[b005 no=5 type=0 bbox=(69.1,453.1,512.7,537.1)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum\ndolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,\nconsectetur ex ea commodo consequat.\n'
+[b006 no=6 type=0 bbox=(69.1,620.4,512.7,704.3)] 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\nexercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum\ndolor sit amet, consectetur ex ea commodo consequat.Lorem ipsum dolor sit amet,\nconsectetur ex ea commodo consequat.\n'

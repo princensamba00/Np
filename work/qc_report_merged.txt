@@ -1,0 +1,61 @@
+RAPPORT DE CONTRÔLE QUALITÉ — LIVRAISON FUSIONNÉE
+=================================================
+
+Portée : 25 pages source de la première partie + 30 pages source
+(pages imprimées 26–55). Première page de la suite numérotée 25.
+Les pages 56–151 annoncées par la TOC source ne sont pas fournies :
+aucune page, aucun résultat ni aucune annexe n’a été inventé.
+
+Fichier PDF                       : Rapport_Diagnostic_Operationnel_Rapide_ESS_EpiC_RDC_FHI360_ICHESS_Md_ref_fusion.pdf
+Fichier DOCX                      : Rapport_Diagnostic_Operationnel_Rapide_ESS_EpiC_RDC_FHI360_ICHESS_Md_ref_fusion.docx
+Pages PDF / pages rendues         : 50 / 50
+Pages première partie / suite     : 24 / 26
+Premier numéro affiché de la suite: 25
+Numérotation pied de page conforme: OUI
+Blocs 1re partie / suite          : 131 / 152
+Lignes source suite               : 1923
+Cellules tableaux suite           : 1137
+Figures suite / images PDF         : 15 / 17 (dont 2 logos de couverture)
+Fichiers figures présents         : OUI
+Chaînes attendues testées         : 4063
+Chaînes absentes du PDF           : 0
+Mots interdits du modèle          : 0 []
+Chaînes absentes du DOCX          : 0
+Mots interdits dans le DOCX       : 0 []
+Pages avec débordement            : 0
+Pages presque vides               : 0
+Titres orphelins                  : 0 []
+Cellules de tableau tronquées     : 0 []
+Figures déformées                 : 0 []
+En-têtes de tableaux dupliqués    : 0 []
+Polices incorporées PDF           : 4 ['/AAAAAA+DejaVuSans', '/AAAAAA+DejaVuSans-Bold', '/AAAAAA+GlacialIndifference-Bold', '/AAAAAA+GlacialIndifference-Regular']
+Polices non incorporées           : 0 []
+Structure DOCX                    :
+   paragraphs                  : 630
+   tables                      : 32
+   sections                    : 2
+   images                      : 17
+   toc_field                   : True
+   update_fields               : True
+   hyphen_off                  : True
+   heading_styles              : True
+   section_restart_25          : True
+   different_first_page        : True
+
+Contrôles complémentaires :
+  - Chaque ligne native du segment 26–55 est rattachée à un bloc (0 ligne non couverte).
+  - Toutes les cellules, légendes, notes, encadrés et KPI sont testés un par un.
+  - Les 15 figures bitmap sont incorporées sans modification de pixels ni déformation.
+  - Les fonds de cellules source (vert / jaune / rouge) sont conservés : la sémantique des couleurs n’est pas altérée.
+  - Paragraphes courants justifiés ; césure automatique désactivée ; noms composés reconstitués.
+  - TOC Word automatique couvrant tous les titres fournis, avec numéros de page finaux.
+  - Aucun texte du modèle de design pp.11–21 n’est repris.
+  - Contrôle texte exhaustif répété sur le DOCX (paragraphes, cellules, en-têtes).
+  - Absence de doublon de légende : chaque figure/tableau n’est légendé qu’une fois, les listes source restant conservées.
+  - Paragraphes coupés par un saut de page source reconstitués à l’identique
+    (aucun mot ajouté ni retiré) ; l’inventaire work/content*.json reste brut.
+  - En-têtes de tableaux dimensionnés sur le nombre réel de lignes de texte ;
+    légendes et notes mesurées sur 1 ou 2 lignes pour éviter tout chevauchement.
+  - Cellules de tableau : contrôle automatique du texte tronqué (0 cas).
+
+VALIDATION GLOBALE : CONFORME — 100 % DU CONTENU SOURCE FOURNI RETROUVÉ
