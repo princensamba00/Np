@@ -1,6 +1,9 @@
-# Environnement Python local (non versionné : 399 Mo, reproductible via requirements)
+# Environnement Python local (reproductible via pip)
 .venv/
 
-# Fichiers temporaires et caches Python uniquement
-work/__pycache__/
-*.tmp
+# Caches Python
+__pycache__/
+*.pyc
+
+# Renders de contrôle (regénérables)
+work/renders/*.png
